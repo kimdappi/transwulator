@@ -3,77 +3,185 @@
   <head>
     <meta charset="UTF-8" />
     <title>TranSWUlator</title>
-    <link rel="stylesheet" href="style.css" />
 
     <script type="importmap">
       {
         "imports": {
           "three": "https://cdn.jsdelivr.net/npm/three@0.177.0/build/three.module.js",
           "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.177.0/examples/jsm/",
-          "@pixiv/three-vrm": "https://cdn.jsdelivr.net/npm/@pixiv/three-vrm@3/lib/three-vrm.module.min.js",
-          "@pixiv/three-vrm-animation": "https://cdn.jsdelivr.net/npm/@pixiv/three-vrm-animation@3/lib/three-vrm-animation.module.min.js"
+          "@pixiv/three-vrm": "https://cdn.jsdelivr.net/npm/@pixiv/three-vrm@3/lib/three-vrm.module.min.js"
         }
       }
     </script>
 
     <style>
-      /* 인트로 스타일 */
-      #intro {
-        position: absolute;
-        top: 0;
-        left: 0;
+      html, body {
+        margin: 0;
+        padding: 0;
         width: 100%;
         height: 100%;
         background: #000;
-        color: #fff;
+        overflow: hidden;
+        color: white;
+        font-family: sans-serif;
+      }
+
+      #container {
+        display: flex;
+        width: 100%;
+        height: 100%;
+      }
+
+      #left {
+        width: 50%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: #111;
+      }
+
+      #right {
+        width: 50%;
+        height: 100%;
+        position: relative;
+      }
+
+      #viewer {
+        width: 100%;
+        height: 100%;
+      }
+
+      #url-form {
         display: flex;
         flex-direction: column;
         align-items: center;
-        justify-content: center;
-        transition: opacity 0.8s ease;
+        gap: 10px;
       }
 
-      h1 {
-        font-size: 3em;
-        margin-bottom: 30px;
+      #youtube-url {
+        width: 80%;
+        padding: 10px;
+        border: none;
+        border-radius: 6px;
+        font-size: 1em;
       }
 
-      #start-btn {
+      #load-btn {
         background-color: #00bfff;
         border: none;
+        padding: 10px 20px;
+        border-radius: 8px;
         color: white;
-        padding: 15px 40px;
-        font-size: 1.2em;
-        border-radius: 10px;
+        font-weight: bold;
         cursor: pointer;
-        transition: background 0.3s;
       }
 
-      #start-btn:hover {
-        background: #0099cc;
+      iframe {
+        width: 100%;
+        height: 100%;
+        border: none;
       }
     </style>
   </head>
 
   <body>
-    <!-- 인트로 -->
-    <div id="intro">
-      <h1>TranSWUlator</h1>
-      <button id="start-btn">시작하기</button>
+    <div id="container">
+      <!-- 왼쪽: YouTube 입력 및 영상 -->
+      <div id="left">
+        <div id="url-form">
+          <input id="youtube-url" type="text" placeholder="YouTube URL을 입력하세요" />
+          <button id="load-btn">불러오기</button>
+        </div>
+        <div id="player" style="width:100%; height:100%; display:none;"></div>
+      </div>
+
+      <!-- 오른쪽: VRM 수어 아바타 -->
+      <div id="right">
+        <div id="viewer"></div>
+      </div>
     </div>
 
-    <!-- VRM 렌더링 영역 -->
-    <div id="viewer" style="display:none;"></div>
+    <script type="module">
+      import * as THREE from 'three';
+      import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+      import { VRMLoaderPlugin } from '@pixiv/three-vrm';
 
-    <script>
-      document.getElementById('start-btn').addEventListener('click', () => {
-        const intro = document.getElementById('intro');
-        intro.style.opacity = '0';
-        setTimeout(() => {
-          intro.style.display = 'none';
-          document.getElementById('viewer').style.display = 'block';
-          import('./main_v.1.js');
-        }, 800);
+      // ==========================
+      // === YouTube 로드 기능 ===
+      // ==========================
+      const loadBtn = document.getElementById('load-btn');
+      const urlInput = document.getElementById('youtube-url');
+      const player = document.getElementById('player');
+      const form = document.getElementById('url-form');
+
+      loadBtn.addEventListener('click', () => {
+        const url = urlInput.value.trim();
+        if (!url) return alert("YouTube 주소를 입력하세요!");
+
+        const videoIdMatch = url.match(/(?:v=|youtu\.be\/)([A-Za-z0-9_-]{11})/);
+        if (!videoIdMatch) return alert("유효한 YouTube URL이 아닙니다.");
+
+        const videoId = videoIdMatch[1];
+        player.innerHTML = `<iframe src="https://www.youtube.com/embed/${videoId}" allowfullscreen></iframe>`;
+        player.style.display = 'block';
+        form.style.display = 'none';
+      });
+
+      // ==========================
+      // === VRM 수어 아바타 ===
+      // ==========================
+      const scene = new THREE.Scene();
+      const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+      renderer.setSize(window.innerWidth / 2, window.innerHeight); // 오른쪽 절반만
+      renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+      document.getElementById('viewer').appendChild(renderer.domElement);
+
+      const camera = new THREE.PerspectiveCamera(30, (window.innerWidth/2) / window.innerHeight, 0.1, 100);
+      camera.position.set(0, 1.4, 2.5);
+
+      const light = new THREE.DirectionalLight(0xffffff, 1);
+      light.position.set(1, 1, 2);
+      scene.add(light);
+      scene.add(new THREE.AmbientLight(0xffffff, 0.4));
+
+      let vrm;
+      let allPoseData = [];
+
+      const loader = new GLTFLoader();
+      loader.register(parser => new VRMLoaderPlugin(parser));
+
+      loader.load(
+        'transwulator.vrm',
+        gltf => {
+          vrm = gltf.userData.vrm;
+          scene.add(vrm.scene);
+          vrm.scene.position.y = 0.4;
+
+          const bbox = new THREE.Box3().setFromObject(vrm.scene);
+          const size = bbox.getSize(new THREE.Vector3()).length();
+          const center = bbox.getCenter(new THREE.Vector3());
+
+          camera.position.set(center.x, center.y + size * 0.1, center.z + size * 1.2);
+          camera.lookAt(center);
+        },
+        xhr => console.log(`${(xhr.loaded / xhr.total * 100).toFixed(1)}% loaded`),
+        err => console.error('VRM 로드 오류:', err)
+      );
+
+      // === 렌더링 루프 ===
+      function animate() {
+        requestAnimationFrame(animate);
+        renderer.render(scene, camera);
+      }
+      animate();
+
+      // === 리사이즈 대응 ===
+      window.addEventListener('resize', () => {
+        camera.aspect = (window.innerWidth/2) / window.innerHeight;
+        camera.updateProjectionMatrix();
+        renderer.setSize(window.innerWidth/2, window.innerHeight);
       });
     </script>
   </body>
