@@ -1,0 +1,167 @@
+{
+  "id" : "VXPAKOKS240782230",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "진짜 망고 배 터지게 한번 먹어 보고 싶다.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 3.385,
+      "end" : 3.703,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.844,
+      "end" : 5.178,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.486,
+      "end" : 6.279,
+      "gloss_id" : "배부르다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.867,
+      "end" : 7.272,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.591,
+      "end" : 8.138,
+      "gloss_id" : "원하다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.895,
+      "end" : 4.292,
+      "gloss_id" : "사형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.401,
+      "end" : 4.582,
+      "gloss_id" : "사형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.385,
+      "end" : 4.574,
+      "loc" : "1",
+      "word" : "망고"
+    }, {
+      "start" : 5.486,
+      "end" : 6.279,
+      "loc" : "0,2,3",
+      "word" : "진짜 배 터지게"
+    }, {
+      "start" : 6.867,
+      "end" : 7.272,
+      "loc" : "4",
+      "word" : "한번"
+    }, {
+      "start" : 7.591,
+      "end" : 8.138,
+      "loc" : "7",
+      "word" : "싶다."
+    }, {
+      "start" : 4.844,
+      "end" : 5.178,
+      "loc" : "5,6",
+      "word" : "먹어 보고"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 5.486,
+      "end" : 6.279,
+      "gloss_id" : "배부르다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.385,
+      "end" : 5.175,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.844,
+      "end" : 5.178
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.193,
+      "end" : 7.272
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.844,
+      "end" : 7.26
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 5.486,
+      "end" : 7.197
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240782230",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:12:04",
+    "sentence_ID" : "VXPAKOKS240782230",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

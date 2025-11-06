@@ -1,0 +1,209 @@
+{
+  "id" : "VXPAKOKS240781550",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "동물원에서 볼 법한 그런 반려동물을 기르는 사람들을 제가 봤어요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.784,
+      "end" : 2.119,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.371,
+      "end" : 2.595,
+      "gloss_id" : "보다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.832,
+      "end" : 3.74,
+      "gloss_id" : "같다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.982,
+      "end" : 4.205,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.443,
+      "end" : 4.95,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.208,
+      "end" : 5.523,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.685,
+      "end" : 5.81,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.088,
+      "end" : 6.713,
+      "gloss_id" : "보았다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.784,
+      "end" : 2.119,
+      "loc" : "0",
+      "word" : "동물원에서"
+    }, {
+      "start" : 2.371,
+      "end" : 3.734,
+      "loc" : "1,2",
+      "word" : "볼 법한"
+    }, {
+      "start" : 3.982,
+      "end" : 4.205,
+      "loc" : "3,4",
+      "word" : "그런 반려동물을"
+    }, {
+      "start" : 4.443,
+      "end" : 4.95,
+      "loc" : "5",
+      "word" : "기르는"
+    }, {
+      "start" : 5.208,
+      "end" : 5.819,
+      "loc" : "6",
+      "word" : "사람들을"
+    }, {
+      "start" : 6.088,
+      "end" : 6.713,
+      "loc" : "7,8",
+      "word" : "제가 봤어요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.784,
+      "end" : 2.119,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.832,
+      "end" : 3.74,
+      "gloss_id" : "같다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.982,
+      "end" : 4.205,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.443,
+      "end" : 4.95,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.208,
+      "end" : 5.523,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.088,
+      "end" : 6.713,
+      "gloss_id" : "보았다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.208,
+      "end" : 5.523
+    }, {
+      "descriptor" : "",
+      "start" : 6.326,
+      "end" : 6.707
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.326,
+      "end" : 6.707
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.371,
+      "end" : 5.511
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781550",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:08:56",
+    "sentence_ID" : "VXPAKOKS240781550",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

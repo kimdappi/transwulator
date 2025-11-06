@@ -1,0 +1,369 @@
+{
+  "id" : "VXPAKOKS240780730",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "친구가 장난으로 한 욕을 처음 듣고 멀어질 정도였는데 그때는 그게 그렇게 좀 싫었고 솔직한 게 싫었어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.969,
+      "end" : 2.182,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.639,
+      "end" : 2.966,
+      "gloss_id" : "장난1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.248,
+      "end" : 3.677,
+      "gloss_id" : "욕하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "2",
+        "target" : "1"
+      }
+    }, {
+      "start" : 3.954,
+      "end" : 4.139,
+      "gloss_id" : "처음1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.413,
+      "end" : 4.716,
+      "gloss_id" : "듣다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.973,
+      "end" : 5.37,
+      "gloss_id" : "아니다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.888,
+      "end" : 6.782,
+      "gloss_id" : "영원1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.027,
+      "end" : 7.463,
+      "gloss_id" : "거리두다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.602,
+      "end" : 7.724,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.886,
+      "end" : 8.291,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.535,
+      "end" : 8.783,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.069,
+      "end" : 9.53,
+      "gloss_id" : "싫다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.704,
+      "end" : 9.961,
+      "gloss_id" : "솔직하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.27,
+      "end" : 10.478,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.761,
+      "end" : 10.93,
+      "gloss_id" : "반말하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "2",
+        "target" : "1"
+      }
+    }, {
+      "start" : 11.077,
+      "end" : 11.187,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.384,
+      "end" : 11.616,
+      "gloss_id" : "싫다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.079,
+      "end" : 10.189,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.639,
+      "end" : 2.966,
+      "loc" : "1,2",
+      "word" : "장난으로 한"
+    }, {
+      "start" : 3.248,
+      "end" : 3.677,
+      "loc" : "3",
+      "word" : "욕을"
+    }, {
+      "start" : 3.954,
+      "end" : 4.139,
+      "loc" : "4",
+      "word" : "처음"
+    }, {
+      "start" : 4.413,
+      "end" : 4.716,
+      "loc" : "5",
+      "word" : "듣고"
+    }, {
+      "start" : 4.973,
+      "end" : 7.457,
+      "loc" : "6,7",
+      "word" : "멀어질 정도였는데"
+    }, {
+      "start" : 7.602,
+      "end" : 8.294,
+      "loc" : "8",
+      "word" : "그때는"
+    }, {
+      "start" : 8.535,
+      "end" : 8.783,
+      "loc" : "9,10",
+      "word" : "그게 그렇게"
+    }, {
+      "start" : 9.069,
+      "end" : 9.53,
+      "loc" : "11,12",
+      "word" : "좀 싫었고"
+    }, {
+      "start" : 9.704,
+      "end" : 10.923,
+      "loc" : "13,14",
+      "word" : "솔직한 게"
+    }, {
+      "start" : 11.384,
+      "end" : 11.616,
+      "loc" : "15",
+      "word" : "싫었어."
+    }, {
+      "start" : 1.969,
+      "end" : 2.182,
+      "loc" : "0",
+      "word" : "친구가"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.639,
+      "end" : 2.966,
+      "gloss_id" : "장난1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.248,
+      "end" : 3.677,
+      "gloss_id" : "욕하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.886,
+      "end" : 8.291,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 11.384,
+      "end" : 11.616,
+      "gloss_id" : "싫다4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.761,
+      "end" : 10.93,
+      "gloss_id" : "반말하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.969,
+      "end" : 2.182,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.888,
+      "end" : 6.782,
+      "gloss_id" : "영원1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.027,
+      "end" : 7.463,
+      "gloss_id" : "거리두다3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.704,
+      "end" : 10.479,
+      "gloss_id" : "솔직하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.413,
+      "end" : 4.716
+    }, {
+      "descriptor" : "",
+      "start" : 7.886,
+      "end" : 8.291
+    }, {
+      "descriptor" : "",
+      "start" : 9.704,
+      "end" : 9.961
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 10.853,
+      "end" : 10.963
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.888,
+      "end" : 7.444
+    }, {
+      "descriptor" : "",
+      "start" : 9.069,
+      "end" : 10.486
+    }, {
+      "descriptor" : "",
+      "start" : 11.077,
+      "end" : 11.606
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.969,
+      "end" : 2.943
+    }, {
+      "descriptor" : "",
+      "start" : 3.954,
+      "end" : 4.723
+    }, {
+      "descriptor" : "",
+      "start" : 7.602,
+      "end" : 8.286
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780730",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:05:27",
+    "sentence_ID" : "VXPAKOKS240780730",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

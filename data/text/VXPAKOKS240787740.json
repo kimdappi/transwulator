@@ -1,0 +1,138 @@
+{
+  "id" : "VXPAKOKS240787740",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "언니는 대학원 갈 생각 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.643,
+      "end" : 2.037,
+      "gloss_id" : "언니2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.346,
+      "end" : 2.942,
+      "gloss_id" : "대학원1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.003,
+      "end" : 3.093,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.311,
+      "end" : 3.634,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.771,
+      "end" : 4.327,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.643,
+      "end" : 2.037,
+      "loc" : "0",
+      "word" : "언니는"
+    }, {
+      "start" : 2.346,
+      "end" : 2.942,
+      "loc" : "1",
+      "word" : "대학원"
+    }, {
+      "start" : 3.003,
+      "end" : 3.093,
+      "loc" : "2",
+      "word" : "갈"
+    }, {
+      "start" : 3.311,
+      "end" : 3.634,
+      "loc" : "3",
+      "word" : "생각"
+    }, {
+      "start" : 3.771,
+      "end" : 4.327,
+      "loc" : "4",
+      "word" : "있어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.346,
+      "end" : 2.942,
+      "gloss_id" : "대학원1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.771,
+      "end" : 4.327
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.643,
+      "end" : 2.037
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.771,
+      "end" : 4.327
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787740",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:37:27",
+    "sentence_ID" : "VXPAKOKS240787740",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

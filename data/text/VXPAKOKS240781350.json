@@ -1,0 +1,209 @@
+{
+  "id" : "VXPAKOKS240781350",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "대학원 시절의 연애는 결혼까지 이어지죠?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.771,
+      "end" : 3.038,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.926,
+      "end" : 2.174,
+      "gloss_id" : "대학3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.298,
+      "end" : 3.473,
+      "gloss_id" : "연애1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.644,
+      "end" : 4.15,
+      "gloss_id" : "데이트1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.322,
+      "end" : 4.803,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.018,
+      "end" : 5.413,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.575,
+      "end" : 5.804,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.384,
+      "end" : 2.574,
+      "gloss_id" : "대학원2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.926,
+      "end" : 2.573,
+      "loc" : "0",
+      "word" : "대학원"
+    }, {
+      "start" : 2.771,
+      "end" : 3.038,
+      "loc" : "1",
+      "word" : "시절의"
+    }, {
+      "start" : 3.298,
+      "end" : 4.799,
+      "loc" : "2",
+      "word" : "연애는"
+    }, {
+      "start" : 5.018,
+      "end" : 5.413,
+      "loc" : "3",
+      "word" : "결혼까지"
+    }, {
+      "start" : 5.575,
+      "end" : 5.804,
+      "loc" : "4",
+      "word" : "이어지죠?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.298,
+      "end" : 3.473,
+      "gloss_id" : "연애1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.322,
+      "end" : 4.803,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.018,
+      "end" : 5.413,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.771,
+      "end" : 3.038,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.926,
+      "end" : 2.174,
+      "gloss_id" : "대학3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.771,
+      "end" : 3.038
+    }, {
+      "descriptor" : "",
+      "start" : 3.298,
+      "end" : 4.148
+    }, {
+      "descriptor" : "",
+      "start" : 4.322,
+      "end" : 4.803
+    }, {
+      "descriptor" : "",
+      "start" : 5.018,
+      "end" : 5.413
+    }, {
+      "descriptor" : "",
+      "start" : 5.575,
+      "end" : 5.804
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.575,
+      "end" : 5.804
+    }, {
+      "descriptor" : "",
+      "start" : 2.384,
+      "end" : 3.034
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781350",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:08:00",
+    "sentence_ID" : "VXPAKOKS240781350",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

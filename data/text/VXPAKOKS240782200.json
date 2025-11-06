@@ -1,0 +1,148 @@
+{
+  "id" : "VXPAKOKS240782200",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "난 프라이드치킨을 가장 좋아하는 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.606,
+      "end" : 2.833,
+      "gloss_id" : "닭1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.131,
+      "end" : 3.214,
+      "gloss_id" : "기름1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.473,
+      "end" : 4.029,
+      "gloss_id" : "끓다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.237,
+      "end" : 4.724,
+      "gloss_id" : "끓다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.91,
+      "end" : 5.167,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.396,
+      "end" : 5.685,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.606,
+      "end" : 4.718,
+      "loc" : "1",
+      "word" : "프라이드치킨을"
+    }, {
+      "start" : 4.91,
+      "end" : 5.167,
+      "loc" : "0,2",
+      "word" : "난 가장"
+    }, {
+      "start" : 5.396,
+      "end" : 5.685,
+      "loc" : "3,4,5",
+      "word" : "좋아하는 거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.473,
+      "end" : 4.029,
+      "gloss_id" : "끓다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.237,
+      "end" : 4.724,
+      "gloss_id" : "끓다3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.396,
+      "end" : 5.685
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.997,
+      "end" : 5.167
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.91,
+      "end" : 5.683
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 3.815,
+      "end" : 4.713
+    } ],
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240782200",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:11:54",
+    "sentence_ID" : "VXPAKOKS240782200",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

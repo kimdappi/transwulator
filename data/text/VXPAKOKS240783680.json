@@ -1,0 +1,155 @@
+{
+  "id" : "VXPAKOKS240783680",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "다들 건강을 잘 챙겼으면 좋겠어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.407,
+      "end" : 1.563,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.697,
+      "end" : 1.878,
+      "gloss_id" : "몸1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.028,
+      "end" : 2.197,
+      "gloss_id" : "건강1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.421,
+      "end" : 3.008,
+      "gloss_id" : "신경1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.265,
+      "end" : 3.538,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.407,
+      "end" : 1.563,
+      "loc" : "0",
+      "word" : "다들"
+    }, {
+      "start" : 1.697,
+      "end" : 2.192,
+      "loc" : "1",
+      "word" : "건강을"
+    }, {
+      "start" : 2.421,
+      "end" : 3.008,
+      "loc" : "2,3",
+      "word" : "잘 챙겼으면"
+    }, {
+      "start" : 3.265,
+      "end" : 3.538,
+      "loc" : "4",
+      "word" : "좋겠어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.697,
+      "end" : 1.878,
+      "gloss_id" : "몸1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.028,
+      "end" : 2.197,
+      "gloss_id" : "건강1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.421,
+      "end" : 3.008,
+      "gloss_id" : "신경1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.421,
+      "end" : 3.008
+    }, {
+      "descriptor" : "",
+      "start" : 3.265,
+      "end" : 3.538
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.697,
+      "end" : 3.543
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.421,
+      "end" : 3.008
+    }, {
+      "descriptor" : "",
+      "start" : 3.265,
+      "end" : 3.538
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240783680",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:18:41",
+    "sentence_ID" : "VXPAKOKS240783680",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

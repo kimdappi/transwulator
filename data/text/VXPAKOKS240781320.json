@@ -1,0 +1,282 @@
+{
+  "id" : "VXPAKOKS240781320",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "전학생이 되면은 수많은 아이들 앞에서 서서 자기 소개를 해야 되는데 그게 정말 쉽지 않더라고요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.606,
+      "end" : 2.785,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.959,
+      "end" : 3.289,
+      "gloss_id" : "하다가1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.468,
+      "end" : 4.63,
+      "gloss_id" : "옮기다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.352,
+      "end" : 5.752,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.965,
+      "end" : 6.696,
+      "gloss_id" : "줄서다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.914,
+      "end" : 7.143,
+      "gloss_id" : "혼자1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.287,
+      "end" : 7.536,
+      "gloss_id" : "서다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.739,
+      "end" : 7.898,
+      "gloss_id" : "혼자1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.064,
+      "end" : 8.504,
+      "gloss_id" : "소개1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.729,
+      "end" : 9.229,
+      "gloss_id" : "이야기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.347,
+      "end" : 9.566,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.854,
+      "end" : 10.444,
+      "gloss_id" : "쉽다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.584,
+      "end" : 10.853,
+      "gloss_id" : "아니다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.606,
+      "end" : 4.64,
+      "loc" : "0,1",
+      "word" : "전학생이 되면은"
+    }, {
+      "start" : 5.352,
+      "end" : 5.752,
+      "loc" : "2,3",
+      "word" : "수많은 아이들"
+    }, {
+      "start" : 5.965,
+      "end" : 6.696,
+      "loc" : "4",
+      "word" : "앞에서"
+    }, {
+      "start" : 6.914,
+      "end" : 7.524,
+      "loc" : "5",
+      "word" : "서서"
+    }, {
+      "start" : 7.739,
+      "end" : 7.898,
+      "loc" : "6",
+      "word" : "자기"
+    }, {
+      "start" : 8.064,
+      "end" : 8.504,
+      "loc" : "7",
+      "word" : "소개를"
+    }, {
+      "start" : 8.729,
+      "end" : 9.229,
+      "loc" : "8,9",
+      "word" : "해야 되는데"
+    }, {
+      "start" : 9.347,
+      "end" : 9.566,
+      "loc" : "10",
+      "word" : "그게"
+    }, {
+      "start" : 9.854,
+      "end" : 10.444,
+      "loc" : "11,12",
+      "word" : "정말 쉽지"
+    }, {
+      "start" : 10.584,
+      "end" : 10.853,
+      "loc" : "13",
+      "word" : "않더라고요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.606,
+      "end" : 2.785,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.959,
+      "end" : 3.289,
+      "gloss_id" : "하다가1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.352,
+      "end" : 5.752,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.965,
+      "end" : 6.696,
+      "gloss_id" : "줄서다4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.287,
+      "end" : 7.536,
+      "gloss_id" : "서다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.854,
+      "end" : 10.444,
+      "gloss_id" : "쉽다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 9.854,
+      "end" : 10.444
+    }, {
+      "descriptor" : "",
+      "start" : 3.468,
+      "end" : 4.63
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 9.347,
+      "end" : 10.849
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.468,
+      "end" : 4.61
+    }, {
+      "descriptor" : "",
+      "start" : 6.914,
+      "end" : 7.514
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.468,
+      "end" : 4.61
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781320",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:07:54",
+    "sentence_ID" : "VXPAKOKS240781320",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,187 @@
+{
+  "id" : "VXPAKOKS240779520",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 정말 운이 좋게도 우리 아파트에 헬스장이 있어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.542,
+      "end" : 1.647,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.914,
+      "end" : 2.181,
+      "gloss_id" : "아파트1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.408,
+      "end" : 2.764,
+      "gloss_id" : "운동2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.953,
+      "end" : 3.114,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.362,
+      "end" : 3.522,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.828,
+      "end" : 4.103,
+      "gloss_id" : "운1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.336,
+      "end" : 4.519,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.542,
+      "end" : 1.647,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.408,
+      "end" : 3.111,
+      "loc" : "6",
+      "word" : "헬스장이"
+    }, {
+      "start" : 3.362,
+      "end" : 3.522,
+      "loc" : "7",
+      "word" : "있어."
+    }, {
+      "start" : 3.828,
+      "end" : 4.103,
+      "loc" : "1,2",
+      "word" : "정말 운이"
+    }, {
+      "start" : 4.336,
+      "end" : 4.519,
+      "loc" : "3",
+      "word" : "좋게도"
+    }, {
+      "start" : 1.914,
+      "end" : 2.181,
+      "loc" : "4,5",
+      "word" : "우리 아파트에"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.914,
+      "end" : 2.181,
+      "gloss_id" : "아파트1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.408,
+      "end" : 2.764,
+      "gloss_id" : "운동2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.828,
+      "end" : 4.103,
+      "gloss_id" : "운1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.914,
+      "end" : 2.181
+    }, {
+      "descriptor" : "",
+      "start" : 2.953,
+      "end" : 3.114
+    }, {
+      "descriptor" : "",
+      "start" : 3.362,
+      "end" : 3.522
+    }, {
+      "descriptor" : "",
+      "start" : 4.336,
+      "end" : 4.519
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.408,
+      "end" : 2.764
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.914,
+      "end" : 2.181
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779520",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 10:59:39",
+    "sentence_ID" : "VXPAKOKS240779520",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

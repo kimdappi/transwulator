@@ -1,0 +1,263 @@
+{
+  "id" : "VXPAKOKS240786220",
+  "opertor" : "label4",
+  "krlgg_sntenc" : {
+    "koreanText" : "솔직히 나는 집이 좀 크고 주택 같은 데 살면 큰 개도 키워 보고 싶어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 0.945,
+      "end" : 1.996,
+      "gloss_id" : "솔직하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.291,
+      "end" : 2.651,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.829,
+      "end" : 3.13,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.34,
+      "end" : 4.051,
+      "gloss_id" : "넓다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.156,
+      "end" : 4.421,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.618,
+      "end" : 5.083,
+      "gloss_id" : "되다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.546,
+      "end" : 5.677,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.853,
+      "end" : 6.547,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.816,
+      "end" : 7.103,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.259,
+      "end" : 7.821,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 0.945,
+      "end" : 1.996,
+      "loc" : "0",
+      "word" : "솔직히"
+    }, {
+      "start" : 2.291,
+      "end" : 2.651,
+      "loc" : "1",
+      "word" : "나는"
+    }, {
+      "start" : 2.829,
+      "end" : 3.13,
+      "loc" : "2",
+      "word" : "집이"
+    }, {
+      "start" : 3.34,
+      "end" : 4.051,
+      "loc" : "3,4,5,6,7",
+      "word" : "좀 크고 주택 같은 데"
+    }, {
+      "start" : 4.156,
+      "end" : 5.081,
+      "loc" : "8",
+      "word" : "살면"
+    }, {
+      "start" : 5.546,
+      "end" : 6.569,
+      "loc" : "9,10",
+      "word" : "큰 개도"
+    }, {
+      "start" : 6.816,
+      "end" : 7.103,
+      "loc" : "11,12",
+      "word" : "키워 보고"
+    }, {
+      "start" : 7.259,
+      "end" : 7.821,
+      "loc" : "13",
+      "word" : "싶어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 0.945,
+      "end" : 1.996,
+      "gloss_id" : "솔직하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.291,
+      "end" : 2.651,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.829,
+      "end" : 3.13,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.34,
+      "end" : 4.051,
+      "gloss_id" : "넓다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.156,
+      "end" : 4.421,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.546,
+      "end" : 5.677,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.816,
+      "end" : 7.103,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.853,
+      "end" : 6.547,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.291,
+      "end" : 2.651
+    }, {
+      "descriptor" : "",
+      "start" : 4.618,
+      "end" : 5.083
+    }, {
+      "descriptor" : "",
+      "start" : 3.34,
+      "end" : 4.051
+    }, {
+      "descriptor" : "",
+      "start" : 7.259,
+      "end" : 7.821
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 0.945,
+      "end" : 3.124
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 6.816,
+      "end" : 7.82
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.34,
+      "end" : 5.068
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786220",
+  "potogrf" : {
+    "createdTime" : "2024-11-07 01:57:25",
+    "sentence_ID" : "VXPAKOKS240786220",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "mp4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

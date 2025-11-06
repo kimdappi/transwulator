@@ -1,0 +1,178 @@
+{
+  "id" : "VXPAKOKS240779260",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 법학을 전공했고 복수 전공으론 사회복지학을 전공했어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.612,
+      "end" : 1.727,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.944,
+      "end" : 2.043,
+      "gloss_id" : "법1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.249,
+      "end" : 2.395,
+      "gloss_id" : "전문1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.739,
+      "end" : 3.064,
+      "gloss_id" : "선택1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.451,
+      "end" : 3.741,
+      "gloss_id" : "사회1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.898,
+      "end" : 4.367,
+      "gloss_id" : "복지2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.669,
+      "end" : 4.916,
+      "gloss_id" : "등수:2등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.612,
+      "end" : 1.727,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 1.944,
+      "end" : 2.393,
+      "loc" : "1",
+      "word" : "법학을"
+    }, {
+      "start" : 2.739,
+      "end" : 3.064,
+      "loc" : "2",
+      "word" : "전공했고"
+    }, {
+      "start" : 4.669,
+      "end" : 4.916,
+      "loc" : "3,4",
+      "word" : "복수 전공으론"
+    }, {
+      "start" : 3.451,
+      "end" : 4.363,
+      "loc" : "5,6",
+      "word" : "사회복지학을 전공했어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.944,
+      "end" : 2.389,
+      "gloss_id" : "법1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.739,
+      "end" : 3.064,
+      "gloss_id" : "선택1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.451,
+      "end" : 3.741,
+      "gloss_id" : "사회1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.249,
+      "end" : 2.395
+    }, {
+      "descriptor" : "",
+      "start" : 2.739,
+      "end" : 3.064
+    }, {
+      "descriptor" : "",
+      "start" : 4.669,
+      "end" : 4.916
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.249,
+      "end" : 2.395
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.898,
+      "end" : 4.367
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779260",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 10:57:28",
+    "sentence_ID" : "VXPAKOKS240779260",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

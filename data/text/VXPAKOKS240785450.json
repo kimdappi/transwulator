@@ -1,0 +1,131 @@
+{
+  "id" : "VXPAKOKS240785450",
+  "opertor" : "label10",
+  "krlgg_sntenc" : {
+    "koreanText" : "프리미엄 고속버스는 뭐가 달라?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 3.119,
+      "end" : 3.382,
+      "gloss_id" : "고속도로1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.771,
+      "end" : 4.22,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.266,
+      "end" : 5.721,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.702,
+      "end" : 5.056,
+      "gloss_id" : "차이1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.119,
+      "end" : 3.382,
+      "loc" : "1",
+      "word" : "고속버스는"
+    }, {
+      "start" : 3.771,
+      "end" : 4.22,
+      "loc" : "0",
+      "word" : "프리미엄"
+    }, {
+      "start" : 4.702,
+      "end" : 5.056,
+      "loc" : "3",
+      "word" : "달라?"
+    }, {
+      "start" : 5.266,
+      "end" : 5.721,
+      "loc" : "2",
+      "word" : "뭐가"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.119,
+      "end" : 3.382,
+      "gloss_id" : "고속도로1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.702,
+      "end" : 5.056,
+      "gloss_id" : "차이1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : null,
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.119,
+      "end" : 3.816
+    }, {
+      "descriptor" : "",
+      "start" : 4.702,
+      "end" : 5.716
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.702,
+      "end" : 5.71
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785450",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 01:43:24",
+    "sentence_ID" : "VXPAKOKS240785450",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

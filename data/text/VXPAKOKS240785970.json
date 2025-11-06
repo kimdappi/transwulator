@@ -1,0 +1,154 @@
+{
+  "id" : "VXPAKOKS240785970",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "요즘 금리 너무 많이 오르는 거 같지 않아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.575,
+      "end" : 1.86,
+      "gloss_id" : "요즘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.098,
+      "end" : 2.348,
+      "gloss_id" : "은행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.634,
+      "end" : 2.931,
+      "gloss_id" : "이익1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.168,
+      "end" : 4.262,
+      "gloss_id" : "값오르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.501,
+      "end" : 4.816,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.031,
+      "end" : 5.762,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.575,
+      "end" : 1.86,
+      "loc" : "0",
+      "word" : "요즘"
+    }, {
+      "start" : 2.098,
+      "end" : 2.925,
+      "loc" : "1",
+      "word" : "금리"
+    }, {
+      "start" : 3.168,
+      "end" : 4.262,
+      "loc" : "2,3,4,5",
+      "word" : "너무 많이 오르는 거"
+    }, {
+      "start" : 4.501,
+      "end" : 5.755,
+      "loc" : "6,7",
+      "word" : "같지 않아?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.098,
+      "end" : 2.348,
+      "gloss_id" : "은행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.168,
+      "end" : 4.262
+    }, {
+      "descriptor" : "",
+      "start" : 5.031,
+      "end" : 5.762
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.575,
+      "end" : 1.86
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 5.031,
+      "end" : 5.762
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.634,
+      "end" : 3.662
+    }, {
+      "descriptor" : "",
+      "start" : 5.031,
+      "end" : 5.762
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785970",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:23:34",
+    "sentence_ID" : "VXPAKOKS240785970",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

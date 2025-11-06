@@ -1,0 +1,213 @@
+{
+  "id" : "VXPAKOKS240779430",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 헬스장을 끊어 놓고 1달에 두 번씩 가.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.684,
+      "end" : 1.79,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.02,
+      "end" : 2.451,
+      "gloss_id" : "운동2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.609,
+      "end" : 2.843,
+      "gloss_id" : "회원1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.06,
+      "end" : 3.496,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 4.056,
+      "end" : 4.496,
+      "gloss_id" : "날짜(활용):1개월",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.723,
+      "end" : 4.966,
+      "gloss_id" : "2",
+      "express" : "n",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.258,
+      "end" : 5.662,
+      "gloss_id" : "제한1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.825,
+      "end" : 6.087,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.684,
+      "end" : 1.79,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.02,
+      "end" : 2.451,
+      "loc" : "1",
+      "word" : "헬스장을"
+    }, {
+      "start" : 2.609,
+      "end" : 3.498,
+      "loc" : "2,3",
+      "word" : "끊어 놓고"
+    }, {
+      "start" : 4.056,
+      "end" : 4.496,
+      "loc" : "4",
+      "word" : "1달에"
+    }, {
+      "start" : 5.825,
+      "end" : 6.087,
+      "loc" : "7",
+      "word" : "가."
+    }, {
+      "start" : 4.723,
+      "end" : 4.966,
+      "loc" : "5",
+      "word" : "두"
+    }, {
+      "start" : 5.258,
+      "end" : 5.662,
+      "loc" : "6",
+      "word" : "번씩"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.02,
+      "end" : 2.451,
+      "gloss_id" : "운동2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.06,
+      "end" : 3.496,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.258,
+      "end" : 5.662,
+      "gloss_id" : "제한1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "두",
+      "start" : 4.723,
+      "end" : 4.966
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.02,
+      "end" : 2.451
+    }, {
+      "descriptor" : "",
+      "start" : 3.06,
+      "end" : 3.496
+    }, {
+      "descriptor" : "",
+      "start" : 4.061,
+      "end" : 4.4
+    }, {
+      "descriptor" : "",
+      "start" : 5.258,
+      "end" : 5.662
+    }, {
+      "descriptor" : "",
+      "start" : 5.825,
+      "end" : 6.087
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.294,
+      "end" : 3.496
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.06,
+      "end" : 3.496
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.02,
+      "end" : 2.451
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779430",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 10:59:10",
+    "sentence_ID" : "VXPAKOKS240779430",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

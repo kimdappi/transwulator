@@ -1,0 +1,217 @@
+{
+  "id" : "VXPAKOKS240784650",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "여행을 가면 내가 예전에는 내가 계획을 다 짰잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.989,
+      "end" : 2.42,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.642,
+      "end" : 2.923,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.073,
+      "end" : 3.195,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.373,
+      "end" : 3.688,
+      "gloss_id" : "며칠전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.928,
+      "end" : 4.339,
+      "gloss_id" : "항상1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.551,
+      "end" : 5.174,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.398,
+      "end" : 5.589,
+      "gloss_id" : "꽉끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.706,
+      "end" : 6.041,
+      "gloss_id" : "완전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.178,
+      "end" : 6.411,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.989,
+      "end" : 2.42,
+      "loc" : "0",
+      "word" : "여행을"
+    }, {
+      "start" : 2.642,
+      "end" : 2.923,
+      "loc" : "1",
+      "word" : "가면"
+    }, {
+      "start" : 3.073,
+      "end" : 3.195,
+      "loc" : "2",
+      "word" : "내가"
+    }, {
+      "start" : 3.373,
+      "end" : 3.688,
+      "loc" : "3",
+      "word" : "예전에는"
+    }, {
+      "start" : 3.928,
+      "end" : 4.339,
+      "loc" : "4",
+      "word" : "내가"
+    }, {
+      "start" : 4.551,
+      "end" : 5.174,
+      "loc" : "5",
+      "word" : "계획을"
+    }, {
+      "start" : 5.398,
+      "end" : 6.398,
+      "loc" : "6,7",
+      "word" : "다 짰잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.989,
+      "end" : 2.42,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.928,
+      "end" : 4.339,
+      "gloss_id" : "항상1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.551,
+      "end" : 5.174,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.706,
+      "end" : 6.041,
+      "gloss_id" : "완전1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.642,
+      "end" : 2.923
+    }, {
+      "descriptor" : "",
+      "start" : 3.373,
+      "end" : 3.688
+    }, {
+      "descriptor" : "",
+      "start" : 4.551,
+      "end" : 5.174
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.073,
+      "end" : 6.035
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.989,
+      "end" : 2.921
+    }, {
+      "descriptor" : "",
+      "start" : 6.178,
+      "end" : 6.411
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784650",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:23:59",
+    "sentence_ID" : "VXPAKOKS240784650",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

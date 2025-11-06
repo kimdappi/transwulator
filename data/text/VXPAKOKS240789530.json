@@ -1,0 +1,217 @@
+{
+  "id" : "VXPAKOKS240789530",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "경제학과랑 심리학과랑 어떤 과목이 너랑 더 잘 맞는 거 같아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.814,
+      "end" : 2.114,
+      "gloss_id" : "경제1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.324,
+      "end" : 2.78,
+      "gloss_id" : "전문1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.152,
+      "end" : 3.435,
+      "gloss_id" : "마음1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.667,
+      "end" : 3.831,
+      "gloss_id" : "전문1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.376,
+      "end" : 4.768,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.956,
+      "end" : 5.163,
+      "gloss_id" : "종류4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.34,
+      "end" : 5.472,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.784,
+      "end" : 6.045,
+      "gloss_id" : "맞추다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.266,
+      "end" : 6.685,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.814,
+      "end" : 2.803,
+      "loc" : "0",
+      "word" : "경제학과랑"
+    }, {
+      "start" : 3.152,
+      "end" : 3.87,
+      "loc" : "1",
+      "word" : "심리학과랑"
+    }, {
+      "start" : 4.376,
+      "end" : 5.496,
+      "loc" : "2,3",
+      "word" : "어떤 과목이"
+    }, {
+      "start" : 5.784,
+      "end" : 6.747,
+      "loc" : "4,5,6,7,8,9",
+      "word" : "너랑 더 잘 맞는 거 같아?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.814,
+      "end" : 2.114,
+      "gloss_id" : "경제1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.152,
+      "end" : 3.435,
+      "gloss_id" : "마음1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.376,
+      "end" : 4.768,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.956,
+      "end" : 5.472,
+      "gloss_id" : "종류4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.784,
+      "end" : 6.045,
+      "gloss_id" : "맞추다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.324,
+      "end" : 2.78
+    }, {
+      "descriptor" : "",
+      "start" : 3.667,
+      "end" : 3.831
+    }, {
+      "descriptor" : "",
+      "start" : 5.894,
+      "end" : 6.045
+    }, {
+      "descriptor" : "",
+      "start" : 6.266,
+      "end" : 6.685
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.881,
+      "end" : 6.045
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.152,
+      "end" : 3.825
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 1.814,
+      "end" : 2.114
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 6.266,
+      "end" : 6.685
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789530",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:56:10",
+    "sentence_ID" : "VXPAKOKS240789530",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,99 @@
+{
+  "id" : "VXPAKOKS240787730",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "네 생각은 어때?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.344,
+      "end" : 1.422,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.631,
+      "end" : 1.803,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.95,
+      "end" : 2.567,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.344,
+      "end" : 1.422,
+      "loc" : "0",
+      "word" : "네"
+    }, {
+      "start" : 1.631,
+      "end" : 1.803,
+      "loc" : "1",
+      "word" : "생각은"
+    }, {
+      "start" : 1.95,
+      "end" : 2.567,
+      "loc" : "2",
+      "word" : "어때?"
+    } ],
+    "sign_gestures_weak" : null
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.95,
+      "end" : 2.567
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.344,
+      "end" : 2.559
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787730",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:37:23",
+    "sentence_ID" : "VXPAKOKS240787730",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

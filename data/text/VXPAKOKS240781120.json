@@ -1,0 +1,283 @@
+{
+  "id" : "VXPAKOKS240781120",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "어느 날은 통닭 시키면 1마리가 아니고 닭다리가 하나 없는 경우도 있더라고요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 3.633,
+      "end" : 3.857,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.036,
+      "end" : 4.217,
+      "gloss_id" : "날1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.407,
+      "end" : 4.768,
+      "gloss_id" : "닭1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.016,
+      "end" : 5.26,
+      "gloss_id" : "전화하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 5.577,
+      "end" : 6.715,
+      "gloss_id" : "가져오다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.061,
+      "end" : 7.922,
+      "gloss_id" : "마리",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.264,
+      "end" : 8.37,
+      "gloss_id" : "꽉끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.515,
+      "end" : 8.898,
+      "gloss_id" : "완전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.999,
+      "end" : 9.307,
+      "gloss_id" : "아니다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.785,
+      "end" : 9.923,
+      "gloss_id" : "신발1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.022,
+      "end" : 10.171,
+      "gloss_id" : "일3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.4,
+      "end" : 10.762,
+      "gloss_id" : "빠지다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.955,
+      "end" : 11.487,
+      "gloss_id" : "가끔1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.633,
+      "end" : 3.857,
+      "loc" : "0",
+      "word" : "어느"
+    }, {
+      "start" : 4.036,
+      "end" : 4.217,
+      "loc" : "1",
+      "word" : "날은"
+    }, {
+      "start" : 4.407,
+      "end" : 4.768,
+      "loc" : "2",
+      "word" : "통닭"
+    }, {
+      "start" : 5.016,
+      "end" : 6.707,
+      "loc" : "3",
+      "word" : "시키면"
+    }, {
+      "start" : 7.061,
+      "end" : 7.922,
+      "loc" : "4",
+      "word" : "1마리가"
+    }, {
+      "start" : 8.286,
+      "end" : 9.307,
+      "loc" : "5",
+      "word" : "아니고"
+    }, {
+      "start" : 9.785,
+      "end" : 9.923,
+      "loc" : "6",
+      "word" : "닭다리가"
+    }, {
+      "start" : 10.022,
+      "end" : 10.171,
+      "loc" : "7",
+      "word" : "하나"
+    }, {
+      "start" : 10.4,
+      "end" : 10.762,
+      "loc" : "8",
+      "word" : "없는"
+    }, {
+      "start" : 10.955,
+      "end" : 11.487,
+      "loc" : "9,10",
+      "word" : "경우도 있더라고요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.036,
+      "end" : 4.217,
+      "gloss_id" : "날1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.577,
+      "end" : 6.715,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.061,
+      "end" : 7.922,
+      "gloss_id" : "1",
+      "express" : "n",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.515,
+      "end" : 9.313,
+      "gloss_id" : "완전1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.785,
+      "end" : 10.774,
+      "gloss_id" : "신발1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "마리",
+      "start" : 7.061,
+      "end" : 7.922
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.036,
+      "end" : 4.217
+    }, {
+      "descriptor" : "",
+      "start" : 5.577,
+      "end" : 6.715
+    }, {
+      "descriptor" : "",
+      "start" : 10.655,
+      "end" : 10.762
+    }, {
+      "descriptor" : "",
+      "start" : 10.955,
+      "end" : 11.487
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 8.558,
+      "end" : 8.898
+    }, {
+      "descriptor" : "",
+      "start" : 10.655,
+      "end" : 10.762
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 8.51,
+      "end" : 11.477
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240781120",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:06:55",
+    "sentence_ID" : "VXPAKOKS240781120",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

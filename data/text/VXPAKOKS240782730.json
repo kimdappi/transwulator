@@ -1,0 +1,137 @@
+{
+  "id" : "VXPAKOKS240782730",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "내가 갖고 있는 주식을 과연 빼야 될까.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.39,
+      "end" : 1.511,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.777,
+      "end" : 2.364,
+      "gloss_id" : "달리기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.569,
+      "end" : 2.816,
+      "gloss_id" : "팔다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.997,
+      "end" : 4.776,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.39,
+      "end" : 1.511,
+      "loc" : "0,1,2",
+      "word" : "내가 갖고 있는"
+    }, {
+      "start" : 1.777,
+      "end" : 2.364,
+      "loc" : "3",
+      "word" : "주식을"
+    }, {
+      "start" : 2.569,
+      "end" : 4.765,
+      "loc" : "4,5,6",
+      "word" : "과연 빼야 될까."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.777,
+      "end" : 2.364,
+      "gloss_id" : "달리기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.569,
+      "end" : 2.816,
+      "gloss_id" : "팔다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.997,
+      "end" : 4.776,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.997,
+      "end" : 4.241
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.637,
+      "end" : 2.816
+    } ],
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 4.224,
+      "end" : 4.612
+    } ],
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.584,
+      "end" : 3.92
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782730",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:14:15",
+    "sentence_ID" : "VXPAKOKS240782730",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

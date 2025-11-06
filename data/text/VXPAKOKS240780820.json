@@ -1,0 +1,273 @@
+{
+  "id" : "VXPAKOKS240780820",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "나도 저번에 버스 타고 가는데 내 옆자리 사람이 마스크를 약간 내려서 코까지 보이더라고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.45,
+      "end" : 1.622,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.813,
+      "end" : 2.025,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.296,
+      "end" : 2.52,
+      "gloss_id" : "며칠전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.854,
+      "end" : 3.239,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.439,
+      "end" : 4.267,
+      "gloss_id" : "타다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.564,
+      "end" : 4.661,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.807,
+      "end" : 5.019,
+      "gloss_id" : "다음1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.254,
+      "end" : 5.412,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.55,
+      "end" : 5.676,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.229,
+      "end" : 6.369,
+      "gloss_id" : "마스크1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.265,
+      "end" : 7.432,
+      "gloss_id" : "코2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.734,
+      "end" : 8.107,
+      "gloss_id" : "보다10",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.458,
+      "end" : 7.038,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.45,
+      "end" : 2.025,
+      "loc" : "0",
+      "word" : "나도"
+    }, {
+      "start" : 2.296,
+      "end" : 2.52,
+      "loc" : "1",
+      "word" : "저번에"
+    }, {
+      "start" : 2.854,
+      "end" : 3.239,
+      "loc" : "2",
+      "word" : "버스"
+    }, {
+      "start" : 3.439,
+      "end" : 4.267,
+      "loc" : "3,4",
+      "word" : "타고 가는데"
+    }, {
+      "start" : 4.564,
+      "end" : 4.661,
+      "loc" : "5",
+      "word" : "내"
+    }, {
+      "start" : 4.807,
+      "end" : 5.019,
+      "loc" : "6",
+      "word" : "옆자리"
+    }, {
+      "start" : 5.246,
+      "end" : 5.665,
+      "loc" : "7",
+      "word" : "사람이"
+    }, {
+      "start" : 7.265,
+      "end" : 7.432,
+      "loc" : "11",
+      "word" : "코까지"
+    }, {
+      "start" : 7.734,
+      "end" : 8.107,
+      "loc" : "12",
+      "word" : "보이더라고."
+    }, {
+      "start" : 6.229,
+      "end" : 6.369,
+      "loc" : "8",
+      "word" : "마스크를"
+    }, {
+      "start" : 6.458,
+      "end" : 7.038,
+      "loc" : "9,10",
+      "word" : "약간 내려서"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.761,
+      "end" : 5.015,
+      "gloss_id" : "버스1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.813,
+      "end" : 2.025,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.854,
+      "end" : 3.239,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.254,
+      "end" : 5.412,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.807,
+      "end" : 5.019
+    }, {
+      "descriptor" : "",
+      "start" : 7.734,
+      "end" : 8.107
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.439,
+      "end" : 3.686
+    } ],
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 4.119,
+      "end" : 4.458
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.807,
+      "end" : 5.669
+    }, {
+      "descriptor" : "",
+      "start" : 2.296,
+      "end" : 2.52
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780820",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:05:42",
+    "sentence_ID" : "VXPAKOKS240780820",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

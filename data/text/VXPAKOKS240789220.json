@@ -1,0 +1,237 @@
+{
+  "id" : "VXPAKOKS240789220",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "서울 갈 때는 버스 타고 가다가 전철로 바꿔서 계속 환승해서 가요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.556,
+      "end" : 1.727,
+      "gloss_id" : "서울1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.009,
+      "end" : 2.545,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.82,
+      "end" : 3.89,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.105,
+      "end" : 4.32,
+      "gloss_id" : "바꾸다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.624,
+      "end" : 5.833,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.151,
+      "end" : 6.256,
+      "gloss_id" : "계속1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.422,
+      "end" : 6.973,
+      "gloss_id" : "바꾸다2#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.122,
+      "end" : 7.403,
+      "gloss_id" : "전문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.556,
+      "end" : 1.727,
+      "loc" : "0",
+      "word" : "서울"
+    }, {
+      "start" : 2.009,
+      "end" : 2.545,
+      "loc" : "1,2",
+      "word" : "갈 때는"
+    }, {
+      "start" : 2.82,
+      "end" : 3.89,
+      "loc" : "3,4",
+      "word" : "버스 타고"
+    }, {
+      "start" : 4.105,
+      "end" : 4.32,
+      "loc" : "5",
+      "word" : "가다가"
+    }, {
+      "start" : 4.624,
+      "end" : 5.833,
+      "loc" : "6",
+      "word" : "전철로"
+    }, {
+      "start" : 6.151,
+      "end" : 6.256,
+      "loc" : "8",
+      "word" : "계속"
+    }, {
+      "start" : 6.422,
+      "end" : 6.973,
+      "loc" : "7",
+      "word" : "바꿔서"
+    }, {
+      "start" : 7.122,
+      "end" : 7.403,
+      "loc" : "10",
+      "word" : "가요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.009,
+      "end" : 2.545,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.82,
+      "end" : 3.89,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.624,
+      "end" : 5.833,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.151,
+      "end" : 6.256,
+      "gloss_id" : "계속1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.009,
+      "end" : 2.545
+    }, {
+      "descriptor" : "",
+      "start" : 2.82,
+      "end" : 3.89
+    }, {
+      "descriptor" : "",
+      "start" : 5.533,
+      "end" : 5.828
+    }, {
+      "descriptor" : "",
+      "start" : 7.122,
+      "end" : 7.403
+    }, {
+      "descriptor" : "",
+      "start" : 6.422,
+      "end" : 6.973
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.602,
+      "end" : 3.89
+    }, {
+      "descriptor" : "",
+      "start" : 4.076,
+      "end" : 4.32
+    }, {
+      "descriptor" : "",
+      "start" : 5.698,
+      "end" : 5.818
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 7.122,
+      "end" : 7.403
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 4.624,
+      "end" : 5.497
+    }, {
+      "descriptor" : "",
+      "start" : 6.626,
+      "end" : 6.783
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.556,
+      "end" : 2.53
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789220",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:53:26",
+    "sentence_ID" : "VXPAKOKS240789220",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

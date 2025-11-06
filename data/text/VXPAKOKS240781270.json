@@ -1,0 +1,356 @@
+{
+  "id" : "VXPAKOKS240781270",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "저는 충북 청주에서 쭉 자랐고 이제 유치원 가기 전까지 7살 전까지는 강원도 태백 산골에서 컸어요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.872,
+      "end" : 2.138,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.405,
+      "end" : 3.043,
+      "gloss_id" : "충청북도1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.203,
+      "end" : 3.798,
+      "gloss_id" : "청주1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.05,
+      "end" : 5.43,
+      "gloss_id" : "자라다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.799,
+      "end" : 6.235,
+      "gloss_id" : "유치원1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.428,
+      "end" : 6.578,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 6.844,
+      "end" : 7.217,
+      "gloss_id" : "이전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.421,
+      "end" : 7.613,
+      "gloss_id" : "나이:7살",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.808,
+      "end" : 8.181,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.34,
+      "end" : 8.66,
+      "gloss_id" : "강원도1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.849,
+      "end" : 9.487,
+      "gloss_id" : "태백1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.692,
+      "end" : 10.234,
+      "gloss_id" : "골짜기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.321,
+      "end" : 10.47,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.559,
+      "end" : 10.794,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.983,
+      "end" : 11.292,
+      "gloss_id" : "자라다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.872,
+      "end" : 2.138,
+      "loc" : "0",
+      "word" : "저는"
+    }, {
+      "start" : 2.405,
+      "end" : 3.043,
+      "loc" : "1",
+      "word" : "충북"
+    }, {
+      "start" : 3.203,
+      "end" : 3.798,
+      "loc" : "2",
+      "word" : "청주에서"
+    }, {
+      "start" : 4.05,
+      "end" : 5.43,
+      "loc" : "3,4",
+      "word" : "쭉 자랐고"
+    }, {
+      "start" : 5.799,
+      "end" : 6.235,
+      "loc" : "5,6",
+      "word" : "이제 유치원"
+    }, {
+      "start" : 6.428,
+      "end" : 6.578,
+      "loc" : "7",
+      "word" : "가기"
+    }, {
+      "start" : 6.844,
+      "end" : 7.217,
+      "loc" : "8",
+      "word" : "전까지"
+    }, {
+      "start" : 7.421,
+      "end" : 7.613,
+      "loc" : "9",
+      "word" : "7살"
+    }, {
+      "start" : 7.808,
+      "end" : 8.181,
+      "loc" : "10",
+      "word" : "전까지는"
+    }, {
+      "start" : 8.34,
+      "end" : 8.66,
+      "loc" : "11",
+      "word" : "강원도"
+    }, {
+      "start" : 8.849,
+      "end" : 9.487,
+      "loc" : "12",
+      "word" : "태백"
+    }, {
+      "start" : 9.692,
+      "end" : 10.786,
+      "loc" : "13",
+      "word" : "산골에서"
+    }, {
+      "start" : 10.983,
+      "end" : 11.292,
+      "loc" : "14",
+      "word" : "컸어요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.405,
+      "end" : 3.043,
+      "gloss_id" : "충청북도1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.203,
+      "end" : 3.798,
+      "gloss_id" : "청주1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.799,
+      "end" : 6.235,
+      "gloss_id" : "유치원1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.428,
+      "end" : 6.578,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.844,
+      "end" : 7.217,
+      "gloss_id" : "이전1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.808,
+      "end" : 8.181,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.34,
+      "end" : 8.66,
+      "gloss_id" : "강원도1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.849,
+      "end" : 9.487,
+      "gloss_id" : "태백1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.692,
+      "end" : 10.775,
+      "gloss_id" : "골짜기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.1,
+      "end" : 5.43
+    }, {
+      "descriptor" : "",
+      "start" : 6.844,
+      "end" : 7.217
+    }, {
+      "descriptor" : "",
+      "start" : 7.808,
+      "end" : 8.181
+    }, {
+      "descriptor" : "",
+      "start" : 10.983,
+      "end" : 11.292
+    }, {
+      "descriptor" : "",
+      "start" : 10.559,
+      "end" : 10.794
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.05,
+      "end" : 5.43
+    }, {
+      "descriptor" : "",
+      "start" : 9.692,
+      "end" : 10.234
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 10.983,
+      "end" : 11.186
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 10.559,
+      "end" : 10.794
+    }, {
+      "descriptor" : "",
+      "start" : 6.844,
+      "end" : 7.217
+    }, {
+      "descriptor" : "",
+      "start" : 7.808,
+      "end" : 8.181
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781270",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:07:41",
+    "sentence_ID" : "VXPAKOKS240781270",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

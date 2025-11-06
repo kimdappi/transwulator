@@ -1,0 +1,203 @@
+{
+  "id" : "VXPAKOKS240781430",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "큰 이모네 댁에서 강아지를 데려왔었는데 참 귀여웠던 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.077,
+      "end" : 2.202,
+      "gloss_id" : "크다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.409,
+      "end" : 2.763,
+      "gloss_id" : "이모1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.163,
+      "end" : 3.58,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.82,
+      "end" : 4.125,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.352,
+      "end" : 4.498,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.719,
+      "end" : 5.413,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.572,
+      "end" : 5.711,
+      "gloss_id" : "보다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 5.771,
+      "end" : 5.865,
+      "gloss_id" : "아니다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.17,
+      "end" : 6.879,
+      "gloss_id" : "아깝다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.077,
+      "end" : 2.202,
+      "loc" : "0",
+      "word" : "큰"
+    }, {
+      "start" : 2.409,
+      "end" : 2.763,
+      "loc" : "1",
+      "word" : "이모네"
+    }, {
+      "start" : 3.163,
+      "end" : 4.115,
+      "loc" : "2",
+      "word" : "댁에서"
+    }, {
+      "start" : 4.352,
+      "end" : 4.498,
+      "loc" : "3",
+      "word" : "강아지를"
+    }, {
+      "start" : 4.719,
+      "end" : 5.413,
+      "loc" : "4",
+      "word" : "데려왔었는데"
+    }, {
+      "start" : 5.572,
+      "end" : 5.857,
+      "loc" : "5",
+      "word" : "참"
+    }, {
+      "start" : 6.17,
+      "end" : 6.879,
+      "loc" : "6,7,8",
+      "word" : "귀여웠던 거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.163,
+      "end" : 3.58,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.719,
+      "end" : 6.878,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.82,
+      "end" : 4.125
+    }, {
+      "descriptor" : "",
+      "start" : 5.572,
+      "end" : 5.711
+    }, {
+      "descriptor" : "",
+      "start" : 6.17,
+      "end" : 6.879
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.809,
+      "end" : 5.413
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 6.17,
+      "end" : 6.879
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.163,
+      "end" : 4.108
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781430",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:08:24",
+    "sentence_ID" : "VXPAKOKS240781430",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

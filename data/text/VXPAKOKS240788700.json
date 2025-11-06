@@ -1,0 +1,209 @@
+{
+  "id" : "VXPAKOKS240788700",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 요새 디저트에 굉장히 빠져 있어서 여러 가지 디저트를 먹고 있거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.326,
+      "end" : 1.527,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.716,
+      "end" : 1.883,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.042,
+      "end" : 3.243,
+      "gloss_id" : "디저트",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.389,
+      "end" : 3.57,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.727,
+      "end" : 4.227,
+      "gloss_id" : "중독1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.685,
+      "end" : 4.914,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.104,
+      "end" : 5.694,
+      "gloss_id" : "종류3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.937,
+      "end" : 6.722,
+      "gloss_id" : "먹다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.326,
+      "end" : 1.527,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 1.716,
+      "end" : 1.883,
+      "loc" : "1",
+      "word" : "요새"
+    }, {
+      "start" : 2.042,
+      "end" : 3.243,
+      "loc" : "2",
+      "word" : "디저트에"
+    }, {
+      "start" : 3.389,
+      "end" : 4.23,
+      "loc" : "3,4,5",
+      "word" : "굉장히 빠져 있어서"
+    }, {
+      "start" : 4.685,
+      "end" : 4.914,
+      "loc" : "8",
+      "word" : "디저트를"
+    }, {
+      "start" : 5.104,
+      "end" : 5.694,
+      "loc" : "6,7",
+      "word" : "여러 가지"
+    }, {
+      "start" : 5.937,
+      "end" : 6.722,
+      "loc" : "9,10",
+      "word" : "먹고 있거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.716,
+      "end" : 1.883,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.104,
+      "end" : 5.694,
+      "gloss_id" : "종류3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.937,
+      "end" : 6.722,
+      "gloss_id" : "먹다4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "디저트",
+      "start" : 2.042,
+      "end" : 3.243
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.727,
+      "end" : 4.227
+    }, {
+      "descriptor" : "",
+      "start" : 5.104,
+      "end" : 5.694
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.896,
+      "end" : 4.227
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.104,
+      "end" : 5.694
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.326,
+      "end" : 1.874
+    }, {
+      "descriptor" : "",
+      "start" : 3.727,
+      "end" : 4.227
+    }, {
+      "descriptor" : "",
+      "start" : 2.658,
+      "end" : 3.243
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788700",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:48:35",
+    "sentence_ID" : "VXPAKOKS240788700",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

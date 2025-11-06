@@ -1,0 +1,289 @@
+{
+  "id" : "VXPAKOKS240779530",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "아파트 헬스장은 샤워실이 없어서 사설 헬스장을 이용해.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.65,
+      "end" : 1.98,
+      "gloss_id" : "아파트1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.138,
+      "end" : 2.519,
+      "gloss_id" : "운동2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.673,
+      "end" : 2.98,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.222,
+      "end" : 3.427,
+      "gloss_id" : "샤워3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.694,
+      "end" : 3.836,
+      "gloss_id" : "물떨어지다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.924,
+      "end" : 4.044,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.306,
+      "end" : 4.919,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.19,
+      "end" : 5.872,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.433,
+      "end" : 6.853,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.113,
+      "end" : 7.227,
+      "gloss_id" : "운동2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.405,
+      "end" : 7.564,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.745,
+      "end" : 8.041,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.658,
+      "end" : 1.98,
+      "loc" : "0",
+      "word" : "아파트"
+    }, {
+      "start" : 2.138,
+      "end" : 2.979,
+      "loc" : "1",
+      "word" : "헬스장은"
+    }, {
+      "start" : 3.222,
+      "end" : 4.04,
+      "loc" : "2",
+      "word" : "샤워실이"
+    }, {
+      "start" : 4.306,
+      "end" : 5.861,
+      "loc" : "3",
+      "word" : "없어서"
+    }, {
+      "start" : 6.433,
+      "end" : 6.854,
+      "loc" : "4",
+      "word" : "사설"
+    }, {
+      "start" : 7.113,
+      "end" : 7.556,
+      "loc" : "5",
+      "word" : "헬스장을"
+    }, {
+      "start" : 7.745,
+      "end" : 8.041,
+      "loc" : "6",
+      "word" : "이용해."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.65,
+      "end" : 1.98,
+      "gloss_id" : "아파트1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.138,
+      "end" : 2.519,
+      "gloss_id" : "운동2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.222,
+      "end" : 4.928,
+      "gloss_id" : "샤워3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.19,
+      "end" : 5.871,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.433,
+      "end" : 6.854,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.113,
+      "end" : 7.227,
+      "gloss_id" : "운동2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.745,
+      "end" : 8.041,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.673,
+      "end" : 2.98
+    }, {
+      "descriptor" : "",
+      "start" : 4.306,
+      "end" : 4.919
+    }, {
+      "descriptor" : "",
+      "start" : 5.19,
+      "end" : 5.872
+    }, {
+      "descriptor" : "",
+      "start" : 7.405,
+      "end" : 7.564
+    }, {
+      "descriptor" : "",
+      "start" : 7.745,
+      "end" : 8.041
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.485,
+      "end" : 5.696
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 7.745,
+      "end" : 8.041
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.306,
+      "end" : 5.43
+    }, {
+      "descriptor" : "",
+      "start" : 7.745,
+      "end" : 8.041
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.65,
+      "end" : 2.979
+    }, {
+      "descriptor" : "",
+      "start" : 7.405,
+      "end" : 7.564
+    }, {
+      "descriptor" : "",
+      "start" : 3.694,
+      "end" : 3.836
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779530",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 10:59:41",
+    "sentence_ID" : "VXPAKOKS240779530",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

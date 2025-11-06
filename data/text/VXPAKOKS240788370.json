@@ -1,0 +1,178 @@
+{
+  "id" : "VXPAKOKS240788370",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "요즘에 빠진 면 요리는 우동이거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.431,
+      "end" : 1.926,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.267,
+      "end" : 2.503,
+      "gloss_id" : "먹다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.617,
+      "end" : 2.898,
+      "gloss_id" : "요리1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.034,
+      "end" : 3.29,
+      "gloss_id" : "오직1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.374,
+      "end" : 3.539,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.776,
+      "end" : 4.103,
+      "gloss_id" : "울다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.239,
+      "end" : 4.8,
+      "gloss_id" : "먹다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.431,
+      "end" : 1.926,
+      "loc" : "0",
+      "word" : "요즘에"
+    }, {
+      "start" : 2.267,
+      "end" : 2.503,
+      "loc" : "2",
+      "word" : "면"
+    }, {
+      "start" : 2.617,
+      "end" : 2.898,
+      "loc" : "3",
+      "word" : "요리는"
+    }, {
+      "start" : 3.776,
+      "end" : 4.789,
+      "loc" : "4",
+      "word" : "우동이거든."
+    }, {
+      "start" : 3.034,
+      "end" : 3.29,
+      "loc" : "1",
+      "word" : "빠진"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.431,
+      "end" : 1.926,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.267,
+      "end" : 2.503,
+      "gloss_id" : "먹다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.617,
+      "end" : 2.898,
+      "gloss_id" : "요리1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.267,
+      "end" : 2.503
+    }, {
+      "descriptor" : "",
+      "start" : 3.374,
+      "end" : 3.539
+    }, {
+      "descriptor" : "",
+      "start" : 4.239,
+      "end" : 4.8
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.617,
+      "end" : 3.259
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.374,
+      "end" : 3.539
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788370",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:46:21",
+    "sentence_ID" : "VXPAKOKS240788370",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

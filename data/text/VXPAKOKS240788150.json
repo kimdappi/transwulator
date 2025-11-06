@@ -1,0 +1,182 @@
+{
+  "id" : "VXPAKOKS240788150",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 지하철이나 지상철처럼 열차가 좋은데 지상철이 제일 나은 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.561,
+      "end" : 1.725,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.118,
+      "end" : 2.469,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.821,
+      "end" : 3.124,
+      "gloss_id" : "지하철3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.397,
+      "end" : 3.833,
+      "gloss_id" : "괜찮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.146,
+      "end" : 4.427,
+      "gloss_id" : "지하철3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.661,
+      "end" : 5.198,
+      "gloss_id" : "낫다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.561,
+      "end" : 1.725,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.118,
+      "end" : 2.469,
+      "loc" : "1",
+      "word" : "지하철이나"
+    }, {
+      "start" : 2.821,
+      "end" : 3.124,
+      "loc" : "2",
+      "word" : "지상철처럼"
+    }, {
+      "start" : 3.397,
+      "end" : 3.833,
+      "loc" : "3,4",
+      "word" : "열차가 좋은데"
+    }, {
+      "start" : 4.146,
+      "end" : 4.427,
+      "loc" : "5",
+      "word" : "지상철이"
+    }, {
+      "start" : 4.661,
+      "end" : 5.198,
+      "loc" : "6,7,8,9",
+      "word" : "제일 나은 거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.118,
+      "end" : 2.469,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.821,
+      "end" : 3.124,
+      "gloss_id" : "지하철3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.146,
+      "end" : 4.427,
+      "gloss_id" : "지하철3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.118,
+      "end" : 2.469
+    }, {
+      "descriptor" : "",
+      "start" : 2.821,
+      "end" : 3.124
+    }, {
+      "descriptor" : "",
+      "start" : 4.661,
+      "end" : 5.198
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.661,
+      "end" : 5.198
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.397,
+      "end" : 3.833
+    }, {
+      "descriptor" : "",
+      "start" : 4.661,
+      "end" : 5.198
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.146,
+      "end" : 4.427
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788150",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:40:30",
+    "sentence_ID" : "VXPAKOKS240788150",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

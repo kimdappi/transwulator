@@ -1,0 +1,226 @@
+{
+  "id" : "VXPAKOKS240781950",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "계곡 보고 산 보고 그냥 조용히 있고 싶다는 생각을 되게 많이 들었어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.352,
+      "end" : 3.141,
+      "gloss_id" : "골짜기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.446,
+      "end" : 3.627,
+      "gloss_id" : "보다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.845,
+      "end" : 4.413,
+      "gloss_id" : "산2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.716,
+      "end" : 4.995,
+      "gloss_id" : "보다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.38,
+      "end" : 5.758,
+      "gloss_id" : "조용히1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.969,
+      "end" : 6.264,
+      "gloss_id" : "머무르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.556,
+      "end" : 6.888,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.228,
+      "end" : 7.4,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.58,
+      "end" : 7.776,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.352,
+      "end" : 3.141,
+      "loc" : "0",
+      "word" : "계곡"
+    }, {
+      "start" : 3.446,
+      "end" : 3.627,
+      "loc" : "1",
+      "word" : "보고"
+    }, {
+      "start" : 3.845,
+      "end" : 4.413,
+      "loc" : "2",
+      "word" : "산"
+    }, {
+      "start" : 4.716,
+      "end" : 4.995,
+      "loc" : "3",
+      "word" : "보고"
+    }, {
+      "start" : 5.38,
+      "end" : 5.758,
+      "loc" : "4,5",
+      "word" : "그냥 조용히"
+    }, {
+      "start" : 5.969,
+      "end" : 6.264,
+      "loc" : "6",
+      "word" : "있고"
+    }, {
+      "start" : 6.556,
+      "end" : 6.888,
+      "loc" : "7",
+      "word" : "싶다는"
+    }, {
+      "start" : 7.228,
+      "end" : 7.4,
+      "loc" : "8,11",
+      "word" : "생각을 들었어."
+    }, {
+      "start" : 7.58,
+      "end" : 7.776,
+      "loc" : "9,10",
+      "word" : "되게 많이"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.352,
+      "end" : 3.141,
+      "gloss_id" : "골짜기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.845,
+      "end" : 4.413,
+      "gloss_id" : "산2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.38,
+      "end" : 5.758,
+      "gloss_id" : "조용히1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.969,
+      "end" : 6.264,
+      "gloss_id" : "머무르다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.58,
+      "end" : 7.776,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.446,
+      "end" : 3.627
+    }, {
+      "descriptor" : "",
+      "start" : 7.58,
+      "end" : 7.776
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 7.228,
+      "end" : 7.4
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 6.556,
+      "end" : 6.888
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240781950",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:10:40",
+    "sentence_ID" : "VXPAKOKS240781950",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

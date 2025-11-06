@@ -1,0 +1,220 @@
+{
+  "id" : "VXPAKOKS240785580",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "우리 환경적으로 안 좋으니까 그냥 쇠젓가락 쓸까?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.376,
+      "end" : 2.136,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.295,
+      "end" : 2.572,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.71,
+      "end" : 3.582,
+      "gloss_id" : "분위기2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.058,
+      "end" : 4.554,
+      "gloss_id" : "더럽다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.626,
+      "end" : 4.926,
+      "gloss_id" : "손해1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.1,
+      "end" : 5.27,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.121,
+      "end" : 6.449,
+      "gloss_id" : "그냥1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.698,
+      "end" : 6.975,
+      "gloss_id" : "철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.148,
+      "end" : 7.409,
+      "gloss_id" : "젓가락1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.625,
+      "end" : 8.486,
+      "gloss_id" : "괜찮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.409,
+      "end" : 5.875,
+      "gloss_id" : "아니다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.376,
+      "end" : 2.136,
+      "loc" : "0",
+      "word" : "우리"
+    }, {
+      "start" : 2.295,
+      "end" : 3.583,
+      "loc" : "1",
+      "word" : "환경적으로"
+    }, {
+      "start" : 4.058,
+      "end" : 5.873,
+      "loc" : "2,3",
+      "word" : "안 좋으니까"
+    }, {
+      "start" : 6.121,
+      "end" : 6.449,
+      "loc" : "4",
+      "word" : "그냥"
+    }, {
+      "start" : 6.698,
+      "end" : 7.402,
+      "loc" : "5",
+      "word" : "쇠젓가락"
+    }, {
+      "start" : 7.625,
+      "end" : 8.486,
+      "loc" : "6",
+      "word" : "쓸까?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.295,
+      "end" : 2.572,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.71,
+      "end" : 3.582,
+      "gloss_id" : "분위기2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.295,
+      "end" : 2.572
+    }, {
+      "descriptor" : "",
+      "start" : 6.121,
+      "end" : 6.449
+    }, {
+      "descriptor" : "",
+      "start" : 7.625,
+      "end" : 8.486
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.058,
+      "end" : 6.87
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.376,
+      "end" : 2.136
+    }, {
+      "descriptor" : "",
+      "start" : 2.71,
+      "end" : 3.582
+    }, {
+      "descriptor" : "",
+      "start" : 7.625,
+      "end" : 8.486
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785580",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 01:57:11",
+    "sentence_ID" : "VXPAKOKS240785580",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

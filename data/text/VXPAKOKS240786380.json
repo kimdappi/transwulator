@@ -1,0 +1,221 @@
+{
+  "id" : "VXPAKOKS240786380",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "서울과 지방에 대중교통이 이렇게 좀 차이가 많이 있잖아요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.66,
+      "end" : 2.276,
+      "gloss_id" : "보다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.651,
+      "end" : 2.958,
+      "gloss_id" : "서울1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.149,
+      "end" : 3.475,
+      "gloss_id" : "지방1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.581,
+      "end" : 4.28,
+      "gloss_id" : "지역1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.444,
+      "end" : 4.843,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.073,
+      "end" : 5.631,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.927,
+      "end" : 6.244,
+      "gloss_id" : "차이1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.413,
+      "end" : 6.981,
+      "gloss_id" : "크다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.651,
+      "end" : 2.958,
+      "loc" : "0",
+      "word" : "서울과"
+    }, {
+      "start" : 3.149,
+      "end" : 4.278,
+      "loc" : "1",
+      "word" : "지방에"
+    }, {
+      "start" : 4.444,
+      "end" : 5.627,
+      "loc" : "2",
+      "word" : "대중교통이"
+    }, {
+      "start" : 5.927,
+      "end" : 6.244,
+      "loc" : "3,4,5",
+      "word" : "이렇게 좀 차이가"
+    }, {
+      "start" : 6.413,
+      "end" : 6.981,
+      "loc" : "6,7",
+      "word" : "많이 있잖아요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.149,
+      "end" : 3.475,
+      "gloss_id" : "지방1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.581,
+      "end" : 4.28,
+      "gloss_id" : "지역1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.444,
+      "end" : 4.843,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.073,
+      "end" : 5.631,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.927,
+      "end" : 6.244,
+      "gloss_id" : "차이1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.66,
+      "end" : 2.076
+    }, {
+      "descriptor" : "",
+      "start" : 2.651,
+      "end" : 2.958
+    }, {
+      "descriptor" : "",
+      "start" : 3.581,
+      "end" : 4.28
+    }, {
+      "descriptor" : "",
+      "start" : 5.073,
+      "end" : 5.631
+    }, {
+      "descriptor" : "",
+      "start" : 6.413,
+      "end" : 6.981
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.149,
+      "end" : 4.278
+    }, {
+      "descriptor" : "",
+      "start" : 5.927,
+      "end" : 6.986
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.66,
+      "end" : 2.069
+    }, {
+      "descriptor" : "",
+      "start" : 2.651,
+      "end" : 2.958
+    }, {
+      "descriptor" : "",
+      "start" : 5.073,
+      "end" : 5.631
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786380",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:26:45",
+    "sentence_ID" : "VXPAKOKS240786380",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

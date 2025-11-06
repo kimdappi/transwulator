@@ -1,0 +1,202 @@
+{
+  "id" : "VXPAKOKS240780380",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 집에서 버스 탄 다음에 지하철로 여기까지 왔어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.09,
+      "end" : 2.186,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.452,
+      "end" : 2.613,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.964,
+      "end" : 3.218,
+      "gloss_id" : "~하자2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.54,
+      "end" : 4.476,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.631,
+      "end" : 4.95,
+      "gloss_id" : "바꾸다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.307,
+      "end" : 5.765,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.956,
+      "end" : 6.15,
+      "gloss_id" : "도착1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.09,
+      "end" : 2.186,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.452,
+      "end" : 3.216,
+      "loc" : "1",
+      "word" : "집에서"
+    }, {
+      "start" : 3.54,
+      "end" : 4.476,
+      "loc" : "2,3",
+      "word" : "버스 탄"
+    }, {
+      "start" : 4.631,
+      "end" : 4.95,
+      "loc" : "4",
+      "word" : "다음에"
+    }, {
+      "start" : 5.307,
+      "end" : 5.765,
+      "loc" : "5",
+      "word" : "지하철로"
+    }, {
+      "start" : 5.956,
+      "end" : 6.15,
+      "loc" : "6,7",
+      "word" : "여기까지 왔어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.452,
+      "end" : 2.613,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.54,
+      "end" : 4.476,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.307,
+      "end" : 5.765,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.956,
+      "end" : 6.15,
+      "gloss_id" : "도착1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.452,
+      "end" : 2.613
+    }, {
+      "descriptor" : "",
+      "start" : 2.964,
+      "end" : 3.218
+    }, {
+      "descriptor" : "",
+      "start" : 4.631,
+      "end" : 4.95
+    }, {
+      "descriptor" : "",
+      "start" : 5.956,
+      "end" : 6.15
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.807,
+      "end" : 4.95
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.964,
+      "end" : 3.218
+    } ],
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 5.307,
+      "end" : 6.155
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.452,
+      "end" : 3.216
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780380",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:03:53",
+    "sentence_ID" : "VXPAKOKS240780380",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

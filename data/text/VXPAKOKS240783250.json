@@ -1,0 +1,229 @@
+{
+  "id" : "VXPAKOKS240783250",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "이젠 애들이 크니깐 휴가 갈 때 안 따라다니더라고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.672,
+      "end" : 1.768,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.975,
+      "end" : 2.172,
+      "gloss_id" : "아들1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.334,
+      "end" : 2.452,
+      "gloss_id" : "딸1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.727,
+      "end" : 3.249,
+      "gloss_id" : "함께자라다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.434,
+      "end" : 3.626,
+      "gloss_id" : "쉬다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.849,
+      "end" : 4.141,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.41,
+      "end" : 4.657,
+      "gloss_id" : "따라가다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "3",
+        "target" : "1"
+      }
+    }, {
+      "start" : 4.915,
+      "end" : 5.269,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.709,
+      "end" : 3.792,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.672,
+      "end" : 1.768,
+      "loc" : "0",
+      "word" : "이젠"
+    }, {
+      "start" : 1.975,
+      "end" : 2.447,
+      "loc" : "1",
+      "word" : "애들이"
+    }, {
+      "start" : 2.727,
+      "end" : 3.249,
+      "loc" : "2",
+      "word" : "크니깐"
+    }, {
+      "start" : 3.434,
+      "end" : 3.626,
+      "loc" : "3",
+      "word" : "휴가"
+    }, {
+      "start" : 3.849,
+      "end" : 4.141,
+      "loc" : "5",
+      "word" : "때"
+    }, {
+      "start" : 4.41,
+      "end" : 4.657,
+      "loc" : "7",
+      "word" : "따라다니더라고."
+    }, {
+      "start" : 4.915,
+      "end" : 5.269,
+      "loc" : "6",
+      "word" : "안"
+    }, {
+      "start" : 3.709,
+      "end" : 3.792,
+      "loc" : "4",
+      "word" : "갈"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.672,
+      "end" : 1.768,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.434,
+      "end" : 3.626,
+      "gloss_id" : "쉬다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.849,
+      "end" : 4.141,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.41,
+      "end" : 4.657,
+      "gloss_id" : "따라가다3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.727,
+      "end" : 3.249,
+      "gloss_id" : "함께자라다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.975,
+      "end" : 2.419
+    }, {
+      "descriptor" : "",
+      "start" : 4.915,
+      "end" : 5.269
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.727,
+      "end" : 2.834
+    }, {
+      "descriptor" : "",
+      "start" : 2.929,
+      "end" : 3.008
+    }, {
+      "descriptor" : "",
+      "start" : 3.159,
+      "end" : 3.261
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.692,
+      "end" : 4.141
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783250",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:16:32",
+    "sentence_ID" : "VXPAKOKS240783250",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

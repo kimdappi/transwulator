@@ -1,0 +1,200 @@
+{
+  "id" : "VXPAKOKS240784550",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "내가 회사를 그만두기 전에 여행을 해야겠다고 생각을 했어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.878,
+      "end" : 1.974,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.147,
+      "end" : 2.449,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.689,
+      "end" : 3.076,
+      "gloss_id" : "그만두다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.26,
+      "end" : 3.455,
+      "gloss_id" : "이전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.709,
+      "end" : 4.124,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.339,
+      "end" : 5.243,
+      "gloss_id" : "옮기다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.466,
+      "end" : 5.739,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.114,
+      "end" : 6.742,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.878,
+      "end" : 1.974,
+      "loc" : "0",
+      "word" : "내가"
+    }, {
+      "start" : 2.147,
+      "end" : 2.449,
+      "loc" : "1",
+      "word" : "회사를"
+    }, {
+      "start" : 2.689,
+      "end" : 3.076,
+      "loc" : "2",
+      "word" : "그만두기"
+    }, {
+      "start" : 3.26,
+      "end" : 3.455,
+      "loc" : "3",
+      "word" : "전에"
+    }, {
+      "start" : 3.709,
+      "end" : 4.124,
+      "loc" : "4",
+      "word" : "여행을"
+    }, {
+      "start" : 4.339,
+      "end" : 5.746,
+      "loc" : "5",
+      "word" : "해야겠다고"
+    }, {
+      "start" : 6.114,
+      "end" : 6.742,
+      "loc" : "6,7",
+      "word" : "생각을 했어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.147,
+      "end" : 2.449,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.689,
+      "end" : 3.458,
+      "gloss_id" : "그만두다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.709,
+      "end" : 4.124,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.466,
+      "end" : 6.745,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.689,
+      "end" : 3.076
+    }, {
+      "descriptor" : "",
+      "start" : 6.114,
+      "end" : 6.742
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.339,
+      "end" : 6.716
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.878,
+      "end" : 4.092
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784550",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:23:43",
+    "sentence_ID" : "VXPAKOKS240784550",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

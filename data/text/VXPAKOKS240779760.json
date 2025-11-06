@@ -1,0 +1,163 @@
+{
+  "id" : "VXPAKOKS240779760",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "합정에 뭐가 맛있다고 했었어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.655,
+      "end" : 2.666,
+      "gloss_id" : "합정",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.896,
+      "end" : 3.036,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.265,
+      "end" : 3.72,
+      "gloss_id" : "맛있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.869,
+      "end" : 4.111,
+      "gloss_id" : "말하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "2",
+        "target" : "1"
+      }
+    }, {
+      "start" : 4.264,
+      "end" : 4.498,
+      "gloss_id" : "한적있다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.686,
+      "end" : 5.182,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.655,
+      "end" : 3.038,
+      "loc" : "0",
+      "word" : "합정에"
+    }, {
+      "start" : 3.265,
+      "end" : 3.72,
+      "loc" : "2",
+      "word" : "맛있다고"
+    }, {
+      "start" : 3.869,
+      "end" : 4.491,
+      "loc" : "3",
+      "word" : "했었어?"
+    }, {
+      "start" : 4.686,
+      "end" : 5.182,
+      "loc" : "1",
+      "word" : "뭐가"
+    } ],
+    "sign_gestures_weak" : null
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "합정",
+      "start" : 1.655,
+      "end" : 2.666
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.896,
+      "end" : 3.722
+    }, {
+      "descriptor" : "",
+      "start" : 3.869,
+      "end" : 4.111
+    }, {
+      "descriptor" : "",
+      "start" : 4.686,
+      "end" : 5.182
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.943,
+      "end" : 4.111
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.265,
+      "end" : 4.108
+    }, {
+      "descriptor" : "",
+      "start" : 4.686,
+      "end" : 5.182
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.264,
+      "end" : 4.498
+    }, {
+      "descriptor" : "",
+      "start" : 2.896,
+      "end" : 3.036
+    }, {
+      "descriptor" : "",
+      "start" : 4.686,
+      "end" : 5.182
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779760",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:01:20",
+    "sentence_ID" : "VXPAKOKS240779760",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

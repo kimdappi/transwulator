@@ -1,0 +1,135 @@
+{
+  "id" : "VXPAKOKS240789560",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "혹시 비건식에 대해서 먹어 본 적 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.38,
+      "end" : 1.753,
+      "gloss_id" : "바꾸다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.186,
+      "end" : 2.41,
+      "gloss_id" : "방식2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.619,
+      "end" : 2.782,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.952,
+      "end" : 3.509,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.38,
+      "end" : 2.411,
+      "loc" : "0,1,2",
+      "word" : "혹시 비건식에 대해서"
+    }, {
+      "start" : 2.619,
+      "end" : 2.782,
+      "loc" : "3",
+      "word" : "먹어"
+    }, {
+      "start" : 2.952,
+      "end" : 3.509,
+      "loc" : "4,5,6",
+      "word" : "본 적 있어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.186,
+      "end" : 2.41,
+      "gloss_id" : "방식2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.975,
+      "end" : 3.509
+    }, {
+      "descriptor" : "",
+      "start" : 2.186,
+      "end" : 2.383
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.19,
+      "end" : 2.383
+    }, {
+      "descriptor" : "",
+      "start" : 2.973,
+      "end" : 3.509
+    }, {
+      "descriptor" : "",
+      "start" : 1.467,
+      "end" : 1.753
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.186,
+      "end" : 2.383
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.572,
+      "end" : 3.509
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789560",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:56:22",
+    "sentence_ID" : "VXPAKOKS240789560",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

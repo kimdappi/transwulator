@@ -1,0 +1,107 @@
+{
+  "id" : "VXPAKOKS240789260",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "먹어 보고 싶은 음식 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.926,
+      "end" : 2.394,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.61,
+      "end" : 3.121,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.247,
+      "end" : 3.586,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.61,
+      "end" : 3.121,
+      "loc" : "2",
+      "word" : "싶은"
+    }, {
+      "start" : 1.926,
+      "end" : 2.394,
+      "loc" : "0,1,3",
+      "word" : "먹어 보고 음식"
+    }, {
+      "start" : 3.247,
+      "end" : 3.586,
+      "loc" : "4",
+      "word" : "있어?"
+    } ],
+    "sign_gestures_weak" : null
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.247,
+      "end" : 3.586
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.61,
+      "end" : 3.121
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.61,
+      "end" : 3.016
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.247,
+      "end" : 3.586
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789260",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:53:39",
+    "sentence_ID" : "VXPAKOKS240789260",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,157 @@
+{
+  "id" : "VXPAKOKS240786540",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 계속 그냥 꾸준히 헬스할 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.463,
+      "end" : 1.837,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.267,
+      "end" : 2.883,
+      "gloss_id" : "그냥1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.211,
+      "end" : 3.785,
+      "gloss_id" : "운동2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.144,
+      "end" : 4.332,
+      "gloss_id" : "계속1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.517,
+      "end" : 4.837,
+      "gloss_id" : "아마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.463,
+      "end" : 1.837,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.267,
+      "end" : 2.883,
+      "loc" : "2",
+      "word" : "그냥"
+    }, {
+      "start" : 3.211,
+      "end" : 3.785,
+      "loc" : "4,5",
+      "word" : "헬스할 거"
+    }, {
+      "start" : 4.144,
+      "end" : 4.332,
+      "loc" : "1,3",
+      "word" : "계속 꾸준히"
+    }, {
+      "start" : 4.517,
+      "end" : 4.837,
+      "loc" : "6",
+      "word" : "같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.211,
+      "end" : 3.785,
+      "gloss_id" : "운동2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.144,
+      "end" : 4.332,
+      "gloss_id" : "계속1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.267,
+      "end" : 2.883
+    }, {
+      "descriptor" : "",
+      "start" : 3.211,
+      "end" : 3.785
+    }, {
+      "descriptor" : "",
+      "start" : 4.144,
+      "end" : 4.332
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.267,
+      "end" : 4.825
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.211,
+      "end" : 3.785
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.463,
+      "end" : 1.837
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786540",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:27:47",
+    "sentence_ID" : "VXPAKOKS240786540",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

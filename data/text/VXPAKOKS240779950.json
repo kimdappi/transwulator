@@ -1,0 +1,323 @@
+{
+  "id" : "VXPAKOKS240779950",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "동양계 사람들은 알코올 해독력이 낮기 때문에 빨리 먹으면 건강에 매우 안 좋지.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.834,
+      "end" : 1.956,
+      "gloss_id" : "아시아2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.141,
+      "end" : 2.404,
+      "gloss_id" : "아시아1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.493,
+      "end" : 2.627,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.693,
+      "end" : 3.046,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.289,
+      "end" : 3.671,
+      "gloss_id" : "술1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.857,
+      "end" : 4.16,
+      "gloss_id" : "가라앉다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.365,
+      "end" : 4.544,
+      "gloss_id" : "힘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.811,
+      "end" : 5.125,
+      "gloss_id" : "부족1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.458,
+      "end" : 5.625,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.785,
+      "end" : 6.043,
+      "gloss_id" : "빨리1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.291,
+      "end" : 6.673,
+      "gloss_id" : "마시다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.81,
+      "end" : 7.045,
+      "gloss_id" : "몸1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.205,
+      "end" : 7.361,
+      "gloss_id" : "건강1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.56,
+      "end" : 7.66,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.769,
+      "end" : 7.965,
+      "gloss_id" : "아니다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.834,
+      "end" : 2.407,
+      "loc" : "0",
+      "word" : "동양계"
+    }, {
+      "start" : 2.493,
+      "end" : 3.049,
+      "loc" : "1",
+      "word" : "사람들은"
+    }, {
+      "start" : 3.289,
+      "end" : 3.671,
+      "loc" : "2",
+      "word" : "알코올"
+    }, {
+      "start" : 3.857,
+      "end" : 4.549,
+      "loc" : "3",
+      "word" : "해독력이"
+    }, {
+      "start" : 4.811,
+      "end" : 5.125,
+      "loc" : "4",
+      "word" : "낮기"
+    }, {
+      "start" : 5.458,
+      "end" : 5.625,
+      "loc" : "5",
+      "word" : "때문에"
+    }, {
+      "start" : 5.785,
+      "end" : 6.043,
+      "loc" : "6",
+      "word" : "빨리"
+    }, {
+      "start" : 6.291,
+      "end" : 6.673,
+      "loc" : "7",
+      "word" : "먹으면"
+    }, {
+      "start" : 6.822,
+      "end" : 7.36,
+      "loc" : "8",
+      "word" : "건강에"
+    }, {
+      "start" : 7.56,
+      "end" : 7.66,
+      "loc" : "11",
+      "word" : "좋지."
+    }, {
+      "start" : 7.769,
+      "end" : 7.965,
+      "loc" : "9,10",
+      "word" : "매우 안"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.493,
+      "end" : 3.05,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.458,
+      "end" : 5.625,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.816,
+      "end" : 7.045,
+      "gloss_id" : "몸1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.205,
+      "end" : 7.361,
+      "gloss_id" : "건강1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.693,
+      "end" : 3.046
+    }, {
+      "descriptor" : "",
+      "start" : 2.141,
+      "end" : 2.404
+    }, {
+      "descriptor" : "",
+      "start" : 4.365,
+      "end" : 4.544
+    }, {
+      "descriptor" : "",
+      "start" : 4.811,
+      "end" : 5.125
+    }, {
+      "descriptor" : "",
+      "start" : 5.458,
+      "end" : 5.625
+    }, {
+      "descriptor" : "",
+      "start" : 5.785,
+      "end" : 6.043
+    }, {
+      "descriptor" : "",
+      "start" : 7.205,
+      "end" : 7.361
+    }, {
+      "descriptor" : "",
+      "start" : 7.56,
+      "end" : 7.97
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.458,
+      "end" : 5.625
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.141,
+      "end" : 3.046
+    }, {
+      "descriptor" : "",
+      "start" : 4.365,
+      "end" : 5.124
+    }, {
+      "descriptor" : "",
+      "start" : 6.843,
+      "end" : 7.659
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.141,
+      "end" : 3.041
+    }, {
+      "descriptor" : "",
+      "start" : 5.463,
+      "end" : 6.673
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779950",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:02:11",
+    "sentence_ID" : "VXPAKOKS240779950",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

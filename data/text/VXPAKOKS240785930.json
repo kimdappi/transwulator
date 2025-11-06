@@ -1,0 +1,403 @@
+{
+  "id" : "VXPAKOKS240785930",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "외출을 하려 그러면 평균 일반인들이 한 1시간인가 그런데 몸 불편하신 분들 휠체어 타고 다니신 분들은 3시간 정도 빨리 출발한다 하더라고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.414,
+      "end" : 1.629,
+      "gloss_id" : "밖1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.896,
+      "end" : 2.701,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.987,
+      "end" : 3.202,
+      "gloss_id" : "맵다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.332,
+      "end" : 3.494,
+      "gloss_id" : "지시2#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.713,
+      "end" : 3.899,
+      "gloss_id" : "점수1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.636,
+      "end" : 4.9,
+      "gloss_id" : "시간:1시간",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.144,
+      "end" : 5.781,
+      "gloss_id" : "충분하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.097,
+      "end" : 6.558,
+      "gloss_id" : "몸1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.737,
+      "end" : 7.198,
+      "gloss_id" : "귀찮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.692,
+      "end" : 8.458,
+      "gloss_id" : "휠체어1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.795,
+      "end" : 9.059,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.281,
+      "end" : 9.587,
+      "gloss_id" : "겸손1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.885,
+      "end" : 10.114,
+      "gloss_id" : "시간:3시간",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.304,
+      "end" : 10.455,
+      "gloss_id" : "이전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.61,
+      "end" : 11.141,
+      "gloss_id" : "~하자2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.417,
+      "end" : 12.008,
+      "gloss_id" : "말하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "3",
+        "target" : "1"
+      }
+    }, {
+      "start" : 4.034,
+      "end" : 4.396,
+      "gloss_id" : "평균1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.414,
+      "end" : 1.629,
+      "loc" : "0",
+      "word" : "외출을"
+    }, {
+      "start" : 2.987,
+      "end" : 3.49,
+      "loc" : "4",
+      "word" : "일반인들이"
+    }, {
+      "start" : 3.713,
+      "end" : 4.391,
+      "loc" : "3",
+      "word" : "평균"
+    }, {
+      "start" : 1.896,
+      "end" : 2.701,
+      "loc" : "1,2",
+      "word" : "하려 그러면"
+    }, {
+      "start" : 6.097,
+      "end" : 6.558,
+      "loc" : "8",
+      "word" : "몸"
+    }, {
+      "start" : 6.737,
+      "end" : 7.198,
+      "loc" : "9,10",
+      "word" : "불편하신 분들"
+    }, {
+      "start" : 7.681,
+      "end" : 8.459,
+      "loc" : "11,12",
+      "word" : "휠체어 타고"
+    }, {
+      "start" : 8.795,
+      "end" : 9.586,
+      "loc" : "13,14",
+      "word" : "다니신 분들은"
+    }, {
+      "start" : 9.885,
+      "end" : 10.114,
+      "loc" : "15,16",
+      "word" : "3시간 정도"
+    }, {
+      "start" : 10.304,
+      "end" : 10.455,
+      "loc" : "17",
+      "word" : "빨리"
+    }, {
+      "start" : 10.61,
+      "end" : 11.141,
+      "loc" : "18",
+      "word" : "출발한다"
+    }, {
+      "start" : 11.417,
+      "end" : 11.997,
+      "loc" : "19",
+      "word" : "하더라고."
+    }, {
+      "start" : 4.636,
+      "end" : 5.765,
+      "loc" : "5,6,7",
+      "word" : "한 1시간인가 그런데"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.414,
+      "end" : 1.629,
+      "gloss_id" : "밖1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.034,
+      "end" : 4.396,
+      "gloss_id" : "평균1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.636,
+      "end" : 4.9,
+      "gloss_id" : "시간:1시간",
+      "express" : "d",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.097,
+      "end" : 6.558,
+      "gloss_id" : "몸1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.737,
+      "end" : 7.198,
+      "gloss_id" : "귀찮다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.885,
+      "end" : 10.114,
+      "gloss_id" : "시간:3시간",
+      "express" : "d",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.304,
+      "end" : 10.455,
+      "gloss_id" : "이전1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.692,
+      "end" : 8.458,
+      "gloss_id" : "휠체어1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.896,
+      "end" : 2.701
+    }, {
+      "descriptor" : "",
+      "start" : 4.034,
+      "end" : 4.396
+    }, {
+      "descriptor" : "",
+      "start" : 5.144,
+      "end" : 5.781
+    }, {
+      "descriptor" : "",
+      "start" : 9.281,
+      "end" : 9.587
+    }, {
+      "descriptor" : "",
+      "start" : 10.61,
+      "end" : 11.141
+    }, {
+      "descriptor" : "",
+      "start" : 11.417,
+      "end" : 11.997
+    }, {
+      "descriptor" : "",
+      "start" : 7.692,
+      "end" : 8.458
+    }, {
+      "descriptor" : "",
+      "start" : 6.737,
+      "end" : 7.198
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 10.908,
+      "end" : 11.141
+    }, {
+      "descriptor" : "",
+      "start" : 11.53,
+      "end" : 11.997
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.896,
+      "end" : 2.701
+    }, {
+      "descriptor" : "",
+      "start" : 4.636,
+      "end" : 4.9
+    }, {
+      "descriptor" : "",
+      "start" : 9.281,
+      "end" : 11.949
+    }, {
+      "descriptor" : "",
+      "start" : 7.692,
+      "end" : 8.458
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 4.034,
+      "end" : 4.396
+    }, {
+      "descriptor" : "",
+      "start" : 5.144,
+      "end" : 5.781
+    }, {
+      "descriptor" : "",
+      "start" : 6.737,
+      "end" : 7.164
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.987,
+      "end" : 4.39
+    }, {
+      "descriptor" : "",
+      "start" : 6.097,
+      "end" : 6.558
+    }, {
+      "descriptor" : "",
+      "start" : 8.795,
+      "end" : 9.059
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785930",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:23:20",
+    "sentence_ID" : "VXPAKOKS240785930",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

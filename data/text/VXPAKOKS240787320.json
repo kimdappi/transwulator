@@ -1,0 +1,122 @@
+{
+  "id" : "VXPAKOKS240787320",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "주말에 다들 뭐해?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.199,
+      "end" : 2.874,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.108,
+      "end" : 3.274,
+      "gloss_id" : "토요일1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.407,
+      "end" : 3.789,
+      "gloss_id" : "일요일2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.915,
+      "end" : 4.43,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.199,
+      "end" : 2.874,
+      "loc" : "1",
+      "word" : "다들"
+    }, {
+      "start" : 3.108,
+      "end" : 3.793,
+      "loc" : "0",
+      "word" : "주말에"
+    }, {
+      "start" : 3.915,
+      "end" : 4.43,
+      "loc" : "2",
+      "word" : "뭐해?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.108,
+      "end" : 3.274,
+      "gloss_id" : "토요일1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.407,
+      "end" : 3.789,
+      "gloss_id" : "일요일2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.915,
+      "end" : 4.43
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.199,
+      "end" : 4.436
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787320",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:33:32",
+    "sentence_ID" : "VXPAKOKS240787320",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

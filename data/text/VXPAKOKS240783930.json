@@ -1,0 +1,187 @@
+{
+  "id" : "VXPAKOKS240783930",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "정말 하고 싶은 일을 하고 싶어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 3.623,
+      "end" : 4.069,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.319,
+      "end" : 4.727,
+      "gloss_id" : "하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.113,
+      "end" : 5.483,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.761,
+      "end" : 6.337,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.403,
+      "end" : 6.479,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.659,
+      "end" : 6.838,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.042,
+      "end" : 7.191,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.623,
+      "end" : 4.069,
+      "loc" : "0",
+      "word" : "정말"
+    }, {
+      "start" : 4.319,
+      "end" : 4.727,
+      "loc" : "1",
+      "word" : "하고"
+    }, {
+      "start" : 5.113,
+      "end" : 5.483,
+      "loc" : "2",
+      "word" : "싶은"
+    }, {
+      "start" : 5.761,
+      "end" : 6.459,
+      "loc" : "3",
+      "word" : "일을"
+    }, {
+      "start" : 6.659,
+      "end" : 6.838,
+      "loc" : "4",
+      "word" : "하고"
+    }, {
+      "start" : 7.042,
+      "end" : 7.191,
+      "loc" : "5",
+      "word" : "싶어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.319,
+      "end" : 5.483,
+      "gloss_id" : "하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.761,
+      "end" : 6.459,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.659,
+      "end" : 7.189,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.623,
+      "end" : 4.069
+    }, {
+      "descriptor" : "",
+      "start" : 5.761,
+      "end" : 6.337
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.631,
+      "end" : 4.069
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.12,
+      "end" : 7.182
+    }, {
+      "descriptor" : "",
+      "start" : 3.623,
+      "end" : 4.069
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.761,
+      "end" : 6.337
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783930",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:19:59",
+    "sentence_ID" : "VXPAKOKS240783930",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

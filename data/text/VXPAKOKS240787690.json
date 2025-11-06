@@ -1,0 +1,215 @@
+{
+  "id" : "VXPAKOKS240787690",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "나도 요즘 유튜브에서 단편 영화를 많이 찾아 보고 있어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.355,
+      "end" : 1.468,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.651,
+      "end" : 2.14,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.42,
+      "end" : 2.584,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.836,
+      "end" : 3.268,
+      "gloss_id" : "유튜브1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.633,
+      "end" : 3.803,
+      "gloss_id" : "가깝다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.049,
+      "end" : 4.498,
+      "gloss_id" : "영상1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.635,
+      "end" : 4.698,
+      "gloss_id" : "보다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 5.045,
+      "end" : 5.534,
+      "gloss_id" : "여러번1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.355,
+      "end" : 2.128,
+      "loc" : "0",
+      "word" : "나도"
+    }, {
+      "start" : 2.42,
+      "end" : 2.584,
+      "loc" : "1",
+      "word" : "요즘"
+    }, {
+      "start" : 2.836,
+      "end" : 3.268,
+      "loc" : "2",
+      "word" : "유튜브에서"
+    }, {
+      "start" : 3.633,
+      "end" : 3.803,
+      "loc" : "3",
+      "word" : "단편"
+    }, {
+      "start" : 4.049,
+      "end" : 4.498,
+      "loc" : "4",
+      "word" : "영화를"
+    }, {
+      "start" : 4.635,
+      "end" : 4.698,
+      "loc" : "7,8",
+      "word" : "보고 있어."
+    }, {
+      "start" : 5.045,
+      "end" : 5.534,
+      "loc" : "5,6",
+      "word" : "많이 찾아"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.651,
+      "end" : 2.14,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.42,
+      "end" : 2.584,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.836,
+      "end" : 3.268,
+      "gloss_id" : "유튜브1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.633,
+      "end" : 3.803,
+      "gloss_id" : "가깝다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.049,
+      "end" : 5.534,
+      "gloss_id" : "영상1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.045,
+      "end" : 5.534
+    }, {
+      "descriptor" : "",
+      "start" : 1.651,
+      "end" : 2.14
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.355,
+      "end" : 3.227
+    }, {
+      "descriptor" : "",
+      "start" : 3.633,
+      "end" : 3.803
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 5.045,
+      "end" : 5.204
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.049,
+      "end" : 4.595
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787690",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:37:07",
+    "sentence_ID" : "VXPAKOKS240787690",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

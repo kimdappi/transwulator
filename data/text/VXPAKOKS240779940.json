@@ -1,0 +1,103 @@
+{
+  "id" : "VXPAKOKS240779940",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "난 소주 괜찮아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.156,
+      "end" : 1.285,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.449,
+      "end" : 1.642,
+      "gloss_id" : "소주1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.964,
+      "end" : 2.428,
+      "gloss_id" : "괜찮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.156,
+      "end" : 1.285,
+      "loc" : "0",
+      "word" : "난"
+    }, {
+      "start" : 1.449,
+      "end" : 1.642,
+      "loc" : "1",
+      "word" : "소주"
+    }, {
+      "start" : 1.964,
+      "end" : 2.428,
+      "loc" : "2",
+      "word" : "괜찮아."
+    } ],
+    "sign_gestures_weak" : null
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.449,
+      "end" : 1.642
+    }, {
+      "descriptor" : "",
+      "start" : 1.964,
+      "end" : 2.428
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.449,
+      "end" : 2.425
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779940",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:02:05",
+    "sentence_ID" : "VXPAKOKS240779940",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

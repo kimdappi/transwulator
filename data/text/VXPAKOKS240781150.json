@@ -1,0 +1,175 @@
+{
+  "id" : "VXPAKOKS240781150",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "아파트에 보면은 개를 많이 키우잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.787,
+      "end" : 2.063,
+      "gloss_id" : "아파트1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.297,
+      "end" : 2.605,
+      "gloss_id" : "보다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.006,
+      "end" : 3.202,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.415,
+      "end" : 3.814,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.076,
+      "end" : 4.533,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.662,
+      "end" : 4.922,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.787,
+      "end" : 2.063,
+      "loc" : "0",
+      "word" : "아파트에"
+    }, {
+      "start" : 2.297,
+      "end" : 2.605,
+      "loc" : "1",
+      "word" : "보면은"
+    }, {
+      "start" : 3.006,
+      "end" : 3.202,
+      "loc" : "2",
+      "word" : "개를"
+    }, {
+      "start" : 3.415,
+      "end" : 4.912,
+      "loc" : "3,4",
+      "word" : "많이 키우잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.787,
+      "end" : 2.063,
+      "gloss_id" : "아파트1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.006,
+      "end" : 3.202,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.415,
+      "end" : 3.814,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.076,
+      "end" : 4.533,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.297,
+      "end" : 2.605
+    }, {
+      "descriptor" : "",
+      "start" : 3.415,
+      "end" : 4.528
+    }, {
+      "descriptor" : "",
+      "start" : 4.662,
+      "end" : 4.922
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.41,
+      "end" : 2.605
+    }, {
+      "descriptor" : "",
+      "start" : 4.156,
+      "end" : 4.533
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.419,
+      "end" : 4.533
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240781150",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:07:06",
+    "sentence_ID" : "VXPAKOKS240781150",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

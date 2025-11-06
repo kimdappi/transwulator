@@ -1,0 +1,197 @@
+{
+  "id" : "VXPAKOKS240780410",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 집이 부천이다 보니까 서울로 가려면 여러 가지 지하철을 탈 수밖에 없는 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.479,
+      "end" : 1.624,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.775,
+      "end" : 1.962,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.246,
+      "end" : 3.397,
+      "gloss_id" : "부천1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.759,
+      "end" : 3.909,
+      "gloss_id" : "서울1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.097,
+      "end" : 4.422,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.658,
+      "end" : 5.465,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.02,
+      "end" : 6.192,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.394,
+      "end" : 7.254,
+      "gloss_id" : "대신1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.479,
+      "end" : 1.624,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 1.775,
+      "end" : 1.962,
+      "loc" : "1",
+      "word" : "집이"
+    }, {
+      "start" : 2.246,
+      "end" : 3.397,
+      "loc" : "2,3",
+      "word" : "부천이다 보니까"
+    }, {
+      "start" : 3.759,
+      "end" : 3.909,
+      "loc" : "4",
+      "word" : "서울로"
+    }, {
+      "start" : 4.097,
+      "end" : 5.46,
+      "loc" : "5",
+      "word" : "가려면"
+    }, {
+      "start" : 6.02,
+      "end" : 6.192,
+      "loc" : "8",
+      "word" : "지하철을"
+    }, {
+      "start" : 6.394,
+      "end" : 7.254,
+      "loc" : "6,7,9,10,11,12,13",
+      "word" : "여러 가지 탈 수밖에 없는 거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.775,
+      "end" : 1.962,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.02,
+      "end" : 6.192,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.394,
+      "end" : 7.254,
+      "gloss_id" : "대신1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.775,
+      "end" : 1.962
+    }, {
+      "descriptor" : "",
+      "start" : 4.658,
+      "end" : 5.465
+    }, {
+      "descriptor" : "",
+      "start" : 6.394,
+      "end" : 7.254
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 6.394,
+      "end" : 7.254
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.106,
+      "end" : 5.021
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780410",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:03:59",
+    "sentence_ID" : "VXPAKOKS240780410",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

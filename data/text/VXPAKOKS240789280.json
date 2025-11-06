@@ -1,0 +1,200 @@
+{
+  "id" : "VXPAKOKS240789280",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "너는 가고 싶은 지역이나 뭐 놀러 갈 곳 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.786,
+      "end" : 1.942,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.302,
+      "end" : 2.571,
+      "gloss_id" : "지역1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.66,
+      "end" : 2.762,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.94,
+      "end" : 3.267,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.695,
+      "end" : 3.852,
+      "gloss_id" : "놀다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.039,
+      "end" : 4.166,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.323,
+      "end" : 4.607,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.764,
+      "end" : 5.465,
+      "gloss_id" : "곳1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.786,
+      "end" : 1.942,
+      "loc" : "0",
+      "word" : "너는"
+    }, {
+      "start" : 2.302,
+      "end" : 2.571,
+      "loc" : "3",
+      "word" : "지역이나"
+    }, {
+      "start" : 2.66,
+      "end" : 2.762,
+      "loc" : "1",
+      "word" : "가고"
+    }, {
+      "start" : 2.934,
+      "end" : 3.267,
+      "loc" : "2",
+      "word" : "싶은"
+    }, {
+      "start" : 4.764,
+      "end" : 5.465,
+      "loc" : "7,8",
+      "word" : "곳 있어?"
+    }, {
+      "start" : 3.695,
+      "end" : 4.606,
+      "loc" : "4,5,6",
+      "word" : "뭐 놀러 갈"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.302,
+      "end" : 2.571,
+      "gloss_id" : "지역1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.695,
+      "end" : 3.852,
+      "gloss_id" : "놀다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.323,
+      "end" : 4.607,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.934,
+      "end" : 3.267
+    }, {
+      "descriptor" : "",
+      "start" : 4.039,
+      "end" : 4.166
+    }, {
+      "descriptor" : "",
+      "start" : 4.764,
+      "end" : 5.465
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.786,
+      "end" : 4.592
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.034,
+      "end" : 3.267
+    }, {
+      "descriptor" : "",
+      "start" : 4.039,
+      "end" : 4.166
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.764,
+      "end" : 5.465
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789280",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:54:43",
+    "sentence_ID" : "VXPAKOKS240789280",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

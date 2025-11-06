@@ -1,0 +1,201 @@
+{
+  "id" : "VXPAKOKS240781610",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "사람이라면 1년 365일 휴가 가고 싶은 게 사람의 마음이잖아요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.906,
+      "end" : 3.083,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.272,
+      "end" : 3.703,
+      "gloss_id" : "누구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.93,
+      "end" : 4.361,
+      "gloss_id" : "같다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.529,
+      "end" : 5.275,
+      "gloss_id" : "날짜(활용):1년",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.476,
+      "end" : 6.392,
+      "gloss_id" : "365",
+      "express" : "n",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.614,
+      "end" : 6.837,
+      "gloss_id" : "쉬다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.167,
+      "end" : 7.821,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 4.529,
+      "end" : 5.275,
+      "loc" : "1",
+      "word" : "1년"
+    }, {
+      "start" : 5.476,
+      "end" : 6.392,
+      "loc" : "2",
+      "word" : "365일"
+    }, {
+      "start" : 6.614,
+      "end" : 6.837,
+      "loc" : "3,4",
+      "word" : "휴가 가고"
+    }, {
+      "start" : 7.167,
+      "end" : 7.821,
+      "loc" : "5,6",
+      "word" : "싶은 게"
+    }, {
+      "start" : 2.906,
+      "end" : 3.683,
+      "loc" : "0",
+      "word" : "사람이라면"
+    }, {
+      "start" : 3.93,
+      "end" : 4.361,
+      "loc" : "7,8",
+      "word" : "사람의 마음이잖아요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.906,
+      "end" : 3.083,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.272,
+      "end" : 3.703,
+      "gloss_id" : "누구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.93,
+      "end" : 4.361,
+      "gloss_id" : "같다1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.529,
+      "end" : 5.275,
+      "gloss_id" : "날짜(활용):1년",
+      "express" : "d",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.614,
+      "end" : 6.837,
+      "gloss_id" : "쉬다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "육십오",
+      "start" : 5.476,
+      "end" : 6.392
+    }, {
+      "descriptor" : "일년",
+      "start" : 4.529,
+      "end" : 5.275
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.93,
+      "end" : 4.361
+    }, {
+      "descriptor" : "",
+      "start" : 7.167,
+      "end" : 7.821
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 6.614,
+      "end" : 7.806
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 7.167,
+      "end" : 7.821
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240781610",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:09:06",
+    "sentence_ID" : "VXPAKOKS240781610",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,140 @@
+{
+  "id" : "VXPAKOKS240782070",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "평일에는 거의 술 참거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 3.389,
+      "end" : 3.511,
+      "gloss_id" : "보통1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.72,
+      "end" : 4.695,
+      "gloss_id" : "요일2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.962,
+      "end" : 5.67,
+      "gloss_id" : "술1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.94,
+      "end" : 6.381,
+      "gloss_id" : "참다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.717,
+      "end" : 7.017,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.389,
+      "end" : 4.683,
+      "loc" : "0",
+      "word" : "평일에는"
+    }, {
+      "start" : 4.962,
+      "end" : 5.67,
+      "loc" : "2",
+      "word" : "술"
+    }, {
+      "start" : 5.94,
+      "end" : 6.381,
+      "loc" : "3",
+      "word" : "참거든."
+    }, {
+      "start" : 6.717,
+      "end" : 7.017,
+      "loc" : "1",
+      "word" : "거의"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.389,
+      "end" : 3.511,
+      "gloss_id" : "보통1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.717,
+      "end" : 7.017,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 6.717,
+      "end" : 7.017
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.962,
+      "end" : 6.374
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.72,
+      "end" : 4.695
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782070",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:11:23",
+    "sentence_ID" : "VXPAKOKS240782070",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

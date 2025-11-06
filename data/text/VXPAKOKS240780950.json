@@ -1,0 +1,206 @@
+{
+  "id" : "VXPAKOKS240780950",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "다른 나라 사람들은 어떻게 살고 있는 건지 모르겠어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.488,
+      "end" : 1.571,
+      "gloss_id" : "다르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.677,
+      "end" : 1.818,
+      "gloss_id" : "나라1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.955,
+      "end" : 2.091,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.208,
+      "end" : 2.655,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.754,
+      "end" : 3.089,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.309,
+      "end" : 3.529,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.701,
+      "end" : 3.95,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.275,
+      "end" : 4.725,
+      "gloss_id" : "모르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.488,
+      "end" : 1.571,
+      "loc" : "0",
+      "word" : "다른"
+    }, {
+      "start" : 1.677,
+      "end" : 1.818,
+      "loc" : "1",
+      "word" : "나라"
+    }, {
+      "start" : 1.95,
+      "end" : 2.663,
+      "loc" : "2",
+      "word" : "사람들은"
+    }, {
+      "start" : 2.754,
+      "end" : 3.089,
+      "loc" : "4,5,6",
+      "word" : "살고 있는 건지"
+    }, {
+      "start" : 3.309,
+      "end" : 3.938,
+      "loc" : "3",
+      "word" : "어떻게"
+    }, {
+      "start" : 4.275,
+      "end" : 4.725,
+      "loc" : "7",
+      "word" : "모르겠어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.488,
+      "end" : 1.571,
+      "gloss_id" : "다르다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.677,
+      "end" : 1.818,
+      "gloss_id" : "나라1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.754,
+      "end" : 3.089,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.309,
+      "end" : 3.529,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.955,
+      "end" : 2.091,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.208,
+      "end" : 2.69
+    }, {
+      "descriptor" : "",
+      "start" : 3.701,
+      "end" : 3.95
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.275,
+      "end" : 4.725
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 4.275,
+      "end" : 4.606
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.9,
+      "end" : 2.687
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780950",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:06:15",
+    "sentence_ID" : "VXPAKOKS240780950",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

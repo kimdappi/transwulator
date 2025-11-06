@@ -1,0 +1,193 @@
+{
+  "id" : "VXPAKOKS240786300",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "진짜 주말용 차를 따로 갖고 있는 사람이 있긴 있더라.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.343,
+      "end" : 1.648,
+      "gloss_id" : "토요일1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.842,
+      "end" : 2.121,
+      "gloss_id" : "일요일1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.272,
+      "end" : 2.363,
+      "gloss_id" : "오직1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.59,
+      "end" : 2.915,
+      "gloss_id" : "전문1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.06,
+      "end" : 3.198,
+      "gloss_id" : "승용차1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.336,
+      "end" : 3.858,
+      "gloss_id" : "가지다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.055,
+      "end" : 4.112,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.234,
+      "end" : 5.101,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.343,
+      "end" : 2.917,
+      "loc" : "1",
+      "word" : "주말용"
+    }, {
+      "start" : 3.06,
+      "end" : 3.198,
+      "loc" : "2",
+      "word" : "차를"
+    }, {
+      "start" : 4.234,
+      "end" : 5.101,
+      "loc" : "0",
+      "word" : "진짜"
+    }, {
+      "start" : 3.336,
+      "end" : 4.114,
+      "loc" : "3,4,5,6,7,8",
+      "word" : "따로 갖고 있는 사람이 있긴 있더라."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.343,
+      "end" : 1.648,
+      "gloss_id" : "토요일1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.842,
+      "end" : 2.361,
+      "gloss_id" : "일요일1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.59,
+      "end" : 2.915,
+      "gloss_id" : "전문1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.06,
+      "end" : 3.198,
+      "gloss_id" : "승용차1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.273,
+      "end" : 2.915
+    }, {
+      "descriptor" : "",
+      "start" : 3.336,
+      "end" : 3.858
+    }, {
+      "descriptor" : "",
+      "start" : 4.234,
+      "end" : 5.101
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.59,
+      "end" : 2.915
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.336,
+      "end" : 3.858
+    }, {
+      "descriptor" : "",
+      "start" : 4.234,
+      "end" : 5.101
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786300",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:26:10",
+    "sentence_ID" : "VXPAKOKS240786300",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

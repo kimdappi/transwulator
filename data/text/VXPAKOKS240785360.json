@@ -1,0 +1,269 @@
+{
+  "id" : "VXPAKOKS240785360",
+  "opertor" : "label10",
+  "krlgg_sntenc" : {
+    "koreanText" : "내 주변 사람들도 킥보드를 타다가 다친 친구들이 많아서 킥보드는 안 타게 되더라.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.796,
+      "end" : 1.932,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.093,
+      "end" : 2.5,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.669,
+      "end" : 3.169,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.371,
+      "end" : 4.032,
+      "gloss_id" : "킥보드1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.347,
+      "end" : 4.644,
+      "gloss_id" : "실수1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.859,
+      "end" : 5.334,
+      "gloss_id" : "상처1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.817,
+      "end" : 6.3,
+      "gloss_id" : "여러번1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.743,
+      "end" : 6.972,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.108,
+      "end" : 7.244,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.353,
+      "end" : 7.988,
+      "gloss_id" : "킥보드1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.402,
+      "end" : 8.987,
+      "gloss_id" : "싫다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.796,
+      "end" : 1.932,
+      "loc" : "0",
+      "word" : "내"
+    }, {
+      "start" : 2.093,
+      "end" : 3.169,
+      "loc" : "1,2",
+      "word" : "주변 사람들도"
+    }, {
+      "start" : 3.371,
+      "end" : 4.032,
+      "loc" : "3,4",
+      "word" : "킥보드를 타다가"
+    }, {
+      "start" : 4.347,
+      "end" : 5.33,
+      "loc" : "5",
+      "word" : "다친"
+    }, {
+      "start" : 5.817,
+      "end" : 7.249,
+      "loc" : "6,7",
+      "word" : "친구들이 많아서"
+    }, {
+      "start" : 7.353,
+      "end" : 7.988,
+      "loc" : "8",
+      "word" : "킥보드는"
+    }, {
+      "start" : 8.402,
+      "end" : 8.987,
+      "loc" : "9,10,11",
+      "word" : "안 타게 되더라."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.093,
+      "end" : 2.5,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.371,
+      "end" : 4.032,
+      "gloss_id" : "킥보드1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.347,
+      "end" : 4.644,
+      "gloss_id" : "실수1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.859,
+      "end" : 5.334,
+      "gloss_id" : "상처1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.743,
+      "end" : 7.251,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.353,
+      "end" : 8.986,
+      "gloss_id" : "킥보드1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.796,
+      "end" : 3.177
+    }, {
+      "descriptor" : "",
+      "start" : 4.859,
+      "end" : 6.308
+    }, {
+      "descriptor" : "",
+      "start" : 7.353,
+      "end" : 7.988
+    }, {
+      "descriptor" : "",
+      "start" : 4.347,
+      "end" : 4.644
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.347,
+      "end" : 4.637
+    }, {
+      "descriptor" : "",
+      "start" : 6.743,
+      "end" : 6.904
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 8.402,
+      "end" : 8.987
+    }, {
+      "descriptor" : "",
+      "start" : 3.371,
+      "end" : 4.642
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.371,
+      "end" : 4.032
+    } ],
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 5.817,
+      "end" : 5.944
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.796,
+      "end" : 1.932
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785360",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 01:38:04",
+    "sentence_ID" : "VXPAKOKS240785360",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

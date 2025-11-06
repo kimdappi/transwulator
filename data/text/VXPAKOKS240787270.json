@@ -1,0 +1,147 @@
+{
+  "id" : "VXPAKOKS240787270",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "제주도도 배를 타고 갈 수 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.075,
+      "end" : 2.562,
+      "gloss_id" : "제주도1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.671,
+      "end" : 2.809,
+      "gloss_id" : "배1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.071,
+      "end" : 3.39,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.472,
+      "end" : 3.587,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.697,
+      "end" : 4.419,
+      "gloss_id" : "가능1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.075,
+      "end" : 2.562,
+      "loc" : "0",
+      "word" : "제주도도"
+    }, {
+      "start" : 2.671,
+      "end" : 2.809,
+      "loc" : "1",
+      "word" : "배를"
+    }, {
+      "start" : 3.071,
+      "end" : 3.39,
+      "loc" : "2",
+      "word" : "타고"
+    }, {
+      "start" : 3.454,
+      "end" : 4.416,
+      "loc" : "3,4,5",
+      "word" : "갈 수 있어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.075,
+      "end" : 2.562,
+      "gloss_id" : "제주도1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.671,
+      "end" : 2.809,
+      "gloss_id" : "배1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.071,
+      "end" : 3.39,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.697,
+      "end" : 4.419
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.697,
+      "end" : 4.419
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.664,
+      "end" : 4.409
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787270",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:33:10",
+    "sentence_ID" : "VXPAKOKS240787270",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

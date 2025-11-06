@@ -1,0 +1,283 @@
+{
+  "id" : "VXPAKOKS240787790",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "패키지여행 중에도 자유 여행처럼 따로 나와서 자유 시간을 가질 수 있다 했잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.469,
+      "end" : 1.732,
+      "gloss_id" : "가이드1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.844,
+      "end" : 2.969,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.268,
+      "end" : 3.743,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.97,
+      "end" : 4.369,
+      "gloss_id" : "자유1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.56,
+      "end" : 5.322,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.655,
+      "end" : 6.045,
+      "gloss_id" : "자유1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.19,
+      "end" : 6.352,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.536,
+      "end" : 7.002,
+      "gloss_id" : "같다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.236,
+      "end" : 7.627,
+      "gloss_id" : "소외되다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.768,
+      "end" : 7.903,
+      "gloss_id" : "가능1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.005,
+      "end" : 8.547,
+      "gloss_id" : "말하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "2",
+        "target" : "1"
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.469,
+      "end" : 2.956,
+      "loc" : "0,1",
+      "word" : "패키지여행 중에도"
+    }, {
+      "start" : 5.655,
+      "end" : 6.045,
+      "loc" : "2",
+      "word" : "자유"
+    }, {
+      "start" : 6.19,
+      "end" : 6.994,
+      "loc" : "3",
+      "word" : "여행처럼"
+    }, {
+      "start" : 7.236,
+      "end" : 7.627,
+      "loc" : "4,5",
+      "word" : "따로 나와서"
+    }, {
+      "start" : 3.268,
+      "end" : 5.314,
+      "loc" : "6,7",
+      "word" : "자유 시간을"
+    }, {
+      "start" : 7.768,
+      "end" : 7.903,
+      "loc" : "8,9,10",
+      "word" : "가질 수 있다"
+    }, {
+      "start" : 8.005,
+      "end" : 8.547,
+      "loc" : "11",
+      "word" : "했잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.469,
+      "end" : 1.732,
+      "gloss_id" : "가이드1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.844,
+      "end" : 2.969,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.268,
+      "end" : 3.743,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.97,
+      "end" : 4.369,
+      "gloss_id" : "자유1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.655,
+      "end" : 6.045,
+      "gloss_id" : "자유1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.19,
+      "end" : 6.352,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.536,
+      "end" : 7.002,
+      "gloss_id" : "같다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.236,
+      "end" : 7.627,
+      "gloss_id" : "소외되다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.844,
+      "end" : 2.969
+    }, {
+      "descriptor" : "",
+      "start" : 3.268,
+      "end" : 3.743
+    }, {
+      "descriptor" : "",
+      "start" : 4.56,
+      "end" : 5.322
+    }, {
+      "descriptor" : "",
+      "start" : 6.536,
+      "end" : 7.002
+    }, {
+      "descriptor" : "",
+      "start" : 8.005,
+      "end" : 8.547
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.768,
+      "end" : 7.903
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.268,
+      "end" : 4.309
+    }, {
+      "descriptor" : "",
+      "start" : 6.19,
+      "end" : 7.011
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.844,
+      "end" : 2.969
+    }, {
+      "descriptor" : "",
+      "start" : 4.56,
+      "end" : 5.322
+    }, {
+      "descriptor" : "",
+      "start" : 8.005,
+      "end" : 8.547
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787790",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:37:51",
+    "sentence_ID" : "VXPAKOKS240787790",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

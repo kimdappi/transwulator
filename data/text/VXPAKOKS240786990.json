@@ -1,0 +1,157 @@
+{
+  "id" : "VXPAKOKS240786990",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "저희 동네에 쌀국수 진짜 맛집이 있는데.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 5.04,
+      "end" : 5.758,
+      "gloss_id" : "동네1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.918,
+      "end" : 6.053,
+      "gloss_id" : "쌀1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.275,
+      "end" : 6.523,
+      "gloss_id" : "먹다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.846,
+      "end" : 7.077,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.358,
+      "end" : 7.748,
+      "gloss_id" : "맛있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.139,
+      "end" : 8.589,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 5.04,
+      "end" : 5.758,
+      "loc" : "0,1",
+      "word" : "저희 동네에"
+    }, {
+      "start" : 5.918,
+      "end" : 6.539,
+      "loc" : "2",
+      "word" : "쌀국수"
+    }, {
+      "start" : 6.846,
+      "end" : 7.077,
+      "loc" : "3",
+      "word" : "진짜"
+    }, {
+      "start" : 7.358,
+      "end" : 8.578,
+      "loc" : "4,5",
+      "word" : "맛집이 있는데."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 5.04,
+      "end" : 5.758,
+      "gloss_id" : "동네1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.275,
+      "end" : 6.523,
+      "gloss_id" : "먹다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 7.358,
+      "end" : 7.748
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.559,
+      "end" : 7.748
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.918,
+      "end" : 6.519
+    }, {
+      "descriptor" : "",
+      "start" : 6.846,
+      "end" : 7.749
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.04,
+      "end" : 5.758
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786990",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:30:57",
+    "sentence_ID" : "VXPAKOKS240786990",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,111 @@
+{
+  "id" : "VXPAKOKS240779680",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "못 먹는 음식 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.547,
+      "end" : 1.661,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.891,
+      "end" : 2.369,
+      "gloss_id" : "불가능3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.681,
+      "end" : 3.058,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.681,
+      "end" : 3.058,
+      "loc" : "3",
+      "word" : "있어?"
+    }, {
+      "start" : 1.547,
+      "end" : 1.661,
+      "loc" : "2",
+      "word" : "음식"
+    }, {
+      "start" : 1.891,
+      "end" : 2.369,
+      "loc" : "0,1",
+      "word" : "못 먹는"
+    } ],
+    "sign_gestures_weak" : null
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.14,
+      "end" : 2.369
+    }, {
+      "descriptor" : "",
+      "start" : 2.681,
+      "end" : 3.058
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.222,
+      "end" : 2.322
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.891,
+      "end" : 2.369
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.681,
+      "end" : 3.058
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779680",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:01:05",
+    "sentence_ID" : "VXPAKOKS240779680",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

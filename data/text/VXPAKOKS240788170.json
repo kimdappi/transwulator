@@ -1,0 +1,135 @@
+{
+  "id" : "VXPAKOKS240788170",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "탄산수는 나한테도 안 맞았어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.515,
+      "end" : 1.726,
+      "gloss_id" : "탄산1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.947,
+      "end" : 2.447,
+      "gloss_id" : "마시다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.667,
+      "end" : 2.798,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.99,
+      "end" : 3.228,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.449,
+      "end" : 3.976,
+      "gloss_id" : "맞지않다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.515,
+      "end" : 2.442,
+      "loc" : "0",
+      "word" : "탄산수는"
+    }, {
+      "start" : 2.667,
+      "end" : 3.225,
+      "loc" : "1",
+      "word" : "나한테도"
+    }, {
+      "start" : 3.449,
+      "end" : 3.976,
+      "loc" : "2,3",
+      "word" : "안 맞았어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.99,
+      "end" : 3.228,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.449,
+      "end" : 3.976,
+      "gloss_id" : "맞지않다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.99,
+      "end" : 3.228
+    } ],
+    "Mo1" : null,
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 3.36,
+      "end" : 3.736
+    } ],
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.515,
+      "end" : 3.979
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240788170",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:40:38",
+    "sentence_ID" : "VXPAKOKS240788170",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,241 @@
+{
+  "id" : "VXPAKOKS240780900",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "너 집이 부천이니까 경기 버스나 광역 버스 많이 이용하는 건가?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.962,
+      "end" : 2.088,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.323,
+      "end" : 2.466,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.839,
+      "end" : 3.679,
+      "gloss_id" : "부천1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.985,
+      "end" : 4.24,
+      "gloss_id" : "경기도2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.553,
+      "end" : 5.287,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.661,
+      "end" : 5.916,
+      "gloss_id" : "빨강1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.21,
+      "end" : 6.66,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.766,
+      "end" : 6.983,
+      "gloss_id" : "앉다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.253,
+      "end" : 7.608,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.962,
+      "end" : 2.088,
+      "loc" : "0",
+      "word" : "너"
+    }, {
+      "start" : 2.323,
+      "end" : 2.466,
+      "loc" : "1",
+      "word" : "집이"
+    }, {
+      "start" : 2.839,
+      "end" : 3.679,
+      "loc" : "2",
+      "word" : "부천이니까"
+    }, {
+      "start" : 3.985,
+      "end" : 4.24,
+      "loc" : "3",
+      "word" : "경기"
+    }, {
+      "start" : 4.553,
+      "end" : 5.287,
+      "loc" : "4",
+      "word" : "버스나"
+    }, {
+      "start" : 5.661,
+      "end" : 5.916,
+      "loc" : "5",
+      "word" : "광역"
+    }, {
+      "start" : 6.21,
+      "end" : 6.66,
+      "loc" : "6",
+      "word" : "버스"
+    }, {
+      "start" : 6.766,
+      "end" : 6.993,
+      "loc" : "8,9",
+      "word" : "이용하는 건가?"
+    }, {
+      "start" : 7.253,
+      "end" : 7.608,
+      "loc" : "7",
+      "word" : "많이"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.323,
+      "end" : 2.466,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.985,
+      "end" : 4.24,
+      "gloss_id" : "경기도2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.553,
+      "end" : 5.287,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.21,
+      "end" : 6.66,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.253,
+      "end" : 7.608,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.766,
+      "end" : 6.993,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.553,
+      "end" : 5.287
+    }, {
+      "descriptor" : "",
+      "start" : 6.21,
+      "end" : 6.66
+    }, {
+      "descriptor" : "",
+      "start" : 7.253,
+      "end" : 7.608
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.365,
+      "end" : 7.613
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 5.661,
+      "end" : 5.916
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 7.253,
+      "end" : 7.608
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780900",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:06:06",
+    "sentence_ID" : "VXPAKOKS240780900",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

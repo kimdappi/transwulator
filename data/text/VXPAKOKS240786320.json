@@ -1,0 +1,297 @@
+{
+  "id" : "VXPAKOKS240786320",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "배송비를 아끼기 위해서 내가 필요한 수량보다 3 4배 이상 더 많이 사는 사람을 본 적 있어요?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.535,
+      "end" : 1.815,
+      "gloss_id" : "보내다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 1.951,
+      "end" : 2.076,
+      "gloss_id" : "돈1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.365,
+      "end" : 2.451,
+      "gloss_id" : "아끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.668,
+      "end" : 3.22,
+      "gloss_id" : "목적1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.436,
+      "end" : 3.583,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.863,
+      "end" : 4.099,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.296,
+      "end" : 4.448,
+      "gloss_id" : "~보다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.711,
+      "end" : 5.119,
+      "gloss_id" : "배",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.352,
+      "end" : 5.899,
+      "gloss_id" : "배",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.209,
+      "end" : 6.656,
+      "gloss_id" : "사다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.878,
+      "end" : 7.091,
+      "gloss_id" : "보다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 7.343,
+      "end" : 8.018,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.535,
+      "end" : 2.076,
+      "loc" : "0",
+      "word" : "배송비를"
+    }, {
+      "start" : 2.365,
+      "end" : 2.451,
+      "loc" : "1",
+      "word" : "아끼기"
+    }, {
+      "start" : 2.668,
+      "end" : 3.22,
+      "loc" : "2",
+      "word" : "위해서"
+    }, {
+      "start" : 3.436,
+      "end" : 3.583,
+      "loc" : "3",
+      "word" : "내가"
+    }, {
+      "start" : 3.863,
+      "end" : 4.099,
+      "loc" : "4",
+      "word" : "필요한"
+    }, {
+      "start" : 4.296,
+      "end" : 4.448,
+      "loc" : "5",
+      "word" : "수량보다"
+    }, {
+      "start" : 4.711,
+      "end" : 5.119,
+      "loc" : "6",
+      "word" : "3"
+    }, {
+      "start" : 5.352,
+      "end" : 5.899,
+      "loc" : "7,8",
+      "word" : "4배 이상"
+    }, {
+      "start" : 6.209,
+      "end" : 6.656,
+      "loc" : "9,10,11,12",
+      "word" : "더 많이 사는 사람을"
+    }, {
+      "start" : 6.878,
+      "end" : 7.091,
+      "loc" : "13",
+      "word" : "본"
+    }, {
+      "start" : 7.343,
+      "end" : 8.018,
+      "loc" : "14,15",
+      "word" : "적 있어요?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.711,
+      "end" : 5.119,
+      "gloss_id" : "3",
+      "express" : "n",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.352,
+      "end" : 5.899,
+      "gloss_id" : "4",
+      "express" : "n",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.535,
+      "end" : 2.076,
+      "gloss_id" : "보내다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.365,
+      "end" : 2.451,
+      "gloss_id" : "아끼다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.668,
+      "end" : 3.22,
+      "gloss_id" : "목적1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.863,
+      "end" : 4.099,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.296,
+      "end" : 4.448,
+      "gloss_id" : "~보다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "배",
+      "start" : 4.711,
+      "end" : 5.119
+    }, {
+      "descriptor" : "배",
+      "start" : 5.352,
+      "end" : 5.899
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.668,
+      "end" : 3.22
+    }, {
+      "descriptor" : "",
+      "start" : 3.863,
+      "end" : 4.41
+    }, {
+      "descriptor" : "",
+      "start" : 7.343,
+      "end" : 8.018
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.535,
+      "end" : 3.223
+    }, {
+      "descriptor" : "",
+      "start" : 5.338,
+      "end" : 6.656
+    }, {
+      "descriptor" : "",
+      "start" : 3.863,
+      "end" : 4.441
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 6.878,
+      "end" : 8.001
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786320",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:26:20",
+    "sentence_ID" : "VXPAKOKS240786320",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

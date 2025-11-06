@@ -1,0 +1,272 @@
+{
+  "id" : "VXPAKOKS240785710",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "물가가 오른 만큼 배달비도 오르지만 너무 터무니없이 올리는 게 옳지 않다고 생각한다는 거야.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.259,
+      "end" : 1.754,
+      "gloss_id" : "물건2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.729,
+      "end" : 3.117,
+      "gloss_id" : "공범2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.349,
+      "end" : 3.558,
+      "gloss_id" : "보내다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 3.803,
+      "end" : 4.269,
+      "gloss_id" : "값오르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.451,
+      "end" : 5.054,
+      "gloss_id" : "맞다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.299,
+      "end" : 5.8,
+      "gloss_id" : "값오르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.106,
+      "end" : 6.578,
+      "gloss_id" : "깡패1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.919,
+      "end" : 7.027,
+      "gloss_id" : "올바르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.295,
+      "end" : 7.688,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.866,
+      "end" : 8.475,
+      "gloss_id" : "생각1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.259,
+      "end" : 1.754,
+      "loc" : "0",
+      "word" : "물가가"
+    }, {
+      "start" : 1.886,
+      "end" : 2.601,
+      "loc" : "1",
+      "word" : "오른"
+    }, {
+      "start" : 2.729,
+      "end" : 3.117,
+      "loc" : "2",
+      "word" : "만큼"
+    }, {
+      "start" : 3.349,
+      "end" : 3.558,
+      "loc" : "3",
+      "word" : "배달비도"
+    }, {
+      "start" : 3.811,
+      "end" : 5.039,
+      "loc" : "4",
+      "word" : "오르지만"
+    }, {
+      "start" : 7.866,
+      "end" : 8.475,
+      "loc" : "11,12",
+      "word" : "생각한다는 거야."
+    }, {
+      "start" : 6.911,
+      "end" : 7.027,
+      "loc" : "9",
+      "word" : "옳지"
+    }, {
+      "start" : 7.295,
+      "end" : 7.688,
+      "loc" : "10",
+      "word" : "않다고"
+    }, {
+      "start" : 5.299,
+      "end" : 5.8,
+      "loc" : "7,8",
+      "word" : "올리는 게"
+    }, {
+      "start" : 6.106,
+      "end" : 6.578,
+      "loc" : "5,6",
+      "word" : "너무 터무니없이"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.886,
+      "end" : 2.604,
+      "gloss_id" : "값오르다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.259,
+      "end" : 1.749,
+      "gloss_id" : "물건2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.729,
+      "end" : 3.117,
+      "gloss_id" : "공범2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.106,
+      "end" : 6.578,
+      "gloss_id" : "깡패1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.349,
+      "end" : 3.558,
+      "gloss_id" : "보내다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.886,
+      "end" : 2.578
+    }, {
+      "descriptor" : "",
+      "start" : 4.451,
+      "end" : 5.054
+    }, {
+      "descriptor" : "",
+      "start" : 6.106,
+      "end" : 6.578
+    }, {
+      "descriptor" : "",
+      "start" : 7.866,
+      "end" : 8.475
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.095,
+      "end" : 2.57
+    }, {
+      "descriptor" : "",
+      "start" : 3.349,
+      "end" : 3.558
+    }, {
+      "descriptor" : "",
+      "start" : 3.845,
+      "end" : 4.269
+    }, {
+      "descriptor" : "",
+      "start" : 7.295,
+      "end" : 7.688
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.803,
+      "end" : 7.672
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.451,
+      "end" : 5.054
+    }, {
+      "descriptor" : "",
+      "start" : 7.866,
+      "end" : 8.475
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.886,
+      "end" : 2.528
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785710",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:21:44",
+    "sentence_ID" : "VXPAKOKS240785710",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

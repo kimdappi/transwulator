@@ -1,0 +1,291 @@
+{
+  "id" : "VXPAKOKS240779300",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 고등학교 때부터 뉴스 보는 걸 좋아했는데 뉴스 주제가 복지에 관한 것들이었어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.417,
+      "end" : 1.569,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.76,
+      "end" : 1.835,
+      "gloss_id" : "고등1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.047,
+      "end" : 2.231,
+      "gloss_id" : "학생1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.359,
+      "end" : 2.65,
+      "gloss_id" : "부터3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.887,
+      "end" : 3.098,
+      "gloss_id" : "TV",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.335,
+      "end" : 3.749,
+      "gloss_id" : "이야기하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.002,
+      "end" : 4.127,
+      "gloss_id" : "보다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.34,
+      "end" : 5.033,
+      "gloss_id" : "취미1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.374,
+      "end" : 5.574,
+      "gloss_id" : "TV",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.817,
+      "end" : 6.028,
+      "gloss_id" : "이야기하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.214,
+      "end" : 6.58,
+      "gloss_id" : "주제1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.744,
+      "end" : 7.244,
+      "gloss_id" : "복지2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.432,
+      "end" : 7.771,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.417,
+      "end" : 1.569,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 1.76,
+      "end" : 2.224,
+      "loc" : "1",
+      "word" : "고등학교"
+    }, {
+      "start" : 2.359,
+      "end" : 2.65,
+      "loc" : "2",
+      "word" : "때부터"
+    }, {
+      "start" : 2.887,
+      "end" : 3.757,
+      "loc" : "3",
+      "word" : "뉴스"
+    }, {
+      "start" : 4.002,
+      "end" : 4.127,
+      "loc" : "4,5",
+      "word" : "보는 걸"
+    }, {
+      "start" : 4.34,
+      "end" : 5.033,
+      "loc" : "6",
+      "word" : "좋아했는데"
+    }, {
+      "start" : 5.374,
+      "end" : 6.024,
+      "loc" : "7",
+      "word" : "뉴스"
+    }, {
+      "start" : 6.214,
+      "end" : 6.58,
+      "loc" : "8",
+      "word" : "주제가"
+    }, {
+      "start" : 6.744,
+      "end" : 7.244,
+      "loc" : "9",
+      "word" : "복지에"
+    }, {
+      "start" : 7.432,
+      "end" : 7.771,
+      "loc" : "10,11",
+      "word" : "관한 것들이었어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.335,
+      "end" : 4.124,
+      "gloss_id" : "이야기하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.817,
+      "end" : 6.028,
+      "gloss_id" : "이야기하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.214,
+      "end" : 6.58,
+      "gloss_id" : "주제1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.432,
+      "end" : 7.771,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.047,
+      "end" : 2.231,
+      "gloss_id" : "학생1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.359,
+      "end" : 2.65
+    }, {
+      "descriptor" : "",
+      "start" : 4.002,
+      "end" : 4.127
+    }, {
+      "descriptor" : "",
+      "start" : 6.214,
+      "end" : 6.58
+    }, {
+      "descriptor" : "",
+      "start" : 7.432,
+      "end" : 7.771
+    }, {
+      "descriptor" : "",
+      "start" : 2.047,
+      "end" : 2.231
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.63,
+      "end" : 7.771
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.236,
+      "end" : 2.65
+    }, {
+      "descriptor" : "",
+      "start" : 6.744,
+      "end" : 7.769
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.34,
+      "end" : 4.636
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.817,
+      "end" : 6.569
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779300",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 10:57:39",
+    "sentence_ID" : "VXPAKOKS240779300",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

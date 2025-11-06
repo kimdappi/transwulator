@@ -1,0 +1,150 @@
+{
+  "id" : "VXPAKOKS240783750",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "내가 옛날에 중국집 했었잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.309,
+      "end" : 1.44,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.641,
+      "end" : 1.919,
+      "gloss_id" : "과거1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.185,
+      "end" : 2.991,
+      "gloss_id" : "중국6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.547,
+      "end" : 3.709,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.043,
+      "end" : 4.332,
+      "gloss_id" : "가게1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.523,
+      "end" : 4.654,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.309,
+      "end" : 1.44,
+      "loc" : "0",
+      "word" : "내가"
+    }, {
+      "start" : 1.641,
+      "end" : 1.919,
+      "loc" : "1",
+      "word" : "옛날에"
+    }, {
+      "start" : 2.185,
+      "end" : 4.331,
+      "loc" : "2",
+      "word" : "중국집"
+    }, {
+      "start" : 4.523,
+      "end" : 4.654,
+      "loc" : "3",
+      "word" : "했었잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.043,
+      "end" : 4.332,
+      "gloss_id" : "가게1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.641,
+      "end" : 1.919
+    }, {
+      "descriptor" : "",
+      "start" : 3.547,
+      "end" : 4.326
+    }, {
+      "descriptor" : "",
+      "start" : 4.523,
+      "end" : 4.654
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.56,
+      "end" : 4.654
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 1.641,
+      "end" : 1.919
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240783750",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:18:59",
+    "sentence_ID" : "VXPAKOKS240783750",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

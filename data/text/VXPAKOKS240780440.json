@@ -1,0 +1,187 @@
+{
+  "id" : "VXPAKOKS240780440",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "택시는 너무 비싸기 때문에 학생인 우리한테는 부담이 되잖아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.857,
+      "end" : 2.061,
+      "gloss_id" : "택시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.178,
+      "end" : 2.27,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.078,
+      "end" : 3.461,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.677,
+      "end" : 3.881,
+      "gloss_id" : "학생1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.049,
+      "end" : 4.293,
+      "gloss_id" : "부담1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.467,
+      "end" : 4.781,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.654,
+      "end" : 2.99,
+      "gloss_id" : "비싸다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.857,
+      "end" : 2.262,
+      "loc" : "0",
+      "word" : "택시는"
+    }, {
+      "start" : 3.078,
+      "end" : 3.461,
+      "loc" : "5",
+      "word" : "우리한테는"
+    }, {
+      "start" : 3.677,
+      "end" : 3.881,
+      "loc" : "4",
+      "word" : "학생인"
+    }, {
+      "start" : 4.049,
+      "end" : 4.782,
+      "loc" : "6,7",
+      "word" : "부담이 되잖아?"
+    }, {
+      "start" : 2.654,
+      "end" : 2.99,
+      "loc" : "1,2,3",
+      "word" : "너무 비싸기 때문에"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.677,
+      "end" : 3.881,
+      "gloss_id" : "학생1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.654,
+      "end" : 2.99,
+      "gloss_id" : "비싸다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.178,
+      "end" : 2.27
+    }, {
+      "descriptor" : "",
+      "start" : 3.078,
+      "end" : 3.461
+    }, {
+      "descriptor" : "",
+      "start" : 4.049,
+      "end" : 4.293
+    }, {
+      "descriptor" : "",
+      "start" : 4.467,
+      "end" : 4.781
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.178,
+      "end" : 2.989
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.467,
+      "end" : 4.781
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.857,
+      "end" : 2.061
+    }, {
+      "descriptor" : "",
+      "start" : 3.677,
+      "end" : 3.881
+    }, {
+      "descriptor" : "",
+      "start" : 4.467,
+      "end" : 4.781
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780440",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:04:06",
+    "sentence_ID" : "VXPAKOKS240780440",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

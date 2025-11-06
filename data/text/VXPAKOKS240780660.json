@@ -1,0 +1,301 @@
+{
+  "id" : "VXPAKOKS240780660",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "여중 여고가 아무래도 서로 눈치 싸움이 정말 심하고 본인에 대한 표출을 제대로 할 수 없는 곳이라고 생각하거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.171,
+      "end" : 2.496,
+      "gloss_id" : "여자1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.84,
+      "end" : 3.172,
+      "gloss_id" : "중학교몇학년2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.558,
+      "end" : 3.978,
+      "gloss_id" : "고등학교몇학년1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.545,
+      "end" : 5.149,
+      "gloss_id" : "눈치1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.005,
+      "end" : 6.593,
+      "gloss_id" : "견제1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.876,
+      "end" : 7.368,
+      "gloss_id" : "심하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.573,
+      "end" : 7.762,
+      "gloss_id" : "혼자1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.046,
+      "end" : 8.442,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.753,
+      "end" : 9.564,
+      "gloss_id" : "발표1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.081,
+      "end" : 10.9,
+      "gloss_id" : "불가능3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.147,
+      "end" : 11.384,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.693,
+      "end" : 11.857,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.451,
+      "end" : 11.56,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.171,
+      "end" : 3.174,
+      "loc" : "0",
+      "word" : "여중"
+    }, {
+      "start" : 3.558,
+      "end" : 3.978,
+      "loc" : "1",
+      "word" : "여고가"
+    }, {
+      "start" : 4.545,
+      "end" : 6.592,
+      "loc" : "3,4,5",
+      "word" : "서로 눈치 싸움이"
+    }, {
+      "start" : 6.876,
+      "end" : 7.368,
+      "loc" : "2,6,7",
+      "word" : "아무래도 정말 심하고"
+    }, {
+      "start" : 7.573,
+      "end" : 8.448,
+      "loc" : "8,9",
+      "word" : "본인에 대한"
+    }, {
+      "start" : 8.753,
+      "end" : 9.564,
+      "loc" : "10",
+      "word" : "표출을"
+    }, {
+      "start" : 10.081,
+      "end" : 10.9,
+      "loc" : "11,12,13,14",
+      "word" : "제대로 할 수 없는"
+    }, {
+      "start" : 11.147,
+      "end" : 11.384,
+      "loc" : "15",
+      "word" : "곳이라고"
+    }, {
+      "start" : 11.693,
+      "end" : 11.858,
+      "loc" : "16",
+      "word" : "생각하거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.171,
+      "end" : 2.496,
+      "gloss_id" : "여자1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.84,
+      "end" : 3.172,
+      "gloss_id" : "중학교몇학년2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.545,
+      "end" : 5.149,
+      "gloss_id" : "눈치1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.005,
+      "end" : 6.593,
+      "gloss_id" : "견제1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.046,
+      "end" : 8.442,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.753,
+      "end" : 9.564,
+      "gloss_id" : "발표1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.84,
+      "end" : 3.172
+    }, {
+      "descriptor" : "",
+      "start" : 3.558,
+      "end" : 3.978
+    }, {
+      "descriptor" : "",
+      "start" : 6.005,
+      "end" : 6.593
+    }, {
+      "descriptor" : "",
+      "start" : 8.046,
+      "end" : 8.442
+    }, {
+      "descriptor" : "",
+      "start" : 8.753,
+      "end" : 9.564
+    }, {
+      "descriptor" : "",
+      "start" : 11.693,
+      "end" : 11.857
+    }, {
+      "descriptor" : "",
+      "start" : 11.147,
+      "end" : 11.384
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 6.005,
+      "end" : 7.359
+    }, {
+      "descriptor" : "",
+      "start" : 10.081,
+      "end" : 11.371
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 7.573,
+      "end" : 8.161
+    }, {
+      "descriptor" : "",
+      "start" : 8.753,
+      "end" : 9.564
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 7.573,
+      "end" : 8.44
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780660",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:05:05",
+    "sentence_ID" : "VXPAKOKS240780660",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

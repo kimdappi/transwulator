@@ -1,0 +1,246 @@
+{
+  "id" : "VXPAKOKS240788250",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "친구들이랑 가평을 갔었는데 그때 수영장이 있는 펜션을 예약했었거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.824,
+      "end" : 2.02,
+      "gloss_id" : "과거1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.195,
+      "end" : 2.585,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.787,
+      "end" : 2.966,
+      "gloss_id" : "함께1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.243,
+      "end" : 3.794,
+      "gloss_id" : "가평1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.181,
+      "end" : 4.791,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 5.32,
+      "end" : 5.499,
+      "gloss_id" : "수영1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.691,
+      "end" : 6.098,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.342,
+      "end" : 7.779,
+      "gloss_id" : "펜션",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.971,
+      "end" : 8.378,
+      "gloss_id" : "계약1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.824,
+      "end" : 2.949,
+      "loc" : "0",
+      "word" : "친구들이랑"
+    }, {
+      "start" : 3.243,
+      "end" : 3.794,
+      "loc" : "1",
+      "word" : "가평을"
+    }, {
+      "start" : 4.181,
+      "end" : 4.791,
+      "loc" : "2",
+      "word" : "갔었는데"
+    }, {
+      "start" : 5.32,
+      "end" : 6.09,
+      "loc" : "3,4,5",
+      "word" : "그때 수영장이 있는"
+    }, {
+      "start" : 6.342,
+      "end" : 7.779,
+      "loc" : "6",
+      "word" : "펜션을"
+    }, {
+      "start" : 7.971,
+      "end" : 8.378,
+      "loc" : "7",
+      "word" : "예약했었거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.195,
+      "end" : 2.585,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.787,
+      "end" : 2.966,
+      "gloss_id" : "함께1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.243,
+      "end" : 3.794,
+      "gloss_id" : "가평1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.181,
+      "end" : 4.791,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.32,
+      "end" : 5.499,
+      "gloss_id" : "수영1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.971,
+      "end" : 8.378,
+      "gloss_id" : "계약1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "펜션",
+      "start" : 6.342,
+      "end" : 7.779
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.824,
+      "end" : 2.02
+    }, {
+      "descriptor" : "",
+      "start" : 2.787,
+      "end" : 2.966
+    }, {
+      "descriptor" : "",
+      "start" : 4.181,
+      "end" : 4.791
+    }, {
+      "descriptor" : "",
+      "start" : 7.473,
+      "end" : 7.779
+    }, {
+      "descriptor" : "",
+      "start" : 5.691,
+      "end" : 6.098
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 8.022,
+      "end" : 8.378
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.824,
+      "end" : 2.966
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.181,
+      "end" : 4.791
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.32,
+      "end" : 6.09
+    }, {
+      "descriptor" : "",
+      "start" : 7.473,
+      "end" : 7.779
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788250",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:42:48",
+    "sentence_ID" : "VXPAKOKS240788250",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

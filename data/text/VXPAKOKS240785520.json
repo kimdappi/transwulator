@@ -1,0 +1,181 @@
+{
+  "id" : "VXPAKOKS240785520",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "전기 자동차는 나라에서 지원도 해 주는 거 같더라고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.361,
+      "end" : 2.504,
+      "gloss_id" : "승용차1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.623,
+      "end" : 3.014,
+      "gloss_id" : "전기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.163,
+      "end" : 3.322,
+      "gloss_id" : "나라1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.477,
+      "end" : 3.841,
+      "gloss_id" : "돕다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 4.028,
+      "end" : 4.176,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.296,
+      "end" : 5.001,
+      "gloss_id" : "같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.361,
+      "end" : 2.504,
+      "loc" : "1",
+      "word" : "자동차는"
+    }, {
+      "start" : 2.623,
+      "end" : 3.014,
+      "loc" : "0",
+      "word" : "전기"
+    }, {
+      "start" : 3.163,
+      "end" : 3.322,
+      "loc" : "2",
+      "word" : "나라에서"
+    }, {
+      "start" : 3.477,
+      "end" : 3.841,
+      "loc" : "3",
+      "word" : "지원도"
+    }, {
+      "start" : 4.028,
+      "end" : 4.176,
+      "loc" : "4,5,6",
+      "word" : "해 주는 거"
+    }, {
+      "start" : 4.296,
+      "end" : 5.001,
+      "loc" : "7",
+      "word" : "같더라고."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.361,
+      "end" : 2.504,
+      "gloss_id" : "승용차1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.623,
+      "end" : 3.014,
+      "gloss_id" : "전기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.477,
+      "end" : 3.841,
+      "gloss_id" : "돕다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.163,
+      "end" : 3.322,
+      "gloss_id" : "나라1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.028,
+      "end" : 4.176
+    }, {
+      "descriptor" : "",
+      "start" : 4.296,
+      "end" : 5.001
+    }, {
+      "descriptor" : "",
+      "start" : 2.63,
+      "end" : 3.014
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.296,
+      "end" : 5.001
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.361,
+      "end" : 3.013
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785520",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 01:55:13",
+    "sentence_ID" : "VXPAKOKS240785520",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,92 @@
+{
+  "id" : "VXPAKOKS240782050",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "몇 킬로 쪘어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 3.004,
+      "end" : 3.214,
+      "gloss_id" : "증가3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.432,
+      "end" : 3.849,
+      "gloss_id" : "몇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.004,
+      "end" : 3.214,
+      "loc" : "1,2",
+      "word" : "킬로 쪘어?"
+    }, {
+      "start" : 3.432,
+      "end" : 3.849,
+      "loc" : "0",
+      "word" : "몇"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.004,
+      "end" : 3.842,
+      "gloss_id" : "증가3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.004,
+      "end" : 3.214
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.432,
+      "end" : 3.849
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782050",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:11:18",
+    "sentence_ID" : "VXPAKOKS240782050",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,137 @@
+{
+  "id" : "VXPAKOKS240786010",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "언니 영양제는 어떤 거 먹어요?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.29,
+      "end" : 1.892,
+      "gloss_id" : "언니2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.076,
+      "end" : 2.204,
+      "gloss_id" : "영양1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.395,
+      "end" : 2.6,
+      "gloss_id" : "약1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.8,
+      "end" : 2.977,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.119,
+      "end" : 3.729,
+      "gloss_id" : "무엇2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.29,
+      "end" : 1.892,
+      "loc" : "0",
+      "word" : "언니"
+    }, {
+      "start" : 2.076,
+      "end" : 2.6,
+      "loc" : "1",
+      "word" : "영양제는"
+    }, {
+      "start" : 2.8,
+      "end" : 2.977,
+      "loc" : "4",
+      "word" : "먹어요?"
+    }, {
+      "start" : 3.119,
+      "end" : 3.729,
+      "loc" : "2,3",
+      "word" : "어떤 거"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.395,
+      "end" : 2.6,
+      "gloss_id" : "약1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.29,
+      "end" : 1.892
+    }, {
+      "descriptor" : "",
+      "start" : 3.119,
+      "end" : 3.729
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.29,
+      "end" : 1.892
+    }, {
+      "descriptor" : "",
+      "start" : 3.119,
+      "end" : 3.729
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786010",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:23:45",
+    "sentence_ID" : "VXPAKOKS240786010",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

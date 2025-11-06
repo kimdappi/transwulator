@@ -1,0 +1,150 @@
+{
+  "id" : "VXPAKOKS240787310",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "제주도에서 좋은 시간을 한번 보내 보도록 하자.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.519,
+      "end" : 1.658,
+      "gloss_id" : "제주도1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.974,
+      "end" : 2.403,
+      "gloss_id" : "가다7",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.659,
+      "end" : 3.054,
+      "gloss_id" : "재미1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.283,
+      "end" : 3.64,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.768,
+      "end" : 4.235,
+      "gloss_id" : "보다10",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.519,
+      "end" : 2.394,
+      "loc" : "0",
+      "word" : "제주도에서"
+    }, {
+      "start" : 2.659,
+      "end" : 3.054,
+      "loc" : "1,2",
+      "word" : "좋은 시간을"
+    }, {
+      "start" : 3.283,
+      "end" : 4.229,
+      "loc" : "3,4,5,6",
+      "word" : "한번 보내 보도록 하자."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.519,
+      "end" : 1.658,
+      "gloss_id" : "제주도1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.659,
+      "end" : 3.054,
+      "gloss_id" : "재미1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.283,
+      "end" : 3.64,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.974,
+      "end" : 2.403
+    }, {
+      "descriptor" : "",
+      "start" : 2.659,
+      "end" : 3.054
+    }, {
+      "descriptor" : "",
+      "start" : 3.768,
+      "end" : 4.235
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.659,
+      "end" : 4.227
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.519,
+      "end" : 1.658
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787310",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:33:25",
+    "sentence_ID" : "VXPAKOKS240787310",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

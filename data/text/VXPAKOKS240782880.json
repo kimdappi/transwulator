@@ -1,0 +1,211 @@
+{
+  "id" : "VXPAKOKS240782880",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "등산 가면 항상 마음이 급해서 뛰어 올라갔어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.29,
+      "end" : 2.473,
+      "gloss_id" : "등산1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.62,
+      "end" : 2.89,
+      "gloss_id" : "항상1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.015,
+      "end" : 3.348,
+      "gloss_id" : "마음1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.503,
+      "end" : 3.801,
+      "gloss_id" : "급하다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.977,
+      "end" : 4.19,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.333,
+      "end" : 4.643,
+      "gloss_id" : "달리다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.873,
+      "end" : 5.546,
+      "gloss_id" : "등산1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.29,
+      "end" : 2.473,
+      "loc" : "0,1",
+      "word" : "등산 가면"
+    }, {
+      "start" : 2.62,
+      "end" : 2.89,
+      "loc" : "2",
+      "word" : "항상"
+    }, {
+      "start" : 3.015,
+      "end" : 3.348,
+      "loc" : "3",
+      "word" : "마음이"
+    }, {
+      "start" : 3.503,
+      "end" : 4.186,
+      "loc" : "4",
+      "word" : "급해서"
+    }, {
+      "start" : 4.333,
+      "end" : 4.643,
+      "loc" : "5",
+      "word" : "뛰어"
+    }, {
+      "start" : 4.873,
+      "end" : 5.546,
+      "loc" : "6",
+      "word" : "올라갔어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.29,
+      "end" : 2.473,
+      "gloss_id" : "등산1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.62,
+      "end" : 2.89,
+      "gloss_id" : "항상1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.015,
+      "end" : 3.348,
+      "gloss_id" : "마음1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.503,
+      "end" : 3.801,
+      "gloss_id" : "급하다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.977,
+      "end" : 4.19,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.333,
+      "end" : 4.643,
+      "gloss_id" : "달리다3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.873,
+      "end" : 5.546,
+      "gloss_id" : "등산1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.62,
+      "end" : 2.89
+    }, {
+      "descriptor" : "",
+      "start" : 4.873,
+      "end" : 5.546
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.121,
+      "end" : 4.19
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.333,
+      "end" : 4.981
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 5.111,
+      "end" : 5.324
+    } ],
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240782880",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:14:50",
+    "sentence_ID" : "VXPAKOKS240782880",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

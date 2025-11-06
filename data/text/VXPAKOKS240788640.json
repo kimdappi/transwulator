@@ -1,0 +1,239 @@
+{
+  "id" : "VXPAKOKS240788640",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "내가 어떤 카페에서 사과 유자티라는 걸 먹어 봤는데 그게 정말 맛있더라고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.03,
+      "end" : 2.415,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.656,
+      "end" : 2.888,
+      "gloss_id" : "카페1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.055,
+      "end" : 3.211,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.382,
+      "end" : 3.634,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.832,
+      "end" : 4.447,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 4.873,
+      "end" : 4.969,
+      "gloss_id" : "빨강1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.148,
+      "end" : 5.619,
+      "gloss_id" : "사과1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.88,
+      "end" : 6.896,
+      "gloss_id" : "유자",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.233,
+      "end" : 7.618,
+      "gloss_id" : "차2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.871,
+      "end" : 8.333,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.722,
+      "end" : 9.126,
+      "gloss_id" : "맛있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.415,
+      "end" : 10.03,
+      "gloss_id" : "황홀1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.03,
+      "end" : 2.415,
+      "loc" : "0",
+      "word" : "내가"
+    }, {
+      "start" : 4.873,
+      "end" : 5.619,
+      "loc" : "3",
+      "word" : "사과"
+    }, {
+      "start" : 5.88,
+      "end" : 7.612,
+      "loc" : "4",
+      "word" : "유자티라는"
+    }, {
+      "start" : 7.871,
+      "end" : 8.333,
+      "loc" : "6,7",
+      "word" : "먹어 봤는데"
+    }, {
+      "start" : 8.722,
+      "end" : 10.043,
+      "loc" : "9,10",
+      "word" : "정말 맛있더라고."
+    }, {
+      "start" : 2.656,
+      "end" : 4.465,
+      "loc" : "1,2",
+      "word" : "어떤 카페에서"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.832,
+      "end" : 4.447,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.148,
+      "end" : 5.619,
+      "gloss_id" : "사과1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.233,
+      "end" : 7.618,
+      "gloss_id" : "차2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.415,
+      "end" : 10.03,
+      "gloss_id" : "황홀1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "유자",
+      "start" : 5.88,
+      "end" : 6.896
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.832,
+      "end" : 4.447
+    }, {
+      "descriptor" : "",
+      "start" : 7.871,
+      "end" : 8.333
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.656,
+      "end" : 3.633
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 7.233,
+      "end" : 7.618
+    }, {
+      "descriptor" : "",
+      "start" : 8.722,
+      "end" : 10.024
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788640",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:48:03",
+    "sentence_ID" : "VXPAKOKS240788640",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,347 @@
+{
+  "id" : "VXPAKOKS240784080",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "공무원 할래 아니면 사기업의 사원 할래 하면은 사원을 선택할 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 3.139,
+      "end" : 3.267,
+      "gloss_id" : "공공1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.448,
+      "end" : 3.677,
+      "gloss_id" : "사무1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.999,
+      "end" : 4.378,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.72,
+      "end" : 5.039,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.227,
+      "end" : 5.576,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.789,
+      "end" : 5.89,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.989,
+      "end" : 6.137,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.433,
+      "end" : 6.762,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.956,
+      "end" : 7.245,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.493,
+      "end" : 7.802,
+      "gloss_id" : "질문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "2",
+        "target" : "1"
+      }
+    }, {
+      "start" : 7.959,
+      "end" : 8.318,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.454,
+      "end" : 8.773,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.019,
+      "end" : 9.188,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.341,
+      "end" : 9.73,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.896,
+      "end" : 9.996,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.147,
+      "end" : 10.247,
+      "gloss_id" : "선택6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.369,
+      "end" : 10.597,
+      "gloss_id" : "아마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.139,
+      "end" : 3.689,
+      "loc" : "0",
+      "word" : "공무원"
+    }, {
+      "start" : 3.999,
+      "end" : 4.378,
+      "loc" : "1,2",
+      "word" : "할래 아니면"
+    }, {
+      "start" : 4.72,
+      "end" : 5.562,
+      "loc" : "3",
+      "word" : "사기업의"
+    }, {
+      "start" : 5.789,
+      "end" : 6.131,
+      "loc" : "4",
+      "word" : "사원"
+    }, {
+      "start" : 6.433,
+      "end" : 6.762,
+      "loc" : "5",
+      "word" : "할래"
+    }, {
+      "start" : 6.956,
+      "end" : 8.311,
+      "loc" : "6",
+      "word" : "하면은"
+    }, {
+      "start" : 8.454,
+      "end" : 9.728,
+      "loc" : "7",
+      "word" : "사원을"
+    }, {
+      "start" : 9.896,
+      "end" : 10.599,
+      "loc" : "8,9,10",
+      "word" : "선택할 거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.139,
+      "end" : 3.267,
+      "gloss_id" : "공공1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.448,
+      "end" : 4.37,
+      "gloss_id" : "사무1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.72,
+      "end" : 5.039,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.227,
+      "end" : 5.576,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.789,
+      "end" : 5.89,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.989,
+      "end" : 6.137,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.956,
+      "end" : 8.31,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.454,
+      "end" : 8.773,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.019,
+      "end" : 9.188,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.341,
+      "end" : 9.73,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.147,
+      "end" : 10.589,
+      "gloss_id" : "선택6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.999,
+      "end" : 4.378
+    }, {
+      "descriptor" : "",
+      "start" : 7.493,
+      "end" : 7.802
+    }, {
+      "descriptor" : "",
+      "start" : 10.369,
+      "end" : 10.597
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.069,
+      "end" : 4.378
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 9.341,
+      "end" : 9.961
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.448,
+      "end" : 4.37
+    }, {
+      "descriptor" : "",
+      "start" : 6.433,
+      "end" : 7.798
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784080",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:20:51",
+    "sentence_ID" : "VXPAKOKS240784080",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

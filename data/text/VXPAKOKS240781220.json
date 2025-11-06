@@ -1,0 +1,162 @@
+{
+  "id" : "VXPAKOKS240781220",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "할아버지 선생님들이 좀 더 자유로운 부분도 있는 거 같아요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.567,
+      "end" : 1.695,
+      "gloss_id" : "할아버지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.87,
+      "end" : 2.192,
+      "gloss_id" : "교사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.351,
+      "end" : 3.284,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.632,
+      "end" : 3.715,
+      "gloss_id" : "가두다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 3.931,
+      "end" : 4.17,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.424,
+      "end" : 4.808,
+      "gloss_id" : "내버려두다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.12,
+      "end" : 5.448,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.567,
+      "end" : 1.695,
+      "loc" : "0",
+      "word" : "할아버지"
+    }, {
+      "start" : 1.87,
+      "end" : 3.27,
+      "loc" : "1",
+      "word" : "선생님들이"
+    }, {
+      "start" : 3.632,
+      "end" : 4.798,
+      "loc" : "2,3,4,5",
+      "word" : "좀 더 자유로운 부분도"
+    }, {
+      "start" : 5.12,
+      "end" : 5.448,
+      "loc" : "6,7,8",
+      "word" : "있는 거 같아요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.87,
+      "end" : 2.192,
+      "gloss_id" : "교사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.632,
+      "end" : 3.715,
+      "gloss_id" : "가두다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.351,
+      "end" : 3.284
+    }, {
+      "descriptor" : "",
+      "start" : 4.424,
+      "end" : 4.808
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.424,
+      "end" : 4.808
+    }, {
+      "descriptor" : "",
+      "start" : 3.632,
+      "end" : 3.715
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240781220",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:07:28",
+    "sentence_ID" : "VXPAKOKS240781220",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

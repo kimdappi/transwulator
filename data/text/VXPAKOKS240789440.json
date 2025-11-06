@@ -1,0 +1,185 @@
+{
+  "id" : "VXPAKOKS240789440",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "저는 이제 3킬로 뛰면은 힘들어서 못 뛰겠어요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.269,
+      "end" : 1.362,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.628,
+      "end" : 1.848,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.161,
+      "end" : 2.289,
+      "gloss_id" : "K",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.515,
+      "end" : 3.028,
+      "gloss_id" : "달리다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.382,
+      "end" : 3.584,
+      "gloss_id" : "힘들다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.824,
+      "end" : 4.888,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.269,
+      "end" : 1.362,
+      "loc" : "0",
+      "word" : "저는"
+    }, {
+      "start" : 1.628,
+      "end" : 1.848,
+      "loc" : "1",
+      "word" : "이제"
+    }, {
+      "start" : 2.161,
+      "end" : 2.289,
+      "loc" : "2",
+      "word" : "3킬로"
+    }, {
+      "start" : 2.515,
+      "end" : 3.028,
+      "loc" : "3",
+      "word" : "뛰면은"
+    }, {
+      "start" : 3.382,
+      "end" : 3.584,
+      "loc" : "4",
+      "word" : "힘들어서"
+    }, {
+      "start" : 3.824,
+      "end" : 4.888,
+      "loc" : "5,6",
+      "word" : "못 뛰겠어요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.628,
+      "end" : 1.848,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.161,
+      "end" : 2.289,
+      "gloss_id" : "3",
+      "express" : "n",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.515,
+      "end" : 3.028,
+      "gloss_id" : "달리다3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.824,
+      "end" : 4.888,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "삼",
+      "start" : 2.161,
+      "end" : 2.299
+    } ],
+    "Hno" : null,
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.934,
+      "end" : 4.206
+    }, {
+      "descriptor" : "",
+      "start" : 4.348,
+      "end" : 4.895
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.26,
+      "end" : 2.285
+    }, {
+      "descriptor" : "",
+      "start" : 2.515,
+      "end" : 4.944
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.161,
+      "end" : 2.289
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789440",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:55:40",
+    "sentence_ID" : "VXPAKOKS240789440",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

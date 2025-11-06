@@ -1,0 +1,201 @@
+{
+  "id" : "VXPAKOKS240785320",
+  "opertor" : "label10",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 버스를 한번 타려면 10분 정돈 걸어야 정류장이 나오거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.995,
+      "end" : 2.058,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.298,
+      "end" : 2.684,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.008,
+      "end" : 3.134,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.429,
+      "end" : 3.695,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.971,
+      "end" : 4.142,
+      "gloss_id" : "시간:10분",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.617,
+      "end" : 5.37,
+      "gloss_id" : "걷다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.497,
+      "end" : 5.617,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.82,
+      "end" : 6.32,
+      "gloss_id" : "도착1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.995,
+      "end" : 2.058,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.298,
+      "end" : 2.684,
+      "loc" : "1",
+      "word" : "버스를"
+    }, {
+      "start" : 3.008,
+      "end" : 3.704,
+      "loc" : "2,3",
+      "word" : "한번 타려면"
+    }, {
+      "start" : 3.971,
+      "end" : 4.142,
+      "loc" : "4,5",
+      "word" : "10분 정돈"
+    }, {
+      "start" : 4.617,
+      "end" : 5.37,
+      "loc" : "6",
+      "word" : "걸어야"
+    }, {
+      "start" : 5.497,
+      "end" : 5.617,
+      "loc" : "7",
+      "word" : "정류장이"
+    }, {
+      "start" : 5.82,
+      "end" : 6.32,
+      "loc" : "8",
+      "word" : "나오거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.298,
+      "end" : 2.684,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.008,
+      "end" : 3.134,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.82,
+      "end" : 6.32,
+      "gloss_id" : "도착1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "십 분",
+      "start" : 3.971,
+      "end" : 4.142
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.429,
+      "end" : 3.695
+    }, {
+      "descriptor" : "",
+      "start" : 1.995,
+      "end" : 2.058
+    }, {
+      "descriptor" : "",
+      "start" : 4.617,
+      "end" : 5.37
+    }, {
+      "descriptor" : "",
+      "start" : 5.82,
+      "end" : 6.32
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.971,
+      "end" : 5.37
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240785320",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 01:37:47",
+    "sentence_ID" : "VXPAKOKS240785320",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

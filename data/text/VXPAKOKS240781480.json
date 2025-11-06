@@ -1,0 +1,192 @@
+{
+  "id" : "VXPAKOKS240781480",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 특이한 동물은 본 적이 없는 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.413,
+      "end" : 2.472,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.645,
+      "end" : 2.71,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.891,
+      "end" : 3.224,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.415,
+      "end" : 3.784,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.926,
+      "end" : 4.539,
+      "gloss_id" : "독특1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.761,
+      "end" : 4.952,
+      "gloss_id" : "보다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.32,
+      "end" : 5.862,
+      "gloss_id" : "막히다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.413,
+      "end" : 3.215,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 3.926,
+      "end" : 4.539,
+      "loc" : "1",
+      "word" : "특이한"
+    }, {
+      "start" : 3.415,
+      "end" : 3.784,
+      "loc" : "2",
+      "word" : "동물은"
+    }, {
+      "start" : 4.761,
+      "end" : 4.952,
+      "loc" : "3",
+      "word" : "본"
+    }, {
+      "start" : 5.32,
+      "end" : 5.862,
+      "loc" : "4,5,6,7",
+      "word" : "적이 없는 거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.645,
+      "end" : 2.71,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.891,
+      "end" : 3.224,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.415,
+      "end" : 3.784,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.926,
+      "end" : 4.539,
+      "gloss_id" : "독특1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.32,
+      "end" : 5.862,
+      "gloss_id" : "막히다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.889,
+      "end" : 3.203
+    }, {
+      "descriptor" : "",
+      "start" : 4.761,
+      "end" : 4.946
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.645,
+      "end" : 3.185
+    }, {
+      "descriptor" : "",
+      "start" : 3.926,
+      "end" : 4.283
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.761,
+      "end" : 5.85
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781480",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:08:38",
+    "sentence_ID" : "VXPAKOKS240781480",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

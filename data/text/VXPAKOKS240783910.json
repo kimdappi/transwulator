@@ -1,0 +1,175 @@
+{
+  "id" : "VXPAKOKS240783910",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "너 했던 알바들 장단점이 뭐가 있을까?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.91,
+      "end" : 2.127,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.365,
+      "end" : 2.507,
+      "gloss_id" : "계란1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.649,
+      "end" : 2.765,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.96,
+      "end" : 4.027,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.841,
+      "end" : 5.368,
+      "gloss_id" : "괜찮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.739,
+      "end" : 6.326,
+      "gloss_id" : "귀찮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.457,
+      "end" : 6.667,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.91,
+      "end" : 2.127,
+      "loc" : "0",
+      "word" : "너"
+    }, {
+      "start" : 2.365,
+      "end" : 2.757,
+      "loc" : "2",
+      "word" : "알바들"
+    }, {
+      "start" : 2.96,
+      "end" : 4.027,
+      "loc" : "1",
+      "word" : "했던"
+    }, {
+      "start" : 4.841,
+      "end" : 6.319,
+      "loc" : "3",
+      "word" : "장단점이"
+    }, {
+      "start" : 6.457,
+      "end" : 6.667,
+      "loc" : "4,5",
+      "word" : "뭐가 있을까?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.649,
+      "end" : 2.758,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.739,
+      "end" : 6.326,
+      "gloss_id" : "귀찮다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.658,
+      "end" : 4.016
+    }, {
+      "descriptor" : "",
+      "start" : 6.457,
+      "end" : 6.667
+    }, {
+      "descriptor" : "",
+      "start" : 4.841,
+      "end" : 5.368
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.658,
+      "end" : 4.023
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.739,
+      "end" : 6.65
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 6.457,
+      "end" : 6.667
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783910",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:19:50",
+    "sentence_ID" : "VXPAKOKS240783910",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

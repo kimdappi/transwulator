@@ -1,0 +1,248 @@
+{
+  "id" : "VXPAKOKS240780830",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "지하철이나 버스에서 마스크를 안 쓴 사람을 보면 먼저 도망가는 게 가장 좋은 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.057,
+      "end" : 2.326,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.593,
+      "end" : 3.166,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.349,
+      "end" : 3.898,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.28,
+      "end" : 4.598,
+      "gloss_id" : "마스크2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.822,
+      "end" : 4.994,
+      "gloss_id" : "아니다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.291,
+      "end" : 5.906,
+      "gloss_id" : "보다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 6.031,
+      "end" : 6.191,
+      "gloss_id" : "아니다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.376,
+      "end" : 6.498,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.82,
+      "end" : 6.962,
+      "gloss_id" : "도망1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.192,
+      "end" : 7.315,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.587,
+      "end" : 7.935,
+      "gloss_id" : "훌륭하다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.057,
+      "end" : 2.326,
+      "loc" : "0",
+      "word" : "지하철이나"
+    }, {
+      "start" : 2.593,
+      "end" : 3.888,
+      "loc" : "1",
+      "word" : "버스에서"
+    }, {
+      "start" : 4.822,
+      "end" : 4.994,
+      "loc" : "3,4,5",
+      "word" : "안 쓴 사람을"
+    }, {
+      "start" : 5.291,
+      "end" : 5.906,
+      "loc" : "6",
+      "word" : "보면"
+    }, {
+      "start" : 6.031,
+      "end" : 6.482,
+      "loc" : "7",
+      "word" : "먼저"
+    }, {
+      "start" : 6.82,
+      "end" : 6.962,
+      "loc" : "8,9",
+      "word" : "도망가는 게"
+    }, {
+      "start" : 7.192,
+      "end" : 7.315,
+      "loc" : "10",
+      "word" : "가장"
+    }, {
+      "start" : 7.587,
+      "end" : 7.935,
+      "loc" : "11,12,13",
+      "word" : "좋은 거 같아."
+    }, {
+      "start" : 4.28,
+      "end" : 4.598,
+      "loc" : "2",
+      "word" : "마스크를"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.057,
+      "end" : 2.326,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.593,
+      "end" : 3.166,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.82,
+      "end" : 6.962,
+      "gloss_id" : "도망1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.349,
+      "end" : 3.898,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.28,
+      "end" : 4.598,
+      "gloss_id" : "마스크2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.057,
+      "end" : 2.326
+    }, {
+      "descriptor" : "",
+      "start" : 3.349,
+      "end" : 3.898
+    }, {
+      "descriptor" : "",
+      "start" : 5.291,
+      "end" : 5.906
+    }, {
+      "descriptor" : "",
+      "start" : 7.587,
+      "end" : 7.935
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.291,
+      "end" : 5.906
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780830",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:05:44",
+    "sentence_ID" : "VXPAKOKS240780830",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

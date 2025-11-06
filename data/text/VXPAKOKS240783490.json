@@ -1,0 +1,200 @@
+{
+  "id" : "VXPAKOKS240783490",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "지하철은 정해진 곳만 가니까 좀 불편한 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.173,
+      "end" : 2.778,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.122,
+      "end" : 3.37,
+      "gloss_id" : "결정1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.647,
+      "end" : 3.951,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.311,
+      "end" : 4.804,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.053,
+      "end" : 5.217,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.487,
+      "end" : 6.617,
+      "gloss_id" : "귀찮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.859,
+      "end" : 7.065,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.173,
+      "end" : 2.778,
+      "loc" : "0",
+      "word" : "지하철은"
+    }, {
+      "start" : 3.122,
+      "end" : 3.37,
+      "loc" : "1",
+      "word" : "정해진"
+    }, {
+      "start" : 3.647,
+      "end" : 3.951,
+      "loc" : "2",
+      "word" : "곳만"
+    }, {
+      "start" : 4.311,
+      "end" : 5.217,
+      "loc" : "3",
+      "word" : "가니까"
+    }, {
+      "start" : 5.487,
+      "end" : 7.044,
+      "loc" : "4,5,6,7",
+      "word" : "좀 불편한 거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.173,
+      "end" : 2.778,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.122,
+      "end" : 3.37,
+      "gloss_id" : "결정1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.311,
+      "end" : 4.804,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.053,
+      "end" : 5.217,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.487,
+      "end" : 6.617,
+      "gloss_id" : "귀찮다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 6.859,
+      "end" : 7.065
+    }, {
+      "descriptor" : "",
+      "start" : 2.173,
+      "end" : 2.778
+    }, {
+      "descriptor" : "",
+      "start" : 3.647,
+      "end" : 3.951
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.053,
+      "end" : 5.217
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 4.556,
+      "end" : 4.79
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.173,
+      "end" : 2.778
+    }, {
+      "descriptor" : "",
+      "start" : 3.647,
+      "end" : 5.218
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783490",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:17:58",
+    "sentence_ID" : "VXPAKOKS240783490",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

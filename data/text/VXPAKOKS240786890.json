@@ -1,0 +1,250 @@
+{
+  "id" : "VXPAKOKS240786890",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "양꼬치는 먹는데 양갈비는 잘 안 먹는 편이고 그리고 가장 싫어하는 음식은 순대국밥이야.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.567,
+      "end" : 1.796,
+      "gloss_id" : "양1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.325,
+      "end" : 2.801,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.013,
+      "end" : 3.385,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.798,
+      "end" : 3.899,
+      "gloss_id" : "양1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.14,
+      "end" : 4.29,
+      "gloss_id" : "갈비3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.563,
+      "end" : 5.126,
+      "gloss_id" : "먹지않다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.291,
+      "end" : 6.591,
+      "gloss_id" : "대장1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.833,
+      "end" : 6.998,
+      "gloss_id" : "짜다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.128,
+      "end" : 7.309,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.399,
+      "end" : 7.524,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.822,
+      "end" : 8.202,
+      "gloss_id" : "싫다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.567,
+      "end" : 2.792,
+      "loc" : "0",
+      "word" : "양꼬치는"
+    }, {
+      "start" : 3.013,
+      "end" : 3.385,
+      "loc" : "1",
+      "word" : "먹는데"
+    }, {
+      "start" : 3.798,
+      "end" : 4.298,
+      "loc" : "2",
+      "word" : "양갈비는"
+    }, {
+      "start" : 4.563,
+      "end" : 5.126,
+      "loc" : "3,4,5,6",
+      "word" : "잘 안 먹는 편이고"
+    }, {
+      "start" : 6.291,
+      "end" : 7.3,
+      "loc" : "11",
+      "word" : "순대국밥이야."
+    }, {
+      "start" : 7.399,
+      "end" : 7.524,
+      "loc" : "10",
+      "word" : "음식은"
+    }, {
+      "start" : 7.822,
+      "end" : 8.202,
+      "loc" : "7,8,9",
+      "word" : "그리고 가장 싫어하는"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.567,
+      "end" : 1.796,
+      "gloss_id" : "양1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.798,
+      "end" : 3.899,
+      "gloss_id" : "양1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.14,
+      "end" : 4.29,
+      "gloss_id" : "갈비3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.822,
+      "end" : 8.202,
+      "gloss_id" : "싫다4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.325,
+      "end" : 2.793,
+      "gloss_id" : "일형3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.013,
+      "end" : 3.385
+    } ],
+    "Mo1" : null,
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 4.563,
+      "end" : 5.126
+    }, {
+      "descriptor" : "",
+      "start" : 7.822,
+      "end" : 8.202
+    } ],
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.139,
+      "end" : 5.117
+    }, {
+      "descriptor" : "",
+      "start" : 7.399,
+      "end" : 8.202
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.567,
+      "end" : 2.792
+    }, {
+      "descriptor" : "",
+      "start" : 3.798,
+      "end" : 4.298
+    }, {
+      "descriptor" : "",
+      "start" : 6.291,
+      "end" : 7.293
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786890",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:30:21",
+    "sentence_ID" : "VXPAKOKS240786890",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

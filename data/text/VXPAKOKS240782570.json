@@ -1,0 +1,151 @@
+{
+  "id" : "VXPAKOKS240782570",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "아빠 옷을 어떤 거 사드리고 싶었어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.745,
+      "end" : 1.93,
+      "gloss_id" : "아빠1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.13,
+      "end" : 2.29,
+      "gloss_id" : "옷1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.496,
+      "end" : 2.698,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.778,
+      "end" : 2.837,
+      "gloss_id" : "주다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 3.035,
+      "end" : 3.216,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.38,
+      "end" : 3.754,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.745,
+      "end" : 1.93,
+      "loc" : "0",
+      "word" : "아빠"
+    }, {
+      "start" : 2.13,
+      "end" : 2.29,
+      "loc" : "1",
+      "word" : "옷을"
+    }, {
+      "start" : 2.496,
+      "end" : 2.841,
+      "loc" : "4",
+      "word" : "사드리고"
+    }, {
+      "start" : 3.035,
+      "end" : 3.216,
+      "loc" : "5",
+      "word" : "싶었어?"
+    }, {
+      "start" : 3.38,
+      "end" : 3.754,
+      "loc" : "2,3",
+      "word" : "어떤 거"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.496,
+      "end" : 2.698,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.38,
+      "end" : 3.754
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.035,
+      "end" : 3.216
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.035,
+      "end" : 3.216
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.38,
+      "end" : 3.754
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782570",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:13:27",
+    "sentence_ID" : "VXPAKOKS240782570",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

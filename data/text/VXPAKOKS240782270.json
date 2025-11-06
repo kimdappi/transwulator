@@ -1,0 +1,140 @@
+{
+  "id" : "VXPAKOKS240782270",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "저녁에는 뭐 먹을지 한번 생각을 해 보자.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.469,
+      "end" : 1.793,
+      "gloss_id" : "저녁1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.945,
+      "end" : 2.108,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.313,
+      "end" : 2.495,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.613,
+      "end" : 2.8,
+      "gloss_id" : "무엇2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.064,
+      "end" : 3.427,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.59,
+      "end" : 3.836,
+      "gloss_id" : "보다10",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.469,
+      "end" : 1.793,
+      "loc" : "0",
+      "word" : "저녁에는"
+    }, {
+      "start" : 1.945,
+      "end" : 2.494,
+      "loc" : "2",
+      "word" : "먹을지"
+    }, {
+      "start" : 2.613,
+      "end" : 2.8,
+      "loc" : "1",
+      "word" : "뭐"
+    }, {
+      "start" : 3.064,
+      "end" : 3.427,
+      "loc" : "4",
+      "word" : "생각을"
+    }, {
+      "start" : 3.59,
+      "end" : 3.836,
+      "loc" : "3,5,6",
+      "word" : "한번 해 보자."
+    } ],
+    "sign_gestures_weak" : null
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.59,
+      "end" : 3.836
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.064,
+      "end" : 3.427
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.59,
+      "end" : 3.836
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782270",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:12:13",
+    "sentence_ID" : "VXPAKOKS240782270",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,215 @@
+{
+  "id" : "VXPAKOKS240786770",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "혹시 너는 결혼을 하게 된다면 신혼여행은 어디로 가고 싶어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.424,
+      "end" : 1.833,
+      "gloss_id" : "만약2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.101,
+      "end" : 2.216,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.519,
+      "end" : 2.815,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.998,
+      "end" : 3.311,
+      "gloss_id" : "하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.645,
+      "end" : 3.839,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.987,
+      "end" : 4.215,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.604,
+      "end" : 4.769,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.983,
+      "end" : 5.704,
+      "gloss_id" : "어디3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.424,
+      "end" : 1.833,
+      "loc" : "0",
+      "word" : "혹시"
+    }, {
+      "start" : 2.101,
+      "end" : 2.216,
+      "loc" : "1",
+      "word" : "너는"
+    }, {
+      "start" : 2.519,
+      "end" : 2.815,
+      "loc" : "2",
+      "word" : "결혼을"
+    }, {
+      "start" : 2.998,
+      "end" : 3.311,
+      "loc" : "3,4",
+      "word" : "하게 된다면"
+    }, {
+      "start" : 3.645,
+      "end" : 4.219,
+      "loc" : "5",
+      "word" : "신혼여행은"
+    }, {
+      "start" : 4.604,
+      "end" : 4.769,
+      "loc" : "7,8",
+      "word" : "가고 싶어?"
+    }, {
+      "start" : 4.983,
+      "end" : 5.704,
+      "loc" : "6",
+      "word" : "어디로"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.424,
+      "end" : 1.833,
+      "gloss_id" : "만약2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.519,
+      "end" : 2.815,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.645,
+      "end" : 3.839,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.987,
+      "end" : 4.215,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.998,
+      "end" : 3.311,
+      "gloss_id" : "하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.424,
+      "end" : 1.833
+    }, {
+      "descriptor" : "",
+      "start" : 2.998,
+      "end" : 3.311
+    }, {
+      "descriptor" : "",
+      "start" : 4.983,
+      "end" : 5.704
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.604,
+      "end" : 4.769
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.645,
+      "end" : 5.697
+    }, {
+      "descriptor" : "",
+      "start" : 2.749,
+      "end" : 3.311
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786770",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:29:37",
+    "sentence_ID" : "VXPAKOKS240786770",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

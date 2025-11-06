@@ -1,0 +1,160 @@
+{
+  "id" : "VXPAKOKS240786340",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "새벽 일찍 나가서 대중교통 타고 다녀 본 적 있으신가요?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.455,
+      "end" : 2.258,
+      "gloss_id" : "새벽1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.515,
+      "end" : 2.813,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.945,
+      "end" : 3.096,
+      "gloss_id" : "교통1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.319,
+      "end" : 3.795,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.003,
+      "end" : 4.483,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.455,
+      "end" : 2.258,
+      "loc" : "0,1",
+      "word" : "새벽 일찍"
+    }, {
+      "start" : 2.515,
+      "end" : 2.813,
+      "loc" : "2",
+      "word" : "나가서"
+    }, {
+      "start" : 2.945,
+      "end" : 3.096,
+      "loc" : "3",
+      "word" : "대중교통"
+    }, {
+      "start" : 3.319,
+      "end" : 3.795,
+      "loc" : "4,5",
+      "word" : "타고 다녀"
+    }, {
+      "start" : 4.003,
+      "end" : 4.483,
+      "loc" : "6,7,8",
+      "word" : "본 적 있으신가요?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.319,
+      "end" : 3.795,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.515,
+      "end" : 2.813,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.945,
+      "end" : 3.096,
+      "gloss_id" : "교통1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.515,
+      "end" : 2.813
+    }, {
+      "descriptor" : "",
+      "start" : 4.003,
+      "end" : 4.483
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.058,
+      "end" : 4.483
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.455,
+      "end" : 2.258
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.319,
+      "end" : 4.475
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786340",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:26:29",
+    "sentence_ID" : "VXPAKOKS240786340",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

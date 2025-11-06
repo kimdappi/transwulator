@@ -1,0 +1,173 @@
+{
+  "id" : "VXPAKOKS240789490",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "저도 커다란 강아지 진짜 좋아해요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.417,
+      "end" : 1.509,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.668,
+      "end" : 1.914,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.316,
+      "end" : 2.477,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.68,
+      "end" : 3.173,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.518,
+      "end" : 3.894,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.074,
+      "end" : 4.412,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.417,
+      "end" : 1.908,
+      "loc" : "0",
+      "word" : "저도"
+    }, {
+      "start" : 2.316,
+      "end" : 2.477,
+      "loc" : "2",
+      "word" : "강아지"
+    }, {
+      "start" : 2.68,
+      "end" : 3.173,
+      "loc" : "1",
+      "word" : "커다란"
+    }, {
+      "start" : 3.518,
+      "end" : 3.894,
+      "loc" : "3",
+      "word" : "진짜"
+    }, {
+      "start" : 4.074,
+      "end" : 4.412,
+      "loc" : "4",
+      "word" : "좋아해요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.668,
+      "end" : 1.914,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.316,
+      "end" : 2.477,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.68,
+      "end" : 3.173,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.668,
+      "end" : 1.914
+    }, {
+      "descriptor" : "",
+      "start" : 4.074,
+      "end" : 4.412
+    }, {
+      "descriptor" : "",
+      "start" : 3.518,
+      "end" : 3.894
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.518,
+      "end" : 3.884
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.518,
+      "end" : 3.894
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.316,
+      "end" : 3.174
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789490",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:55:58",
+    "sentence_ID" : "VXPAKOKS240789490",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

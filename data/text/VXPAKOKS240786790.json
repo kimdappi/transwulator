@@ -1,0 +1,304 @@
+{
+  "id" : "VXPAKOKS240786790",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 신혼여행을 가게 된다면 보통 1주일 혹은 열흘 정도 가다 보니까 평소에 가지 못했던 곳을 가고 싶어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.219,
+      "end" : 1.416,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.684,
+      "end" : 2.175,
+      "gloss_id" : "만약2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.458,
+      "end" : 2.611,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.75,
+      "end" : 3.008,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.285,
+      "end" : 3.915,
+      "gloss_id" : "하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.714,
+      "end" : 4.953,
+      "gloss_id" : "일형3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.137,
+      "end" : 5.29,
+      "gloss_id" : "날짜(활용):10일후",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.583,
+      "end" : 5.91,
+      "gloss_id" : "충분하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.385,
+      "end" : 6.633,
+      "gloss_id" : "기회1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.024,
+      "end" : 7.247,
+      "gloss_id" : "한적없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.384,
+      "end" : 7.589,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.994,
+      "end" : 8.511,
+      "gloss_id" : "비행기1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.799,
+      "end" : 8.978,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.219,
+      "end" : 1.416,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 1.684,
+      "end" : 3.926,
+      "loc" : "1,2,3",
+      "word" : "신혼여행을 가게 된다면"
+    }, {
+      "start" : 4.297,
+      "end" : 4.936,
+      "loc" : "4,5",
+      "word" : "보통 1주일"
+    }, {
+      "start" : 5.137,
+      "end" : 5.905,
+      "loc" : "6,7,8,9,10",
+      "word" : "혹은 열흘 정도 가다 보니까"
+    }, {
+      "start" : 6.385,
+      "end" : 7.232,
+      "loc" : "11,12,13",
+      "word" : "평소에 가지 못했던"
+    }, {
+      "start" : 7.384,
+      "end" : 7.589,
+      "loc" : "14",
+      "word" : "곳을"
+    }, {
+      "start" : 7.994,
+      "end" : 8.511,
+      "loc" : "15",
+      "word" : "가고"
+    }, {
+      "start" : 8.799,
+      "end" : 8.978,
+      "loc" : "16",
+      "word" : "싶어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.297,
+      "end" : 5.291,
+      "gloss_id" : "날짜(활용):7일후",
+      "express" : "d",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.684,
+      "end" : 2.175,
+      "gloss_id" : "만약2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.458,
+      "end" : 2.611,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.75,
+      "end" : 3.008,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.385,
+      "end" : 6.633,
+      "gloss_id" : "기회1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.285,
+      "end" : 3.915,
+      "gloss_id" : "하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "일주일",
+      "start" : 4.297,
+      "end" : 4.624
+    }, {
+      "descriptor" : "십일",
+      "start" : 5.137,
+      "end" : 5.29
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.684,
+      "end" : 2.175
+    }, {
+      "descriptor" : "",
+      "start" : 3.285,
+      "end" : 3.915
+    }, {
+      "descriptor" : "",
+      "start" : 6.385,
+      "end" : 6.633
+    }, {
+      "descriptor" : "",
+      "start" : 7.384,
+      "end" : 7.589
+    }, {
+      "descriptor" : "",
+      "start" : 8.799,
+      "end" : 8.978
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 1.97,
+      "end" : 2.175
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.137,
+      "end" : 5.29
+    }, {
+      "descriptor" : "",
+      "start" : 7.994,
+      "end" : 8.511
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.219,
+      "end" : 2.17
+    }, {
+      "descriptor" : "",
+      "start" : 2.75,
+      "end" : 3.917
+    }, {
+      "descriptor" : "",
+      "start" : 5.583,
+      "end" : 5.91
+    }, {
+      "descriptor" : "",
+      "start" : 7.024,
+      "end" : 8.512
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786790",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:29:49",
+    "sentence_ID" : "VXPAKOKS240786790",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

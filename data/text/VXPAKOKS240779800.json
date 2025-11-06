@@ -1,0 +1,249 @@
+{
+  "id" : "VXPAKOKS240779800",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "너를 처음 만났었던 게 신입생 환영회 그 술자리였잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.358,
+      "end" : 2.525,
+      "gloss_id" : "새롭다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.799,
+      "end" : 2.917,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : {
+        "source" : "2",
+        "target" : "1"
+      }
+    }, {
+      "start" : 3.13,
+      "end" : 3.334,
+      "gloss_id" : "학생1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.449,
+      "end" : 3.675,
+      "gloss_id" : "박수1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.974,
+      "end" : 4.356,
+      "gloss_id" : "행사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.698,
+      "end" : 5.198,
+      "gloss_id" : "만나다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.566,
+      "end" : 5.792,
+      "gloss_id" : "처음1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.995,
+      "end" : 6.291,
+      "gloss_id" : "술1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.597,
+      "end" : 6.946,
+      "gloss_id" : "술먹이다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 7.177,
+      "end" : 7.473,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.358,
+      "end" : 3.326,
+      "loc" : "4",
+      "word" : "신입생"
+    }, {
+      "start" : 3.449,
+      "end" : 4.352,
+      "loc" : "5",
+      "word" : "환영회"
+    }, {
+      "start" : 4.698,
+      "end" : 5.198,
+      "loc" : "0,2,3",
+      "word" : "너를 만났었던 게"
+    }, {
+      "start" : 5.566,
+      "end" : 5.792,
+      "loc" : "1",
+      "word" : "처음"
+    }, {
+      "start" : 5.995,
+      "end" : 7.469,
+      "loc" : "6,7",
+      "word" : "그 술자리였잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.358,
+      "end" : 2.525,
+      "gloss_id" : "새롭다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.799,
+      "end" : 2.917,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.13,
+      "end" : 3.334,
+      "gloss_id" : "학생1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.449,
+      "end" : 3.675,
+      "gloss_id" : "박수1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.974,
+      "end" : 4.356,
+      "gloss_id" : "행사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.698,
+      "end" : 5.198,
+      "gloss_id" : "만나다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.597,
+      "end" : 6.946,
+      "gloss_id" : "술먹이다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.698,
+      "end" : 5.198
+    }, {
+      "descriptor" : "",
+      "start" : 7.177,
+      "end" : 7.473
+    }, {
+      "descriptor" : "",
+      "start" : 3.974,
+      "end" : 4.356
+    }, {
+      "descriptor" : "",
+      "start" : 2.799,
+      "end" : 2.917
+    }, {
+      "descriptor" : "",
+      "start" : 5.566,
+      "end" : 5.792
+    }, {
+      "descriptor" : "",
+      "start" : 5.995,
+      "end" : 6.291
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.994,
+      "end" : 5.198
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.698,
+      "end" : 5.198
+    }, {
+      "descriptor" : "",
+      "start" : 7.177,
+      "end" : 7.473
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779800",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:01:33",
+    "sentence_ID" : "VXPAKOKS240779800",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

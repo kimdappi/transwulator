@@ -1,0 +1,191 @@
+{
+  "id" : "VXPAKOKS240780680",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "남녀 공학 같은 거에 대해서 궁금한 건 없어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.87,
+      "end" : 2.029,
+      "gloss_id" : "남자1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.174,
+      "end" : 2.307,
+      "gloss_id" : "여자1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.558,
+      "end" : 2.861,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.061,
+      "end" : 3.286,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.514,
+      "end" : 4.222,
+      "gloss_id" : "분위기2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.364,
+      "end" : 4.46,
+      "gloss_id" : "궁금하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.631,
+      "end" : 4.89,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.87,
+      "end" : 3.283,
+      "loc" : "0,1",
+      "word" : "남녀 공학"
+    }, {
+      "start" : 3.514,
+      "end" : 4.222,
+      "loc" : "2,3,4",
+      "word" : "같은 거에 대해서"
+    }, {
+      "start" : 4.364,
+      "end" : 4.46,
+      "loc" : "5,6",
+      "word" : "궁금한 건"
+    }, {
+      "start" : 4.631,
+      "end" : 4.894,
+      "loc" : "7",
+      "word" : "없어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.87,
+      "end" : 2.029,
+      "gloss_id" : "남자1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.174,
+      "end" : 2.307,
+      "gloss_id" : "여자1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.558,
+      "end" : 2.861,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.061,
+      "end" : 3.286,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.514,
+      "end" : 4.222,
+      "gloss_id" : "분위기2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.514,
+      "end" : 4.222
+    }, {
+      "descriptor" : "",
+      "start" : 4.631,
+      "end" : 4.89
+    } ],
+    "Mo1" : null,
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 4.364,
+      "end" : 4.634
+    } ],
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.558,
+      "end" : 2.861
+    }, {
+      "descriptor" : "",
+      "start" : 4.631,
+      "end" : 4.89
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.87,
+      "end" : 4.884
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780680",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:05:13",
+    "sentence_ID" : "VXPAKOKS240780680",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,284 @@
+{
+  "id" : "VXPAKOKS240780640",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "내가 아마 친구를 만든다면 기본적인 배려가 좀 되는 사람이면 좋겠어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.028,
+      "end" : 2.18,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.422,
+      "end" : 2.791,
+      "gloss_id" : "만약2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.96,
+      "end" : 3.367,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.62,
+      "end" : 4.182,
+      "gloss_id" : "어울리다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.671,
+      "end" : 5.301,
+      "gloss_id" : "기본1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.605,
+      "end" : 6.67,
+      "gloss_id" : "위로하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 7.029,
+      "end" : 7.386,
+      "gloss_id" : "잘하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.624,
+      "end" : 7.962,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.175,
+      "end" : 8.52,
+      "gloss_id" : "만나다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.661,
+      "end" : 8.844,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.028,
+      "end" : 2.18,
+      "loc" : "0",
+      "word" : "내가"
+    }, {
+      "start" : 2.422,
+      "end" : 2.792,
+      "loc" : "1",
+      "word" : "아마"
+    }, {
+      "start" : 2.96,
+      "end" : 3.367,
+      "loc" : "2",
+      "word" : "친구를"
+    }, {
+      "start" : 3.62,
+      "end" : 4.182,
+      "loc" : "3",
+      "word" : "만든다면"
+    }, {
+      "start" : 4.671,
+      "end" : 5.301,
+      "loc" : "4",
+      "word" : "기본적인"
+    }, {
+      "start" : 5.605,
+      "end" : 6.67,
+      "loc" : "5",
+      "word" : "배려가"
+    }, {
+      "start" : 7.029,
+      "end" : 7.386,
+      "loc" : "6,7",
+      "word" : "좀 되는"
+    }, {
+      "start" : 7.624,
+      "end" : 7.962,
+      "loc" : "8",
+      "word" : "사람이면"
+    }, {
+      "start" : 8.175,
+      "end" : 8.837,
+      "loc" : "9",
+      "word" : "좋겠어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.422,
+      "end" : 2.792,
+      "gloss_id" : "만약2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.96,
+      "end" : 3.367,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.62,
+      "end" : 4.182,
+      "gloss_id" : "어울리다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.671,
+      "end" : 5.301,
+      "gloss_id" : "기본1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.605,
+      "end" : 6.67,
+      "gloss_id" : "위로하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.029,
+      "end" : 7.386,
+      "gloss_id" : "잘하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.624,
+      "end" : 7.962,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.175,
+      "end" : 8.52,
+      "gloss_id" : "만나다1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.422,
+      "end" : 2.791
+    }, {
+      "descriptor" : "",
+      "start" : 3.62,
+      "end" : 4.182
+    }, {
+      "descriptor" : "",
+      "start" : 7.624,
+      "end" : 7.962
+    }, {
+      "descriptor" : "",
+      "start" : 8.175,
+      "end" : 8.52
+    }, {
+      "descriptor" : "",
+      "start" : 8.661,
+      "end" : 8.844
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.671,
+      "end" : 5.301
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.422,
+      "end" : 2.592
+    }, {
+      "descriptor" : "",
+      "start" : 3.62,
+      "end" : 4.182
+    }, {
+      "descriptor" : "",
+      "start" : 7.029,
+      "end" : 7.386
+    }, {
+      "descriptor" : "",
+      "start" : 8.175,
+      "end" : 8.843
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.422,
+      "end" : 4.182
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780640",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:05:00",
+    "sentence_ID" : "VXPAKOKS240780640",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

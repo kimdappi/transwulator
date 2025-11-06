@@ -1,0 +1,196 @@
+{
+  "id" : "VXPAKOKS240787430",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "요즘은 정말 배달이 안 되는 음식이 없더라고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.312,
+      "end" : 1.56,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.834,
+      "end" : 1.99,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.164,
+      "end" : 2.463,
+      "gloss_id" : "반찬1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.721,
+      "end" : 2.897,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.259,
+      "end" : 3.712,
+      "gloss_id" : "보내다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 3.849,
+      "end" : 4.277,
+      "gloss_id" : "잡다하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.569,
+      "end" : 4.981,
+      "gloss_id" : "백점1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.312,
+      "end" : 1.56,
+      "loc" : "0",
+      "word" : "요즘은"
+    }, {
+      "start" : 1.834,
+      "end" : 2.458,
+      "loc" : "5",
+      "word" : "음식이"
+    }, {
+      "start" : 2.721,
+      "end" : 2.897,
+      "loc" : "1",
+      "word" : "정말"
+    }, {
+      "start" : 3.259,
+      "end" : 4.977,
+      "loc" : "2,3,4,6",
+      "word" : "배달이 안 되는 없더라고."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.312,
+      "end" : 1.986,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.164,
+      "end" : 2.463,
+      "gloss_id" : "반찬1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.849,
+      "end" : 4.277,
+      "gloss_id" : "잡다하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.259,
+      "end" : 3.712,
+      "gloss_id" : "보내다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.312,
+      "end" : 1.56
+    }, {
+      "descriptor" : "",
+      "start" : 2.721,
+      "end" : 2.897
+    }, {
+      "descriptor" : "",
+      "start" : 3.849,
+      "end" : 4.277
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.721,
+      "end" : 2.897
+    }, {
+      "descriptor" : "",
+      "start" : 4.569,
+      "end" : 4.981
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.721,
+      "end" : 2.897
+    }, {
+      "descriptor" : "",
+      "start" : 3.849,
+      "end" : 4.277
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 3.849,
+      "end" : 4.277
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.312,
+      "end" : 2.459
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787430",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:34:31",
+    "sentence_ID" : "VXPAKOKS240787430",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

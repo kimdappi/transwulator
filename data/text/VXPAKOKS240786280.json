@@ -1,0 +1,174 @@
+{
+  "id" : "VXPAKOKS240786280",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "우리 좀 있으면 이제 군대 가게 되잖아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.041,
+      "end" : 2.48,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.675,
+      "end" : 3.787,
+      "gloss_id" : "가깝다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.069,
+      "end" : 4.215,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.366,
+      "end" : 4.6,
+      "gloss_id" : "군대1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.696,
+      "end" : 4.832,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.981,
+      "end" : 5.692,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.041,
+      "end" : 2.48,
+      "loc" : "0",
+      "word" : "우리"
+    }, {
+      "start" : 2.675,
+      "end" : 3.787,
+      "loc" : "1,2",
+      "word" : "좀 있으면"
+    }, {
+      "start" : 4.069,
+      "end" : 4.215,
+      "loc" : "3",
+      "word" : "이제"
+    }, {
+      "start" : 4.366,
+      "end" : 4.6,
+      "loc" : "4",
+      "word" : "군대"
+    }, {
+      "start" : 4.696,
+      "end" : 4.832,
+      "loc" : "5",
+      "word" : "가게"
+    }, {
+      "start" : 4.981,
+      "end" : 5.692,
+      "loc" : "6",
+      "word" : "되잖아?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.069,
+      "end" : 4.215,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.675,
+      "end" : 3.787,
+      "gloss_id" : "가깝다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.366,
+      "end" : 4.6,
+      "gloss_id" : "군대1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.675,
+      "end" : 3.787
+    }, {
+      "descriptor" : "",
+      "start" : 4.981,
+      "end" : 5.692
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.981,
+      "end" : 5.692
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.041,
+      "end" : 2.48
+    }, {
+      "descriptor" : "",
+      "start" : 4.981,
+      "end" : 5.692
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786280",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:26:03",
+    "sentence_ID" : "VXPAKOKS240786280",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,129 @@
+{
+  "id" : "VXPAKOKS240789420",
+  "opertor" : "label7",
+  "krlgg_sntenc" : {
+    "koreanText" : "형은 유산균 제품 드시고 계세요?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.455,
+      "end" : 1.837,
+      "gloss_id" : "형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.061,
+      "end" : 4.336,
+      "gloss_id" : "유산균",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.594,
+      "end" : 4.807,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.96,
+      "end" : 5.308,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.444,
+      "end" : 1.837,
+      "loc" : "0",
+      "word" : "형은"
+    }, {
+      "start" : 2.061,
+      "end" : 4.336,
+      "loc" : "1,2",
+      "word" : "유산균 제품"
+    }, {
+      "start" : 4.594,
+      "end" : 4.807,
+      "loc" : "3",
+      "word" : "드시고"
+    }, {
+      "start" : 4.96,
+      "end" : 5.308,
+      "loc" : "4",
+      "word" : "계세요?"
+    } ],
+    "sign_gestures_weak" : null
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.96,
+      "end" : 5.308
+    }, {
+      "descriptor" : "",
+      "start" : 1.444,
+      "end" : 1.837
+    }, {
+      "descriptor" : "",
+      "start" : 3.678,
+      "end" : 4.313
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.444,
+      "end" : 1.837
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.606,
+      "end" : 5.308
+    }, {
+      "descriptor" : "",
+      "start" : 3.678,
+      "end" : 4.251
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789420",
+  "potogrf" : {
+    "createdTime" : "2024-10-28 04:54:23",
+    "sentence_ID" : "VXPAKOKS240789420",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "mp4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

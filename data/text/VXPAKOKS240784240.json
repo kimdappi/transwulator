@@ -1,0 +1,225 @@
+{
+  "id" : "VXPAKOKS240784240",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "그 야구장 직관 가서 꼭 치어리더를 내 눈앞에서 봤으면 좋겠어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 3.032,
+      "end" : 3.182,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.356,
+      "end" : 3.592,
+      "gloss_id" : "야구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.718,
+      "end" : 3.852,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.008,
+      "end" : 4.482,
+      "gloss_id" : "직접1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.705,
+      "end" : 4.898,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 5.146,
+      "end" : 5.842,
+      "gloss_id" : "구경1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.077,
+      "end" : 6.909,
+      "gloss_id" : "응원1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.09,
+      "end" : 7.176,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.387,
+      "end" : 7.87,
+      "gloss_id" : "직접보다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.167,
+      "end" : 8.641,
+      "gloss_id" : "원하다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.032,
+      "end" : 3.182,
+      "loc" : "0",
+      "word" : "그"
+    }, {
+      "start" : 3.356,
+      "end" : 3.814,
+      "loc" : "1",
+      "word" : "야구장"
+    }, {
+      "start" : 4.008,
+      "end" : 5.855,
+      "loc" : "2,3",
+      "word" : "직관 가서"
+    }, {
+      "start" : 6.077,
+      "end" : 6.909,
+      "loc" : "5",
+      "word" : "치어리더를"
+    }, {
+      "start" : 7.09,
+      "end" : 7.176,
+      "loc" : "6",
+      "word" : "내"
+    }, {
+      "start" : 7.387,
+      "end" : 7.87,
+      "loc" : "4,7,8",
+      "word" : "꼭 눈앞에서 봤으면"
+    }, {
+      "start" : 8.167,
+      "end" : 8.641,
+      "loc" : "9",
+      "word" : "좋겠어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.356,
+      "end" : 3.592,
+      "gloss_id" : "야구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.008,
+      "end" : 4.482,
+      "gloss_id" : "직접1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.705,
+      "end" : 4.898,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.077,
+      "end" : 6.909,
+      "gloss_id" : "응원1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.387,
+      "end" : 7.87,
+      "gloss_id" : "직접보다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : null,
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.703,
+      "end" : 7.87
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.008,
+      "end" : 4.482
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.705,
+      "end" : 5.87
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.032,
+      "end" : 3.583
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784240",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:21:45",
+    "sentence_ID" : "VXPAKOKS240784240",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

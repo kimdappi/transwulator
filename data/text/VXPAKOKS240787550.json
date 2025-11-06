@@ -1,0 +1,163 @@
+{
+  "id" : "VXPAKOKS240787550",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "나이 든 사람도 이제 나이 들어서 할 일이 없잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.487,
+      "end" : 1.627,
+      "gloss_id" : "나이1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.969,
+      "end" : 2.27,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.576,
+      "end" : 2.852,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.028,
+      "end" : 3.241,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.383,
+      "end" : 3.664,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.986,
+      "end" : 4.651,
+      "gloss_id" : "묵혀두다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.028,
+      "end" : 4.641,
+      "loc" : "6,7,8",
+      "word" : "할 일이 없잖아."
+    }, {
+      "start" : 1.487,
+      "end" : 1.627,
+      "loc" : "0",
+      "word" : "나이"
+    }, {
+      "start" : 1.969,
+      "end" : 2.853,
+      "loc" : "1,2,3,4,5",
+      "word" : "든 사람도 이제 나이 들어서"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.969,
+      "end" : 2.27,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.576,
+      "end" : 2.852,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.028,
+      "end" : 3.659,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.576,
+      "end" : 2.852
+    }, {
+      "descriptor" : "",
+      "start" : 1.969,
+      "end" : 2.27
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.576,
+      "end" : 2.852
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.487,
+      "end" : 2.215
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.383,
+      "end" : 3.664
+    } ],
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 3.986,
+      "end" : 4.651
+    } ],
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240787550",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:35:45",
+    "sentence_ID" : "VXPAKOKS240787550",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

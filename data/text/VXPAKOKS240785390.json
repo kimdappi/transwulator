@@ -1,0 +1,146 @@
+{
+  "id" : "VXPAKOKS240785390",
+  "opertor" : "label10",
+  "krlgg_sntenc" : {
+    "koreanText" : "얼른 전철이 생겼음 좋겠다.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.558,
+      "end" : 2.067,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.359,
+      "end" : 2.714,
+      "gloss_id" : "빨리1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.032,
+      "end" : 3.256,
+      "gloss_id" : "새롭다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.565,
+      "end" : 3.995,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.558,
+      "end" : 2.067,
+      "loc" : "1",
+      "word" : "전철이"
+    }, {
+      "start" : 2.359,
+      "end" : 2.714,
+      "loc" : "0",
+      "word" : "얼른"
+    }, {
+      "start" : 3.032,
+      "end" : 3.256,
+      "loc" : "2",
+      "word" : "생겼음"
+    }, {
+      "start" : 3.565,
+      "end" : 3.995,
+      "loc" : "3",
+      "word" : "좋겠다."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.558,
+      "end" : 2.067,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.032,
+      "end" : 3.256,
+      "gloss_id" : "새롭다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.565,
+      "end" : 3.995,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.558,
+      "end" : 2.067
+    }, {
+      "descriptor" : "",
+      "start" : 2.359,
+      "end" : 2.714
+    }, {
+      "descriptor" : "",
+      "start" : 3.032,
+      "end" : 3.256
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.032,
+      "end" : 3.256
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.352,
+      "end" : 3.993
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240785390",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 01:38:19",
+    "sentence_ID" : "VXPAKOKS240785390",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

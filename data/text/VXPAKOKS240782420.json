@@ -1,0 +1,220 @@
+{
+  "id" : "VXPAKOKS240782420",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "배의 근력을 키우고 싶었는데 운동을 할 때 배 근력에 자극이 왔어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.657,
+      "end" : 1.951,
+      "gloss_id" : "배2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.157,
+      "end" : 2.737,
+      "gloss_id" : "근육2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.071,
+      "end" : 3.537,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.912,
+      "end" : 4.179,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.405,
+      "end" : 4.546,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.762,
+      "end" : 5.242,
+      "gloss_id" : "근육2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.494,
+      "end" : 5.828,
+      "gloss_id" : "반응1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 6.161,
+      "end" : 6.562,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.657,
+      "end" : 1.951,
+      "loc" : "0",
+      "word" : "배의"
+    }, {
+      "start" : 2.157,
+      "end" : 2.737,
+      "loc" : "1,2",
+      "word" : "근력을 키우고"
+    }, {
+      "start" : 3.071,
+      "end" : 3.537,
+      "loc" : "3",
+      "word" : "싶었는데"
+    }, {
+      "start" : 3.912,
+      "end" : 4.179,
+      "loc" : "4,5",
+      "word" : "운동을 할"
+    }, {
+      "start" : 4.405,
+      "end" : 4.546,
+      "loc" : "6",
+      "word" : "때"
+    }, {
+      "start" : 4.762,
+      "end" : 5.242,
+      "loc" : "7,8",
+      "word" : "배 근력에"
+    }, {
+      "start" : 5.494,
+      "end" : 5.828,
+      "loc" : "9",
+      "word" : "자극이"
+    }, {
+      "start" : 6.161,
+      "end" : 6.562,
+      "loc" : "10",
+      "word" : "왔어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.157,
+      "end" : 2.737,
+      "gloss_id" : "근육2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.912,
+      "end" : 4.179,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.405,
+      "end" : 4.546,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.762,
+      "end" : 5.242,
+      "gloss_id" : "근육2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.494,
+      "end" : 5.828,
+      "gloss_id" : "반응1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.157,
+      "end" : 2.737
+    }, {
+      "descriptor" : "",
+      "start" : 6.161,
+      "end" : 6.562
+    }, {
+      "descriptor" : "",
+      "start" : 4.405,
+      "end" : 4.546
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.071,
+      "end" : 3.537
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.071,
+      "end" : 3.421
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.912,
+      "end" : 4.179
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782420",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:12:46",
+    "sentence_ID" : "VXPAKOKS240782420",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

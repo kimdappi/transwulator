@@ -1,0 +1,388 @@
+{
+  "id" : "VXPAKOKS240779590",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "지금 쓰는 핸드폰은 충전을 하면은 작동 시간도 오래가고 터치 오작동도 발생하지 않고 최근에 가장 만족스러웠던 물건들 중에 하난 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.814,
+      "end" : 2.085,
+      "gloss_id" : "요즘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.427,
+      "end" : 2.69,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.97,
+      "end" : 3.453,
+      "gloss_id" : "마음에들다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.68,
+      "end" : 3.915,
+      "gloss_id" : "물건2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.061,
+      "end" : 4.275,
+      "gloss_id" : "안1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.55,
+      "end" : 5.14,
+      "gloss_id" : "일3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.564,
+      "end" : 5.715,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.954,
+      "end" : 6.249,
+      "gloss_id" : "사용1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.506,
+      "end" : 6.654,
+      "gloss_id" : "중1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.955,
+      "end" : 7.368,
+      "gloss_id" : "핸드폰1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.357,
+      "end" : 9.037,
+      "gloss_id" : "묻다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.323,
+      "end" : 9.864,
+      "gloss_id" : "감소3#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.189,
+      "end" : 10.49,
+      "gloss_id" : "기다리다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.627,
+      "end" : 11.094,
+      "gloss_id" : "핸드폰4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.285,
+      "end" : 11.491,
+      "gloss_id" : "실수1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.662,
+      "end" : 11.843,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.814,
+      "end" : 2.085,
+      "loc" : "12",
+      "word" : "최근에"
+    }, {
+      "start" : 2.427,
+      "end" : 2.69,
+      "loc" : "13",
+      "word" : "가장"
+    }, {
+      "start" : 2.97,
+      "end" : 3.453,
+      "loc" : "14",
+      "word" : "만족스러웠던"
+    }, {
+      "start" : 3.669,
+      "end" : 3.915,
+      "loc" : "15",
+      "word" : "물건들"
+    }, {
+      "start" : 4.061,
+      "end" : 4.275,
+      "loc" : "16",
+      "word" : "중에"
+    }, {
+      "start" : 4.55,
+      "end" : 5.14,
+      "loc" : "17,18,19",
+      "word" : "하난 거 같아."
+    }, {
+      "start" : 5.575,
+      "end" : 5.715,
+      "loc" : "0",
+      "word" : "지금"
+    }, {
+      "start" : 5.954,
+      "end" : 6.638,
+      "loc" : "1",
+      "word" : "쓰는"
+    }, {
+      "start" : 6.966,
+      "end" : 7.368,
+      "loc" : "2",
+      "word" : "핸드폰은"
+    }, {
+      "start" : 8.357,
+      "end" : 9.037,
+      "loc" : "3,4",
+      "word" : "충전을 하면은"
+    }, {
+      "start" : 9.323,
+      "end" : 9.864,
+      "loc" : "5,6",
+      "word" : "작동 시간도"
+    }, {
+      "start" : 10.178,
+      "end" : 10.482,
+      "loc" : "7",
+      "word" : "오래가고"
+    }, {
+      "start" : 10.627,
+      "end" : 11.094,
+      "loc" : "8",
+      "word" : "터치"
+    }, {
+      "start" : 11.285,
+      "end" : 11.491,
+      "loc" : "9",
+      "word" : "오작동도"
+    }, {
+      "start" : 11.662,
+      "end" : 11.843,
+      "loc" : "10,11",
+      "word" : "발생하지 않고"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 8.357,
+      "end" : 10.483,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.97,
+      "end" : 3.453,
+      "gloss_id" : "마음에들다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.575,
+      "end" : 5.715,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.954,
+      "end" : 6.249,
+      "gloss_id" : "사용1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.506,
+      "end" : 6.654,
+      "gloss_id" : "중1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.627,
+      "end" : 11.094,
+      "gloss_id" : "핸드폰4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 11.285,
+      "end" : 11.49,
+      "gloss_id" : "실수1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.68,
+      "end" : 4.269,
+      "gloss_id" : "물건2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.55,
+      "end" : 5.14
+    }, {
+      "descriptor" : "",
+      "start" : 6.966,
+      "end" : 7.368
+    }, {
+      "descriptor" : "",
+      "start" : 11.662,
+      "end" : 11.843
+    }, {
+      "descriptor" : "",
+      "start" : 2.97,
+      "end" : 3.453
+    }, {
+      "descriptor" : "",
+      "start" : 3.68,
+      "end" : 3.915
+    }, {
+      "descriptor" : "",
+      "start" : 4.061,
+      "end" : 4.275
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.264,
+      "end" : 3.453
+    }, {
+      "descriptor" : "",
+      "start" : 10.301,
+      "end" : 10.506
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.427,
+      "end" : 3.254
+    }, {
+      "descriptor" : "",
+      "start" : 10.178,
+      "end" : 10.441
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.427,
+      "end" : 3.254
+    }, {
+      "descriptor" : "",
+      "start" : 11.662,
+      "end" : 11.843
+    } ],
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 9.323,
+      "end" : 9.758
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.657,
+      "end" : 5.14
+    }, {
+      "descriptor" : "",
+      "start" : 8.357,
+      "end" : 9.037
+    }, {
+      "descriptor" : "",
+      "start" : 10.627,
+      "end" : 11.094
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779590",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 10:59:57",
+    "sentence_ID" : "VXPAKOKS240779590",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,130 @@
+{
+  "id" : "VXPAKOKS240783340",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "보통 야식을 너는 뭐 먹어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.29,
+      "end" : 2.568,
+      "gloss_id" : "어둡다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.871,
+      "end" : 3.32,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.589,
+      "end" : 3.942,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.115,
+      "end" : 4.377,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.29,
+      "end" : 3.316,
+      "loc" : "1",
+      "word" : "야식을"
+    }, {
+      "start" : 3.589,
+      "end" : 3.942,
+      "loc" : "0",
+      "word" : "보통"
+    }, {
+      "start" : 4.115,
+      "end" : 4.377,
+      "loc" : "2,3,4",
+      "word" : "너는 뭐 먹어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.29,
+      "end" : 2.568,
+      "gloss_id" : "어둡다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.589,
+      "end" : 3.942,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.115,
+      "end" : 4.377
+    }, {
+      "descriptor" : "",
+      "start" : 3.589,
+      "end" : 3.942
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.786,
+      "end" : 3.942
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.115,
+      "end" : 4.377
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783340",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:17:02",
+    "sentence_ID" : "VXPAKOKS240783340",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,242 @@
+{
+  "id" : "VXPAKOKS240781400",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "어딘가를 여행 갈 때 항상 기본적으로 1주일 이상은 있는 것 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 3.384,
+      "end" : 3.607,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.764,
+      "end" : 4.042,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.121,
+      "end" : 4.304,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.423,
+      "end" : 4.559,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.759,
+      "end" : 5.29,
+      "gloss_id" : "항상1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.668,
+      "end" : 6.018,
+      "gloss_id" : "기본1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.352,
+      "end" : 6.805,
+      "gloss_id" : "주",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.017,
+      "end" : 7.342,
+      "gloss_id" : "선배1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.548,
+      "end" : 7.818,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.384,
+      "end" : 3.607,
+      "loc" : "0",
+      "word" : "어딘가를"
+    }, {
+      "start" : 3.764,
+      "end" : 4.042,
+      "loc" : "1",
+      "word" : "여행"
+    }, {
+      "start" : 4.121,
+      "end" : 4.304,
+      "loc" : "2",
+      "word" : "갈"
+    }, {
+      "start" : 4.423,
+      "end" : 4.559,
+      "loc" : "3",
+      "word" : "때"
+    }, {
+      "start" : 4.759,
+      "end" : 5.29,
+      "loc" : "4",
+      "word" : "항상"
+    }, {
+      "start" : 5.668,
+      "end" : 6.018,
+      "loc" : "5",
+      "word" : "기본적으로"
+    }, {
+      "start" : 6.352,
+      "end" : 6.805,
+      "loc" : "6",
+      "word" : "1주일"
+    }, {
+      "start" : 7.017,
+      "end" : 7.342,
+      "loc" : "7",
+      "word" : "이상은"
+    }, {
+      "start" : 7.548,
+      "end" : 7.818,
+      "loc" : "8,9,10",
+      "word" : "있는 것 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.764,
+      "end" : 4.042,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.423,
+      "end" : 4.559,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.759,
+      "end" : 5.29,
+      "gloss_id" : "항상1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.668,
+      "end" : 6.018,
+      "gloss_id" : "기본1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.352,
+      "end" : 7.826,
+      "gloss_id" : "1",
+      "express" : "n",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "일주",
+      "start" : 6.352,
+      "end" : 6.805
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.759,
+      "end" : 5.994
+    }, {
+      "descriptor" : "",
+      "start" : 7.017,
+      "end" : 7.342
+    }, {
+      "descriptor" : "",
+      "start" : 7.548,
+      "end" : 7.818
+    }, {
+      "descriptor" : "",
+      "start" : 3.384,
+      "end" : 3.607
+    }, {
+      "descriptor" : "",
+      "start" : 3.764,
+      "end" : 4.556
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.759,
+      "end" : 5.29
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 7.691,
+      "end" : 7.818
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240781400",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:08:13",
+    "sentence_ID" : "VXPAKOKS240781400",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

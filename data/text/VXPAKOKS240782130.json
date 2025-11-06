@@ -1,0 +1,180 @@
+{
+  "id" : "VXPAKOKS240782130",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "엄마는 운동하다가 다친 적 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.098,
+      "end" : 2.383,
+      "gloss_id" : "엄마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.563,
+      "end" : 3.142,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.419,
+      "end" : 3.604,
+      "gloss_id" : "하다가1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.931,
+      "end" : 4.238,
+      "gloss_id" : "실수1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.469,
+      "end" : 5.754,
+      "gloss_id" : "상처2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.079,
+      "end" : 6.293,
+      "gloss_id" : "아프다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.53,
+      "end" : 6.873,
+      "gloss_id" : "한적있다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.098,
+      "end" : 2.383,
+      "loc" : "0",
+      "word" : "엄마는"
+    }, {
+      "start" : 2.563,
+      "end" : 3.599,
+      "loc" : "1",
+      "word" : "운동하다가"
+    }, {
+      "start" : 4.469,
+      "end" : 5.754,
+      "loc" : "2",
+      "word" : "다친"
+    }, {
+      "start" : 6.53,
+      "end" : 6.873,
+      "loc" : "3,4",
+      "word" : "적 있어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.563,
+      "end" : 3.141,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.419,
+      "end" : 3.604,
+      "gloss_id" : "하다가1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.931,
+      "end" : 4.238,
+      "gloss_id" : "실수1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.469,
+      "end" : 5.754,
+      "gloss_id" : "상처2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.931,
+      "end" : 4.238
+    }, {
+      "descriptor" : "",
+      "start" : 6.53,
+      "end" : 6.873
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.53,
+      "end" : 6.873
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.098,
+      "end" : 2.383
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 6.53,
+      "end" : 6.873
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782130",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:11:38",
+    "sentence_ID" : "VXPAKOKS240782130",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

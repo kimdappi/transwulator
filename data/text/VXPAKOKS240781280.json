@@ -1,0 +1,223 @@
+{
+  "id" : "VXPAKOKS240781280",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "제가 지금도 강원도분들 만나면 강원도 사투릴 쓰거든요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.892,
+      "end" : 1.969,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.156,
+      "end" : 2.233,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.437,
+      "end" : 2.728,
+      "gloss_id" : "같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.043,
+      "end" : 3.218,
+      "gloss_id" : "강원도1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.404,
+      "end" : 3.481,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.007,
+      "end" : 5.194,
+      "gloss_id" : "만나다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.379,
+      "end" : 5.593,
+      "gloss_id" : "강원도1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.841,
+      "end" : 6.256,
+      "gloss_id" : "사투리2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.684,
+      "end" : 7.47,
+      "gloss_id" : "말하다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.892,
+      "end" : 1.969,
+      "loc" : "0",
+      "word" : "제가"
+    }, {
+      "start" : 2.156,
+      "end" : 2.719,
+      "loc" : "1",
+      "word" : "지금도"
+    }, {
+      "start" : 3.043,
+      "end" : 3.465,
+      "loc" : "2",
+      "word" : "강원도분들"
+    }, {
+      "start" : 4.007,
+      "end" : 5.194,
+      "loc" : "3",
+      "word" : "만나면"
+    }, {
+      "start" : 5.379,
+      "end" : 5.593,
+      "loc" : "4",
+      "word" : "강원도"
+    }, {
+      "start" : 5.841,
+      "end" : 6.256,
+      "loc" : "5",
+      "word" : "사투릴"
+    }, {
+      "start" : 6.684,
+      "end" : 7.47,
+      "loc" : "6",
+      "word" : "쓰거든요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.156,
+      "end" : 2.233,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.437,
+      "end" : 2.728,
+      "gloss_id" : "같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.043,
+      "end" : 3.218,
+      "gloss_id" : "강원도1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.404,
+      "end" : 3.481,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.007,
+      "end" : 5.194,
+      "gloss_id" : "만나다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.379,
+      "end" : 5.593,
+      "gloss_id" : "강원도1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.437,
+      "end" : 2.728
+    }, {
+      "descriptor" : "",
+      "start" : 4.254,
+      "end" : 4.623
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.254,
+      "end" : 4.623
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.404,
+      "end" : 4.624
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781280",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:07:43",
+    "sentence_ID" : "VXPAKOKS240781280",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

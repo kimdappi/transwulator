@@ -1,0 +1,161 @@
+{
+  "id" : "VXPAKOKS240787410",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 요즘 좀 꽂힌 냉면집이 있어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.515,
+      "end" : 1.643,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.91,
+      "end" : 2.249,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.55,
+      "end" : 2.884,
+      "gloss_id" : "냉면1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.156,
+      "end" : 3.231,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.527,
+      "end" : 4.027,
+      "gloss_id" : "오직1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.31,
+      "end" : 4.751,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.515,
+      "end" : 1.643,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 1.91,
+      "end" : 2.249,
+      "loc" : "1",
+      "word" : "요즘"
+    }, {
+      "start" : 2.55,
+      "end" : 3.231,
+      "loc" : "4",
+      "word" : "냉면집이"
+    }, {
+      "start" : 3.527,
+      "end" : 4.741,
+      "loc" : "2,3,5",
+      "word" : "좀 꽂힌 있어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.91,
+      "end" : 2.249,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.156,
+      "end" : 3.231,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.91,
+      "end" : 2.249
+    }, {
+      "descriptor" : "",
+      "start" : 3.527,
+      "end" : 4.027
+    }, {
+      "descriptor" : "",
+      "start" : 4.31,
+      "end" : 4.751
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.156,
+      "end" : 4.023
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.515,
+      "end" : 2.235
+    }, {
+      "descriptor" : "",
+      "start" : 3.527,
+      "end" : 4.027
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787410",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:34:21",
+    "sentence_ID" : "VXPAKOKS240787410",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

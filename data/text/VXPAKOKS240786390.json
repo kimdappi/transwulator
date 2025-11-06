@@ -1,0 +1,243 @@
+{
+  "id" : "VXPAKOKS240786390",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "저는 취직을 처음 해서 사표를 가슴 속에 넣고 다녔던 생각이 문득 떠오르네요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.543,
+      "end" : 1.876,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.05,
+      "end" : 2.159,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.306,
+      "end" : 2.651,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.872,
+      "end" : 3.576,
+      "gloss_id" : "처음1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.872,
+      "end" : 4.317,
+      "gloss_id" : "그만두다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.559,
+      "end" : 5.098,
+      "gloss_id" : "종이3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.36,
+      "end" : 6.034,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.206,
+      "end" : 7.069,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.279,
+      "end" : 8.637,
+      "gloss_id" : "추억1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.543,
+      "end" : 1.876,
+      "loc" : "0",
+      "word" : "저는"
+    }, {
+      "start" : 2.05,
+      "end" : 2.654,
+      "loc" : "1",
+      "word" : "취직을"
+    }, {
+      "start" : 2.872,
+      "end" : 3.576,
+      "loc" : "2,3",
+      "word" : "처음 해서"
+    }, {
+      "start" : 3.872,
+      "end" : 5.095,
+      "loc" : "4",
+      "word" : "사표를"
+    }, {
+      "start" : 5.36,
+      "end" : 6.034,
+      "loc" : "5,6,7",
+      "word" : "가슴 속에 넣고"
+    }, {
+      "start" : 6.206,
+      "end" : 7.069,
+      "loc" : "8",
+      "word" : "다녔던"
+    }, {
+      "start" : 7.279,
+      "end" : 8.637,
+      "loc" : "9,10,11",
+      "word" : "생각이 문득 떠오르네요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 5.36,
+      "end" : 6.034,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.05,
+      "end" : 2.159,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.306,
+      "end" : 2.651,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.872,
+      "end" : 4.317,
+      "gloss_id" : "그만두다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.206,
+      "end" : 7.069,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.559,
+      "end" : 5.098,
+      "gloss_id" : "종이3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.872,
+      "end" : 3.576
+    }, {
+      "descriptor" : "",
+      "start" : 5.36,
+      "end" : 6.034
+    }, {
+      "descriptor" : "",
+      "start" : 7.279,
+      "end" : 8.637
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.82,
+      "end" : 6.034
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.872,
+      "end" : 3.576
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.872,
+      "end" : 5.776
+    }, {
+      "descriptor" : "",
+      "start" : 6.206,
+      "end" : 7.069
+    }, {
+      "descriptor" : "",
+      "start" : 7.716,
+      "end" : 8.637
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.559,
+      "end" : 5.098
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786390",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:26:50",
+    "sentence_ID" : "VXPAKOKS240786390",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,217 @@
+{
+  "id" : "VXPAKOKS240782120",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "오빠는 야구 선수랑 뭐 사진 찍거나 사인 받은 적 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.672,
+      "end" : 1.825,
+      "gloss_id" : "형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.998,
+      "end" : 2.274,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.187,
+      "end" : 3.391,
+      "gloss_id" : "야구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.582,
+      "end" : 4.14,
+      "gloss_id" : "대표1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.291,
+      "end" : 4.509,
+      "gloss_id" : "함께1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.833,
+      "end" : 5.579,
+      "gloss_id" : "찍다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.934,
+      "end" : 6.217,
+      "gloss_id" : "사인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.377,
+      "end" : 7.043,
+      "gloss_id" : "주다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "3",
+        "target" : "3"
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.672,
+      "end" : 2.265,
+      "loc" : "0",
+      "word" : "오빠는"
+    }, {
+      "start" : 3.187,
+      "end" : 3.391,
+      "loc" : "1",
+      "word" : "야구"
+    }, {
+      "start" : 3.582,
+      "end" : 4.494,
+      "loc" : "2",
+      "word" : "선수랑"
+    }, {
+      "start" : 4.833,
+      "end" : 5.579,
+      "loc" : "3,4,5",
+      "word" : "뭐 사진 찍거나"
+    }, {
+      "start" : 5.934,
+      "end" : 6.217,
+      "loc" : "6",
+      "word" : "사인"
+    }, {
+      "start" : 6.377,
+      "end" : 7.043,
+      "loc" : "7,8,9",
+      "word" : "받은 적 있어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.187,
+      "end" : 3.391,
+      "gloss_id" : "야구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.582,
+      "end" : 4.14,
+      "gloss_id" : "대표1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.291,
+      "end" : 4.509,
+      "gloss_id" : "함께1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.833,
+      "end" : 5.579,
+      "gloss_id" : "찍다3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.934,
+      "end" : 6.217,
+      "gloss_id" : "사인1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.794,
+      "end" : 7.034,
+      "gloss_id" : "한적있다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.998,
+      "end" : 2.274
+    }, {
+      "descriptor" : "",
+      "start" : 4.833,
+      "end" : 5.579
+    }, {
+      "descriptor" : "",
+      "start" : 6.794,
+      "end" : 7.034
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.962,
+      "end" : 7.034
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.833,
+      "end" : 5.579
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 6.794,
+      "end" : 7.012
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782120",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:11:35",
+    "sentence_ID" : "VXPAKOKS240782120",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,209 @@
+{
+  "id" : "VXPAKOKS240779340",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "항공과 관련된 직업을 단기적으로 일을 해 본 적은 있어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.694,
+      "end" : 2.058,
+      "gloss_id" : "비행기3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.284,
+      "end" : 2.56,
+      "gloss_id" : "연결2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.771,
+      "end" : 3.233,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.486,
+      "end" : 3.804,
+      "gloss_id" : "언제1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.036,
+      "end" : 4.312,
+      "gloss_id" : "짧다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.474,
+      "end" : 4.731,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.975,
+      "end" : 5.217,
+      "gloss_id" : "한적있다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.694,
+      "end" : 2.058,
+      "loc" : "0",
+      "word" : "항공과"
+    }, {
+      "start" : 2.284,
+      "end" : 2.56,
+      "loc" : "1",
+      "word" : "관련된"
+    }, {
+      "start" : 2.771,
+      "end" : 3.233,
+      "loc" : "2",
+      "word" : "직업을"
+    }, {
+      "start" : 3.486,
+      "end" : 4.312,
+      "loc" : "3",
+      "word" : "단기적으로"
+    }, {
+      "start" : 4.975,
+      "end" : 5.217,
+      "loc" : "7,8",
+      "word" : "적은 있어."
+    }, {
+      "start" : 4.474,
+      "end" : 4.731,
+      "loc" : "4,5,6",
+      "word" : "일을 해 본"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.284,
+      "end" : 2.56,
+      "gloss_id" : "연결2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.771,
+      "end" : 3.233,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.486,
+      "end" : 3.804,
+      "gloss_id" : "언제1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.036,
+      "end" : 4.312,
+      "gloss_id" : "짧다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.474,
+      "end" : 4.731,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.284,
+      "end" : 2.56
+    }, {
+      "descriptor" : "",
+      "start" : 2.892,
+      "end" : 3.233
+    }, {
+      "descriptor" : "",
+      "start" : 4.474,
+      "end" : 4.731
+    }, {
+      "descriptor" : "",
+      "start" : 5.124,
+      "end" : 5.217
+    }, {
+      "descriptor" : "",
+      "start" : 4.036,
+      "end" : 4.312
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.123,
+      "end" : 5.217
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.694,
+      "end" : 2.895
+    }, {
+      "descriptor" : "",
+      "start" : 4.474,
+      "end" : 4.731
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779340",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 10:57:48",
+    "sentence_ID" : "VXPAKOKS240779340",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

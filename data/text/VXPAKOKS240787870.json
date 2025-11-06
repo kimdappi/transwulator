@@ -1,0 +1,155 @@
+{
+  "id" : "VXPAKOKS240787870",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "대중교통 타다 보면은 난 크게 불편함 느끼는 거 없는 거 같애.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.13,
+      "end" : 2.417,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.718,
+      "end" : 3.709,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.099,
+      "end" : 4.445,
+      "gloss_id" : "귀찮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.638,
+      "end" : 4.795,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.993,
+      "end" : 5.499,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.13,
+      "end" : 3.724,
+      "loc" : "0,1,2",
+      "word" : "대중교통 타다 보면은"
+    }, {
+      "start" : 4.099,
+      "end" : 4.445,
+      "loc" : "3,4,5",
+      "word" : "난 크게 불편함"
+    }, {
+      "start" : 4.638,
+      "end" : 4.795,
+      "loc" : "6,7",
+      "word" : "느끼는 거"
+    }, {
+      "start" : 4.993,
+      "end" : 5.499,
+      "loc" : "8,9,10",
+      "word" : "없는 거 같애."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.13,
+      "end" : 2.417,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.718,
+      "end" : 3.709,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.099,
+      "end" : 4.445,
+      "gloss_id" : "귀찮다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.13,
+      "end" : 2.417
+    }, {
+      "descriptor" : "",
+      "start" : 2.718,
+      "end" : 3.709
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.718,
+      "end" : 3.709
+    }, {
+      "descriptor" : "",
+      "start" : 4.099,
+      "end" : 5.498
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 4.993,
+      "end" : 5.499
+    } ],
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240787870",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:38:15",
+    "sentence_ID" : "VXPAKOKS240787870",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

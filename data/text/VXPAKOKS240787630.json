@@ -1,0 +1,248 @@
+{
+  "id" : "VXPAKOKS240787630",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "강아지도 언젠가 늙긴 하니까 성격이 좀 바뀌는 거 같긴 해 사람처럼.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.708,
+      "end" : 1.841,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.004,
+      "end" : 2.562,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.82,
+      "end" : 3.036,
+      "gloss_id" : "미래1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.262,
+      "end" : 3.35,
+      "gloss_id" : "늙다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.538,
+      "end" : 4.019,
+      "gloss_id" : "오다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.324,
+      "end" : 4.418,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.53,
+      "end" : 4.753,
+      "gloss_id" : "같다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.93,
+      "end" : 5.095,
+      "gloss_id" : "성격1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.323,
+      "end" : 5.707,
+      "gloss_id" : "변하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.967,
+      "end" : 6.557,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.708,
+      "end" : 2.556,
+      "loc" : "0",
+      "word" : "강아지도"
+    }, {
+      "start" : 2.82,
+      "end" : 3.036,
+      "loc" : "1",
+      "word" : "언젠가"
+    }, {
+      "start" : 3.262,
+      "end" : 4.033,
+      "loc" : "2,3",
+      "word" : "늙긴 하니까"
+    }, {
+      "start" : 4.324,
+      "end" : 4.753,
+      "loc" : "10",
+      "word" : "사람처럼."
+    }, {
+      "start" : 4.93,
+      "end" : 5.095,
+      "loc" : "4",
+      "word" : "성격이"
+    }, {
+      "start" : 5.323,
+      "end" : 5.707,
+      "loc" : "5,6,7",
+      "word" : "좀 바뀌는 거"
+    }, {
+      "start" : 5.967,
+      "end" : 6.557,
+      "loc" : "8,9",
+      "word" : "같긴 해"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.708,
+      "end" : 1.841,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.004,
+      "end" : 2.562,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.324,
+      "end" : 4.418,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.53,
+      "end" : 4.753,
+      "gloss_id" : "같다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.93,
+      "end" : 5.095,
+      "gloss_id" : "성격1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.323,
+      "end" : 5.707,
+      "gloss_id" : "변하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.004,
+      "end" : 2.562
+    }, {
+      "descriptor" : "",
+      "start" : 3.538,
+      "end" : 4.019
+    }, {
+      "descriptor" : "",
+      "start" : 5.323,
+      "end" : 5.707
+    }, {
+      "descriptor" : "",
+      "start" : 5.967,
+      "end" : 6.557
+    }, {
+      "descriptor" : "",
+      "start" : 4.53,
+      "end" : 4.753
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.538,
+      "end" : 4.708
+    }, {
+      "descriptor" : "",
+      "start" : 5.323,
+      "end" : 6.519
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.708,
+      "end" : 2.55
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787630",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:36:19",
+    "sentence_ID" : "VXPAKOKS240787630",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

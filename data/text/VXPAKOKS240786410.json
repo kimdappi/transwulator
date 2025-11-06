@@ -1,0 +1,146 @@
+{
+  "id" : "VXPAKOKS240786410",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "혹시 재테크는 뭐로 주로 하시나요?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.372,
+      "end" : 1.456,
+      "gloss_id" : "돈1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.716,
+      "end" : 2.235,
+      "gloss_id" : "운영1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.483,
+      "end" : 2.959,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.107,
+      "end" : 3.399,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.671,
+      "end" : 4.214,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.372,
+      "end" : 2.949,
+      "loc" : "1",
+      "word" : "재테크는"
+    }, {
+      "start" : 3.107,
+      "end" : 3.399,
+      "loc" : "3",
+      "word" : "주로"
+    }, {
+      "start" : 3.671,
+      "end" : 4.214,
+      "loc" : "2,4",
+      "word" : "뭐로 하시나요?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.716,
+      "end" : 2.235,
+      "gloss_id" : "운영1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.483,
+      "end" : 2.959,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.107,
+      "end" : 3.399,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.671,
+      "end" : 4.214
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.107,
+      "end" : 3.351
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.483,
+      "end" : 3.346
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.671,
+      "end" : 4.214
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786410",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:26:57",
+    "sentence_ID" : "VXPAKOKS240786410",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

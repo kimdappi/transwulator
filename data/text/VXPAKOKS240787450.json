@@ -1,0 +1,323 @@
+{
+  "id" : "VXPAKOKS240787450",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "사실 빵집이나 뭐 떡볶이 같은 것들은 집 근처에 있어서 직접 가서 살 수도 있잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.633,
+      "end" : 1.73,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.92,
+      "end" : 2.192,
+      "gloss_id" : "솔직하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.594,
+      "end" : 2.696,
+      "gloss_id" : "빵1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.083,
+      "end" : 3.421,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.672,
+      "end" : 3.807,
+      "gloss_id" : "떡1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.978,
+      "end" : 4.495,
+      "gloss_id" : "볶다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.849,
+      "end" : 5.187,
+      "gloss_id" : "곳1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.361,
+      "end" : 5.604,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.788,
+      "end" : 6.244,
+      "gloss_id" : "친하다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.414,
+      "end" : 6.776,
+      "gloss_id" : "직접1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.913,
+      "end" : 7.056,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 7.308,
+      "end" : 7.638,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 7.822,
+      "end" : 8.002,
+      "gloss_id" : "가능1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.633,
+      "end" : 2.184,
+      "loc" : "0",
+      "word" : "사실"
+    }, {
+      "start" : 2.594,
+      "end" : 3.41,
+      "loc" : "1",
+      "word" : "빵집이나"
+    }, {
+      "start" : 3.672,
+      "end" : 5.186,
+      "loc" : "2,3,4,5",
+      "word" : "뭐 떡볶이 같은 것들은"
+    }, {
+      "start" : 5.361,
+      "end" : 5.605,
+      "loc" : "6",
+      "word" : "집"
+    }, {
+      "start" : 5.795,
+      "end" : 6.254,
+      "loc" : "7,8",
+      "word" : "근처에 있어서"
+    }, {
+      "start" : 6.414,
+      "end" : 6.776,
+      "loc" : "9",
+      "word" : "직접"
+    }, {
+      "start" : 6.913,
+      "end" : 7.056,
+      "loc" : "10",
+      "word" : "가서"
+    }, {
+      "start" : 7.308,
+      "end" : 8.003,
+      "loc" : "11,12,13",
+      "word" : "살 수도 있잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.92,
+      "end" : 2.192,
+      "gloss_id" : "솔직하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.594,
+      "end" : 2.696,
+      "gloss_id" : "빵1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.083,
+      "end" : 3.421,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.672,
+      "end" : 3.807,
+      "gloss_id" : "떡1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.978,
+      "end" : 4.495,
+      "gloss_id" : "볶다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.849,
+      "end" : 5.187,
+      "gloss_id" : "곳1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.414,
+      "end" : 6.776,
+      "gloss_id" : "직접1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.913,
+      "end" : 7.056,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.308,
+      "end" : 7.638,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.361,
+      "end" : 5.604,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.788,
+      "end" : 6.244,
+      "gloss_id" : "친하다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.083,
+      "end" : 3.421
+    }, {
+      "descriptor" : "",
+      "start" : 5.998,
+      "end" : 6.255
+    }, {
+      "descriptor" : "",
+      "start" : 6.913,
+      "end" : 7.056
+    }, {
+      "descriptor" : "",
+      "start" : 7.822,
+      "end" : 8.002
+    }, {
+      "descriptor" : "",
+      "start" : 3.978,
+      "end" : 4.495
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.822,
+      "end" : 8.002
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.633,
+      "end" : 5.183
+    }, {
+      "descriptor" : "",
+      "start" : 6.414,
+      "end" : 7.993
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 1.633,
+      "end" : 1.73
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.361,
+      "end" : 6.258
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787450",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:34:42",
+    "sentence_ID" : "VXPAKOKS240787450",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

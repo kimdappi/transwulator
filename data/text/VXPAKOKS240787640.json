@@ -1,0 +1,258 @@
+{
+  "id" : "VXPAKOKS240787640",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "우리 집 강아지도 원래 되게 잘 먹었거든 밥을.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.772,
+      "end" : 1.834,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.063,
+      "end" : 2.259,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.416,
+      "end" : 2.73,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.893,
+      "end" : 3.238,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.407,
+      "end" : 3.925,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.33,
+      "end" : 4.502,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.571,
+      "end" : 4.662,
+      "gloss_id" : "잘하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.8,
+      "end" : 5.127,
+      "gloss_id" : "먹다10",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.321,
+      "end" : 5.691,
+      "gloss_id" : "잘하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.884,
+      "end" : 6.316,
+      "gloss_id" : "원래2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.772,
+      "end" : 1.834,
+      "loc" : "0",
+      "word" : "우리"
+    }, {
+      "start" : 2.063,
+      "end" : 2.259,
+      "loc" : "1",
+      "word" : "집"
+    }, {
+      "start" : 2.416,
+      "end" : 3.907,
+      "loc" : "2",
+      "word" : "강아지도"
+    }, {
+      "start" : 4.33,
+      "end" : 4.502,
+      "loc" : "7",
+      "word" : "밥을."
+    }, {
+      "start" : 4.571,
+      "end" : 5.684,
+      "loc" : "4,5,6",
+      "word" : "되게 잘 먹었거든"
+    }, {
+      "start" : 5.884,
+      "end" : 6.316,
+      "loc" : "3",
+      "word" : "원래"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.063,
+      "end" : 2.259,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.416,
+      "end" : 2.73,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.893,
+      "end" : 3.238,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.407,
+      "end" : 4.502,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.571,
+      "end" : 4.662,
+      "gloss_id" : "잘하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.8,
+      "end" : 5.127,
+      "gloss_id" : "먹다10",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.321,
+      "end" : 5.691,
+      "gloss_id" : "잘하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.893,
+      "end" : 3.238
+    }, {
+      "descriptor" : "",
+      "start" : 3.407,
+      "end" : 3.925
+    }, {
+      "descriptor" : "",
+      "start" : 4.8,
+      "end" : 5.127
+    }, {
+      "descriptor" : "",
+      "start" : 5.321,
+      "end" : 5.691
+    }, {
+      "descriptor" : "",
+      "start" : 5.884,
+      "end" : 6.316
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.571,
+      "end" : 5.696
+    }, {
+      "descriptor" : "",
+      "start" : 5.884,
+      "end" : 6.316
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.416,
+      "end" : 2.73
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.772,
+      "end" : 3.921
+    }, {
+      "descriptor" : "",
+      "start" : 4.33,
+      "end" : 4.502
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787640",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:36:22",
+    "sentence_ID" : "VXPAKOKS240787640",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

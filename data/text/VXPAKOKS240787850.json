@@ -1,0 +1,135 @@
+{
+  "id" : "VXPAKOKS240787850",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "고양이 혀에 가시가 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.534,
+      "end" : 2.098,
+      "gloss_id" : "고양이1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.523,
+      "end" : 3.679,
+      "gloss_id" : "예민1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.867,
+      "end" : 4.6,
+      "gloss_id" : "사형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.823,
+      "end" : 5.37,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.534,
+      "end" : 2.098,
+      "loc" : "0",
+      "word" : "고양이"
+    }, {
+      "start" : 2.549,
+      "end" : 3.311,
+      "loc" : "1",
+      "word" : "혀에"
+    }, {
+      "start" : 3.523,
+      "end" : 4.606,
+      "loc" : "2",
+      "word" : "가시가"
+    }, {
+      "start" : 4.823,
+      "end" : 5.37,
+      "loc" : "3",
+      "word" : "있어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.549,
+      "end" : 2.664,
+      "gloss_id" : "혀1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.893,
+      "end" : 5.37,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.823,
+      "end" : 5.37
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.523,
+      "end" : 4.6
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.823,
+      "end" : 5.37
+    }, {
+      "descriptor" : "",
+      "start" : 2.549,
+      "end" : 4.6
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787850",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:38:09",
+    "sentence_ID" : "VXPAKOKS240787850",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,171 @@
+{
+  "id" : "VXPAKOKS240787980",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "혹시 제사 음식 만들어 봤어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.279,
+      "end" : 1.549,
+      "gloss_id" : "죽다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.771,
+      "end" : 2.195,
+      "gloss_id" : "절하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.335,
+      "end" : 2.398,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.538,
+      "end" : 2.875,
+      "gloss_id" : "반찬1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.042,
+      "end" : 3.304,
+      "gloss_id" : "만들다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.439,
+      "end" : 3.665,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.279,
+      "end" : 2.196,
+      "loc" : "0,1",
+      "word" : "혹시 제사"
+    }, {
+      "start" : 2.335,
+      "end" : 2.882,
+      "loc" : "2",
+      "word" : "음식"
+    }, {
+      "start" : 3.042,
+      "end" : 3.304,
+      "loc" : "3",
+      "word" : "만들어"
+    }, {
+      "start" : 3.439,
+      "end" : 3.665,
+      "loc" : "4",
+      "word" : "봤어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.279,
+      "end" : 1.549,
+      "gloss_id" : "죽다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.771,
+      "end" : 2.195,
+      "gloss_id" : "절하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.538,
+      "end" : 2.875,
+      "gloss_id" : "반찬1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.042,
+      "end" : 3.304,
+      "gloss_id" : "만들다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.771,
+      "end" : 2.195
+    }, {
+      "descriptor" : "",
+      "start" : 3.464,
+      "end" : 3.665
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.464,
+      "end" : 3.665
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.538,
+      "end" : 2.875
+    }, {
+      "descriptor" : "",
+      "start" : 3.057,
+      "end" : 3.665
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787980",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:39:22",
+    "sentence_ID" : "VXPAKOKS240787980",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

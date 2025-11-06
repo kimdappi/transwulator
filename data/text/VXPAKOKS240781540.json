@@ -1,0 +1,201 @@
+{
+  "id" : "VXPAKOKS240781540",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "유튜브를 보니까 정말 다양한 반려동물 기르는 사람도 있더라고요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.693,
+      "end" : 1.996,
+      "gloss_id" : "유튜브1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.372,
+      "end" : 2.98,
+      "gloss_id" : "보다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.34,
+      "end" : 4.051,
+      "gloss_id" : "여러가지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.525,
+      "end" : 4.753,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.913,
+      "end" : 5.413,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.765,
+      "end" : 5.836,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.071,
+      "end" : 6.408,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.693,
+      "end" : 1.996,
+      "loc" : "0",
+      "word" : "유튜브를"
+    }, {
+      "start" : 2.372,
+      "end" : 2.98,
+      "loc" : "1",
+      "word" : "보니까"
+    }, {
+      "start" : 3.34,
+      "end" : 4.051,
+      "loc" : "2,3",
+      "word" : "정말 다양한"
+    }, {
+      "start" : 4.525,
+      "end" : 4.753,
+      "loc" : "4",
+      "word" : "반려동물"
+    }, {
+      "start" : 4.913,
+      "end" : 5.413,
+      "loc" : "5",
+      "word" : "기르는"
+    }, {
+      "start" : 5.765,
+      "end" : 5.836,
+      "loc" : "6",
+      "word" : "사람도"
+    }, {
+      "start" : 6.071,
+      "end" : 6.408,
+      "loc" : "7",
+      "word" : "있더라고요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.693,
+      "end" : 1.996,
+      "gloss_id" : "유튜브1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.34,
+      "end" : 4.051,
+      "gloss_id" : "여러가지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.525,
+      "end" : 4.753,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.913,
+      "end" : 5.413,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.765,
+      "end" : 5.836,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.071,
+      "end" : 6.408,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.372,
+      "end" : 2.98
+    }, {
+      "descriptor" : "",
+      "start" : 6.071,
+      "end" : 6.408
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.372,
+      "end" : 2.98
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781540",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:08:54",
+    "sentence_ID" : "VXPAKOKS240781540",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

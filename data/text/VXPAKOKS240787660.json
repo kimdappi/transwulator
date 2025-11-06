@@ -1,0 +1,169 @@
+{
+  "id" : "VXPAKOKS240787660",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "요기 근처에 또 맛있는 음식점 없나?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.557,
+      "end" : 1.861,
+      "gloss_id" : "가깝다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.077,
+      "end" : 2.228,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.394,
+      "end" : 2.622,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.876,
+      "end" : 3.209,
+      "gloss_id" : "맛있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.335,
+      "end" : 3.529,
+      "gloss_id" : "또1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.669,
+      "end" : 4.174,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.29,
+      "end" : 1.37,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.29,
+      "end" : 1.37,
+      "loc" : "0",
+      "word" : "요기"
+    }, {
+      "start" : 1.557,
+      "end" : 1.861,
+      "loc" : "1",
+      "word" : "근처에"
+    }, {
+      "start" : 2.077,
+      "end" : 2.61,
+      "loc" : "4",
+      "word" : "음식점"
+    }, {
+      "start" : 2.876,
+      "end" : 3.209,
+      "loc" : "3",
+      "word" : "맛있는"
+    }, {
+      "start" : 3.335,
+      "end" : 3.529,
+      "loc" : "2",
+      "word" : "또"
+    }, {
+      "start" : 3.669,
+      "end" : 4.174,
+      "loc" : "5",
+      "word" : "없나?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.557,
+      "end" : 1.861,
+      "gloss_id" : "가깝다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.669,
+      "end" : 4.174
+    }, {
+      "descriptor" : "",
+      "start" : 1.557,
+      "end" : 1.861
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.077,
+      "end" : 3.188
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.29,
+      "end" : 1.819
+    }, {
+      "descriptor" : "",
+      "start" : 3.335,
+      "end" : 4.193
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787660",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:36:31",
+    "sentence_ID" : "VXPAKOKS240787660",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

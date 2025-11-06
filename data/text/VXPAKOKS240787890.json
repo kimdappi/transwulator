@@ -1,0 +1,194 @@
+{
+  "id" : "VXPAKOKS240787890",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "대중교통이 어디까지 자가용을 대신 할 수 있을까?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.236,
+      "end" : 1.465,
+      "gloss_id" : "승용차1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.652,
+      "end" : 2.019,
+      "gloss_id" : "하지마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.435,
+      "end" : 2.694,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.138,
+      "end" : 3.445,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.815,
+      "end" : 4.797,
+      "gloss_id" : "위로하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 5.027,
+      "end" : 5.105,
+      "gloss_id" : "가능1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.214,
+      "end" : 5.768,
+      "gloss_id" : "무엇2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.236,
+      "end" : 1.465,
+      "loc" : "2",
+      "word" : "자가용을"
+    }, {
+      "start" : 1.652,
+      "end" : 2.019,
+      "loc" : "3",
+      "word" : "대신"
+    }, {
+      "start" : 2.435,
+      "end" : 3.447,
+      "loc" : "0",
+      "word" : "대중교통이"
+    }, {
+      "start" : 3.815,
+      "end" : 5.105,
+      "loc" : "4,5,6",
+      "word" : "할 수 있을까?"
+    }, {
+      "start" : 5.214,
+      "end" : 5.768,
+      "loc" : "1",
+      "word" : "어디까지"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.435,
+      "end" : 2.694,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.138,
+      "end" : 3.445,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.815,
+      "end" : 4.797,
+      "gloss_id" : "위로하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.652,
+      "end" : 2.019
+    }, {
+      "descriptor" : "",
+      "start" : 2.435,
+      "end" : 2.694
+    }, {
+      "descriptor" : "",
+      "start" : 3.138,
+      "end" : 3.445
+    }, {
+      "descriptor" : "",
+      "start" : 5.214,
+      "end" : 5.768
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.027,
+      "end" : 5.105
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.236,
+      "end" : 2.019
+    }, {
+      "descriptor" : "",
+      "start" : 3.138,
+      "end" : 4.349
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.815,
+      "end" : 4.013
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.214,
+      "end" : 5.768
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787890",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:38:27",
+    "sentence_ID" : "VXPAKOKS240787890",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

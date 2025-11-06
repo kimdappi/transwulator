@@ -1,0 +1,308 @@
+{
+  "id" : "VXPAKOKS240783230",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "친정에만 가도 애들 물놀이할 수 있고 모래사장이 있어 가지고 놀기도 참 좋았어요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.719,
+      "end" : 1.887,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.176,
+      "end" : 2.31,
+      "gloss_id" : "부모1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.5,
+      "end" : 2.61,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.807,
+      "end" : 3.008,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 3.272,
+      "end" : 3.382,
+      "gloss_id" : "아들1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.471,
+      "end" : 3.672,
+      "gloss_id" : "딸1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.82,
+      "end" : 3.963,
+      "gloss_id" : "물2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.119,
+      "end" : 4.71,
+      "gloss_id" : "놀다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.099,
+      "end" : 5.707,
+      "gloss_id" : "흙1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.855,
+      "end" : 6.031,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.162,
+      "end" : 6.33,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.528,
+      "end" : 6.762,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 6.984,
+      "end" : 7.351,
+      "gloss_id" : "놀다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.658,
+      "end" : 8.141,
+      "gloss_id" : "간단하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.719,
+      "end" : 2.61,
+      "loc" : "0",
+      "word" : "친정에만"
+    }, {
+      "start" : 2.807,
+      "end" : 3.008,
+      "loc" : "1",
+      "word" : "가도"
+    }, {
+      "start" : 3.272,
+      "end" : 3.648,
+      "loc" : "2",
+      "word" : "애들"
+    }, {
+      "start" : 3.82,
+      "end" : 4.71,
+      "loc" : "3,4,5",
+      "word" : "물놀이할 수 있고"
+    }, {
+      "start" : 5.099,
+      "end" : 5.707,
+      "loc" : "6",
+      "word" : "모래사장이"
+    }, {
+      "start" : 5.855,
+      "end" : 6.031,
+      "loc" : "7",
+      "word" : "있어"
+    }, {
+      "start" : 6.162,
+      "end" : 6.33,
+      "loc" : "8",
+      "word" : "가지고"
+    }, {
+      "start" : 6.527,
+      "end" : 7.351,
+      "loc" : "9",
+      "word" : "놀기도"
+    }, {
+      "start" : 7.658,
+      "end" : 8.141,
+      "loc" : "10,11",
+      "word" : "참 좋았어요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.5,
+      "end" : 2.61,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.807,
+      "end" : 3.008,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.119,
+      "end" : 4.71,
+      "gloss_id" : "놀다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.099,
+      "end" : 5.707,
+      "gloss_id" : "흙1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.162,
+      "end" : 6.33,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.528,
+      "end" : 6.762,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.984,
+      "end" : 7.351,
+      "gloss_id" : "놀다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.658,
+      "end" : 8.141,
+      "gloss_id" : "간단하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.5,
+      "end" : 3.0
+    }, {
+      "descriptor" : "",
+      "start" : 4.119,
+      "end" : 4.71
+    }, {
+      "descriptor" : "",
+      "start" : 5.855,
+      "end" : 7.318
+    }, {
+      "descriptor" : "",
+      "start" : 7.658,
+      "end" : 8.141
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.162,
+      "end" : 6.33
+    }, {
+      "descriptor" : "",
+      "start" : 7.955,
+      "end" : 8.141
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.5,
+      "end" : 3.041
+    }, {
+      "descriptor" : "",
+      "start" : 5.855,
+      "end" : 7.327
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783230",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:16:26",
+    "sentence_ID" : "VXPAKOKS240783230",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

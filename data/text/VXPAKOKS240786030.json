@@ -1,0 +1,175 @@
+{
+  "id" : "VXPAKOKS240786030",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "요즘 테니스 배우는 게 또 다시 유행이래요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.322,
+      "end" : 1.937,
+      "gloss_id" : "요즘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.403,
+      "end" : 3.506,
+      "gloss_id" : "테니스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.675,
+      "end" : 3.88,
+      "gloss_id" : "배우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.317,
+      "end" : 4.656,
+      "gloss_id" : "유행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.921,
+      "end" : 5.197,
+      "gloss_id" : "유행2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.411,
+      "end" : 6.149,
+      "gloss_id" : "되돌리다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.009,
+      "end" : 4.11,
+      "gloss_id" : "아니다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.322,
+      "end" : 1.937,
+      "loc" : "0",
+      "word" : "요즘"
+    }, {
+      "start" : 2.403,
+      "end" : 3.506,
+      "loc" : "1",
+      "word" : "테니스"
+    }, {
+      "start" : 3.675,
+      "end" : 3.881,
+      "loc" : "2,3",
+      "word" : "배우는 게"
+    }, {
+      "start" : 4.009,
+      "end" : 5.195,
+      "loc" : "6",
+      "word" : "유행이래요."
+    }, {
+      "start" : 5.411,
+      "end" : 6.155,
+      "loc" : "4,5",
+      "word" : "또 다시"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.921,
+      "end" : 5.197,
+      "gloss_id" : "유행2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.411,
+      "end" : 6.149,
+      "gloss_id" : "되돌리다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.322,
+      "end" : 1.937
+    }, {
+      "descriptor" : "",
+      "start" : 5.411,
+      "end" : 6.149
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.675,
+      "end" : 3.88
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.403,
+      "end" : 3.506
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.322,
+      "end" : 1.937
+    }, {
+      "descriptor" : "",
+      "start" : 3.675,
+      "end" : 3.983
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786030",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:23:51",
+    "sentence_ID" : "VXPAKOKS240786030",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

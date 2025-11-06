@@ -1,0 +1,191 @@
+{
+  "id" : "VXPAKOKS240788160",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "탄산수는 호불호가 되게 많이 갈리는데 어떻게 생각해?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.302,
+      "end" : 1.641,
+      "gloss_id" : "탄산1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.824,
+      "end" : 2.53,
+      "gloss_id" : "마시다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.848,
+      "end" : 3.322,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.783,
+      "end" : 4.154,
+      "gloss_id" : "싫다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.472,
+      "end" : 4.601,
+      "gloss_id" : "확실하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.784,
+      "end" : 5.6,
+      "gloss_id" : "두가지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.871,
+      "end" : 5.974,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.167,
+      "end" : 6.519,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.302,
+      "end" : 2.517,
+      "loc" : "0",
+      "word" : "탄산수는"
+    }, {
+      "start" : 2.848,
+      "end" : 4.166,
+      "loc" : "1",
+      "word" : "호불호가"
+    }, {
+      "start" : 4.472,
+      "end" : 5.6,
+      "loc" : "2,3,4",
+      "word" : "되게 많이 갈리는데"
+    }, {
+      "start" : 5.871,
+      "end" : 5.974,
+      "loc" : "6",
+      "word" : "생각해?"
+    }, {
+      "start" : 6.167,
+      "end" : 6.519,
+      "loc" : "5",
+      "word" : "어떻게"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.783,
+      "end" : 4.154,
+      "gloss_id" : "싫다4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.472,
+      "end" : 4.601,
+      "gloss_id" : "확실하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.784,
+      "end" : 5.6,
+      "gloss_id" : "두가지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.848,
+      "end" : 3.322
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.53,
+      "end" : 4.601
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.824,
+      "end" : 2.53
+    }, {
+      "descriptor" : "",
+      "start" : 2.848,
+      "end" : 3.322
+    }, {
+      "descriptor" : "",
+      "start" : 3.783,
+      "end" : 4.154
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.871,
+      "end" : 6.515
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788160",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:40:34",
+    "sentence_ID" : "VXPAKOKS240788160",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

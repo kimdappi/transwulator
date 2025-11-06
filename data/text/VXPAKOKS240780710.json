@@ -1,0 +1,290 @@
+{
+  "id" : "VXPAKOKS240780710",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "지금까지 여러 사람들을 만나 오면서 제일 좋았던 성격이나 제일 안 좋았던 성격이 뭐야?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.815,
+      "end" : 1.943,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.165,
+      "end" : 2.45,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.721,
+      "end" : 2.926,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.161,
+      "end" : 4.19,
+      "gloss_id" : "어울리다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.546,
+      "end" : 4.892,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.213,
+      "end" : 5.59,
+      "gloss_id" : "마음에들다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.979,
+      "end" : 6.534,
+      "gloss_id" : "성격1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.861,
+      "end" : 7.023,
+      "gloss_id" : "보다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 7.236,
+      "end" : 7.527,
+      "gloss_id" : "싫다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.774,
+      "end" : 8.034,
+      "gloss_id" : "성격1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.213,
+      "end" : 8.504,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.806,
+      "end" : 2.447,
+      "loc" : "0",
+      "word" : "지금까지"
+    }, {
+      "start" : 2.721,
+      "end" : 4.176,
+      "loc" : "1,2,3,4",
+      "word" : "여러 사람들을 만나 오면서"
+    }, {
+      "start" : 4.546,
+      "end" : 4.892,
+      "loc" : "5",
+      "word" : "제일"
+    }, {
+      "start" : 5.213,
+      "end" : 5.59,
+      "loc" : "6",
+      "word" : "좋았던"
+    }, {
+      "start" : 5.979,
+      "end" : 6.54,
+      "loc" : "7",
+      "word" : "성격이나"
+    }, {
+      "start" : 6.861,
+      "end" : 7.023,
+      "loc" : "8",
+      "word" : "제일"
+    }, {
+      "start" : 7.236,
+      "end" : 7.527,
+      "loc" : "9,10",
+      "word" : "안 좋았던"
+    }, {
+      "start" : 7.774,
+      "end" : 8.034,
+      "loc" : "11",
+      "word" : "성격이"
+    }, {
+      "start" : 8.213,
+      "end" : 8.504,
+      "loc" : "12",
+      "word" : "뭐야?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.806,
+      "end" : 1.943,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.165,
+      "end" : 2.449,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.721,
+      "end" : 2.926,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.161,
+      "end" : 4.19,
+      "gloss_id" : "어울리다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.213,
+      "end" : 5.59,
+      "gloss_id" : "마음에들다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.979,
+      "end" : 6.54,
+      "gloss_id" : "성격1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.774,
+      "end" : 8.034,
+      "gloss_id" : "성격1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.165,
+      "end" : 2.45
+    }, {
+      "descriptor" : "",
+      "start" : 4.546,
+      "end" : 4.892
+    }, {
+      "descriptor" : "",
+      "start" : 5.213,
+      "end" : 5.59
+    }, {
+      "descriptor" : "",
+      "start" : 5.979,
+      "end" : 6.534
+    }, {
+      "descriptor" : "",
+      "start" : 8.213,
+      "end" : 8.504
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.454,
+      "end" : 5.59
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.161,
+      "end" : 4.885
+    }, {
+      "descriptor" : "",
+      "start" : 7.236,
+      "end" : 7.527
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.161,
+      "end" : 4.19
+    }, {
+      "descriptor" : "",
+      "start" : 5.213,
+      "end" : 5.392
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 8.213,
+      "end" : 8.504
+    }, {
+      "descriptor" : "",
+      "start" : 2.721,
+      "end" : 2.926
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780710",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:05:21",
+    "sentence_ID" : "VXPAKOKS240780710",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,169 @@
+{
+  "id" : "VXPAKOKS240788740",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "너는 내가 알기로 수박을 좋아하는 거 같은데 맞아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.488,
+      "end" : 2.631,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.772,
+      "end" : 2.98,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.223,
+      "end" : 3.629,
+      "gloss_id" : "파악하다7",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.85,
+      "end" : 4.114,
+      "gloss_id" : "수박1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.339,
+      "end" : 4.657,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.79,
+      "end" : 4.91,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.02,
+      "end" : 5.602,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.488,
+      "end" : 2.631,
+      "loc" : "0",
+      "word" : "너는"
+    }, {
+      "start" : 2.772,
+      "end" : 2.98,
+      "loc" : "1",
+      "word" : "내가"
+    }, {
+      "start" : 3.223,
+      "end" : 3.629,
+      "loc" : "2",
+      "word" : "알기로"
+    }, {
+      "start" : 3.85,
+      "end" : 4.114,
+      "loc" : "3",
+      "word" : "수박을"
+    }, {
+      "start" : 4.339,
+      "end" : 4.657,
+      "loc" : "4,5,6",
+      "word" : "좋아하는 거 같은데"
+    }, {
+      "start" : 4.79,
+      "end" : 5.592,
+      "loc" : "7",
+      "word" : "맞아?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.85,
+      "end" : 4.114,
+      "gloss_id" : "수박1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.223,
+      "end" : 3.629
+    }, {
+      "descriptor" : "",
+      "start" : 5.02,
+      "end" : 5.602
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.488,
+      "end" : 3.61
+    }, {
+      "descriptor" : "",
+      "start" : 4.339,
+      "end" : 5.598
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.79,
+      "end" : 5.598
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788740",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:48:49",
+    "sentence_ID" : "VXPAKOKS240788740",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

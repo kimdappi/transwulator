@@ -1,0 +1,236 @@
+{
+  "id" : "VXPAKOKS240780700",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "자기 의견이 뚜렷한 게 사실 좋은 거라고 다들 하잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.782,
+      "end" : 1.886,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.181,
+      "end" : 2.299,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.547,
+      "end" : 2.84,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.384,
+      "end" : 4.399,
+      "gloss_id" : "확실하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.612,
+      "end" : 4.756,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.034,
+      "end" : 5.507,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.846,
+      "end" : 5.958,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.14,
+      "end" : 6.39,
+      "gloss_id" : "지시2#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.633,
+      "end" : 6.752,
+      "gloss_id" : "말하다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.96,
+      "end" : 7.354,
+      "gloss_id" : "같다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.782,
+      "end" : 2.298,
+      "loc" : "0",
+      "word" : "자기"
+    }, {
+      "start" : 2.547,
+      "end" : 2.84,
+      "loc" : "1",
+      "word" : "의견이"
+    }, {
+      "start" : 3.384,
+      "end" : 4.399,
+      "loc" : "2",
+      "word" : "뚜렷한"
+    }, {
+      "start" : 4.612,
+      "end" : 4.756,
+      "loc" : "3",
+      "word" : "게"
+    }, {
+      "start" : 5.034,
+      "end" : 5.507,
+      "loc" : "4",
+      "word" : "사실"
+    }, {
+      "start" : 5.846,
+      "end" : 5.958,
+      "loc" : "5,6",
+      "word" : "좋은 거라고"
+    }, {
+      "start" : 6.14,
+      "end" : 6.39,
+      "loc" : "7",
+      "word" : "다들"
+    }, {
+      "start" : 6.633,
+      "end" : 7.348,
+      "loc" : "8",
+      "word" : "하잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.384,
+      "end" : 4.399,
+      "gloss_id" : "확실하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.96,
+      "end" : 7.353,
+      "gloss_id" : "같다1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.181,
+      "end" : 2.299,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.017,
+      "end" : 4.399
+    }, {
+      "descriptor" : "",
+      "start" : 5.034,
+      "end" : 5.507
+    }, {
+      "descriptor" : "",
+      "start" : 5.846,
+      "end" : 5.958
+    }, {
+      "descriptor" : "",
+      "start" : 6.14,
+      "end" : 6.39
+    }, {
+      "descriptor" : "",
+      "start" : 6.96,
+      "end" : 7.354
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.384,
+      "end" : 4.399
+    }, {
+      "descriptor" : "",
+      "start" : 5.034,
+      "end" : 5.507
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.384,
+      "end" : 4.399
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.782,
+      "end" : 2.83
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780700",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:05:19",
+    "sentence_ID" : "VXPAKOKS240780700",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

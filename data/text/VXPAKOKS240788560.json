@@ -1,0 +1,115 @@
+{
+  "id" : "VXPAKOKS240788560",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "내가 영어 교육과란 말이야.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.922,
+      "end" : 2.165,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.374,
+      "end" : 2.79,
+      "gloss_id" : "영어1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.185,
+      "end" : 3.531,
+      "gloss_id" : "교육2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 3.691,
+      "end" : 4.088,
+      "gloss_id" : "전문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.922,
+      "end" : 2.165,
+      "loc" : "0",
+      "word" : "내가"
+    }, {
+      "start" : 2.374,
+      "end" : 2.79,
+      "loc" : "1",
+      "word" : "영어"
+    }, {
+      "start" : 3.185,
+      "end" : 4.081,
+      "loc" : "2,3",
+      "word" : "교육과란 말이야."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.185,
+      "end" : 4.081,
+      "gloss_id" : "교육2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.691,
+      "end" : 4.088
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.691,
+      "end" : 4.088
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240788560",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:47:34",
+    "sentence_ID" : "VXPAKOKS240788560",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

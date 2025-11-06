@@ -1,0 +1,148 @@
+{
+  "id" : "VXPAKOKS240787680",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "서울 애들은 맛집밖에 안 다닌다.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.535,
+      "end" : 1.826,
+      "gloss_id" : "서울2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.947,
+      "end" : 2.197,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.36,
+      "end" : 2.923,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.128,
+      "end" : 3.278,
+      "gloss_id" : "맛있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.441,
+      "end" : 3.524,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.723,
+      "end" : 4.708,
+      "gloss_id" : "오직1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.535,
+      "end" : 1.826,
+      "loc" : "0",
+      "word" : "서울"
+    }, {
+      "start" : 1.947,
+      "end" : 2.918,
+      "loc" : "1",
+      "word" : "애들은"
+    }, {
+      "start" : 3.128,
+      "end" : 4.708,
+      "loc" : "2,3,4",
+      "word" : "맛집밖에 안 다닌다."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.36,
+      "end" : 2.923,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.441,
+      "end" : 3.524,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.723,
+      "end" : 4.708
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.723,
+      "end" : 4.698
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.947,
+      "end" : 2.912
+    }, {
+      "descriptor" : "",
+      "start" : 3.128,
+      "end" : 4.704
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787680",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:36:58",
+    "sentence_ID" : "VXPAKOKS240787680",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

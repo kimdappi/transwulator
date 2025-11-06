@@ -1,0 +1,466 @@
+{
+  "id" : "VXPAKOKS240781210",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "제 동생이 만났던 선생님 이야기를 들어 보면 제 동생 초등학교 2학년 때 담임 선생님이셨는데 앞에서 애들이 자습 시켜 놓고 발톱을 깎으셨대요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 3.211,
+      "end" : 3.365,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.504,
+      "end" : 3.927,
+      "gloss_id" : "남동생1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.13,
+      "end" : 4.506,
+      "gloss_id" : "말하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "3",
+        "target" : "1"
+      }
+    }, {
+      "start" : 4.773,
+      "end" : 5.504,
+      "gloss_id" : "만나다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.695,
+      "end" : 5.849,
+      "gloss_id" : "한적있다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.069,
+      "end" : 6.476,
+      "gloss_id" : "교사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.73,
+      "end" : 6.983,
+      "gloss_id" : "이야기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.249,
+      "end" : 7.842,
+      "gloss_id" : "듣다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.281,
+      "end" : 8.858,
+      "gloss_id" : "넘어지다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.032,
+      "end" : 8.186,
+      "gloss_id" : "아니다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.267,
+      "end" : 9.813,
+      "gloss_id" : "남동생1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.072,
+      "end" : 10.556,
+      "gloss_id" : "초등이학년2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.72,
+      "end" : 10.88,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.03,
+      "end" : 11.191,
+      "gloss_id" : "맡다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.38,
+      "end" : 12.635,
+      "gloss_id" : "교사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 12.915,
+      "end" : 13.153,
+      "gloss_id" : "학생1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 13.252,
+      "end" : 13.459,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 13.619,
+      "end" : 13.826,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 14.103,
+      "end" : 14.649,
+      "gloss_id" : "시키다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 14.67,
+      "end" : 15.123,
+      "gloss_id" : "본인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 15.296,
+      "end" : 15.45,
+      "gloss_id" : "신발1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 15.576,
+      "end" : 16.276,
+      "gloss_id" : "손톱깎다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 16.439,
+      "end" : 16.723,
+      "gloss_id" : "말하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "2",
+        "target" : "1"
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.211,
+      "end" : 3.365,
+      "loc" : "0",
+      "word" : "제"
+    }, {
+      "start" : 3.504,
+      "end" : 3.927,
+      "loc" : "1",
+      "word" : "동생이"
+    }, {
+      "start" : 4.773,
+      "end" : 5.796,
+      "loc" : "2",
+      "word" : "만났던"
+    }, {
+      "start" : 6.069,
+      "end" : 6.476,
+      "loc" : "3",
+      "word" : "선생님"
+    }, {
+      "start" : 6.73,
+      "end" : 6.983,
+      "loc" : "4",
+      "word" : "이야기를"
+    }, {
+      "start" : 7.249,
+      "end" : 7.842,
+      "loc" : "5,6",
+      "word" : "들어 보면"
+    }, {
+      "start" : 9.267,
+      "end" : 9.813,
+      "loc" : "7,8",
+      "word" : "제 동생"
+    }, {
+      "start" : 10.072,
+      "end" : 10.556,
+      "loc" : "9,10",
+      "word" : "초등학교 2학년"
+    }, {
+      "start" : 10.72,
+      "end" : 10.88,
+      "loc" : "11",
+      "word" : "때"
+    }, {
+      "start" : 11.03,
+      "end" : 11.191,
+      "loc" : "12",
+      "word" : "담임"
+    }, {
+      "start" : 11.38,
+      "end" : 12.635,
+      "loc" : "13",
+      "word" : "선생님이셨는데"
+    }, {
+      "start" : 12.915,
+      "end" : 13.446,
+      "loc" : "15",
+      "word" : "애들이"
+    }, {
+      "start" : 13.619,
+      "end" : 13.826,
+      "loc" : "16",
+      "word" : "자습"
+    }, {
+      "start" : 14.103,
+      "end" : 14.649,
+      "loc" : "17,18",
+      "word" : "시켜 놓고"
+    }, {
+      "start" : 14.67,
+      "end" : 16.726,
+      "loc" : "14,19,20",
+      "word" : "앞에서 발톱을 깎으셨대요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.773,
+      "end" : 5.488,
+      "gloss_id" : "만나다1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.069,
+      "end" : 6.476,
+      "gloss_id" : "교사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.73,
+      "end" : 7.816,
+      "gloss_id" : "이야기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.281,
+      "end" : 8.858,
+      "gloss_id" : "넘어지다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.072,
+      "end" : 10.556,
+      "gloss_id" : "초등이학년2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.72,
+      "end" : 11.204,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 11.38,
+      "end" : 12.635,
+      "gloss_id" : "교사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 12.915,
+      "end" : 13.153,
+      "gloss_id" : "학생1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 13.619,
+      "end" : 13.826,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 14.103,
+      "end" : 14.649,
+      "gloss_id" : "시키다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 14.67,
+      "end" : 15.123,
+      "gloss_id" : "본인1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 15.296,
+      "end" : 15.45,
+      "gloss_id" : "신발1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 15.576,
+      "end" : 16.276,
+      "gloss_id" : "손톱깎다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.13,
+      "end" : 4.506
+    }, {
+      "descriptor" : "",
+      "start" : 7.249,
+      "end" : 7.842
+    }, {
+      "descriptor" : "",
+      "start" : 9.267,
+      "end" : 9.813
+    }, {
+      "descriptor" : "",
+      "start" : 10.72,
+      "end" : 10.88
+    }, {
+      "descriptor" : "",
+      "start" : 11.38,
+      "end" : 12.635
+    }, {
+      "descriptor" : "",
+      "start" : 14.103,
+      "end" : 14.649
+    }, {
+      "descriptor" : "",
+      "start" : 16.439,
+      "end" : 16.723
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.695,
+      "end" : 5.849
+    }, {
+      "descriptor" : "",
+      "start" : 16.569,
+      "end" : 16.723
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.773,
+      "end" : 5.504
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 9.267,
+      "end" : 10.491
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781210",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:07:25",
+    "sentence_ID" : "VXPAKOKS240781210",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

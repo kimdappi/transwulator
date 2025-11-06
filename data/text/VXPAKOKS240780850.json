@@ -1,0 +1,120 @@
+{
+  "id" : "VXPAKOKS240780850",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "비대면 수업 하고 있는 거야?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.709,
+      "end" : 1.846,
+      "gloss_id" : "줌1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.022,
+      "end" : 2.161,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.42,
+      "end" : 2.825,
+      "gloss_id" : "중1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.709,
+      "end" : 1.846,
+      "loc" : "0",
+      "word" : "비대면"
+    }, {
+      "start" : 2.42,
+      "end" : 2.825,
+      "loc" : "2,3,4",
+      "word" : "하고 있는 거야?"
+    }, {
+      "start" : 2.022,
+      "end" : 2.161,
+      "loc" : "1",
+      "word" : "수업"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.709,
+      "end" : 1.846,
+      "gloss_id" : "줌1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.42,
+      "end" : 2.825,
+      "gloss_id" : "중1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.022,
+      "end" : 2.161,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.42,
+      "end" : 2.825
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.42,
+      "end" : 2.825
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780850",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:05:48",
+    "sentence_ID" : "VXPAKOKS240780850",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

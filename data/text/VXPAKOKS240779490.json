@@ -1,0 +1,134 @@
+{
+  "id" : "VXPAKOKS240779490",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "요가의 가장 이로운 효과가 뭐야?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.882,
+      "end" : 2.063,
+      "gloss_id" : "기도3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.367,
+      "end" : 3.25,
+      "gloss_id" : "일형3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.558,
+      "end" : 3.922,
+      "gloss_id" : "이익1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.141,
+      "end" : 4.37,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.882,
+      "end" : 3.254,
+      "loc" : "0",
+      "word" : "요가의"
+    }, {
+      "start" : 3.558,
+      "end" : 3.922,
+      "loc" : "1,2,3",
+      "word" : "가장 이로운 효과가"
+    }, {
+      "start" : 4.141,
+      "end" : 4.37,
+      "loc" : "4",
+      "word" : "뭐야?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.882,
+      "end" : 2.063,
+      "gloss_id" : "기도3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.367,
+      "end" : 3.25,
+      "gloss_id" : "일형3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.558,
+      "end" : 3.922
+    }, {
+      "descriptor" : "",
+      "start" : 4.141,
+      "end" : 4.37
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.558,
+      "end" : 3.922
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.007,
+      "end" : 3.161
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.141,
+      "end" : 4.37
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779490",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 10:59:33",
+    "sentence_ID" : "VXPAKOKS240779490",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

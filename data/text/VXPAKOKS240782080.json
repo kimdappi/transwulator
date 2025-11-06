@@ -1,0 +1,152 @@
+{
+  "id" : "VXPAKOKS240782080",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "너희들은 패키지 여행으로 여행 가 본 적 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.537,
+      "end" : 1.909,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.232,
+      "end" : 2.324,
+      "gloss_id" : "가이드1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.484,
+      "end" : 2.734,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.003,
+      "end" : 3.459,
+      "gloss_id" : "가다8#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.682,
+      "end" : 3.835,
+      "gloss_id" : "한적있다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.537,
+      "end" : 1.909,
+      "loc" : "0",
+      "word" : "너희들은"
+    }, {
+      "start" : 2.232,
+      "end" : 2.324,
+      "loc" : "1",
+      "word" : "패키지"
+    }, {
+      "start" : 2.484,
+      "end" : 2.734,
+      "loc" : "2",
+      "word" : "여행으로"
+    }, {
+      "start" : 3.003,
+      "end" : 3.459,
+      "loc" : "3",
+      "word" : "여행"
+    }, {
+      "start" : 3.682,
+      "end" : 3.835,
+      "loc" : "4,5,6,7",
+      "word" : "가 본 적 있어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.232,
+      "end" : 2.324,
+      "gloss_id" : "가이드1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.484,
+      "end" : 2.734,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.003,
+      "end" : 3.459,
+      "gloss_id" : "가다8#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.682,
+      "end" : 3.835
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.682,
+      "end" : 3.835
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.682,
+      "end" : 3.835
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782080",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:11:26",
+    "sentence_ID" : "VXPAKOKS240782080",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

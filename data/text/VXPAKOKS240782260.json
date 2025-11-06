@@ -1,0 +1,191 @@
+{
+  "id" : "VXPAKOKS240782260",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "멜론 말고 또 좋아하는 과일이 뭐가 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.937,
+      "end" : 3.086,
+      "gloss_id" : "멜론",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.526,
+      "end" : 4.012,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.221,
+      "end" : 4.379,
+      "gloss_id" : "하지마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.671,
+      "end" : 4.918,
+      "gloss_id" : "외3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.15,
+      "end" : 5.349,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.565,
+      "end" : 5.921,
+      "gloss_id" : "사과1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.043,
+      "end" : 6.269,
+      "gloss_id" : "무엇2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.937,
+      "end" : 4.001,
+      "loc" : "0",
+      "word" : "멜론"
+    }, {
+      "start" : 4.221,
+      "end" : 4.379,
+      "loc" : "1",
+      "word" : "말고"
+    }, {
+      "start" : 4.671,
+      "end" : 4.918,
+      "loc" : "2",
+      "word" : "또"
+    }, {
+      "start" : 5.15,
+      "end" : 5.349,
+      "loc" : "3",
+      "word" : "좋아하는"
+    }, {
+      "start" : 5.565,
+      "end" : 5.921,
+      "loc" : "4",
+      "word" : "과일이"
+    }, {
+      "start" : 6.043,
+      "end" : 6.269,
+      "loc" : "5,6",
+      "word" : "뭐가 있어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.526,
+      "end" : 4.367,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.671,
+      "end" : 4.918,
+      "gloss_id" : "외3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.565,
+      "end" : 6.27,
+      "gloss_id" : "사과1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "멜론",
+      "start" : 1.937,
+      "end" : 3.086
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.15,
+      "end" : 5.349
+    }, {
+      "descriptor" : "",
+      "start" : 6.043,
+      "end" : 6.269
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.31,
+      "end" : 4.379
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.221,
+      "end" : 4.379
+    }, {
+      "descriptor" : "",
+      "start" : 5.15,
+      "end" : 6.299
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 6.043,
+      "end" : 6.269
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782260",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:12:12",
+    "sentence_ID" : "VXPAKOKS240782260",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

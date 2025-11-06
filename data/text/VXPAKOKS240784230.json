@@ -1,0 +1,184 @@
+{
+  "id" : "VXPAKOKS240784230",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "나한테 탁구를 배워 볼 의향이 있니?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.673,
+      "end" : 1.82,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.071,
+      "end" : 2.725,
+      "gloss_id" : "교육2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.881,
+      "end" : 3.068,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.297,
+      "end" : 3.779,
+      "gloss_id" : "탁구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.969,
+      "end" : 4.139,
+      "gloss_id" : "배우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.278,
+      "end" : 4.516,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.722,
+      "end" : 4.921,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.103,
+      "end" : 5.301,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.673,
+      "end" : 1.82,
+      "loc" : "0",
+      "word" : "나한테"
+    }, {
+      "start" : 3.297,
+      "end" : 3.779,
+      "loc" : "1",
+      "word" : "탁구를"
+    }, {
+      "start" : 3.969,
+      "end" : 4.139,
+      "loc" : "2,3",
+      "word" : "배워 볼"
+    }, {
+      "start" : 4.278,
+      "end" : 4.926,
+      "loc" : "4",
+      "word" : "의향이"
+    }, {
+      "start" : 5.103,
+      "end" : 5.301,
+      "loc" : "5",
+      "word" : "있니?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.071,
+      "end" : 2.725,
+      "gloss_id" : "교육2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.297,
+      "end" : 3.779,
+      "gloss_id" : "탁구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.071,
+      "end" : 2.725
+    }, {
+      "descriptor" : "",
+      "start" : 5.103,
+      "end" : 5.301
+    }, {
+      "descriptor" : "",
+      "start" : 4.722,
+      "end" : 4.921
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.071,
+      "end" : 2.725
+    }, {
+      "descriptor" : "",
+      "start" : 4.278,
+      "end" : 4.516
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.722,
+      "end" : 5.302
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784230",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:21:43",
+    "sentence_ID" : "VXPAKOKS240784230",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

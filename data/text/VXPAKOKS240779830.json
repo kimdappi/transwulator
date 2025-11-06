@@ -1,0 +1,186 @@
+{
+  "id" : "VXPAKOKS240779830",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "나 와인에는 약해서 와인 잘 먹진 않아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.419,
+      "end" : 1.54,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.826,
+      "end" : 2.356,
+      "gloss_id" : "와인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.528,
+      "end" : 2.744,
+      "gloss_id" : "마시다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.065,
+      "end" : 3.255,
+      "gloss_id" : "어긋나다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.469,
+      "end" : 3.78,
+      "gloss_id" : "어긋나다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.004,
+      "end" : 4.082,
+      "gloss_id" : "와인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.356,
+      "end" : 4.761,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.933,
+      "end" : 5.149,
+      "gloss_id" : "아니다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.419,
+      "end" : 1.54,
+      "loc" : "0",
+      "word" : "나"
+    }, {
+      "start" : 1.826,
+      "end" : 2.739,
+      "loc" : "1",
+      "word" : "와인에는"
+    }, {
+      "start" : 3.065,
+      "end" : 3.78,
+      "loc" : "2",
+      "word" : "약해서"
+    }, {
+      "start" : 4.004,
+      "end" : 4.082,
+      "loc" : "3",
+      "word" : "와인"
+    }, {
+      "start" : 4.356,
+      "end" : 4.761,
+      "loc" : "4,5",
+      "word" : "잘 먹진"
+    }, {
+      "start" : 4.933,
+      "end" : 5.149,
+      "loc" : "6",
+      "word" : "않아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.469,
+      "end" : 3.78,
+      "gloss_id" : "어긋나다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.469,
+      "end" : 3.78
+    }, {
+      "descriptor" : "",
+      "start" : 4.356,
+      "end" : 4.761
+    }, {
+      "descriptor" : "",
+      "start" : 4.933,
+      "end" : 5.149
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.065,
+      "end" : 3.78
+    }, {
+      "descriptor" : "",
+      "start" : 4.356,
+      "end" : 5.144
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.826,
+      "end" : 2.735
+    }, {
+      "descriptor" : "",
+      "start" : 4.004,
+      "end" : 4.082
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779830",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:01:38",
+    "sentence_ID" : "VXPAKOKS240779830",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

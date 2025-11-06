@@ -1,0 +1,166 @@
+{
+  "id" : "VXPAKOKS240789610",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "너희는 지금 돈이 제일 중요하지?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.135,
+      "end" : 1.568,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.882,
+      "end" : 2.014,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.23,
+      "end" : 2.334,
+      "gloss_id" : "돈1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.495,
+      "end" : 2.596,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.777,
+      "end" : 3.015,
+      "gloss_id" : "중요1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.235,
+      "end" : 3.86,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.135,
+      "end" : 1.568,
+      "loc" : "0",
+      "word" : "너희는"
+    }, {
+      "start" : 1.882,
+      "end" : 2.014,
+      "loc" : "1",
+      "word" : "지금"
+    }, {
+      "start" : 2.23,
+      "end" : 2.334,
+      "loc" : "2",
+      "word" : "돈이"
+    }, {
+      "start" : 2.495,
+      "end" : 2.596,
+      "loc" : "3",
+      "word" : "제일"
+    }, {
+      "start" : 2.777,
+      "end" : 3.855,
+      "loc" : "4",
+      "word" : "중요하지?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.882,
+      "end" : 2.014,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.777,
+      "end" : 3.015,
+      "gloss_id" : "중요1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.235,
+      "end" : 3.86
+    }, {
+      "descriptor" : "",
+      "start" : 1.882,
+      "end" : 2.014
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.135,
+      "end" : 2.011
+    }, {
+      "descriptor" : "",
+      "start" : 2.495,
+      "end" : 3.012
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.235,
+      "end" : 3.86
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.235,
+      "end" : 3.86
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789610",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:56:42",
+    "sentence_ID" : "VXPAKOKS240789610",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

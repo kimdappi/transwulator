@@ -1,0 +1,165 @@
+{
+  "id" : "VXPAKOKS240787100",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "저는 최근에 충남 공주시에 다녀왔어요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.35,
+      "end" : 1.489,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.708,
+      "end" : 1.842,
+      "gloss_id" : "며칠전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.106,
+      "end" : 2.493,
+      "gloss_id" : "충청남도1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.661,
+      "end" : 3.095,
+      "gloss_id" : "공주1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.316,
+      "end" : 3.717,
+      "gloss_id" : "빌딩1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.861,
+      "end" : 4.404,
+      "gloss_id" : "오가다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.35,
+      "end" : 1.489,
+      "loc" : "0",
+      "word" : "저는"
+    }, {
+      "start" : 1.708,
+      "end" : 1.842,
+      "loc" : "1",
+      "word" : "최근에"
+    }, {
+      "start" : 2.106,
+      "end" : 2.493,
+      "loc" : "2",
+      "word" : "충남"
+    }, {
+      "start" : 2.661,
+      "end" : 3.724,
+      "loc" : "3",
+      "word" : "공주시에"
+    }, {
+      "start" : 3.861,
+      "end" : 4.404,
+      "loc" : "4",
+      "word" : "다녀왔어요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.106,
+      "end" : 2.493,
+      "gloss_id" : "충청남도1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.661,
+      "end" : 3.095,
+      "gloss_id" : "공주1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.316,
+      "end" : 3.717,
+      "gloss_id" : "빌딩1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.316,
+      "end" : 3.717
+    }, {
+      "descriptor" : "",
+      "start" : 4.082,
+      "end" : 4.404
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.086,
+      "end" : 4.404
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.35,
+      "end" : 1.836
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787100",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:31:31",
+    "sentence_ID" : "VXPAKOKS240787100",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

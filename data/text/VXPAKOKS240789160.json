@@ -1,0 +1,133 @@
+{
+  "id" : "VXPAKOKS240789160",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "실내화가 찢어졌어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.881,
+      "end" : 2.405,
+      "gloss_id" : "안1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.548,
+      "end" : 2.705,
+      "gloss_id" : "신발1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.893,
+      "end" : 3.354,
+      "gloss_id" : "신다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.555,
+      "end" : 4.34,
+      "gloss_id" : "금이가다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.881,
+      "end" : 3.357,
+      "loc" : "0",
+      "word" : "실내화가"
+    }, {
+      "start" : 3.555,
+      "end" : 4.34,
+      "loc" : "1",
+      "word" : "찢어졌어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.881,
+      "end" : 2.405,
+      "gloss_id" : "안1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.893,
+      "end" : 4.345,
+      "gloss_id" : "신다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.893,
+      "end" : 3.354
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.656,
+      "end" : 4.248
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.888,
+      "end" : 4.359
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.893,
+      "end" : 3.354
+    } ],
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 3.566,
+      "end" : 3.698
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.881,
+      "end" : 2.405
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789160",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:52:59",
+    "sentence_ID" : "VXPAKOKS240789160",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

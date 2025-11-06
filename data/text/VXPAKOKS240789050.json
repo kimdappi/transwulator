@@ -1,0 +1,248 @@
+{
+  "id" : "VXPAKOKS240789050",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "너는 패키지여행이나 자유 여행 중에 어떤 여행을 선호하는 편이야?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.396,
+      "end" : 2.526,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.765,
+      "end" : 3.003,
+      "gloss_id" : "가이드1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.139,
+      "end" : 3.794,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.16,
+      "end" : 4.378,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.54,
+      "end" : 4.717,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.86,
+      "end" : 5.36,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.539,
+      "end" : 5.663,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.787,
+      "end" : 5.864,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.017,
+      "end" : 6.255,
+      "gloss_id" : "추천1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 6.527,
+      "end" : 6.778,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.396,
+      "end" : 2.526,
+      "loc" : "0",
+      "word" : "너는"
+    }, {
+      "start" : 2.765,
+      "end" : 3.789,
+      "loc" : "1",
+      "word" : "패키지여행이나"
+    }, {
+      "start" : 4.16,
+      "end" : 4.385,
+      "loc" : "2",
+      "word" : "자유"
+    }, {
+      "start" : 4.54,
+      "end" : 4.717,
+      "loc" : "3",
+      "word" : "여행"
+    }, {
+      "start" : 4.86,
+      "end" : 5.36,
+      "loc" : "4",
+      "word" : "중에"
+    }, {
+      "start" : 6.527,
+      "end" : 6.778,
+      "loc" : "5,6",
+      "word" : "어떤 여행을"
+    }, {
+      "start" : 5.539,
+      "end" : 6.261,
+      "loc" : "7,8",
+      "word" : "선호하는 편이야?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.765,
+      "end" : 3.003,
+      "gloss_id" : "가이드1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.139,
+      "end" : 3.794,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.16,
+      "end" : 4.378,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.54,
+      "end" : 4.717,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.86,
+      "end" : 5.857,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.017,
+      "end" : 6.255,
+      "gloss_id" : "추천1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 6.527,
+      "end" : 6.778
+    }, {
+      "descriptor" : "",
+      "start" : 3.139,
+      "end" : 3.794
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.54,
+      "end" : 4.717
+    }, {
+      "descriptor" : "",
+      "start" : 5.539,
+      "end" : 6.268
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.139,
+      "end" : 3.794
+    }, {
+      "descriptor" : "",
+      "start" : 6.017,
+      "end" : 6.255
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 6.527,
+      "end" : 6.778
+    }, {
+      "descriptor" : "",
+      "start" : 4.86,
+      "end" : 5.36
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789050",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:52:17",
+    "sentence_ID" : "VXPAKOKS240789050",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

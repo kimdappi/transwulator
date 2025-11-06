@@ -1,0 +1,274 @@
+{
+  "id" : "VXPAKOKS240789150",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "쇼핑을 요즘에는 그 온라인으로 거의 많이 사잖아 오프라인으로 못 사고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.884,
+      "end" : 2.523,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.873,
+      "end" : 3.039,
+      "gloss_id" : "물건2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.228,
+      "end" : 3.561,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 3.75,
+      "end" : 4.194,
+      "gloss_id" : "직접1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.285,
+      "end" : 4.41,
+      "gloss_id" : "가게1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.586,
+      "end" : 4.843,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 5.139,
+      "end" : 5.299,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 5.449,
+      "end" : 5.741,
+      "gloss_id" : "아니다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.935,
+      "end" : 6.143,
+      "gloss_id" : "인터넷1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.312,
+      "end" : 6.749,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 6.859,
+      "end" : 7.331,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.884,
+      "end" : 2.523,
+      "loc" : "1",
+      "word" : "요즘에는"
+    }, {
+      "start" : 3.75,
+      "end" : 4.833,
+      "loc" : "7",
+      "word" : "오프라인으로"
+    }, {
+      "start" : 5.139,
+      "end" : 5.736,
+      "loc" : "8,9",
+      "word" : "못 사고."
+    }, {
+      "start" : 5.935,
+      "end" : 6.15,
+      "loc" : "3",
+      "word" : "온라인으로"
+    }, {
+      "start" : 2.873,
+      "end" : 3.553,
+      "loc" : "0",
+      "word" : "쇼핑을"
+    }, {
+      "start" : 6.312,
+      "end" : 6.749,
+      "loc" : "6",
+      "word" : "사잖아"
+    }, {
+      "start" : 6.859,
+      "end" : 7.331,
+      "loc" : "4,5",
+      "word" : "거의 많이"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.884,
+      "end" : 2.523,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.873,
+      "end" : 3.039,
+      "gloss_id" : "물건2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.228,
+      "end" : 3.561,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.75,
+      "end" : 4.194,
+      "gloss_id" : "직접1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.285,
+      "end" : 4.41,
+      "gloss_id" : "가게1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.586,
+      "end" : 4.843,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.139,
+      "end" : 5.743,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.935,
+      "end" : 6.143,
+      "gloss_id" : "인터넷1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.312,
+      "end" : 6.749,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 6.859,
+      "end" : 7.331
+    }, {
+      "descriptor" : "",
+      "start" : 1.884,
+      "end" : 2.523
+    }, {
+      "descriptor" : "",
+      "start" : 4.586,
+      "end" : 4.843
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.019,
+      "end" : 7.331
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.228,
+      "end" : 3.561
+    }, {
+      "descriptor" : "",
+      "start" : 5.139,
+      "end" : 6.937
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.884,
+      "end" : 2.523
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789150",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:52:56",
+    "sentence_ID" : "VXPAKOKS240789150",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

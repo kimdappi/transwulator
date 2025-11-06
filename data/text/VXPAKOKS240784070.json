@@ -1,0 +1,232 @@
+{
+  "id" : "VXPAKOKS240784070",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "공무원을 하라고 한다고 해도 내 성향과는 맞지는 않을 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.63,
+      "end" : 2.825,
+      "gloss_id" : "공공1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.051,
+      "end" : 3.559,
+      "gloss_id" : "사무1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.965,
+      "end" : 4.356,
+      "gloss_id" : "하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.521,
+      "end" : 4.864,
+      "gloss_id" : "말하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "2",
+        "target" : "1"
+      }
+    }, {
+      "start" : 5.067,
+      "end" : 5.2,
+      "gloss_id" : "도",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.351,
+      "end" : 5.507,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.723,
+      "end" : 6.261,
+      "gloss_id" : "성격1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.68,
+      "end" : 7.11,
+      "gloss_id" : "맞지않다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.367,
+      "end" : 7.656,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.63,
+      "end" : 3.566,
+      "loc" : "0",
+      "word" : "공무원을"
+    }, {
+      "start" : 3.965,
+      "end" : 4.356,
+      "loc" : "1",
+      "word" : "하라고"
+    }, {
+      "start" : 4.529,
+      "end" : 5.184,
+      "loc" : "2,3",
+      "word" : "한다고 해도"
+    }, {
+      "start" : 5.351,
+      "end" : 5.507,
+      "loc" : "4",
+      "word" : "내"
+    }, {
+      "start" : 5.723,
+      "end" : 6.261,
+      "loc" : "5",
+      "word" : "성향과는"
+    }, {
+      "start" : 6.68,
+      "end" : 7.11,
+      "loc" : "6,7,8",
+      "word" : "맞지는 않을 거"
+    }, {
+      "start" : 7.367,
+      "end" : 7.656,
+      "loc" : "9",
+      "word" : "같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.63,
+      "end" : 2.825,
+      "gloss_id" : "공공1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.051,
+      "end" : 3.559,
+      "gloss_id" : "사무1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.965,
+      "end" : 4.863,
+      "gloss_id" : "하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.723,
+      "end" : 6.261,
+      "gloss_id" : "성격1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.68,
+      "end" : 7.11,
+      "gloss_id" : "맞지않다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "도",
+      "start" : 5.067,
+      "end" : 5.2
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.521,
+      "end" : 4.864
+    }, {
+      "descriptor" : "",
+      "start" : 5.723,
+      "end" : 6.261
+    }, {
+      "descriptor" : "",
+      "start" : 7.367,
+      "end" : 7.656
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.965,
+      "end" : 4.848
+    }, {
+      "descriptor" : "",
+      "start" : 6.68,
+      "end" : 7.641
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.63,
+      "end" : 3.566
+    }, {
+      "descriptor" : "",
+      "start" : 5.351,
+      "end" : 6.092
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784070",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:20:47",
+    "sentence_ID" : "VXPAKOKS240784070",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

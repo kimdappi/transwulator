@@ -1,0 +1,188 @@
+{
+  "id" : "VXPAKOKS240788140",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "자기는 지하철이나 지상철이 좋아 아니면 버스가 좋아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.253,
+      "end" : 1.609,
+      "gloss_id" : "부르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.041,
+      "end" : 2.575,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.903,
+      "end" : 3.345,
+      "gloss_id" : "지하철3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.547,
+      "end" : 3.966,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.427,
+      "end" : 4.576,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.755,
+      "end" : 5.059,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.318,
+      "end" : 5.548,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.253,
+      "end" : 1.609,
+      "loc" : "0",
+      "word" : "자기는"
+    }, {
+      "start" : 2.041,
+      "end" : 2.575,
+      "loc" : "1",
+      "word" : "지하철이나"
+    }, {
+      "start" : 2.903,
+      "end" : 3.345,
+      "loc" : "2",
+      "word" : "지상철이"
+    }, {
+      "start" : 3.547,
+      "end" : 3.966,
+      "loc" : "3",
+      "word" : "좋아"
+    }, {
+      "start" : 4.427,
+      "end" : 4.576,
+      "loc" : "5",
+      "word" : "버스가"
+    }, {
+      "start" : 4.755,
+      "end" : 5.059,
+      "loc" : "6",
+      "word" : "좋아?"
+    }, {
+      "start" : 5.318,
+      "end" : 5.548,
+      "loc" : "4",
+      "word" : "아니면"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.041,
+      "end" : 2.575,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.903,
+      "end" : 3.345,
+      "gloss_id" : "지하철3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.427,
+      "end" : 4.576,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.041,
+      "end" : 2.575
+    }, {
+      "descriptor" : "",
+      "start" : 2.903,
+      "end" : 3.345
+    }, {
+      "descriptor" : "",
+      "start" : 4.755,
+      "end" : 5.059
+    }, {
+      "descriptor" : "",
+      "start" : 3.547,
+      "end" : 3.966
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.041,
+      "end" : 5.541
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788140",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:40:26",
+    "sentence_ID" : "VXPAKOKS240788140",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

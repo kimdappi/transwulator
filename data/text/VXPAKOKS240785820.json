@@ -1,0 +1,168 @@
+{
+  "id" : "VXPAKOKS240785820",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "술 자주 마시는 건 이해 안 될 거 같다 나는.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.3,
+      "end" : 1.838,
+      "gloss_id" : "술1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.141,
+      "end" : 2.749,
+      "gloss_id" : "또1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.991,
+      "end" : 3.128,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.416,
+      "end" : 3.856,
+      "gloss_id" : "이해1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.138,
+      "end" : 4.454,
+      "gloss_id" : "어렵다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.582,
+      "end" : 5.271,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.3,
+      "end" : 1.838,
+      "loc" : "0",
+      "word" : "술"
+    }, {
+      "start" : 2.141,
+      "end" : 2.749,
+      "loc" : "1,2,3",
+      "word" : "자주 마시는 건"
+    }, {
+      "start" : 2.991,
+      "end" : 3.128,
+      "loc" : "9",
+      "word" : "나는."
+    }, {
+      "start" : 3.416,
+      "end" : 3.856,
+      "loc" : "4",
+      "word" : "이해"
+    }, {
+      "start" : 4.138,
+      "end" : 4.454,
+      "loc" : "5,6,7",
+      "word" : "안 될 거"
+    }, {
+      "start" : 4.582,
+      "end" : 5.271,
+      "loc" : "8",
+      "word" : "같다"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.416,
+      "end" : 3.856,
+      "gloss_id" : "이해1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.582,
+      "end" : 5.271
+    }, {
+      "descriptor" : "",
+      "start" : 1.3,
+      "end" : 1.838
+    }, {
+      "descriptor" : "",
+      "start" : 4.138,
+      "end" : 4.454
+    } ],
+    "Mo1" : null,
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 2.991,
+      "end" : 3.848
+    } ],
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.991,
+      "end" : 4.433
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.582,
+      "end" : 5.271
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.141,
+      "end" : 2.749
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785820",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:22:30",
+    "sentence_ID" : "VXPAKOKS240785820",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

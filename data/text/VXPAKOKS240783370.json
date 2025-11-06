@@ -1,0 +1,309 @@
+{
+  "id" : "VXPAKOKS240783370",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 가까운 거리 갈 때는 버스를 타는데 내가 멀미가 좀 심해 가지고 좀 멀리 이동하거나 그래야 될 때는 최대한 지하철을 타려고 하거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.658,
+      "end" : 1.846,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.211,
+      "end" : 2.693,
+      "gloss_id" : "가깝다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.228,
+      "end" : 3.416,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.664,
+      "end" : 4.208,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.458,
+      "end" : 4.753,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.931,
+      "end" : 5.163,
+      "gloss_id" : "어지럽다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.296,
+      "end" : 5.519,
+      "gloss_id" : "심하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.795,
+      "end" : 6.045,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.437,
+      "end" : 7.106,
+      "gloss_id" : "영원1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.471,
+      "end" : 7.9,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.327,
+      "end" : 8.747,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.023,
+      "end" : 9.175,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.915,
+      "end" : 3.066,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.658,
+      "end" : 1.846,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.211,
+      "end" : 2.693,
+      "loc" : "1,2",
+      "word" : "가까운 거리"
+    }, {
+      "start" : 3.228,
+      "end" : 3.416,
+      "loc" : "4",
+      "word" : "때는"
+    }, {
+      "start" : 3.664,
+      "end" : 4.208,
+      "loc" : "5,6",
+      "word" : "버스를 타는데"
+    }, {
+      "start" : 4.458,
+      "end" : 4.753,
+      "loc" : "7",
+      "word" : "내가"
+    }, {
+      "start" : 4.931,
+      "end" : 5.163,
+      "loc" : "8",
+      "word" : "멀미가"
+    }, {
+      "start" : 5.296,
+      "end" : 6.045,
+      "loc" : "9,10,11",
+      "word" : "좀 심해 가지고"
+    }, {
+      "start" : 6.437,
+      "end" : 7.908,
+      "loc" : "12,13,14,15,16,17",
+      "word" : "좀 멀리 이동하거나 그래야 될 때는"
+    }, {
+      "start" : 8.327,
+      "end" : 8.747,
+      "loc" : "18,19",
+      "word" : "최대한 지하철을"
+    }, {
+      "start" : 9.023,
+      "end" : 9.175,
+      "loc" : "20,21",
+      "word" : "타려고 하거든."
+    }, {
+      "start" : 2.915,
+      "end" : 3.066,
+      "loc" : "3",
+      "word" : "갈"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.211,
+      "end" : 2.693,
+      "gloss_id" : "가깝다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.228,
+      "end" : 3.416,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.664,
+      "end" : 4.208,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.795,
+      "end" : 6.045,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.437,
+      "end" : 7.106,
+      "gloss_id" : "영원1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.471,
+      "end" : 7.9,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.327,
+      "end" : 8.747,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.023,
+      "end" : 9.175,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 7.471,
+      "end" : 7.945
+    }, {
+      "descriptor" : "",
+      "start" : 9.023,
+      "end" : 9.175
+    }, {
+      "descriptor" : "",
+      "start" : 3.228,
+      "end" : 3.416
+    }, {
+      "descriptor" : "",
+      "start" : 3.664,
+      "end" : 4.208
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.84,
+      "end" : 6.045
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.664,
+      "end" : 5.527
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.211,
+      "end" : 3.442
+    }, {
+      "descriptor" : "",
+      "start" : 5.795,
+      "end" : 7.926
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783370",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:17:34",
+    "sentence_ID" : "VXPAKOKS240783370",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

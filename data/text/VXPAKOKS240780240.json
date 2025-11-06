@@ -1,0 +1,178 @@
+{
+  "id" : "VXPAKOKS240780240",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "너희 학과 졸업할 때 기준이 어떻게 되지?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.42,
+      "end" : 1.527,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.767,
+      "end" : 2.2,
+      "gloss_id" : "전문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.629,
+      "end" : 2.861,
+      "gloss_id" : "졸업1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.983,
+      "end" : 3.189,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.372,
+      "end" : 3.53,
+      "gloss_id" : "기준5",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.666,
+      "end" : 3.885,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.42,
+      "end" : 1.527,
+      "loc" : "0",
+      "word" : "너희"
+    }, {
+      "start" : 1.767,
+      "end" : 2.2,
+      "loc" : "1",
+      "word" : "학과"
+    }, {
+      "start" : 2.629,
+      "end" : 2.861,
+      "loc" : "2",
+      "word" : "졸업할"
+    }, {
+      "start" : 2.983,
+      "end" : 3.189,
+      "loc" : "3",
+      "word" : "때"
+    }, {
+      "start" : 3.372,
+      "end" : 3.53,
+      "loc" : "4",
+      "word" : "기준이"
+    }, {
+      "start" : 3.666,
+      "end" : 3.885,
+      "loc" : "5,6",
+      "word" : "어떻게 되지?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.629,
+      "end" : 2.861,
+      "gloss_id" : "졸업1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.983,
+      "end" : 3.189,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.372,
+      "end" : 3.885,
+      "gloss_id" : "기준5",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.767,
+      "end" : 2.2
+    }, {
+      "descriptor" : "",
+      "start" : 3.372,
+      "end" : 3.53
+    }, {
+      "descriptor" : "",
+      "start" : 3.666,
+      "end" : 3.885
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.767,
+      "end" : 2.2
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.666,
+      "end" : 3.885
+    }, {
+      "descriptor" : "",
+      "start" : 1.767,
+      "end" : 2.2
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780240",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:03:17",
+    "sentence_ID" : "VXPAKOKS240780240",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

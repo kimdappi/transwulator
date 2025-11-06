@@ -1,0 +1,186 @@
+{
+  "id" : "VXPAKOKS240782020",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "회사를 관두니까 내가 회사에서 봤던 스트레스가 싹 사라졌잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.829,
+      "end" : 3.208,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.384,
+      "end" : 4.175,
+      "gloss_id" : "그만두다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.448,
+      "end" : 4.592,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.844,
+      "end" : 5.377,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.601,
+      "end" : 6.093,
+      "gloss_id" : "짜증2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.239,
+      "end" : 6.852,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.245,
+      "end" : 7.834,
+      "gloss_id" : "사라지다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.829,
+      "end" : 3.208,
+      "loc" : "0",
+      "word" : "회사를"
+    }, {
+      "start" : 3.384,
+      "end" : 4.175,
+      "loc" : "1",
+      "word" : "관두니까"
+    }, {
+      "start" : 4.448,
+      "end" : 4.592,
+      "loc" : "2",
+      "word" : "내가"
+    }, {
+      "start" : 4.844,
+      "end" : 5.377,
+      "loc" : "3",
+      "word" : "회사에서"
+    }, {
+      "start" : 5.601,
+      "end" : 6.093,
+      "loc" : "4,5",
+      "word" : "봤던 스트레스가"
+    }, {
+      "start" : 7.245,
+      "end" : 7.834,
+      "loc" : "6,7",
+      "word" : "싹 사라졌잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.829,
+      "end" : 3.208,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.384,
+      "end" : 4.587,
+      "gloss_id" : "그만두다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.844,
+      "end" : 5.377,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.245,
+      "end" : 7.834,
+      "gloss_id" : "사라지다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.667,
+      "end" : 4.175
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.667,
+      "end" : 4.175
+    }, {
+      "descriptor" : "",
+      "start" : 7.496,
+      "end" : 7.834
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 6.239,
+      "end" : 6.852
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240782020",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:11:07",
+    "sentence_ID" : "VXPAKOKS240782020",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

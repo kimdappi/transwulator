@@ -1,0 +1,151 @@
+{
+  "id" : "VXPAKOKS240782250",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "딱딱한 복숭아랑 물렁한 복숭아 어떤 거 좋아해?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.193,
+      "end" : 2.441,
+      "gloss_id" : "마포1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.646,
+      "end" : 3.105,
+      "gloss_id" : "딱딱하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.433,
+      "end" : 3.755,
+      "gloss_id" : "부드럽다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.983,
+      "end" : 4.397,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.603,
+      "end" : 4.776,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.891,
+      "end" : 5.094,
+      "gloss_id" : "무엇2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.193,
+      "end" : 4.392,
+      "loc" : "0,1,2,3",
+      "word" : "딱딱한 복숭아랑 물렁한 복숭아"
+    }, {
+      "start" : 4.603,
+      "end" : 4.776,
+      "loc" : "6",
+      "word" : "좋아해?"
+    }, {
+      "start" : 4.891,
+      "end" : 5.094,
+      "loc" : "4,5",
+      "word" : "어떤 거"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.193,
+      "end" : 2.441,
+      "gloss_id" : "마포1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.433,
+      "end" : 3.755,
+      "gloss_id" : "부드럽다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.989,
+      "end" : 5.09,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.646,
+      "end" : 3.105
+    }, {
+      "descriptor" : "",
+      "start" : 4.891,
+      "end" : 5.094
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.891,
+      "end" : 5.094
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782250",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:12:07",
+    "sentence_ID" : "VXPAKOKS240782250",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

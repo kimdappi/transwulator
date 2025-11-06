@@ -1,0 +1,144 @@
+{
+  "id" : "VXPAKOKS240789580",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "혹시 너희도 싫어하는 음식이 있을까?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.007,
+      "end" : 2.568,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.711,
+      "end" : 2.926,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.18,
+      "end" : 3.367,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.674,
+      "end" : 3.898,
+      "gloss_id" : "싫다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.137,
+      "end" : 4.562,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.007,
+      "end" : 2.924,
+      "loc" : "0,1",
+      "word" : "혹시 너희도"
+    }, {
+      "start" : 3.18,
+      "end" : 3.367,
+      "loc" : "3",
+      "word" : "음식이"
+    }, {
+      "start" : 3.674,
+      "end" : 3.898,
+      "loc" : "2",
+      "word" : "싫어하는"
+    }, {
+      "start" : 4.137,
+      "end" : 4.562,
+      "loc" : "4",
+      "word" : "있을까?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.711,
+      "end" : 2.926,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.674,
+      "end" : 3.898,
+      "gloss_id" : "싫다4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.711,
+      "end" : 2.926
+    }, {
+      "descriptor" : "",
+      "start" : 4.137,
+      "end" : 4.562
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.18,
+      "end" : 3.871
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.137,
+      "end" : 4.562
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789580",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:56:33",
+    "sentence_ID" : "VXPAKOKS240789580",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

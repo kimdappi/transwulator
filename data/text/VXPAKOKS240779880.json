@@ -1,0 +1,143 @@
+{
+  "id" : "VXPAKOKS240779880",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "너는 양식 좋아한다 그랬잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.899,
+      "end" : 2.026,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.174,
+      "end" : 2.651,
+      "gloss_id" : "서양1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.005,
+      "end" : 3.12,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.318,
+      "end" : 3.501,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.794,
+      "end" : 3.94,
+      "gloss_id" : "말하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "2",
+        "target" : "1"
+      }
+    }, {
+      "start" : 4.112,
+      "end" : 4.461,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.899,
+      "end" : 2.026,
+      "loc" : "0",
+      "word" : "너는"
+    }, {
+      "start" : 2.174,
+      "end" : 3.118,
+      "loc" : "1",
+      "word" : "양식"
+    }, {
+      "start" : 3.318,
+      "end" : 3.501,
+      "loc" : "2",
+      "word" : "좋아한다"
+    }, {
+      "start" : 3.794,
+      "end" : 4.46,
+      "loc" : "3",
+      "word" : "그랬잖아."
+    } ],
+    "sign_gestures_weak" : null
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.174,
+      "end" : 2.651
+    }, {
+      "descriptor" : "",
+      "start" : 3.794,
+      "end" : 3.94
+    }, {
+      "descriptor" : "",
+      "start" : 4.112,
+      "end" : 4.461
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.179,
+      "end" : 4.456
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 4.112,
+      "end" : 4.285
+    } ],
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240779880",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:01:53",
+    "sentence_ID" : "VXPAKOKS240779880",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

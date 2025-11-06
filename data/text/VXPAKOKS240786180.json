@@ -1,0 +1,279 @@
+{
+  "id" : "VXPAKOKS240786180",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "재테크라는 게 공부 없이 그냥 막연히 누군가를 쫓아가서 하다 보면 이렇게 수익은 안 나는 구조 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.86,
+      "end" : 2.107,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.251,
+      "end" : 2.398,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.662,
+      "end" : 2.904,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.095,
+      "end" : 3.722,
+      "gloss_id" : "그냥1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.795,
+      "end" : 5.3,
+      "gloss_id" : "투자1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.44,
+      "end" : 5.723,
+      "gloss_id" : "파랑1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.872,
+      "end" : 6.155,
+      "gloss_id" : "벌다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.386,
+      "end" : 6.592,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.75,
+      "end" : 7.341,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.279,
+      "end" : 4.507,
+      "gloss_id" : "닮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.38,
+      "end" : 1.791,
+      "gloss_id" : "벌다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.864,
+      "end" : 4.104,
+      "gloss_id" : "닮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.251,
+      "end" : 2.398,
+      "loc" : "2",
+      "word" : "공부"
+    }, {
+      "start" : 1.38,
+      "end" : 1.791,
+      "loc" : "0",
+      "word" : "재테크라는"
+    }, {
+      "start" : 1.86,
+      "end" : 2.107,
+      "loc" : "1",
+      "word" : "게"
+    }, {
+      "start" : 2.662,
+      "end" : 2.904,
+      "loc" : "3",
+      "word" : "없이"
+    }, {
+      "start" : 3.095,
+      "end" : 3.722,
+      "loc" : "4",
+      "word" : "그냥"
+    }, {
+      "start" : 6.386,
+      "end" : 6.592,
+      "loc" : "12,13",
+      "word" : "안 나는"
+    }, {
+      "start" : 6.75,
+      "end" : 7.341,
+      "loc" : "14,15",
+      "word" : "구조 같아."
+    }, {
+      "start" : 3.864,
+      "end" : 4.507,
+      "loc" : "5,6,7",
+      "word" : "막연히 누군가를 쫓아가서"
+    }, {
+      "start" : 4.795,
+      "end" : 5.3,
+      "loc" : "8,9",
+      "word" : "하다 보면"
+    }, {
+      "start" : 5.44,
+      "end" : 6.158,
+      "loc" : "10,11",
+      "word" : "이렇게 수익은"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.38,
+      "end" : 1.791,
+      "gloss_id" : "벌다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.86,
+      "end" : 2.107,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.251,
+      "end" : 2.398,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.872,
+      "end" : 6.155,
+      "gloss_id" : "벌다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.38,
+      "end" : 1.791
+    }, {
+      "descriptor" : "",
+      "start" : 3.095,
+      "end" : 3.722
+    }, {
+      "descriptor" : "",
+      "start" : 3.864,
+      "end" : 4.1
+    }, {
+      "descriptor" : "",
+      "start" : 4.259,
+      "end" : 4.51
+    }, {
+      "descriptor" : "",
+      "start" : 4.795,
+      "end" : 4.987
+    }, {
+      "descriptor" : "",
+      "start" : 5.156,
+      "end" : 5.298
+    }, {
+      "descriptor" : "",
+      "start" : 6.75,
+      "end" : 7.341
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.095,
+      "end" : 3.722
+    }, {
+      "descriptor" : "",
+      "start" : 5.44,
+      "end" : 6.579
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.702,
+      "end" : 2.904
+    }, {
+      "descriptor" : "",
+      "start" : 6.75,
+      "end" : 7.341
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240786180",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:24:55",
+    "sentence_ID" : "VXPAKOKS240786180",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

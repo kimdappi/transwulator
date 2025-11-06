@@ -1,0 +1,228 @@
+{
+  "id" : "VXPAKOKS240787760",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "너 이번에 토익 쳤다고 했는데 어땠어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.432,
+      "end" : 1.593,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.819,
+      "end" : 2.153,
+      "gloss_id" : "며칠전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.422,
+      "end" : 2.569,
+      "gloss_id" : "영어1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.759,
+      "end" : 3.563,
+      "gloss_id" : "토익",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.866,
+      "end" : 4.11,
+      "gloss_id" : "경쟁1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.295,
+      "end" : 4.47,
+      "gloss_id" : "들어가다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 4.647,
+      "end" : 4.884,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.993,
+      "end" : 5.638,
+      "gloss_id" : "말하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "2",
+        "target" : "1"
+      }
+    }, {
+      "start" : 6.017,
+      "end" : 6.199,
+      "gloss_id" : "결국1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.425,
+      "end" : 6.842,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.432,
+      "end" : 1.593,
+      "loc" : "0",
+      "word" : "너"
+    }, {
+      "start" : 1.819,
+      "end" : 2.153,
+      "loc" : "1",
+      "word" : "이번에"
+    }, {
+      "start" : 2.422,
+      "end" : 4.893,
+      "loc" : "2,3",
+      "word" : "토익 쳤다고"
+    }, {
+      "start" : 4.993,
+      "end" : 5.638,
+      "loc" : "4",
+      "word" : "했는데"
+    }, {
+      "start" : 6.017,
+      "end" : 6.835,
+      "loc" : "5",
+      "word" : "어땠어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.866,
+      "end" : 4.11,
+      "gloss_id" : "경쟁1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.295,
+      "end" : 4.47,
+      "gloss_id" : "들어가다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.647,
+      "end" : 4.884,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.017,
+      "end" : 6.199,
+      "gloss_id" : "결국1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "토익",
+      "start" : 2.759,
+      "end" : 3.563
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.759,
+      "end" : 3.563
+    }, {
+      "descriptor" : "",
+      "start" : 6.425,
+      "end" : 6.842
+    }, {
+      "descriptor" : "",
+      "start" : 4.647,
+      "end" : 4.884
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.647,
+      "end" : 4.884
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.993,
+      "end" : 5.5
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.432,
+      "end" : 2.174
+    }, {
+      "descriptor" : "",
+      "start" : 2.759,
+      "end" : 3.563
+    }, {
+      "descriptor" : "",
+      "start" : 4.295,
+      "end" : 6.849
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787760",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:37:39",
+    "sentence_ID" : "VXPAKOKS240787760",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

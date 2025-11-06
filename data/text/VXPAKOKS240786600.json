@@ -1,0 +1,223 @@
+{
+  "id" : "VXPAKOKS240786600",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "반려동물 1마리를 키운다면 난 차라리 고양이가 나을 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.15,
+      "end" : 2.524,
+      "gloss_id" : "동행3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.769,
+      "end" : 3.388,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.634,
+      "end" : 4.226,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.52,
+      "end" : 4.61,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.877,
+      "end" : 5.08,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.273,
+      "end" : 5.522,
+      "gloss_id" : "고양이1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.888,
+      "end" : 6.104,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.262,
+      "end" : 6.551,
+      "gloss_id" : "낫다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.15,
+      "end" : 3.166,
+      "loc" : "0",
+      "word" : "반려동물"
+    }, {
+      "start" : 3.294,
+      "end" : 3.384,
+      "loc" : "1",
+      "word" : "1마리를"
+    }, {
+      "start" : 3.634,
+      "end" : 4.226,
+      "loc" : "2",
+      "word" : "키운다면"
+    }, {
+      "start" : 4.52,
+      "end" : 4.61,
+      "loc" : "3",
+      "word" : "난"
+    }, {
+      "start" : 4.877,
+      "end" : 5.08,
+      "loc" : "4",
+      "word" : "차라리"
+    }, {
+      "start" : 5.273,
+      "end" : 5.522,
+      "loc" : "5",
+      "word" : "고양이가"
+    }, {
+      "start" : 5.888,
+      "end" : 6.533,
+      "loc" : "6,7,8",
+      "word" : "나을 거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.294,
+      "end" : 3.39,
+      "gloss_id" : "1",
+      "express" : "n",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.15,
+      "end" : 2.524,
+      "gloss_id" : "동행3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.769,
+      "end" : 3.17,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.634,
+      "end" : 4.226,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.888,
+      "end" : 6.104,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "한마리",
+      "start" : 3.294,
+      "end" : 3.384
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.15,
+      "end" : 2.524
+    }, {
+      "descriptor" : "",
+      "start" : 3.634,
+      "end" : 4.226
+    }, {
+      "descriptor" : "",
+      "start" : 4.877,
+      "end" : 5.08
+    }, {
+      "descriptor" : "",
+      "start" : 6.262,
+      "end" : 6.551
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.52,
+      "end" : 6.54
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.15,
+      "end" : 2.524
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.769,
+      "end" : 4.214
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786600",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:28:09",
+    "sentence_ID" : "VXPAKOKS240786600",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

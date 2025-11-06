@@ -1,0 +1,240 @@
+{
+  "id" : "VXPAKOKS240787380",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "집에서 팝콘까지 곁들여서 영화를 보면 진짜 영화관 느낌 나기는 하겠다.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.579,
+      "end" : 1.879,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.148,
+      "end" : 2.907,
+      "gloss_id" : "영상1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.336,
+      "end" : 3.866,
+      "gloss_id" : "팝콘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.049,
+      "end" : 4.334,
+      "gloss_id" : "팝콘3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.903,
+      "end" : 5.181,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.461,
+      "end" : 5.628,
+      "gloss_id" : "영상1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.703,
+      "end" : 5.854,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.05,
+      "end" : 6.253,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.495,
+      "end" : 6.809,
+      "gloss_id" : "같다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.046,
+      "end" : 7.487,
+      "gloss_id" : "아마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.579,
+      "end" : 1.879,
+      "loc" : "0",
+      "word" : "집에서"
+    }, {
+      "start" : 2.148,
+      "end" : 2.907,
+      "loc" : "3,4",
+      "word" : "영화를 보면"
+    }, {
+      "start" : 3.336,
+      "end" : 4.326,
+      "loc" : "1,2",
+      "word" : "팝콘까지 곁들여서"
+    }, {
+      "start" : 4.903,
+      "end" : 5.181,
+      "loc" : "5",
+      "word" : "진짜"
+    }, {
+      "start" : 5.461,
+      "end" : 5.835,
+      "loc" : "6",
+      "word" : "영화관"
+    }, {
+      "start" : 6.05,
+      "end" : 7.477,
+      "loc" : "7,8,9",
+      "word" : "느낌 나기는 하겠다."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.579,
+      "end" : 1.879,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.148,
+      "end" : 2.907,
+      "gloss_id" : "영상1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.336,
+      "end" : 3.866,
+      "gloss_id" : "팝콘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.461,
+      "end" : 5.628,
+      "gloss_id" : "영상1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.495,
+      "end" : 6.809,
+      "gloss_id" : "같다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.579,
+      "end" : 1.879
+    }, {
+      "descriptor" : "",
+      "start" : 4.903,
+      "end" : 5.181
+    }, {
+      "descriptor" : "",
+      "start" : 6.495,
+      "end" : 6.809
+    }, {
+      "descriptor" : "",
+      "start" : 7.046,
+      "end" : 7.487
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.903,
+      "end" : 5.181
+    }, {
+      "descriptor" : "",
+      "start" : 6.05,
+      "end" : 6.253
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 1.579,
+      "end" : 1.879
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.579,
+      "end" : 1.879
+    }, {
+      "descriptor" : "",
+      "start" : 3.336,
+      "end" : 3.866
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787380",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:34:12",
+    "sentence_ID" : "VXPAKOKS240787380",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

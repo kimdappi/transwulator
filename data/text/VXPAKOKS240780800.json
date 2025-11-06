@@ -1,0 +1,243 @@
+{
+  "id" : "VXPAKOKS240780800",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "다들 초등학교 때나 중학교 때 음식 체험 많이들 하잖아",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.341,
+      "end" : 1.795,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.134,
+      "end" : 2.585,
+      "gloss_id" : "초등몇학년6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.763,
+      "end" : 3.123,
+      "gloss_id" : "중학교몇학년2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.386,
+      "end" : 3.572,
+      "gloss_id" : "학생1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.712,
+      "end" : 4.009,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.415,
+      "end" : 4.545,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.755,
+      "end" : 5.118,
+      "gloss_id" : "요리1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.329,
+      "end" : 5.673,
+      "gloss_id" : "경험1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.959,
+      "end" : 6.439,
+      "gloss_id" : "많다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.568,
+      "end" : 6.872,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.341,
+      "end" : 1.795,
+      "loc" : "0",
+      "word" : "다들"
+    }, {
+      "start" : 2.763,
+      "end" : 3.567,
+      "loc" : "3",
+      "word" : "중학교"
+    }, {
+      "start" : 4.415,
+      "end" : 5.122,
+      "loc" : "5",
+      "word" : "음식"
+    }, {
+      "start" : 5.959,
+      "end" : 6.864,
+      "loc" : "7,8",
+      "word" : "많이들 하잖아"
+    }, {
+      "start" : 2.134,
+      "end" : 2.585,
+      "loc" : "1,2",
+      "word" : "초등학교 때나"
+    }, {
+      "start" : 3.712,
+      "end" : 4.009,
+      "loc" : "4",
+      "word" : "때"
+    }, {
+      "start" : 5.329,
+      "end" : 5.673,
+      "loc" : "6",
+      "word" : "체험"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.755,
+      "end" : 5.118,
+      "gloss_id" : "요리1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.959,
+      "end" : 6.439,
+      "gloss_id" : "많다1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.134,
+      "end" : 2.585,
+      "gloss_id" : "초등몇학년6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.763,
+      "end" : 3.123,
+      "gloss_id" : "중학교몇학년2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.386,
+      "end" : 3.572,
+      "gloss_id" : "학생1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.712,
+      "end" : 4.009,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.329,
+      "end" : 5.673,
+      "gloss_id" : "경험1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.341,
+      "end" : 1.795
+    }, {
+      "descriptor" : "",
+      "start" : 3.712,
+      "end" : 4.009
+    }, {
+      "descriptor" : "",
+      "start" : 6.568,
+      "end" : 6.872
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 6.568,
+      "end" : 6.872
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 6.568,
+      "end" : 6.872
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780800",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:05:38",
+    "sentence_ID" : "VXPAKOKS240780800",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

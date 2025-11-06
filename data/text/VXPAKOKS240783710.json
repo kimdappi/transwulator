@@ -1,0 +1,196 @@
+{
+  "id" : "VXPAKOKS240783710",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "배달 음식은 사실은 비용이 너무 많이 들더라고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 3.299,
+      "end" : 3.622,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.913,
+      "end" : 4.43,
+      "gloss_id" : "전화하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "3"
+      }
+    }, {
+      "start" : 4.814,
+      "end" : 5.616,
+      "gloss_id" : "가져오다9",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.698,
+      "end" : 5.782,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.051,
+      "end" : 6.215,
+      "gloss_id" : "돈1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.463,
+      "end" : 6.904,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.347,
+      "end" : 7.897,
+      "gloss_id" : "비싸다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.037,
+      "end" : 8.268,
+      "gloss_id" : "사용1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.45,
+      "end" : 8.731,
+      "gloss_id" : "크다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.299,
+      "end" : 3.622,
+      "loc" : "1",
+      "word" : "음식은"
+    }, {
+      "start" : 3.913,
+      "end" : 5.793,
+      "loc" : "0",
+      "word" : "배달"
+    }, {
+      "start" : 6.463,
+      "end" : 6.904,
+      "loc" : "2",
+      "word" : "사실은"
+    }, {
+      "start" : 7.347,
+      "end" : 8.739,
+      "loc" : "4,5,6",
+      "word" : "너무 많이 들더라고."
+    }, {
+      "start" : 6.051,
+      "end" : 6.215,
+      "loc" : "3",
+      "word" : "비용이"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 7.347,
+      "end" : 7.897,
+      "gloss_id" : "비싸다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.037,
+      "end" : 8.268,
+      "gloss_id" : "사용1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.814,
+      "end" : 6.904,
+      "gloss_id" : "가져오다9",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 8.45,
+      "end" : 8.731
+    }, {
+      "descriptor" : "",
+      "start" : 6.051,
+      "end" : 6.215
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.707,
+      "end" : 6.904
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 6.463,
+      "end" : 8.738
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.913,
+      "end" : 4.43
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240783710",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:18:46",
+    "sentence_ID" : "VXPAKOKS240783710",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

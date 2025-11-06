@@ -1,0 +1,134 @@
+{
+  "id" : "VXPAKOKS240788820",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "과자 중에 좋아하는 과자 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.015,
+      "end" : 2.15,
+      "gloss_id" : "과자1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.278,
+      "end" : 2.648,
+      "gloss_id" : "안1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.794,
+      "end" : 2.953,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.191,
+      "end" : 3.614,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.84,
+      "end" : 4.32,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.015,
+      "end" : 2.15,
+      "loc" : "0",
+      "word" : "과자"
+    }, {
+      "start" : 2.278,
+      "end" : 2.648,
+      "loc" : "1",
+      "word" : "중에"
+    }, {
+      "start" : 2.792,
+      "end" : 3.614,
+      "loc" : "2",
+      "word" : "좋아하는"
+    }, {
+      "start" : 3.84,
+      "end" : 4.32,
+      "loc" : "4",
+      "word" : "있어?"
+    } ],
+    "sign_gestures_weak" : null
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.84,
+      "end" : 4.32
+    }, {
+      "descriptor" : "",
+      "start" : 3.191,
+      "end" : 3.614
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.794,
+      "end" : 3.606
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.84,
+      "end" : 4.32
+    }, {
+      "descriptor" : "",
+      "start" : 2.015,
+      "end" : 2.65
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788820",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:50:39",
+    "sentence_ID" : "VXPAKOKS240788820",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

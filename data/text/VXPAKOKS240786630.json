@@ -1,0 +1,173 @@
+{
+  "id" : "VXPAKOKS240786630",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "강아지는 매 분 1분 1초를 항상 주인과 함께하고 싶어 하는 성향이 커.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.369,
+      "end" : 1.547,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.808,
+      "end" : 2.054,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.29,
+      "end" : 4.059,
+      "gloss_id" : "시간:24시간",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.448,
+      "end" : 5.161,
+      "gloss_id" : "따라가다3#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.443,
+      "end" : 6.828,
+      "gloss_id" : "오직1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.369,
+      "end" : 2.048,
+      "loc" : "0",
+      "word" : "강아지는"
+    }, {
+      "start" : 2.29,
+      "end" : 3.373,
+      "loc" : "1,2,3,4",
+      "word" : "매 분 1분 1초를"
+    }, {
+      "start" : 3.798,
+      "end" : 4.051,
+      "loc" : "6",
+      "word" : "주인과"
+    }, {
+      "start" : 4.448,
+      "end" : 6.828,
+      "loc" : "5,7,8,9,10,11",
+      "word" : "항상 함께하고 싶어 하는 성향이 커."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.798,
+      "end" : 4.057,
+      "gloss_id" : "장1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.369,
+      "end" : 1.547,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.808,
+      "end" : 2.054,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.29,
+      "end" : 3.387,
+      "gloss_id" : "시간:24시간",
+      "express" : "d",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.448,
+      "end" : 6.835,
+      "gloss_id" : "따라가다3#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.369,
+      "end" : 1.547
+    }, {
+      "descriptor" : "",
+      "start" : 2.29,
+      "end" : 3.373
+    }, {
+      "descriptor" : "",
+      "start" : 4.448,
+      "end" : 5.161
+    }, {
+      "descriptor" : "",
+      "start" : 5.443,
+      "end" : 6.828
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.448,
+      "end" : 6.821
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.369,
+      "end" : 4.051
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786630",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:28:20",
+    "sentence_ID" : "VXPAKOKS240786630",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

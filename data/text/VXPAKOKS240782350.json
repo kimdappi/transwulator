@@ -1,0 +1,192 @@
+{
+  "id" : "VXPAKOKS240782350",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "요새는 민어가 철인데 가격은 좀 비싸.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.987,
+      "end" : 2.205,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.459,
+      "end" : 2.959,
+      "gloss_id" : "민",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.351,
+      "end" : 3.684,
+      "gloss_id" : "물고기2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.031,
+      "end" : 4.48,
+      "gloss_id" : "많다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.745,
+      "end" : 4.95,
+      "gloss_id" : "때2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.285,
+      "end" : 5.592,
+      "gloss_id" : "돈1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.81,
+      "end" : 6.175,
+      "gloss_id" : "비싸다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.987,
+      "end" : 2.205,
+      "loc" : "0",
+      "word" : "요새는"
+    }, {
+      "start" : 2.459,
+      "end" : 3.678,
+      "loc" : "1",
+      "word" : "민어가"
+    }, {
+      "start" : 4.031,
+      "end" : 4.955,
+      "loc" : "2",
+      "word" : "철인데"
+    }, {
+      "start" : 5.285,
+      "end" : 5.592,
+      "loc" : "3",
+      "word" : "가격은"
+    }, {
+      "start" : 5.81,
+      "end" : 6.175,
+      "loc" : "4,5",
+      "word" : "좀 비싸."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.987,
+      "end" : 2.205,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.351,
+      "end" : 3.684,
+      "gloss_id" : "물고기2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.031,
+      "end" : 4.48,
+      "gloss_id" : "많다4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.745,
+      "end" : 4.95,
+      "gloss_id" : "때2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.81,
+      "end" : 6.175,
+      "gloss_id" : "비싸다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "민",
+      "start" : 2.459,
+      "end" : 2.959
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.031,
+      "end" : 4.48
+    }, {
+      "descriptor" : "",
+      "start" : 5.81,
+      "end" : 6.175
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.031,
+      "end" : 4.48
+    }, {
+      "descriptor" : "",
+      "start" : 5.81,
+      "end" : 6.175
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240782350",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:12:31",
+    "sentence_ID" : "VXPAKOKS240782350",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

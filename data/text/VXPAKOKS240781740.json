@@ -1,0 +1,233 @@
+{
+  "id" : "VXPAKOKS240781740",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "이제 저 만나기 전에 갔던 곳들 중에 혹시 같이 가고 싶은 곳 있으세요?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.935,
+      "end" : 2.033,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.257,
+      "end" : 2.509,
+      "gloss_id" : "만나다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.772,
+      "end" : 2.997,
+      "gloss_id" : "이전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.501,
+      "end" : 3.794,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.0,
+      "end" : 4.661,
+      "gloss_id" : "곳1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.008,
+      "end" : 5.254,
+      "gloss_id" : "함께가다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.471,
+      "end" : 5.582,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.713,
+      "end" : 5.878,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.234,
+      "end" : 6.627,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.003,
+      "end" : 6.087,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.935,
+      "end" : 2.033,
+      "loc" : "0,1",
+      "word" : "이제 저"
+    }, {
+      "start" : 2.257,
+      "end" : 2.509,
+      "loc" : "2",
+      "word" : "만나기"
+    }, {
+      "start" : 2.772,
+      "end" : 2.997,
+      "loc" : "3",
+      "word" : "전에"
+    }, {
+      "start" : 3.501,
+      "end" : 3.794,
+      "loc" : "4",
+      "word" : "갔던"
+    }, {
+      "start" : 4.0,
+      "end" : 4.661,
+      "loc" : "5,6",
+      "word" : "곳들 중에"
+    }, {
+      "start" : 5.008,
+      "end" : 5.254,
+      "loc" : "8,9",
+      "word" : "같이 가고"
+    }, {
+      "start" : 5.471,
+      "end" : 5.582,
+      "loc" : "10",
+      "word" : "싶은"
+    }, {
+      "start" : 5.713,
+      "end" : 6.079,
+      "loc" : "11",
+      "word" : "곳"
+    }, {
+      "start" : 6.234,
+      "end" : 6.627,
+      "loc" : "7,12",
+      "word" : "혹시 있으세요?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.257,
+      "end" : 2.509,
+      "gloss_id" : "만나다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.772,
+      "end" : 2.997,
+      "gloss_id" : "이전1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.008,
+      "end" : 5.254,
+      "gloss_id" : "함께가다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.257,
+      "end" : 2.509
+    }, {
+      "descriptor" : "",
+      "start" : 2.772,
+      "end" : 2.997
+    }, {
+      "descriptor" : "",
+      "start" : 6.234,
+      "end" : 6.627
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.416,
+      "end" : 2.501
+    }, {
+      "descriptor" : "",
+      "start" : 3.641,
+      "end" : 3.794
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.713,
+      "end" : 6.594
+    }, {
+      "descriptor" : "",
+      "start" : 4.0,
+      "end" : 4.661
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781740",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:09:32",
+    "sentence_ID" : "VXPAKOKS240781740",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

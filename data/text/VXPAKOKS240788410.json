@@ -1,0 +1,114 @@
+{
+  "id" : "VXPAKOKS240788410",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 요리를 정말 못 하거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.089,
+      "end" : 2.185,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.425,
+      "end" : 2.789,
+      "gloss_id" : "요리1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.934,
+      "end" : 3.561,
+      "gloss_id" : "꼴찌1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.089,
+      "end" : 2.185,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.425,
+      "end" : 2.789,
+      "loc" : "1",
+      "word" : "요리를"
+    }, {
+      "start" : 2.934,
+      "end" : 3.561,
+      "loc" : "2,3,4",
+      "word" : "정말 못 하거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.425,
+      "end" : 2.789,
+      "gloss_id" : "요리1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : null,
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.057,
+      "end" : 3.442
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.934,
+      "end" : 3.561
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 2.934,
+      "end" : 3.166
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.425,
+      "end" : 2.789
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788410",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:46:34",
+    "sentence_ID" : "VXPAKOKS240788410",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

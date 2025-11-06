@@ -1,0 +1,194 @@
+{
+  "id" : "VXPAKOKS240787710",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "언니도 이번에 장학금 받지 않아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.84,
+      "end" : 2.204,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.439,
+      "end" : 2.489,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.665,
+      "end" : 2.715,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.79,
+      "end" : 2.868,
+      "gloss_id" : "돈1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.986,
+      "end" : 3.285,
+      "gloss_id" : "돕다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 3.549,
+      "end" : 3.772,
+      "gloss_id" : "돈1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "3",
+        "target" : "1"
+      }
+    }, {
+      "start" : 3.992,
+      "end" : 4.753,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.533,
+      "end" : 2.189,
+      "loc" : "0",
+      "word" : "언니도"
+    }, {
+      "start" : 2.439,
+      "end" : 2.489,
+      "loc" : "1",
+      "word" : "이번에"
+    }, {
+      "start" : 2.665,
+      "end" : 3.293,
+      "loc" : "2",
+      "word" : "장학금"
+    }, {
+      "start" : 3.549,
+      "end" : 4.742,
+      "loc" : "3,4",
+      "word" : "받지 않아?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.533,
+      "end" : 1.651,
+      "gloss_id" : "언니2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.84,
+      "end" : 2.204,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.439,
+      "end" : 2.489,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.665,
+      "end" : 2.715,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.986,
+      "end" : 3.285,
+      "gloss_id" : "돕다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.549,
+      "end" : 4.738,
+      "gloss_id" : "여자1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.992,
+      "end" : 4.753
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.533,
+      "end" : 2.727
+    }, {
+      "descriptor" : "",
+      "start" : 2.986,
+      "end" : 3.285
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.992,
+      "end" : 4.753
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.549,
+      "end" : 4.722
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787710",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:37:15",
+    "sentence_ID" : "VXPAKOKS240787710",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

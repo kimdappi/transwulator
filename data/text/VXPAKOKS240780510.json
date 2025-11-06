@@ -1,0 +1,251 @@
+{
+  "id" : "VXPAKOKS240780510",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 가끔씩 멀리 갈 때는 국내선 항공편도 많이 이용하는데 너희는 어때?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.453,
+      "end" : 2.822,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.095,
+      "end" : 3.433,
+      "gloss_id" : "가끔1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.578,
+      "end" : 4.259,
+      "gloss_id" : "멀리가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.565,
+      "end" : 5.152,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.45,
+      "end" : 6.006,
+      "gloss_id" : "전국1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.194,
+      "end" : 6.949,
+      "gloss_id" : "비행기1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.357,
+      "end" : 7.583,
+      "gloss_id" : "또1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.74,
+      "end" : 8.009,
+      "gloss_id" : "사용1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.138,
+      "end" : 8.539,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.656,
+      "end" : 8.76,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 8.138,
+      "end" : 8.557,
+      "loc" : "9",
+      "word" : "너희는"
+    }, {
+      "start" : 8.647,
+      "end" : 8.746,
+      "loc" : "10",
+      "word" : "어때?"
+    }, {
+      "start" : 2.453,
+      "end" : 2.822,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 3.095,
+      "end" : 3.433,
+      "loc" : "1",
+      "word" : "가끔씩"
+    }, {
+      "start" : 3.578,
+      "end" : 4.259,
+      "loc" : "2,3",
+      "word" : "멀리 갈"
+    }, {
+      "start" : 4.565,
+      "end" : 5.152,
+      "loc" : "4",
+      "word" : "때는"
+    }, {
+      "start" : 5.45,
+      "end" : 6.006,
+      "loc" : "5",
+      "word" : "국내선"
+    }, {
+      "start" : 6.194,
+      "end" : 6.949,
+      "loc" : "6",
+      "word" : "항공편도"
+    }, {
+      "start" : 7.357,
+      "end" : 7.583,
+      "loc" : "7",
+      "word" : "많이"
+    }, {
+      "start" : 7.74,
+      "end" : 8.009,
+      "loc" : "8",
+      "word" : "이용하는데"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.565,
+      "end" : 5.152,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.74,
+      "end" : 8.009,
+      "gloss_id" : "사용1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.578,
+      "end" : 4.259
+    }, {
+      "descriptor" : "",
+      "start" : 4.565,
+      "end" : 5.152
+    }, {
+      "descriptor" : "",
+      "start" : 6.194,
+      "end" : 6.949
+    }, {
+      "descriptor" : "",
+      "start" : 7.357,
+      "end" : 7.583
+    }, {
+      "descriptor" : "",
+      "start" : 8.138,
+      "end" : 8.557
+    }, {
+      "descriptor" : "",
+      "start" : 8.647,
+      "end" : 8.76
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.578,
+      "end" : 4.259
+    }, {
+      "descriptor" : "",
+      "start" : 7.357,
+      "end" : 8.013
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 6.194,
+      "end" : 6.949
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 6.194,
+      "end" : 6.949
+    }, {
+      "descriptor" : "",
+      "start" : 8.647,
+      "end" : 8.76
+    }, {
+      "descriptor" : "",
+      "start" : 3.578,
+      "end" : 4.259
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780510",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:04:21",
+    "sentence_ID" : "VXPAKOKS240780510",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

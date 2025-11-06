@@ -1,0 +1,114 @@
+{
+  "id" : "VXPAKOKS240783730",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "맛있는 국이 있어야 돼.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.082,
+      "end" : 2.201,
+      "gloss_id" : "국물1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.446,
+      "end" : 3.438,
+      "gloss_id" : "맛있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.89,
+      "end" : 4.189,
+      "gloss_id" : "약속1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.082,
+      "end" : 2.201,
+      "loc" : "1",
+      "word" : "국이"
+    }, {
+      "start" : 3.89,
+      "end" : 4.189,
+      "loc" : "2,3",
+      "word" : "있어야 돼."
+    }, {
+      "start" : 2.446,
+      "end" : 3.438,
+      "loc" : "0",
+      "word" : "맛있는"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.89,
+      "end" : 4.189,
+      "gloss_id" : "약속1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.446,
+      "end" : 3.438
+    }, {
+      "descriptor" : "",
+      "start" : 3.89,
+      "end" : 4.189
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.075,
+      "end" : 3.443
+    }, {
+      "descriptor" : "",
+      "start" : 3.89,
+      "end" : 4.189
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240783730",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:18:55",
+    "sentence_ID" : "VXPAKOKS240783730",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

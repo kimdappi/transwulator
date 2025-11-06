@@ -1,0 +1,194 @@
+{
+  "id" : "VXPAKOKS240781600",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "저도 물고기 키워 봤는데 하루 만에 다 죽었던 거 같아요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.751,
+      "end" : 1.817,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.965,
+      "end" : 2.26,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.507,
+      "end" : 2.712,
+      "gloss_id" : "물고기2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.931,
+      "end" : 3.256,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.443,
+      "end" : 4.003,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.213,
+      "end" : 4.616,
+      "gloss_id" : "하루1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.799,
+      "end" : 4.973,
+      "gloss_id" : "죽다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.299,
+      "end" : 5.763,
+      "gloss_id" : "잠깐2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.751,
+      "end" : 2.257,
+      "loc" : "0",
+      "word" : "저도"
+    }, {
+      "start" : 2.507,
+      "end" : 2.712,
+      "loc" : "1",
+      "word" : "물고기"
+    }, {
+      "start" : 2.931,
+      "end" : 3.997,
+      "loc" : "2,3",
+      "word" : "키워 봤는데"
+    }, {
+      "start" : 4.213,
+      "end" : 4.616,
+      "loc" : "4,5",
+      "word" : "하루 만에"
+    }, {
+      "start" : 4.799,
+      "end" : 5.763,
+      "loc" : "6,7,8,9",
+      "word" : "다 죽었던 거 같아요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.965,
+      "end" : 2.26,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.507,
+      "end" : 2.712,
+      "gloss_id" : "물고기2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.931,
+      "end" : 3.256,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.299,
+      "end" : 5.763,
+      "gloss_id" : "잠깐2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.799,
+      "end" : 4.973
+    }, {
+      "descriptor" : "",
+      "start" : 5.299,
+      "end" : 5.763
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.809,
+      "end" : 3.989
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.965,
+      "end" : 2.26
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.931,
+      "end" : 3.256
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240781600",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:09:05",
+    "sentence_ID" : "VXPAKOKS240781600",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

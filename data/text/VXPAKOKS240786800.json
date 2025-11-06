@@ -1,0 +1,173 @@
+{
+  "id" : "VXPAKOKS240786800",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "방송이라는 게 원래 연예인들이 나오는 거였잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.388,
+      "end" : 1.569,
+      "gloss_id" : "TV",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.985,
+      "end" : 2.515,
+      "gloss_id" : "방송하다2#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.873,
+      "end" : 2.995,
+      "gloss_id" : "원래2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.374,
+      "end" : 3.601,
+      "gloss_id" : "인기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.949,
+      "end" : 4.2,
+      "gloss_id" : "유명하다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.468,
+      "end" : 4.754,
+      "gloss_id" : "전문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.388,
+      "end" : 2.509,
+      "loc" : "0,1",
+      "word" : "방송이라는 게"
+    }, {
+      "start" : 2.873,
+      "end" : 2.995,
+      "loc" : "2",
+      "word" : "원래"
+    }, {
+      "start" : 3.374,
+      "end" : 4.203,
+      "loc" : "3",
+      "word" : "연예인들이"
+    }, {
+      "start" : 4.468,
+      "end" : 4.754,
+      "loc" : "4,5",
+      "word" : "나오는 거였잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.949,
+      "end" : 4.2,
+      "gloss_id" : "유명하다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.985,
+      "end" : 2.515,
+      "gloss_id" : "방송하다2#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "티브이",
+      "start" : 1.388,
+      "end" : 1.569
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.985,
+      "end" : 2.515
+    }, {
+      "descriptor" : "",
+      "start" : 3.949,
+      "end" : 4.2
+    }, {
+      "descriptor" : "",
+      "start" : 4.468,
+      "end" : 4.754
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.113,
+      "end" : 4.2
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.374,
+      "end" : 4.187
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 1.985,
+      "end" : 2.515
+    }, {
+      "descriptor" : "",
+      "start" : 3.374,
+      "end" : 4.098
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.388,
+      "end" : 2.987
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786800",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:29:52",
+    "sentence_ID" : "VXPAKOKS240786800",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,151 @@
+{
+  "id" : "VXPAKOKS240780840",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "버스는 좁으니까 자리를 피할 수가 없잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.65,
+      "end" : 2.055,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.312,
+      "end" : 2.518,
+      "gloss_id" : "좁다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.763,
+      "end" : 3.024,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.294,
+      "end" : 3.857,
+      "gloss_id" : "앉다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.143,
+      "end" : 4.415,
+      "gloss_id" : "불가능3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.65,
+      "end" : 2.055,
+      "loc" : "0",
+      "word" : "버스는"
+    }, {
+      "start" : 2.312,
+      "end" : 3.024,
+      "loc" : "1",
+      "word" : "좁으니까"
+    }, {
+      "start" : 4.143,
+      "end" : 4.415,
+      "loc" : "4,5",
+      "word" : "수가 없잖아."
+    }, {
+      "start" : 3.294,
+      "end" : 3.857,
+      "loc" : "2,3",
+      "word" : "자리를 피할"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.65,
+      "end" : 2.055,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.312,
+      "end" : 2.518,
+      "gloss_id" : "좁다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.763,
+      "end" : 3.024,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : null,
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.973,
+      "end" : 3.024
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.143,
+      "end" : 4.415
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.312,
+      "end" : 2.518
+    }, {
+      "descriptor" : "",
+      "start" : 3.294,
+      "end" : 3.857
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780840",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:05:46",
+    "sentence_ID" : "VXPAKOKS240780840",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

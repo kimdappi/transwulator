@@ -1,0 +1,183 @@
+{
+  "id" : "VXPAKOKS240785280",
+  "opertor" : "label10",
+  "krlgg_sntenc" : {
+    "koreanText" : "택시비가 많이 들 거 같아서 버스를 주로 이용해.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 5.846,
+      "end" : 6.086,
+      "gloss_id" : "택시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.327,
+      "end" : 6.521,
+      "gloss_id" : "돈1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.94,
+      "end" : 7.18,
+      "gloss_id" : "비싸다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.521,
+      "end" : 7.9,
+      "gloss_id" : "울다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.228,
+      "end" : 8.329,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.521,
+      "end" : 8.835,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.228,
+      "end" : 9.812,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 5.846,
+      "end" : 6.522,
+      "loc" : "0",
+      "word" : "택시비가"
+    }, {
+      "start" : 6.94,
+      "end" : 7.18,
+      "loc" : "1,2,3",
+      "word" : "많이 들 거"
+    }, {
+      "start" : 7.521,
+      "end" : 7.9,
+      "loc" : "4",
+      "word" : "같아서"
+    }, {
+      "start" : 8.228,
+      "end" : 8.83,
+      "loc" : "5",
+      "word" : "버스를"
+    }, {
+      "start" : 9.228,
+      "end" : 9.812,
+      "loc" : "6,7",
+      "word" : "주로 이용해."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 8.228,
+      "end" : 8.329,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.521,
+      "end" : 8.835,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.846,
+      "end" : 6.086
+    }, {
+      "descriptor" : "",
+      "start" : 9.357,
+      "end" : 9.812
+    }, {
+      "descriptor" : "",
+      "start" : 7.521,
+      "end" : 7.9
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 9.362,
+      "end" : 9.815
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 6.94,
+      "end" : 7.904
+    }, {
+      "descriptor" : "",
+      "start" : 9.228,
+      "end" : 9.812
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 8.228,
+      "end" : 8.82
+    }, {
+      "descriptor" : "",
+      "start" : 5.846,
+      "end" : 6.509
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785280",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 01:36:07",
+    "sentence_ID" : "VXPAKOKS240785280",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

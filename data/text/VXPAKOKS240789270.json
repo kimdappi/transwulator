@@ -1,0 +1,163 @@
+{
+  "id" : "VXPAKOKS240789270",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "해외 여행 가서 뭐 가고 싶은 곳 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.555,
+      "end" : 1.666,
+      "gloss_id" : "외국3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.947,
+      "end" : 2.477,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.716,
+      "end" : 2.816,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.981,
+      "end" : 3.115,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.323,
+      "end" : 3.676,
+      "gloss_id" : "곳1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.81,
+      "end" : 4.153,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.555,
+      "end" : 1.666,
+      "loc" : "0",
+      "word" : "해외"
+    }, {
+      "start" : 1.947,
+      "end" : 2.477,
+      "loc" : "1",
+      "word" : "여행"
+    }, {
+      "start" : 2.716,
+      "end" : 2.816,
+      "loc" : "2",
+      "word" : "가서"
+    }, {
+      "start" : 2.981,
+      "end" : 3.115,
+      "loc" : "3,4,5",
+      "word" : "뭐 가고 싶은"
+    }, {
+      "start" : 3.323,
+      "end" : 3.676,
+      "loc" : "6",
+      "word" : "곳"
+    }, {
+      "start" : 3.81,
+      "end" : 4.153,
+      "loc" : "7",
+      "word" : "있어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.555,
+      "end" : 1.666,
+      "gloss_id" : "외국3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.947,
+      "end" : 2.477,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.81,
+      "end" : 4.153
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.942,
+      "end" : 3.115
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.981,
+      "end" : 3.115
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.323,
+      "end" : 4.228
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789270",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:53:42",
+    "sentence_ID" : "VXPAKOKS240789270",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

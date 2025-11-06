@@ -1,0 +1,205 @@
+{
+  "id" : "VXPAKOKS240788490",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "혹시 택시 탔는데 기사님 때문에 불쾌했거나 뭐 좋았거나 그런 적 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.462,
+      "end" : 2.158,
+      "gloss_id" : "택시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.382,
+      "end" : 2.784,
+      "gloss_id" : "운전2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.866,
+      "end" : 3.059,
+      "gloss_id" : "원인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.358,
+      "end" : 4.191,
+      "gloss_id" : "기분상하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.482,
+      "end" : 4.61,
+      "gloss_id" : "감정1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.778,
+      "end" : 4.912,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.137,
+      "end" : 5.611,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.829,
+      "end" : 6.355,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.462,
+      "end" : 2.158,
+      "loc" : "1,2",
+      "word" : "택시 탔는데"
+    }, {
+      "start" : 2.382,
+      "end" : 2.784,
+      "loc" : "3",
+      "word" : "기사님"
+    }, {
+      "start" : 2.866,
+      "end" : 3.059,
+      "loc" : "4",
+      "word" : "때문에"
+    }, {
+      "start" : 3.358,
+      "end" : 4.191,
+      "loc" : "5",
+      "word" : "불쾌했거나"
+    }, {
+      "start" : 4.482,
+      "end" : 5.615,
+      "loc" : "7",
+      "word" : "좋았거나"
+    }, {
+      "start" : 5.829,
+      "end" : 6.355,
+      "loc" : "8,9,10",
+      "word" : "그런 적 있어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.382,
+      "end" : 2.784,
+      "gloss_id" : "운전2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.137,
+      "end" : 5.611,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.829,
+      "end" : 6.355
+    }, {
+      "descriptor" : "",
+      "start" : 3.358,
+      "end" : 4.191
+    }, {
+      "descriptor" : "",
+      "start" : 2.866,
+      "end" : 3.059
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.829,
+      "end" : 6.355
+    }, {
+      "descriptor" : "",
+      "start" : 2.866,
+      "end" : 3.059
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.358,
+      "end" : 4.191
+    }, {
+      "descriptor" : "",
+      "start" : 1.462,
+      "end" : 2.772
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.482,
+      "end" : 4.91
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.144,
+      "end" : 6.355
+    }, {
+      "descriptor" : "",
+      "start" : 2.866,
+      "end" : 3.059
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788490",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:47:07",
+    "sentence_ID" : "VXPAKOKS240788490",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

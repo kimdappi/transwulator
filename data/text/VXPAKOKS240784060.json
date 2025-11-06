@@ -1,0 +1,479 @@
+{
+  "id" : "VXPAKOKS240784060",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "내 주위에 친한 친구들 2명이 공무원으로 지금 일을 하고 있는데 이야기를 들어 보면 확실히 사기업보다는 분위기가 많이 좀 더 수직적이고 보수적인 거 같다는 생각을 해.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.825,
+      "end" : 1.96,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.189,
+      "end" : 2.566,
+      "gloss_id" : "분위기2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.912,
+      "end" : 3.385,
+      "gloss_id" : "친하다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.598,
+      "end" : 4.03,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.245,
+      "end" : 4.528,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.78,
+      "end" : 5.022,
+      "gloss_id" : "공공1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.349,
+      "end" : 5.51,
+      "gloss_id" : "사무1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.776,
+      "end" : 6.113,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.392,
+      "end" : 7.109,
+      "gloss_id" : "중1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.379,
+      "end" : 7.717,
+      "gloss_id" : "전달1",
+      "express" : "s",
+      "direction" : {
+        "source" : "3",
+        "target" : "1"
+      }
+    }, {
+      "start" : 7.912,
+      "end" : 8.969,
+      "gloss_id" : "듣다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.389,
+      "end" : 9.74,
+      "gloss_id" : "맞다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.895,
+      "end" : 10.151,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.301,
+      "end" : 10.462,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.642,
+      "end" : 11.02,
+      "gloss_id" : "~보다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.234,
+      "end" : 12.962,
+      "gloss_id" : "분위기2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 13.289,
+      "end" : 14.508,
+      "gloss_id" : "작다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 14.766,
+      "end" : 15.252,
+      "gloss_id" : "시야좁다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 15.506,
+      "end" : 16.427,
+      "gloss_id" : "보수1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 16.699,
+      "end" : 16.995,
+      "gloss_id" : "같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 17.295,
+      "end" : 17.917,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.825,
+      "end" : 1.96,
+      "loc" : "0",
+      "word" : "내"
+    }, {
+      "start" : 2.189,
+      "end" : 2.566,
+      "loc" : "1",
+      "word" : "주위에"
+    }, {
+      "start" : 2.912,
+      "end" : 3.385,
+      "loc" : "2",
+      "word" : "친한"
+    }, {
+      "start" : 3.598,
+      "end" : 4.03,
+      "loc" : "3",
+      "word" : "친구들"
+    }, {
+      "start" : 4.245,
+      "end" : 4.528,
+      "loc" : "4",
+      "word" : "2명이"
+    }, {
+      "start" : 4.78,
+      "end" : 5.496,
+      "loc" : "5",
+      "word" : "공무원으로"
+    }, {
+      "start" : 5.776,
+      "end" : 7.076,
+      "loc" : "6,7,8,9",
+      "word" : "지금 일을 하고 있는데"
+    }, {
+      "start" : 7.379,
+      "end" : 7.717,
+      "loc" : "10",
+      "word" : "이야기를"
+    }, {
+      "start" : 7.912,
+      "end" : 8.969,
+      "loc" : "11,12",
+      "word" : "들어 보면"
+    }, {
+      "start" : 9.389,
+      "end" : 9.74,
+      "loc" : "13",
+      "word" : "확실히"
+    }, {
+      "start" : 9.895,
+      "end" : 11.005,
+      "loc" : "14",
+      "word" : "사기업보다는"
+    }, {
+      "start" : 11.201,
+      "end" : 12.962,
+      "loc" : "15",
+      "word" : "분위기가"
+    }, {
+      "start" : 13.289,
+      "end" : 14.508,
+      "loc" : "16,17,18",
+      "word" : "많이 좀 더"
+    }, {
+      "start" : 14.766,
+      "end" : 15.252,
+      "loc" : "19",
+      "word" : "수직적이고"
+    }, {
+      "start" : 15.506,
+      "end" : 16.427,
+      "loc" : "20,21",
+      "word" : "보수적인 거"
+    }, {
+      "start" : 16.699,
+      "end" : 16.995,
+      "loc" : "22",
+      "word" : "같다는"
+    }, {
+      "start" : 17.295,
+      "end" : 17.917,
+      "loc" : "23,24",
+      "word" : "생각을 해."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.189,
+      "end" : 2.566,
+      "gloss_id" : "분위기2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.912,
+      "end" : 3.385,
+      "gloss_id" : "친하다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.598,
+      "end" : 4.03,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.245,
+      "end" : 4.528,
+      "gloss_id" : "2",
+      "express" : "n",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.78,
+      "end" : 5.022,
+      "gloss_id" : "공공1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.349,
+      "end" : 5.51,
+      "gloss_id" : "사무1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.776,
+      "end" : 6.113,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.391,
+      "end" : 7.108,
+      "gloss_id" : "중1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.379,
+      "end" : 7.717,
+      "gloss_id" : "전달1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.895,
+      "end" : 10.151,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.301,
+      "end" : 10.462,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.642,
+      "end" : 11.02,
+      "gloss_id" : "~보다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 11.201,
+      "end" : 14.495,
+      "gloss_id" : "분위기2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 14.766,
+      "end" : 15.252,
+      "gloss_id" : "시야좁다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 15.506,
+      "end" : 16.427,
+      "gloss_id" : "보수1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 16.699,
+      "end" : 16.995,
+      "gloss_id" : "같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.245,
+      "end" : 4.528
+    }, {
+      "descriptor" : "",
+      "start" : 6.392,
+      "end" : 7.109
+    }, {
+      "descriptor" : "",
+      "start" : 7.912,
+      "end" : 8.969
+    }, {
+      "descriptor" : "",
+      "start" : 10.642,
+      "end" : 11.02
+    }, {
+      "descriptor" : "",
+      "start" : 14.766,
+      "end" : 15.252
+    }, {
+      "descriptor" : "",
+      "start" : 17.295,
+      "end" : 17.917
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 13.289,
+      "end" : 17.913
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 7.379,
+      "end" : 8.151
+    }, {
+      "descriptor" : "",
+      "start" : 9.389,
+      "end" : 9.74
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.825,
+      "end" : 4.524
+    }, {
+      "descriptor" : "",
+      "start" : 9.895,
+      "end" : 10.978
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784060",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:20:45",
+    "sentence_ID" : "VXPAKOKS240784060",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

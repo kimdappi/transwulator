@@ -1,0 +1,214 @@
+{
+  "id" : "VXPAKOKS240784180",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "마트에 가서 어떤 걸 살지 지금 고민 중에 있는 거야.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.653,
+      "end" : 1.842,
+      "gloss_id" : "이마트1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.124,
+      "end" : 2.549,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.743,
+      "end" : 2.926,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.124,
+      "end" : 3.363,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 3.556,
+      "end" : 3.932,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 4.123,
+      "end" : 4.218,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.524,
+      "end" : 5.304,
+      "gloss_id" : "고민1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.474,
+      "end" : 5.688,
+      "gloss_id" : "중1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.653,
+      "end" : 1.842,
+      "loc" : "0",
+      "word" : "마트에"
+    }, {
+      "start" : 2.124,
+      "end" : 2.549,
+      "loc" : "1",
+      "word" : "가서"
+    }, {
+      "start" : 2.743,
+      "end" : 2.926,
+      "loc" : "2,3",
+      "word" : "어떤 걸"
+    }, {
+      "start" : 3.124,
+      "end" : 3.941,
+      "loc" : "4",
+      "word" : "살지"
+    }, {
+      "start" : 4.123,
+      "end" : 4.218,
+      "loc" : "5",
+      "word" : "지금"
+    }, {
+      "start" : 4.524,
+      "end" : 5.304,
+      "loc" : "6",
+      "word" : "고민"
+    }, {
+      "start" : 5.474,
+      "end" : 5.688,
+      "loc" : "7,8,9",
+      "word" : "중에 있는 거야."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.124,
+      "end" : 2.549,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.124,
+      "end" : 3.363,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.556,
+      "end" : 3.932,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.123,
+      "end" : 4.218,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.524,
+      "end" : 5.304,
+      "gloss_id" : "고민1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.474,
+      "end" : 5.688,
+      "gloss_id" : "중1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.124,
+      "end" : 2.549
+    }, {
+      "descriptor" : "",
+      "start" : 5.474,
+      "end" : 5.688
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.743,
+      "end" : 5.67
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.653,
+      "end" : 1.842
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784180",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:21:30",
+    "sentence_ID" : "VXPAKOKS240784180",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

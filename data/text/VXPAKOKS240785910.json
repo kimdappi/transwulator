@@ -1,0 +1,181 @@
+{
+  "id" : "VXPAKOKS240785910",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "나이가 들수록 솔직히 지하철 타는 거는 쪼끔 힘든 면이 없지 않아 있거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.566,
+      "end" : 1.705,
+      "gloss_id" : "나이1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.877,
+      "end" : 2.622,
+      "gloss_id" : "증가2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.78,
+      "end" : 2.861,
+      "gloss_id" : "맞다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.89,
+      "end" : 4.686,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.966,
+      "end" : 6.181,
+      "gloss_id" : "힘들다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.016,
+      "end" : 3.638,
+      "gloss_id" : "솔직하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.566,
+      "end" : 1.705,
+      "loc" : "0",
+      "word" : "나이가"
+    }, {
+      "start" : 1.877,
+      "end" : 2.622,
+      "loc" : "1",
+      "word" : "들수록"
+    }, {
+      "start" : 2.78,
+      "end" : 3.641,
+      "loc" : "2",
+      "word" : "솔직히"
+    }, {
+      "start" : 3.89,
+      "end" : 4.686,
+      "loc" : "3,4,5",
+      "word" : "지하철 타는 거는"
+    }, {
+      "start" : 4.966,
+      "end" : 6.181,
+      "loc" : "6,7,8,9,10,11",
+      "word" : "쪼끔 힘든 면이 없지 않아 있거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.877,
+      "end" : 2.622,
+      "gloss_id" : "증가2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.016,
+      "end" : 3.638,
+      "gloss_id" : "솔직하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.89,
+      "end" : 4.686,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.016,
+      "end" : 3.638
+    }, {
+      "descriptor" : "",
+      "start" : 4.966,
+      "end" : 6.181
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 1.877,
+      "end" : 1.977
+    }, {
+      "descriptor" : "",
+      "start" : 2.036,
+      "end" : 2.123
+    }, {
+      "descriptor" : "",
+      "start" : 2.262,
+      "end" : 2.337
+    }, {
+      "descriptor" : "",
+      "start" : 2.462,
+      "end" : 2.537
+    } ],
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 4.485,
+      "end" : 4.92
+    } ],
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.78,
+      "end" : 6.167
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240785910",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:23:11",
+    "sentence_ID" : "VXPAKOKS240785910",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

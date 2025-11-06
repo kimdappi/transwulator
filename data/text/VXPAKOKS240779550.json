@@ -1,0 +1,192 @@
+{
+  "id" : "VXPAKOKS240779550",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "혹시 최근에 여행 가고 싶은 사람 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.008,
+      "end" : 2.494,
+      "gloss_id" : "혹시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.803,
+      "end" : 3.884,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.103,
+      "end" : 4.202,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.35,
+      "end" : 4.449,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.713,
+      "end" : 4.852,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.036,
+      "end" : 5.206,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.403,
+      "end" : 5.678,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.008,
+      "end" : 2.494,
+      "loc" : "0",
+      "word" : "혹시"
+    }, {
+      "start" : 2.803,
+      "end" : 3.884,
+      "loc" : "1",
+      "word" : "최근에"
+    }, {
+      "start" : 4.103,
+      "end" : 4.202,
+      "loc" : "2",
+      "word" : "여행"
+    }, {
+      "start" : 4.35,
+      "end" : 4.449,
+      "loc" : "3",
+      "word" : "가고"
+    }, {
+      "start" : 4.713,
+      "end" : 4.852,
+      "loc" : "4",
+      "word" : "싶은"
+    }, {
+      "start" : 5.036,
+      "end" : 5.206,
+      "loc" : "5",
+      "word" : "사람"
+    }, {
+      "start" : 5.403,
+      "end" : 5.678,
+      "loc" : "6",
+      "word" : "있어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.803,
+      "end" : 3.884,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.103,
+      "end" : 4.202,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.036,
+      "end" : 5.677,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.033,
+      "end" : 5.678
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.008,
+      "end" : 2.494
+    }, {
+      "descriptor" : "",
+      "start" : 4.453,
+      "end" : 4.852
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.456,
+      "end" : 4.852
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.803,
+      "end" : 3.884
+    }, {
+      "descriptor" : "",
+      "start" : 5.403,
+      "end" : 5.678
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779550",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 10:59:45",
+    "sentence_ID" : "VXPAKOKS240779550",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

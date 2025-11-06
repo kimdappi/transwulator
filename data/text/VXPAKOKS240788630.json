@@ -1,0 +1,192 @@
+{
+  "id" : "VXPAKOKS240788630",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 다른 티는 별로 안 좋아하는데 홍차를 좋아하는 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.363,
+      "end" : 1.779,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.184,
+      "end" : 2.578,
+      "gloss_id" : "차2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.748,
+      "end" : 3.171,
+      "gloss_id" : "여러가지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.512,
+      "end" : 3.871,
+      "gloss_id" : "취미1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.084,
+      "end" : 4.401,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.647,
+      "end" : 4.908,
+      "gloss_id" : "빨강1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.134,
+      "end" : 5.634,
+      "gloss_id" : "차2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.841,
+      "end" : 6.341,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.363,
+      "end" : 1.779,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.184,
+      "end" : 2.578,
+      "loc" : "2",
+      "word" : "티는"
+    }, {
+      "start" : 2.748,
+      "end" : 3.171,
+      "loc" : "1",
+      "word" : "다른"
+    }, {
+      "start" : 3.512,
+      "end" : 4.377,
+      "loc" : "3,4,5",
+      "word" : "별로 안 좋아하는데"
+    }, {
+      "start" : 4.647,
+      "end" : 5.64,
+      "loc" : "6",
+      "word" : "홍차를"
+    }, {
+      "start" : 5.841,
+      "end" : 6.341,
+      "loc" : "7,8,9",
+      "word" : "좋아하는 거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.184,
+      "end" : 2.578,
+      "gloss_id" : "차2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.748,
+      "end" : 3.171,
+      "gloss_id" : "여러가지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.134,
+      "end" : 5.634,
+      "gloss_id" : "차2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.084,
+      "end" : 4.401
+    }, {
+      "descriptor" : "",
+      "start" : 5.841,
+      "end" : 6.341
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.363,
+      "end" : 4.403
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.084,
+      "end" : 4.401
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.647,
+      "end" : 5.625
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788630",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:48:00",
+    "sentence_ID" : "VXPAKOKS240788630",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

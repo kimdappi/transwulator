@@ -1,0 +1,238 @@
+{
+  "id" : "VXPAKOKS240788780",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "혹시 너희는 아침 먹을 때 무조건 국이 있어야 된다고 생각하니?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.518,
+      "end" : 1.909,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.199,
+      "end" : 2.53,
+      "gloss_id" : "아침4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.616,
+      "end" : 2.73,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.82,
+      "end" : 3.11,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.429,
+      "end" : 3.828,
+      "gloss_id" : "약속1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.107,
+      "end" : 4.221,
+      "gloss_id" : "짜다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.317,
+      "end" : 4.573,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.698,
+      "end" : 4.92,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.015,
+      "end" : 5.42,
+      "gloss_id" : "되다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.57,
+      "end" : 5.69,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.821,
+      "end" : 6.436,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.518,
+      "end" : 1.909,
+      "loc" : "1",
+      "word" : "너희는"
+    }, {
+      "start" : 2.199,
+      "end" : 2.53,
+      "loc" : "2",
+      "word" : "아침"
+    }, {
+      "start" : 2.616,
+      "end" : 2.73,
+      "loc" : "3",
+      "word" : "먹을"
+    }, {
+      "start" : 2.82,
+      "end" : 3.11,
+      "loc" : "4",
+      "word" : "때"
+    }, {
+      "start" : 3.429,
+      "end" : 3.828,
+      "loc" : "5",
+      "word" : "무조건"
+    }, {
+      "start" : 4.107,
+      "end" : 4.567,
+      "loc" : "6",
+      "word" : "국이"
+    }, {
+      "start" : 4.698,
+      "end" : 4.92,
+      "loc" : "7",
+      "word" : "있어야"
+    }, {
+      "start" : 5.015,
+      "end" : 5.42,
+      "loc" : "8",
+      "word" : "된다고"
+    }, {
+      "start" : 5.57,
+      "end" : 6.429,
+      "loc" : "9",
+      "word" : "생각하니?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.199,
+      "end" : 2.53,
+      "gloss_id" : "아침4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.82,
+      "end" : 3.11,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.429,
+      "end" : 3.828,
+      "gloss_id" : "약속1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.57,
+      "end" : 5.69
+    }, {
+      "descriptor" : "",
+      "start" : 3.429,
+      "end" : 3.828
+    }, {
+      "descriptor" : "",
+      "start" : 5.015,
+      "end" : 5.42
+    }, {
+      "descriptor" : "",
+      "start" : 5.821,
+      "end" : 6.436
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.518,
+      "end" : 5.392
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.57,
+      "end" : 6.435
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788780",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:50:17",
+    "sentence_ID" : "VXPAKOKS240788780",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,134 @@
+{
+  "id" : "VXPAKOKS240788940",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 최근에서야 커피를 먹기 시작했거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.796,
+      "end" : 1.989,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.102,
+      "end" : 2.383,
+      "gloss_id" : "며칠전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.566,
+      "end" : 2.714,
+      "gloss_id" : "커피2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.814,
+      "end" : 3.164,
+      "gloss_id" : "마시다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.393,
+      "end" : 3.756,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.796,
+      "end" : 1.989,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.102,
+      "end" : 2.383,
+      "loc" : "1",
+      "word" : "최근에서야"
+    }, {
+      "start" : 2.566,
+      "end" : 2.714,
+      "loc" : "2",
+      "word" : "커피를"
+    }, {
+      "start" : 2.814,
+      "end" : 3.164,
+      "loc" : "3",
+      "word" : "먹기"
+    }, {
+      "start" : 3.393,
+      "end" : 3.756,
+      "loc" : "4",
+      "word" : "시작했거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.393,
+      "end" : 3.756,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.393,
+      "end" : 3.756
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.796,
+      "end" : 3.156
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788940",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:51:33",
+    "sentence_ID" : "VXPAKOKS240788940",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

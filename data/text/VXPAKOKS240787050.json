@@ -1,0 +1,199 @@
+{
+  "id" : "VXPAKOKS240787050",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "저도 사실 농작물에 대해서는 잘 모르는 거 같기도 해요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.23,
+      "end" : 1.354,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.477,
+      "end" : 1.655,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.819,
+      "end" : 1.889,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.183,
+      "end" : 2.498,
+      "gloss_id" : "솔직하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.775,
+      "end" : 3.424,
+      "gloss_id" : "밭1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.576,
+      "end" : 3.914,
+      "gloss_id" : "무엇2#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.207,
+      "end" : 4.594,
+      "gloss_id" : "지식1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.917,
+      "end" : 5.196,
+      "gloss_id" : "부족1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.499,
+      "end" : 5.921,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.23,
+      "end" : 1.653,
+      "loc" : "0",
+      "word" : "저도"
+    }, {
+      "start" : 1.819,
+      "end" : 2.498,
+      "loc" : "1",
+      "word" : "사실"
+    }, {
+      "start" : 2.775,
+      "end" : 3.914,
+      "loc" : "2,3",
+      "word" : "농작물에 대해서는"
+    }, {
+      "start" : 4.207,
+      "end" : 5.92,
+      "loc" : "4,5,6,7,8",
+      "word" : "잘 모르는 거 같기도 해요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.477,
+      "end" : 1.655,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.183,
+      "end" : 2.498,
+      "gloss_id" : "솔직하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.775,
+      "end" : 3.914,
+      "gloss_id" : "밭1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.183,
+      "end" : 2.498
+    }, {
+      "descriptor" : "",
+      "start" : 5.499,
+      "end" : 5.921
+    }, {
+      "descriptor" : "",
+      "start" : 2.775,
+      "end" : 3.424
+    }, {
+      "descriptor" : "",
+      "start" : 3.576,
+      "end" : 3.914
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.23,
+      "end" : 2.482
+    }, {
+      "descriptor" : "",
+      "start" : 3.576,
+      "end" : 3.914
+    }, {
+      "descriptor" : "",
+      "start" : 4.917,
+      "end" : 5.913
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240787050",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:31:17",
+    "sentence_ID" : "VXPAKOKS240787050",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

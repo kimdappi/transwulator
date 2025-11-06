@@ -1,0 +1,222 @@
+{
+  "id" : "VXPAKOKS240782140",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "아빠가 운동을 좋아하니까 너희들도 계속 운동을 좋아하는 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.138,
+      "end" : 2.246,
+      "gloss_id" : "아빠1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.363,
+      "end" : 2.651,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.795,
+      "end" : 3.14,
+      "gloss_id" : "취미1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.347,
+      "end" : 3.461,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.614,
+      "end" : 4.108,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.346,
+      "end" : 4.628,
+      "gloss_id" : "계속1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.812,
+      "end" : 5.063,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.238,
+      "end" : 5.576,
+      "gloss_id" : "취미1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.815,
+      "end" : 6.091,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.138,
+      "end" : 2.246,
+      "loc" : "0",
+      "word" : "아빠가"
+    }, {
+      "start" : 2.363,
+      "end" : 2.651,
+      "loc" : "1",
+      "word" : "운동을"
+    }, {
+      "start" : 2.795,
+      "end" : 3.445,
+      "loc" : "2",
+      "word" : "좋아하니까"
+    }, {
+      "start" : 3.614,
+      "end" : 4.108,
+      "loc" : "3",
+      "word" : "너희들도"
+    }, {
+      "start" : 4.346,
+      "end" : 4.628,
+      "loc" : "4",
+      "word" : "계속"
+    }, {
+      "start" : 4.812,
+      "end" : 5.063,
+      "loc" : "5",
+      "word" : "운동을"
+    }, {
+      "start" : 5.238,
+      "end" : 5.576,
+      "loc" : "6,7",
+      "word" : "좋아하는 거"
+    }, {
+      "start" : 5.815,
+      "end" : 6.091,
+      "loc" : "8",
+      "word" : "같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.363,
+      "end" : 2.651,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.347,
+      "end" : 3.461,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.346,
+      "end" : 4.628,
+      "gloss_id" : "계속1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.812,
+      "end" : 5.063,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.347,
+      "end" : 3.461
+    }, {
+      "descriptor" : "",
+      "start" : 4.346,
+      "end" : 4.628
+    }, {
+      "descriptor" : "",
+      "start" : 5.815,
+      "end" : 6.091
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.347,
+      "end" : 3.461
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.346,
+      "end" : 4.628
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.138,
+      "end" : 2.65
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782140",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:11:42",
+    "sentence_ID" : "VXPAKOKS240782140",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

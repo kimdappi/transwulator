@@ -1,0 +1,201 @@
+{
+  "id" : "VXPAKOKS240781590",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "저 물고기도 키워 봤는데 물고기도 은근히 신경 쓸 게 굉장히 많아요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.354,
+      "end" : 1.517,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.705,
+      "end" : 1.868,
+      "gloss_id" : "물고기2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.043,
+      "end" : 2.366,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.57,
+      "end" : 2.86,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.072,
+      "end" : 3.561,
+      "gloss_id" : "물고기2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.836,
+      "end" : 4.485,
+      "gloss_id" : "신경1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.732,
+      "end" : 5.094,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.354,
+      "end" : 1.517,
+      "loc" : "0",
+      "word" : "저"
+    }, {
+      "start" : 1.705,
+      "end" : 1.868,
+      "loc" : "1",
+      "word" : "물고기도"
+    }, {
+      "start" : 2.043,
+      "end" : 2.852,
+      "loc" : "2,3",
+      "word" : "키워 봤는데"
+    }, {
+      "start" : 3.072,
+      "end" : 3.561,
+      "loc" : "4",
+      "word" : "물고기도"
+    }, {
+      "start" : 3.836,
+      "end" : 4.485,
+      "loc" : "5,6,7,8",
+      "word" : "은근히 신경 쓸 게"
+    }, {
+      "start" : 4.732,
+      "end" : 5.094,
+      "loc" : "9,10",
+      "word" : "굉장히 많아요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.705,
+      "end" : 1.868,
+      "gloss_id" : "물고기2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.043,
+      "end" : 2.366,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.072,
+      "end" : 3.561,
+      "gloss_id" : "물고기2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.836,
+      "end" : 4.485,
+      "gloss_id" : "신경1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.732,
+      "end" : 5.094,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.781,
+      "end" : 2.85
+    }, {
+      "descriptor" : "",
+      "start" : 4.732,
+      "end" : 5.094
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.781,
+      "end" : 2.85
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.57,
+      "end" : 2.86
+    }, {
+      "descriptor" : "",
+      "start" : 4.384,
+      "end" : 5.094
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.705,
+      "end" : 1.868
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781590",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:09:02",
+    "sentence_ID" : "VXPAKOKS240781590",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

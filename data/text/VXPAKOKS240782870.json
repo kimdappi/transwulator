@@ -1,0 +1,197 @@
+{
+  "id" : "VXPAKOKS240782870",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "등산을 한 번 가야 되는데 내가 등산 가자고 해도 안 가잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.859,
+      "end" : 2.157,
+      "gloss_id" : "등산1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.37,
+      "end" : 2.635,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.88,
+      "end" : 3.307,
+      "gloss_id" : "맞다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.616,
+      "end" : 3.785,
+      "gloss_id" : "등산1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.91,
+      "end" : 4.096,
+      "gloss_id" : "~하자2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.25,
+      "end" : 4.503,
+      "gloss_id" : "말하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "3"
+      }
+    }, {
+      "start" : 4.654,
+      "end" : 4.79,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.979,
+      "end" : 5.39,
+      "gloss_id" : "고집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.859,
+      "end" : 2.157,
+      "loc" : "0",
+      "word" : "등산을"
+    }, {
+      "start" : 2.37,
+      "end" : 3.28,
+      "loc" : "1,2,3,4",
+      "word" : "한 번 가야 되는데"
+    }, {
+      "start" : 3.616,
+      "end" : 3.785,
+      "loc" : "6",
+      "word" : "등산"
+    }, {
+      "start" : 3.91,
+      "end" : 4.096,
+      "loc" : "7",
+      "word" : "가자고"
+    }, {
+      "start" : 4.25,
+      "end" : 4.503,
+      "loc" : "5,8",
+      "word" : "내가 해도"
+    }, {
+      "start" : 4.654,
+      "end" : 5.39,
+      "loc" : "9,10",
+      "word" : "안 가잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.859,
+      "end" : 2.157,
+      "gloss_id" : "등산1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.616,
+      "end" : 3.785,
+      "gloss_id" : "등산1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.37,
+      "end" : 2.635
+    }, {
+      "descriptor" : "",
+      "start" : 4.25,
+      "end" : 4.503
+    }, {
+      "descriptor" : "",
+      "start" : 4.979,
+      "end" : 5.39
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.323,
+      "end" : 4.402
+    }, {
+      "descriptor" : "",
+      "start" : 4.455,
+      "end" : 4.511
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.859,
+      "end" : 2.634
+    }, {
+      "descriptor" : "",
+      "start" : 4.25,
+      "end" : 5.395
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.91,
+      "end" : 4.096
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782870",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:14:47",
+    "sentence_ID" : "VXPAKOKS240782870",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,263 @@
+{
+  "id" : "VXPAKOKS240781090",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "자기가 버는 수입의 일부를 사회에 환원할 수 있는 그런 여건이 되어 줘야 된다고 저는 생각합니다.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.753,
+      "end" : 2.513,
+      "gloss_id" : "본인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.759,
+      "end" : 3.11,
+      "gloss_id" : "벌다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.364,
+      "end" : 3.683,
+      "gloss_id" : "벌다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.034,
+      "end" : 4.518,
+      "gloss_id" : "일부분1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.795,
+      "end" : 5.098,
+      "gloss_id" : "사회1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.424,
+      "end" : 6.23,
+      "gloss_id" : "돈주다5",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 6.446,
+      "end" : 6.844,
+      "gloss_id" : "분위기2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.028,
+      "end" : 7.324,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.64,
+      "end" : 7.881,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.753,
+      "end" : 2.513,
+      "loc" : "0",
+      "word" : "자기가"
+    }, {
+      "start" : 4.034,
+      "end" : 4.518,
+      "loc" : "3",
+      "word" : "일부를"
+    }, {
+      "start" : 4.795,
+      "end" : 5.098,
+      "loc" : "4",
+      "word" : "사회에"
+    }, {
+      "start" : 5.424,
+      "end" : 6.23,
+      "loc" : "5,6,7",
+      "word" : "환원할 수 있는"
+    }, {
+      "start" : 6.446,
+      "end" : 6.844,
+      "loc" : "8,9",
+      "word" : "그런 여건이"
+    }, {
+      "start" : 7.028,
+      "end" : 7.324,
+      "loc" : "10,11,12",
+      "word" : "되어 줘야 된다고"
+    }, {
+      "start" : 7.64,
+      "end" : 7.881,
+      "loc" : "13,14",
+      "word" : "저는 생각합니다."
+    }, {
+      "start" : 2.759,
+      "end" : 3.11,
+      "loc" : "1",
+      "word" : "버는"
+    }, {
+      "start" : 3.364,
+      "end" : 3.683,
+      "loc" : "2",
+      "word" : "수입의"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.759,
+      "end" : 3.11,
+      "gloss_id" : "벌다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.753,
+      "end" : 2.513,
+      "gloss_id" : "본인1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.364,
+      "end" : 3.683,
+      "gloss_id" : "벌다4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.034,
+      "end" : 4.518,
+      "gloss_id" : "일부분1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.795,
+      "end" : 5.098,
+      "gloss_id" : "사회1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.424,
+      "end" : 6.23,
+      "gloss_id" : "돈주다5",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.446,
+      "end" : 6.844,
+      "gloss_id" : "분위기2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.028,
+      "end" : 7.324,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.759,
+      "end" : 3.668
+    }, {
+      "descriptor" : "",
+      "start" : 4.034,
+      "end" : 4.518
+    }, {
+      "descriptor" : "",
+      "start" : 5.738,
+      "end" : 6.23
+    }, {
+      "descriptor" : "",
+      "start" : 7.028,
+      "end" : 7.324
+    }, {
+      "descriptor" : "",
+      "start" : 7.64,
+      "end" : 7.881
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 5.424,
+      "end" : 6.23
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.364,
+      "end" : 4.5
+    }, {
+      "descriptor" : "",
+      "start" : 6.446,
+      "end" : 6.844
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781090",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:06:48",
+    "sentence_ID" : "VXPAKOKS240781090",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

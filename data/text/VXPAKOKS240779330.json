@@ -1,0 +1,114 @@
+{
+  "id" : "VXPAKOKS240779330",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "혹시 용접 해 봤니?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.712,
+      "end" : 1.795,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.19,
+      "end" : 2.452,
+      "gloss_id" : "용접1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.658,
+      "end" : 2.909,
+      "gloss_id" : "한적있다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.19,
+      "end" : 2.452,
+      "loc" : "1",
+      "word" : "용접"
+    }, {
+      "start" : 1.706,
+      "end" : 1.795,
+      "loc" : "0",
+      "word" : "혹시"
+    }, {
+      "start" : 2.658,
+      "end" : 2.909,
+      "loc" : "2,3",
+      "word" : "해 봤니?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.19,
+      "end" : 2.452,
+      "gloss_id" : "용접1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.19,
+      "end" : 2.452
+    }, {
+      "descriptor" : "",
+      "start" : 2.658,
+      "end" : 2.909
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.658,
+      "end" : 2.909
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.658,
+      "end" : 2.909
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779330",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 10:57:46",
+    "sentence_ID" : "VXPAKOKS240779330",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

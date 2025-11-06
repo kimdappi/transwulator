@@ -1,0 +1,147 @@
+{
+  "id" : "VXPAKOKS240787160",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "우리 그럼 한번 여행 계획을 짜 볼까?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.642,
+      "end" : 2.108,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.52,
+      "end" : 2.681,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.894,
+      "end" : 3.15,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.384,
+      "end" : 3.502,
+      "gloss_id" : "준비1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.696,
+      "end" : 4.387,
+      "gloss_id" : "보다10",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.642,
+      "end" : 2.108,
+      "loc" : "0",
+      "word" : "우리"
+    }, {
+      "start" : 2.52,
+      "end" : 2.686,
+      "loc" : "3",
+      "word" : "여행"
+    }, {
+      "start" : 2.894,
+      "end" : 3.15,
+      "loc" : "4",
+      "word" : "계획을"
+    }, {
+      "start" : 3.384,
+      "end" : 4.376,
+      "loc" : "1,2,5,6",
+      "word" : "그럼 한번 짜 볼까?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.52,
+      "end" : 2.681,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.894,
+      "end" : 3.15,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.384,
+      "end" : 3.502,
+      "gloss_id" : "준비1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.696,
+      "end" : 4.387
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.642,
+      "end" : 2.108
+    }, {
+      "descriptor" : "",
+      "start" : 3.384,
+      "end" : 4.381
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787160",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:32:20",
+    "sentence_ID" : "VXPAKOKS240787160",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

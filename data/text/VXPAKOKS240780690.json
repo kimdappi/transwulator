@@ -1,0 +1,297 @@
+{
+  "id" : "VXPAKOKS240780690",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "성격이 안 맞는 친구랑 모둠 과제를 해야 되거나 그런 상황이 생기면 너는 보통 어떻게 했어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.795,
+      "end" : 3.148,
+      "gloss_id" : "성격1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.375,
+      "end" : 3.706,
+      "gloss_id" : "맞지않다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.994,
+      "end" : 4.831,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.181,
+      "end" : 5.637,
+      "gloss_id" : "함께1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.031,
+      "end" : 6.656,
+      "gloss_id" : "비밀1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.132,
+      "end" : 7.595,
+      "gloss_id" : "시키다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "2",
+        "target" : "1"
+      }
+    }, {
+      "start" : 7.759,
+      "end" : 8.222,
+      "gloss_id" : "분위기2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.556,
+      "end" : 8.813,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.982,
+      "end" : 9.916,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.137,
+      "end" : 10.279,
+      "gloss_id" : "해결2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.448,
+      "end" : 10.801,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.795,
+      "end" : 3.148,
+      "loc" : "0",
+      "word" : "성격이"
+    }, {
+      "start" : 3.375,
+      "end" : 3.706,
+      "loc" : "1,2",
+      "word" : "안 맞는"
+    }, {
+      "start" : 5.181,
+      "end" : 5.637,
+      "loc" : "4",
+      "word" : "모둠"
+    }, {
+      "start" : 6.031,
+      "end" : 6.656,
+      "loc" : "5",
+      "word" : "과제를"
+    }, {
+      "start" : 7.132,
+      "end" : 7.595,
+      "loc" : "6,7",
+      "word" : "해야 되거나"
+    }, {
+      "start" : 7.759,
+      "end" : 8.222,
+      "loc" : "8,9",
+      "word" : "그런 상황이"
+    }, {
+      "start" : 8.556,
+      "end" : 8.813,
+      "loc" : "10",
+      "word" : "생기면"
+    }, {
+      "start" : 8.982,
+      "end" : 9.916,
+      "loc" : "11",
+      "word" : "너는"
+    }, {
+      "start" : 3.994,
+      "end" : 4.831,
+      "loc" : "3",
+      "word" : "친구랑"
+    }, {
+      "start" : 10.137,
+      "end" : 10.814,
+      "loc" : "12,13,14",
+      "word" : "보통 어떻게 했어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.795,
+      "end" : 3.148,
+      "gloss_id" : "성격1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.375,
+      "end" : 3.706,
+      "gloss_id" : "맞지않다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.181,
+      "end" : 5.637,
+      "gloss_id" : "함께1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.031,
+      "end" : 6.656,
+      "gloss_id" : "비밀1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.132,
+      "end" : 7.595,
+      "gloss_id" : "시키다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.759,
+      "end" : 8.222,
+      "gloss_id" : "분위기2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.448,
+      "end" : 10.801,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.994,
+      "end" : 4.831,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.137,
+      "end" : 10.279,
+      "gloss_id" : "해결2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 7.276,
+      "end" : 7.595
+    }, {
+      "descriptor" : "",
+      "start" : 8.556,
+      "end" : 8.813
+    }, {
+      "descriptor" : "",
+      "start" : 10.448,
+      "end" : 10.801
+    }, {
+      "descriptor" : "",
+      "start" : 3.994,
+      "end" : 4.831
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.488,
+      "end" : 3.706
+    }, {
+      "descriptor" : "",
+      "start" : 7.276,
+      "end" : 7.595
+    } ],
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 9.147,
+      "end" : 9.524
+    } ],
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 7.132,
+      "end" : 8.802
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 10.159,
+      "end" : 10.801
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780690",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:05:15",
+    "sentence_ID" : "VXPAKOKS240780690",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,158 @@
+{
+  "id" : "VXPAKOKS240788240",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "여름에는 보통 물놀이를 하러 많이 가잖아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.751,
+      "end" : 2.042,
+      "gloss_id" : "덥다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.16,
+      "end" : 2.251,
+      "gloss_id" : "물2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.378,
+      "end" : 3.056,
+      "gloss_id" : "놀다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.275,
+      "end" : 3.473,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.635,
+      "end" : 4.153,
+      "gloss_id" : "같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.751,
+      "end" : 2.042,
+      "loc" : "0",
+      "word" : "여름에는"
+    }, {
+      "start" : 2.16,
+      "end" : 3.051,
+      "loc" : "2,3",
+      "word" : "물놀이를 하러"
+    }, {
+      "start" : 3.275,
+      "end" : 4.148,
+      "loc" : "1,4,5",
+      "word" : "보통 많이 가잖아?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.751,
+      "end" : 2.042,
+      "gloss_id" : "덥다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.378,
+      "end" : 3.056,
+      "gloss_id" : "놀다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.275,
+      "end" : 3.473,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.751,
+      "end" : 2.042
+    }, {
+      "descriptor" : "",
+      "start" : 3.635,
+      "end" : 4.153
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.319,
+      "end" : 3.473
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.165,
+      "end" : 3.465
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.635,
+      "end" : 4.153
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.751,
+      "end" : 2.042
+    }, {
+      "descriptor" : "",
+      "start" : 3.635,
+      "end" : 4.153
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788240",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:42:45",
+    "sentence_ID" : "VXPAKOKS240788240",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

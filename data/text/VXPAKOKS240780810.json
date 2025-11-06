@@ -1,0 +1,271 @@
+{
+  "id" : "VXPAKOKS240780810",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "사람들이 해외를 못 나가서 국내선 항공편이 늘어났으니까.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.278,
+      "end" : 2.414,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.577,
+      "end" : 2.879,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.025,
+      "end" : 3.098,
+      "gloss_id" : "다르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.502,
+      "end" : 3.7,
+      "gloss_id" : "이륙1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.919,
+      "end" : 4.034,
+      "gloss_id" : "불가능3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.279,
+      "end" : 4.613,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.885,
+      "end" : 5.291,
+      "gloss_id" : "전국1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.535,
+      "end" : 5.671,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.964,
+      "end" : 6.079,
+      "gloss_id" : "이륙2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.139,
+      "end" : 6.317,
+      "gloss_id" : "착륙1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.606,
+      "end" : 7.08,
+      "gloss_id" : "증가12",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.242,
+      "end" : 3.333,
+      "gloss_id" : "나라1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.278,
+      "end" : 2.871,
+      "loc" : "0",
+      "word" : "사람들이"
+    }, {
+      "start" : 3.502,
+      "end" : 4.61,
+      "loc" : "2,3",
+      "word" : "못 나가서"
+    }, {
+      "start" : 4.885,
+      "end" : 5.291,
+      "loc" : "4",
+      "word" : "국내선"
+    }, {
+      "start" : 5.535,
+      "end" : 6.315,
+      "loc" : "5",
+      "word" : "항공편이"
+    }, {
+      "start" : 6.606,
+      "end" : 7.08,
+      "loc" : "6",
+      "word" : "늘어났으니까."
+    }, {
+      "start" : 3.025,
+      "end" : 3.331,
+      "loc" : "1",
+      "word" : "해외를"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 5.964,
+      "end" : 6.313,
+      "gloss_id" : "이륙2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.278,
+      "end" : 2.882,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.502,
+      "end" : 3.7,
+      "gloss_id" : "이륙1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.279,
+      "end" : 4.613,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.535,
+      "end" : 5.671,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.025,
+      "end" : 3.098,
+      "gloss_id" : "다르다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.242,
+      "end" : 3.333,
+      "gloss_id" : "나라1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.606,
+      "end" : 7.08,
+      "gloss_id" : "증가12",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.577,
+      "end" : 2.879
+    }, {
+      "descriptor" : "",
+      "start" : 4.352,
+      "end" : 4.613
+    }, {
+      "descriptor" : "",
+      "start" : 6.606,
+      "end" : 7.08
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.362,
+      "end" : 4.613
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.577,
+      "end" : 2.879
+    } ],
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 6.708,
+      "end" : 6.981
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.577,
+      "end" : 2.879
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780810",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:05:40",
+    "sentence_ID" : "VXPAKOKS240780810",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

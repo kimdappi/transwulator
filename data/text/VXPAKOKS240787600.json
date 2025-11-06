@@ -1,0 +1,211 @@
+{
+  "id" : "VXPAKOKS240787600",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "우리 학교는 중학교 때 체육관도 그때 없었잖아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.46,
+      "end" : 1.718,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.897,
+      "end" : 2.23,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.403,
+      "end" : 2.489,
+      "gloss_id" : "중학교4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.681,
+      "end" : 2.813,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.013,
+      "end" : 3.323,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.599,
+      "end" : 4.099,
+      "gloss_id" : "체육관1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.53,
+      "end" : 4.702,
+      "gloss_id" : "없다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.801,
+      "end" : 4.916,
+      "gloss_id" : "맞다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.067,
+      "end" : 5.647,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.46,
+      "end" : 1.718,
+      "loc" : "0",
+      "word" : "우리"
+    }, {
+      "start" : 1.897,
+      "end" : 2.23,
+      "loc" : "1",
+      "word" : "학교는"
+    }, {
+      "start" : 2.403,
+      "end" : 2.489,
+      "loc" : "2",
+      "word" : "중학교"
+    }, {
+      "start" : 2.681,
+      "end" : 2.813,
+      "loc" : "3",
+      "word" : "때"
+    }, {
+      "start" : 3.013,
+      "end" : 4.116,
+      "loc" : "4",
+      "word" : "체육관도"
+    }, {
+      "start" : 4.53,
+      "end" : 5.656,
+      "loc" : "5,6",
+      "word" : "그때 없었잖아?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.897,
+      "end" : 2.23,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.403,
+      "end" : 2.489,
+      "gloss_id" : "중학교4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.681,
+      "end" : 2.813,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.013,
+      "end" : 3.323,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.599,
+      "end" : 4.099,
+      "gloss_id" : "체육관1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.067,
+      "end" : 5.647
+    }, {
+      "descriptor" : "",
+      "start" : 3.013,
+      "end" : 3.323
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.391,
+      "end" : 5.633
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.599,
+      "end" : 3.691
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787600",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:36:07",
+    "sentence_ID" : "VXPAKOKS240787600",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

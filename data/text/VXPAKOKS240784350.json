@@ -1,0 +1,353 @@
+{
+  "id" : "VXPAKOKS240784350",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "족발 얘기를 하다 보니까 족발도 종류가 엄청 다양하게 있는데 그중에서도 냉채 족발이 있잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.17,
+      "end" : 2.551,
+      "gloss_id" : "돼지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.904,
+      "end" : 3.071,
+      "gloss_id" : "칠형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.431,
+      "end" : 3.99,
+      "gloss_id" : "대화3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.4,
+      "end" : 5.102,
+      "gloss_id" : "깨닫다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.279,
+      "end" : 5.398,
+      "gloss_id" : "돼지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.727,
+      "end" : 6.179,
+      "gloss_id" : "칠형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.591,
+      "end" : 6.948,
+      "gloss_id" : "종류3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.122,
+      "end" : 7.539,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.641,
+      "end" : 8.686,
+      "gloss_id" : "안1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.961,
+      "end" : 9.283,
+      "gloss_id" : "풀1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.573,
+      "end" : 10.452,
+      "gloss_id" : "자르다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.655,
+      "end" : 10.953,
+      "gloss_id" : "샐러드1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.132,
+      "end" : 11.608,
+      "gloss_id" : "무치다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.763,
+      "end" : 11.881,
+      "gloss_id" : "돼지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 12.028,
+      "end" : 12.147,
+      "gloss_id" : "칠형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 12.215,
+      "end" : 12.333,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 12.506,
+      "end" : 12.84,
+      "gloss_id" : "알다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.17,
+      "end" : 3.049,
+      "loc" : "0",
+      "word" : "족발"
+    }, {
+      "start" : 3.431,
+      "end" : 5.093,
+      "loc" : "1,2,3",
+      "word" : "얘기를 하다 보니까"
+    }, {
+      "start" : 5.279,
+      "end" : 6.169,
+      "loc" : "4",
+      "word" : "족발도"
+    }, {
+      "start" : 6.591,
+      "end" : 6.948,
+      "loc" : "5",
+      "word" : "종류가"
+    }, {
+      "start" : 7.122,
+      "end" : 7.539,
+      "loc" : "6,7,8",
+      "word" : "엄청 다양하게 있는데"
+    }, {
+      "start" : 7.641,
+      "end" : 8.686,
+      "loc" : "9",
+      "word" : "그중에서도"
+    }, {
+      "start" : 8.961,
+      "end" : 11.596,
+      "loc" : "10",
+      "word" : "냉채"
+    }, {
+      "start" : 11.763,
+      "end" : 12.342,
+      "loc" : "11",
+      "word" : "족발이"
+    }, {
+      "start" : 12.506,
+      "end" : 12.84,
+      "loc" : "12",
+      "word" : "있잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.431,
+      "end" : 3.99,
+      "gloss_id" : "대화3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.591,
+      "end" : 6.948,
+      "gloss_id" : "종류3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.122,
+      "end" : 8.677,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.961,
+      "end" : 9.283,
+      "gloss_id" : "풀1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.573,
+      "end" : 10.452,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.655,
+      "end" : 10.953,
+      "gloss_id" : "샐러드1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 11.132,
+      "end" : 11.608,
+      "gloss_id" : "무치다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.727,
+      "end" : 6.179,
+      "gloss_id" : "칠형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.904,
+      "end" : 3.071,
+      "gloss_id" : "칠형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 12.028,
+      "end" : 12.336,
+      "gloss_id" : "칠형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.431,
+      "end" : 3.99
+    }, {
+      "descriptor" : "",
+      "start" : 6.591,
+      "end" : 6.948
+    }, {
+      "descriptor" : "",
+      "start" : 7.641,
+      "end" : 8.686
+    }, {
+      "descriptor" : "",
+      "start" : 12.506,
+      "end" : 12.84
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.578,
+      "end" : 5.102
+    }, {
+      "descriptor" : "",
+      "start" : 7.419,
+      "end" : 7.539
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 7.122,
+      "end" : 7.539
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 7.641,
+      "end" : 8.686
+    }, {
+      "descriptor" : "",
+      "start" : 12.257,
+      "end" : 12.839
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784350",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:22:12",
+    "sentence_ID" : "VXPAKOKS240784350",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

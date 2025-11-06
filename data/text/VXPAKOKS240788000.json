@@ -1,0 +1,148 @@
+{
+  "id" : "VXPAKOKS240788000",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "나도 옛날에 장구 같은 거를 좀 쳐본 적 있어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.374,
+      "end" : 1.488,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.652,
+      "end" : 1.795,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.985,
+      "end" : 2.407,
+      "gloss_id" : "옛날4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.708,
+      "end" : 3.716,
+      "gloss_id" : "장구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.945,
+      "end" : 4.381,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.374,
+      "end" : 1.786,
+      "loc" : "0",
+      "word" : "나도"
+    }, {
+      "start" : 1.985,
+      "end" : 2.407,
+      "loc" : "1",
+      "word" : "옛날에"
+    }, {
+      "start" : 2.708,
+      "end" : 3.716,
+      "loc" : "2,3,4,5,6",
+      "word" : "장구 같은 거를 좀 쳐본"
+    }, {
+      "start" : 3.945,
+      "end" : 4.381,
+      "loc" : "7,8",
+      "word" : "적 있어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.652,
+      "end" : 1.795,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.708,
+      "end" : 3.716,
+      "gloss_id" : "장구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.985,
+      "end" : 2.407
+    }, {
+      "descriptor" : "",
+      "start" : 3.988,
+      "end" : 4.381
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.985,
+      "end" : 4.381
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.374,
+      "end" : 2.378
+    }, {
+      "descriptor" : "",
+      "start" : 3.187,
+      "end" : 4.382
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240788000",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:39:31",
+    "sentence_ID" : "VXPAKOKS240788000",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,195 @@
+{
+  "id" : "VXPAKOKS240788590",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "지금 요새 산불 같은 것도 많이 나고 사건 사고가 많잖아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.412,
+      "end" : 1.745,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.055,
+      "end" : 2.352,
+      "gloss_id" : "산2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.518,
+      "end" : 3.442,
+      "gloss_id" : "불1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.824,
+      "end" : 4.33,
+      "gloss_id" : "생기다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.544,
+      "end" : 4.853,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.98,
+      "end" : 5.076,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.183,
+      "end" : 5.647,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.412,
+      "end" : 1.745,
+      "loc" : "0,1",
+      "word" : "지금 요새"
+    }, {
+      "start" : 4.544,
+      "end" : 5.647,
+      "loc" : "9",
+      "word" : "많잖아?"
+    }, {
+      "start" : 3.824,
+      "end" : 4.33,
+      "loc" : "7,8",
+      "word" : "사건 사고가"
+    }, {
+      "start" : 2.055,
+      "end" : 3.445,
+      "loc" : "2,3,4,5,6",
+      "word" : "산불 같은 것도 많이 나고"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.412,
+      "end" : 1.745,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.055,
+      "end" : 2.352,
+      "gloss_id" : "산2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.518,
+      "end" : 3.442,
+      "gloss_id" : "불1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.824,
+      "end" : 4.33,
+      "gloss_id" : "생기다1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.544,
+      "end" : 4.853,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.518,
+      "end" : 3.442
+    }, {
+      "descriptor" : "",
+      "start" : 5.183,
+      "end" : 5.647
+    }, {
+      "descriptor" : "",
+      "start" : 4.544,
+      "end" : 4.853
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.544,
+      "end" : 4.853
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.518,
+      "end" : 5.657
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 2.518,
+      "end" : 3.442
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.183,
+      "end" : 5.647
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788590",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:47:46",
+    "sentence_ID" : "VXPAKOKS240788590",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

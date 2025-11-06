@@ -1,0 +1,259 @@
+{
+  "id" : "VXPAKOKS240786240",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "우리 수능도 끝났는데 친구들끼리 한번 여행 가야되지 않을까?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.51,
+      "end" : 2.021,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.208,
+      "end" : 2.357,
+      "gloss_id" : "대학1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.477,
+      "end" : 2.591,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.784,
+      "end" : 3.053,
+      "gloss_id" : "경쟁1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.216,
+      "end" : 3.823,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.063,
+      "end" : 4.287,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.488,
+      "end" : 4.888,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.135,
+      "end" : 5.556,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.677,
+      "end" : 6.193,
+      "gloss_id" : "모여들다2#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.369,
+      "end" : 6.486,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.602,
+      "end" : 7.362,
+      "gloss_id" : "어떻게되다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.51,
+      "end" : 2.021,
+      "loc" : "0",
+      "word" : "우리"
+    }, {
+      "start" : 2.208,
+      "end" : 3.052,
+      "loc" : "1",
+      "word" : "수능도"
+    }, {
+      "start" : 3.216,
+      "end" : 3.823,
+      "loc" : "2",
+      "word" : "끝났는데"
+    }, {
+      "start" : 4.063,
+      "end" : 4.881,
+      "loc" : "3",
+      "word" : "친구들끼리"
+    }, {
+      "start" : 5.135,
+      "end" : 5.556,
+      "loc" : "4,5",
+      "word" : "한번 여행"
+    }, {
+      "start" : 5.677,
+      "end" : 7.362,
+      "loc" : "6,7",
+      "word" : "가야되지 않을까?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.208,
+      "end" : 2.357,
+      "gloss_id" : "대학1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.477,
+      "end" : 2.591,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.784,
+      "end" : 3.053,
+      "gloss_id" : "경쟁1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.216,
+      "end" : 3.823,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.063,
+      "end" : 4.287,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.135,
+      "end" : 5.556,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.677,
+      "end" : 6.193,
+      "gloss_id" : "모여들다2#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.51,
+      "end" : 2.021
+    }, {
+      "descriptor" : "",
+      "start" : 3.216,
+      "end" : 3.823
+    }, {
+      "descriptor" : "",
+      "start" : 4.488,
+      "end" : 4.888
+    }, {
+      "descriptor" : "",
+      "start" : 6.75,
+      "end" : 7.362
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.468,
+      "end" : 3.823
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 5.762,
+      "end" : 6.193
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.51,
+      "end" : 2.021
+    }, {
+      "descriptor" : "",
+      "start" : 4.488,
+      "end" : 7.357
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786240",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:25:46",
+    "sentence_ID" : "VXPAKOKS240786240",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

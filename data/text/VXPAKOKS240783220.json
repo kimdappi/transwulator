@@ -1,0 +1,326 @@
+{
+  "id" : "VXPAKOKS240783220",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "옛날에는 친정이 재밌었는데 요새는 시댁이 훨씬 편하고 더 재밌더라고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.646,
+      "end" : 2.551,
+      "gloss_id" : "옛날4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.835,
+      "end" : 3.118,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.409,
+      "end" : 3.598,
+      "gloss_id" : "부모1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.898,
+      "end" : 4.125,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.2,
+      "end" : 4.361,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 4.567,
+      "end" : 4.766,
+      "gloss_id" : "놀다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.122,
+      "end" : 5.669,
+      "gloss_id" : "재미1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.073,
+      "end" : 6.639,
+      "gloss_id" : "요즘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.175,
+      "end" : 7.383,
+      "gloss_id" : "남편1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.608,
+      "end" : 7.769,
+      "gloss_id" : "부모1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.9,
+      "end" : 7.994,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.116,
+      "end" : 8.522,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "3"
+      }
+    }, {
+      "start" : 8.813,
+      "end" : 9.125,
+      "gloss_id" : "편안하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.294,
+      "end" : 9.416,
+      "gloss_id" : "더1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.614,
+      "end" : 10.001,
+      "gloss_id" : "재미1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.646,
+      "end" : 2.551,
+      "loc" : "0",
+      "word" : "옛날에는"
+    }, {
+      "start" : 2.835,
+      "end" : 4.351,
+      "loc" : "1",
+      "word" : "친정이"
+    }, {
+      "start" : 4.567,
+      "end" : 5.67,
+      "loc" : "2",
+      "word" : "재밌었는데"
+    }, {
+      "start" : 6.073,
+      "end" : 6.639,
+      "loc" : "3",
+      "word" : "요새는"
+    }, {
+      "start" : 7.175,
+      "end" : 8.525,
+      "loc" : "4",
+      "word" : "시댁이"
+    }, {
+      "start" : 8.813,
+      "end" : 9.125,
+      "loc" : "5,6",
+      "word" : "훨씬 편하고"
+    }, {
+      "start" : 9.294,
+      "end" : 9.416,
+      "loc" : "7",
+      "word" : "더"
+    }, {
+      "start" : 9.614,
+      "end" : 10.001,
+      "loc" : "8",
+      "word" : "재밌더라고."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.898,
+      "end" : 4.125,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.2,
+      "end" : 4.361,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.567,
+      "end" : 4.766,
+      "gloss_id" : "놀다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.122,
+      "end" : 5.669,
+      "gloss_id" : "재미1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.175,
+      "end" : 7.383,
+      "gloss_id" : "남편1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.9,
+      "end" : 7.994,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.116,
+      "end" : 8.522,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.813,
+      "end" : 9.125,
+      "gloss_id" : "편안하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.294,
+      "end" : 9.416,
+      "gloss_id" : "더1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.614,
+      "end" : 10.001,
+      "gloss_id" : "재미1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.646,
+      "end" : 2.551
+    }, {
+      "descriptor" : "",
+      "start" : 6.073,
+      "end" : 6.639
+    }, {
+      "descriptor" : "",
+      "start" : 8.813,
+      "end" : 9.125
+    }, {
+      "descriptor" : "",
+      "start" : 9.614,
+      "end" : 10.001
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.646,
+      "end" : 2.551
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.196,
+      "end" : 5.698
+    }, {
+      "descriptor" : "",
+      "start" : 8.116,
+      "end" : 8.522
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 6.073,
+      "end" : 6.639
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783220",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:16:23",
+    "sentence_ID" : "VXPAKOKS240783220",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

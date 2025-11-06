@@ -1,0 +1,167 @@
+{
+  "id" : "VXPAKOKS240784330",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "음식의 냄새를 보고 먹을지 말지를 결정해.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.453,
+      "end" : 2.755,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.966,
+      "end" : 3.494,
+      "gloss_id" : "생명1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.804,
+      "end" : 4.628,
+      "gloss_id" : "들이마시다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.93,
+      "end" : 5.331,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.709,
+      "end" : 6.477,
+      "gloss_id" : "하지마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.742,
+      "end" : 7.023,
+      "gloss_id" : "결정1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.453,
+      "end" : 2.755,
+      "loc" : "0",
+      "word" : "음식의"
+    }, {
+      "start" : 2.966,
+      "end" : 3.494,
+      "loc" : "1",
+      "word" : "냄새를"
+    }, {
+      "start" : 3.804,
+      "end" : 4.628,
+      "loc" : "2",
+      "word" : "보고"
+    }, {
+      "start" : 4.93,
+      "end" : 5.331,
+      "loc" : "3",
+      "word" : "먹을지"
+    }, {
+      "start" : 5.709,
+      "end" : 6.477,
+      "loc" : "4",
+      "word" : "말지를"
+    }, {
+      "start" : 6.742,
+      "end" : 7.023,
+      "loc" : "5",
+      "word" : "결정해."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 5.709,
+      "end" : 6.477,
+      "gloss_id" : "하지마1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.742,
+      "end" : 7.023,
+      "gloss_id" : "결정1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.015,
+      "end" : 5.331
+    }, {
+      "descriptor" : "",
+      "start" : 5.843,
+      "end" : 6.477
+    }, {
+      "descriptor" : "",
+      "start" : 6.742,
+      "end" : 7.023
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.849,
+      "end" : 6.469
+    }, {
+      "descriptor" : "",
+      "start" : 5.015,
+      "end" : 5.331
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240784330",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:22:08",
+    "sentence_ID" : "VXPAKOKS240784330",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

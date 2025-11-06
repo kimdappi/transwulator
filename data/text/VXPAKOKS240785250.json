@@ -1,0 +1,157 @@
+{
+  "id" : "VXPAKOKS240785250",
+  "opertor" : "label10",
+  "krlgg_sntenc" : {
+    "koreanText" : "수영도 난 되게 재밌고 좋은 운동인 거 같고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.075,
+      "end" : 2.575,
+      "gloss_id" : "수영1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.678,
+      "end" : 2.759,
+      "gloss_id" : "아니다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.015,
+      "end" : 3.747,
+      "gloss_id" : "중독1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.215,
+      "end" : 4.403,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.637,
+      "end" : 4.729,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.969,
+      "end" : 5.373,
+      "gloss_id" : "괜찮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.075,
+      "end" : 2.575,
+      "loc" : "0",
+      "word" : "수영도"
+    }, {
+      "start" : 2.678,
+      "end" : 2.759,
+      "loc" : "1,2",
+      "word" : "난 되게"
+    }, {
+      "start" : 3.015,
+      "end" : 3.747,
+      "loc" : "3",
+      "word" : "재밌고"
+    }, {
+      "start" : 4.215,
+      "end" : 5.366,
+      "loc" : "4,5,6,7",
+      "word" : "좋은 운동인 거 같고."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.075,
+      "end" : 2.575,
+      "gloss_id" : "수영1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.215,
+      "end" : 4.403,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.969,
+      "end" : 5.373
+    }, {
+      "descriptor" : "",
+      "start" : 2.075,
+      "end" : 2.575
+    }, {
+      "descriptor" : "",
+      "start" : 3.269,
+      "end" : 3.741
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.269,
+      "end" : 3.741
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.215,
+      "end" : 4.403
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785250",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 01:35:49",
+    "sentence_ID" : "VXPAKOKS240785250",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

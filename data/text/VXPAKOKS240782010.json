@@ -1,0 +1,133 @@
+{
+  "id" : "VXPAKOKS240782010",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "평생 다이어트하는 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.554,
+      "end" : 2.649,
+      "gloss_id" : "고기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.876,
+      "end" : 3.301,
+      "gloss_id" : "날씬하다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.568,
+      "end" : 4.013,
+      "gloss_id" : "인생3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.287,
+      "end" : 4.572,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.554,
+      "end" : 3.289,
+      "loc" : "1,2",
+      "word" : "다이어트하는 거"
+    }, {
+      "start" : 3.568,
+      "end" : 4.013,
+      "loc" : "0",
+      "word" : "평생"
+    }, {
+      "start" : 4.287,
+      "end" : 4.572,
+      "loc" : "3",
+      "word" : "같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.554,
+      "end" : 2.649,
+      "gloss_id" : "고기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.876,
+      "end" : 3.301,
+      "gloss_id" : "날씬하다3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.568,
+      "end" : 4.013,
+      "gloss_id" : "인생3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.876,
+      "end" : 3.301
+    }, {
+      "descriptor" : "",
+      "start" : 4.287,
+      "end" : 4.572
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.554,
+      "end" : 3.299
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782010",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:11:03",
+    "sentence_ID" : "VXPAKOKS240782010",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

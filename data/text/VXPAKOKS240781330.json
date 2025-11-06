@@ -1,0 +1,129 @@
+{
+  "id" : "VXPAKOKS240781330",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "초등학교를 어디 나오셨죠?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.403,
+      "end" : 1.93,
+      "gloss_id" : "초등몇학년2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.174,
+      "end" : 2.426,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.581,
+      "end" : 2.689,
+      "gloss_id" : "졸업1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.868,
+      "end" : 3.246,
+      "gloss_id" : "어디1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.403,
+      "end" : 2.428,
+      "loc" : "0",
+      "word" : "초등학교를"
+    }, {
+      "start" : 2.581,
+      "end" : 2.689,
+      "loc" : "2",
+      "word" : "나오셨죠?"
+    }, {
+      "start" : 2.868,
+      "end" : 3.246,
+      "loc" : "1",
+      "word" : "어디"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.403,
+      "end" : 1.93,
+      "gloss_id" : "초등몇학년2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.174,
+      "end" : 2.426,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.581,
+      "end" : 2.689,
+      "gloss_id" : "졸업1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.868,
+      "end" : 3.246
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.868,
+      "end" : 3.246
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781330",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:07:56",
+    "sentence_ID" : "VXPAKOKS240781330",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

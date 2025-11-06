@@ -1,0 +1,185 @@
+{
+  "id" : "VXPAKOKS240781420",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "나도 강아지 키웠었는데 교통사고로 죽었었거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.317,
+      "end" : 1.394,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.549,
+      "end" : 1.617,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.857,
+      "end" : 2.061,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.285,
+      "end" : 2.531,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.721,
+      "end" : 3.0,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.27,
+      "end" : 3.676,
+      "gloss_id" : "승용차1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.859,
+      "end" : 4.176,
+      "gloss_id" : "죽다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.317,
+      "end" : 1.614,
+      "loc" : "0",
+      "word" : "나도"
+    }, {
+      "start" : 1.857,
+      "end" : 2.061,
+      "loc" : "1",
+      "word" : "강아지"
+    }, {
+      "start" : 2.285,
+      "end" : 3.002,
+      "loc" : "2",
+      "word" : "키웠었는데"
+    }, {
+      "start" : 3.27,
+      "end" : 3.676,
+      "loc" : "3",
+      "word" : "교통사고로"
+    }, {
+      "start" : 3.859,
+      "end" : 4.176,
+      "loc" : "4",
+      "word" : "죽었었거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.549,
+      "end" : 1.617,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.857,
+      "end" : 2.061,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.285,
+      "end" : 2.531,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.27,
+      "end" : 3.676,
+      "gloss_id" : "남자1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.859,
+      "end" : 4.176
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.925,
+      "end" : 3.0
+    }, {
+      "descriptor" : "",
+      "start" : 3.507,
+      "end" : 3.674
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.285,
+      "end" : 3.0
+    }, {
+      "descriptor" : "",
+      "start" : 3.859,
+      "end" : 4.176
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240781420",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:08:19",
+    "sentence_ID" : "VXPAKOKS240781420",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

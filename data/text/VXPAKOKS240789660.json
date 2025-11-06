@@ -1,0 +1,136 @@
+{
+  "id" : "VXPAKOKS240789660",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "코로나는 안 걸리는 게 제일 좋은 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.96,
+      "end" : 2.138,
+      "gloss_id" : "코로나걸리다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.355,
+      "end" : 2.622,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.886,
+      "end" : 3.066,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.258,
+      "end" : 3.55,
+      "gloss_id" : "낫다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.96,
+      "end" : 2.138,
+      "loc" : "0",
+      "word" : "코로나는"
+    }, {
+      "start" : 2.355,
+      "end" : 2.622,
+      "loc" : "1,2,3",
+      "word" : "안 걸리는 게"
+    }, {
+      "start" : 2.886,
+      "end" : 3.066,
+      "loc" : "4",
+      "word" : "제일"
+    }, {
+      "start" : 3.258,
+      "end" : 3.55,
+      "loc" : "5,6,7",
+      "word" : "좋은 거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.96,
+      "end" : 2.138,
+      "gloss_id" : "코로나걸리다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.355,
+      "end" : 2.622
+    }, {
+      "descriptor" : "",
+      "start" : 3.258,
+      "end" : 3.55
+    }, {
+      "descriptor" : "",
+      "start" : 1.96,
+      "end" : 2.138
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 1.984,
+      "end" : 2.138
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.456,
+      "end" : 3.613
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.432,
+      "end" : 2.622
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240789660",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:56:57",
+    "sentence_ID" : "VXPAKOKS240789660",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

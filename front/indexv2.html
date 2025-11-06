@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <title>TranSWUlator</title>
+    <link rel="stylesheet" href="style.css" />
+
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@0.177.0/build/three.module.js",
+          "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.177.0/examples/jsm/",
+          "@pixiv/three-vrm": "https://cdn.jsdelivr.net/npm/@pixiv/three-vrm@3/lib/three-vrm.module.min.js",
+          "@pixiv/three-vrm-animation": "https://cdn.jsdelivr.net/npm/@pixiv/three-vrm-animation@3/lib/three-vrm-animation.module.min.js"
+        }
+      }
+    </script>
+
+    <style>
+      /* 인트로 스타일 */
+      #intro {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: #000;
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        transition: opacity 0.8s ease;
+      }
+
+      h1 {
+        font-size: 3em;
+        margin-bottom: 30px;
+      }
+
+      #start-btn {
+        background-color: #00bfff;
+        border: none;
+        color: white;
+        padding: 15px 40px;
+        font-size: 1.2em;
+        border-radius: 10px;
+        cursor: pointer;
+        transition: background 0.3s;
+      }
+
+      #start-btn:hover {
+        background: #0099cc;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- 인트로 -->
+    <div id="intro">
+      <h1>TranSWUlator</h1>
+      <button id="start-btn">시작하기</button>
+    </div>
+
+    <!-- VRM 렌더링 영역 -->
+    <div id="viewer" style="display:none;"></div>
+
+    <script>
+      document.getElementById('start-btn').addEventListener('click', () => {
+        const intro = document.getElementById('intro');
+        intro.style.opacity = '0';
+        setTimeout(() => {
+          intro.style.display = 'none';
+          document.getElementById('viewer').style.display = 'block';
+          import('./main_v.1.js');
+        }, 800);
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,188 @@
+{
+  "id" : "VXPAKOKS240783600",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "내가 요새 몸에 변화가 느껴지는 게 땀이 목에서 나.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.324,
+      "end" : 1.476,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.691,
+      "end" : 1.838,
+      "gloss_id" : "요즘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.981,
+      "end" : 2.529,
+      "gloss_id" : "목1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.884,
+      "end" : 3.167,
+      "gloss_id" : "덥다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.388,
+      "end" : 3.627,
+      "gloss_id" : "몸1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.875,
+      "end" : 4.283,
+      "gloss_id" : "변하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.523,
+      "end" : 4.772,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.324,
+      "end" : 1.476,
+      "loc" : "0",
+      "word" : "내가"
+    }, {
+      "start" : 1.691,
+      "end" : 1.838,
+      "loc" : "1",
+      "word" : "요새"
+    }, {
+      "start" : 3.875,
+      "end" : 4.283,
+      "loc" : "3",
+      "word" : "변화가"
+    }, {
+      "start" : 4.523,
+      "end" : 4.772,
+      "loc" : "4,5",
+      "word" : "느껴지는 게"
+    }, {
+      "start" : 3.388,
+      "end" : 3.627,
+      "loc" : "2",
+      "word" : "몸에"
+    }, {
+      "start" : 1.981,
+      "end" : 2.529,
+      "loc" : "7",
+      "word" : "목에서"
+    }, {
+      "start" : 2.884,
+      "end" : 3.167,
+      "loc" : "6,8",
+      "word" : "땀이 나."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.388,
+      "end" : 3.627,
+      "gloss_id" : "몸1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.875,
+      "end" : 4.283,
+      "gloss_id" : "변하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.884,
+      "end" : 3.167,
+      "gloss_id" : "덥다1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.875,
+      "end" : 4.283
+    }, {
+      "descriptor" : "",
+      "start" : 4.523,
+      "end" : 4.772
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.523,
+      "end" : 4.772
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.875,
+      "end" : 4.283
+    }, {
+      "descriptor" : "",
+      "start" : 2.145,
+      "end" : 3.138
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783600",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:18:21",
+    "sentence_ID" : "VXPAKOKS240783600",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

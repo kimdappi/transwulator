@@ -1,0 +1,173 @@
+{
+  "id" : "VXPAKOKS240788130",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "결혼하면은 뭐 애는 낳고 싶어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.558,
+      "end" : 1.694,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.877,
+      "end" : 2.165,
+      "gloss_id" : "하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.393,
+      "end" : 2.45,
+      "gloss_id" : "아이1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.642,
+      "end" : 2.907,
+      "gloss_id" : "낳다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.098,
+      "end" : 3.717,
+      "gloss_id" : "하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.558,
+      "end" : 2.169,
+      "loc" : "0,1",
+      "word" : "결혼하면은 뭐"
+    }, {
+      "start" : 2.393,
+      "end" : 2.45,
+      "loc" : "2",
+      "word" : "애는"
+    }, {
+      "start" : 2.642,
+      "end" : 2.907,
+      "loc" : "3",
+      "word" : "낳고"
+    }, {
+      "start" : 3.098,
+      "end" : 3.717,
+      "loc" : "4",
+      "word" : "싶어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.558,
+      "end" : 1.694,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.877,
+      "end" : 2.165,
+      "gloss_id" : "하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.642,
+      "end" : 2.907,
+      "gloss_id" : "낳다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.098,
+      "end" : 3.717,
+      "gloss_id" : "하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.393,
+      "end" : 2.45,
+      "gloss_id" : "아이1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.098,
+      "end" : 3.717
+    }, {
+      "descriptor" : "",
+      "start" : 1.558,
+      "end" : 1.694
+    }, {
+      "descriptor" : "",
+      "start" : 1.877,
+      "end" : 2.165
+    }, {
+      "descriptor" : "",
+      "start" : 2.393,
+      "end" : 2.45
+    }, {
+      "descriptor" : "",
+      "start" : 2.642,
+      "end" : 2.907
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.558,
+      "end" : 3.69
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788130",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:40:24",
+    "sentence_ID" : "VXPAKOKS240788130",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

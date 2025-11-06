@@ -1,0 +1,221 @@
+{
+  "id" : "VXPAKOKS240786650",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "나도 요즘 진짜 결혼식 많이 가거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.276,
+      "end" : 1.493,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.754,
+      "end" : 1.992,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.244,
+      "end" : 2.412,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.536,
+      "end" : 2.731,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.896,
+      "end" : 3.02,
+      "gloss_id" : "행사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.221,
+      "end" : 3.748,
+      "gloss_id" : "방문2#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.05,
+      "end" : 4.316,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.856,
+      "end" : 5.459,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.276,
+      "end" : 1.988,
+      "loc" : "0",
+      "word" : "나도"
+    }, {
+      "start" : 2.244,
+      "end" : 2.412,
+      "loc" : "1",
+      "word" : "요즘"
+    }, {
+      "start" : 2.536,
+      "end" : 3.025,
+      "loc" : "3",
+      "word" : "결혼식"
+    }, {
+      "start" : 3.221,
+      "end" : 3.748,
+      "loc" : "5",
+      "word" : "가거든."
+    }, {
+      "start" : 4.05,
+      "end" : 4.316,
+      "loc" : "4",
+      "word" : "많이"
+    }, {
+      "start" : 4.856,
+      "end" : 5.459,
+      "loc" : "2",
+      "word" : "진짜"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.754,
+      "end" : 1.992,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.244,
+      "end" : 2.412,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.536,
+      "end" : 2.731,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.885,
+      "end" : 3.02,
+      "gloss_id" : "행사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.05,
+      "end" : 4.316,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.221,
+      "end" : 3.748,
+      "gloss_id" : "방문2#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.244,
+      "end" : 2.412
+    }, {
+      "descriptor" : "",
+      "start" : 2.885,
+      "end" : 3.02
+    }, {
+      "descriptor" : "",
+      "start" : 4.05,
+      "end" : 4.316
+    }, {
+      "descriptor" : "",
+      "start" : 4.856,
+      "end" : 5.459
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.148,
+      "end" : 4.316
+    }, {
+      "descriptor" : "",
+      "start" : 4.889,
+      "end" : 5.361
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.244,
+      "end" : 3.011
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786650",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:28:28",
+    "sentence_ID" : "VXPAKOKS240786650",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

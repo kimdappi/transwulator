@@ -1,0 +1,355 @@
+{
+  "id" : "VXPAKOKS240784020",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 일단은 전기 매트를 깔아서 두꺼운 이불을 쓰는 게 이번 겨울 나는 데 좋을 거 같다고 생각을 해.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.723,
+      "end" : 1.986,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.202,
+      "end" : 2.443,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.657,
+      "end" : 3.092,
+      "gloss_id" : "춥다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.329,
+      "end" : 3.7,
+      "gloss_id" : "따뜻1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.843,
+      "end" : 4.224,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.452,
+      "end" : 5.2,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.522,
+      "end" : 5.936,
+      "gloss_id" : "전기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.238,
+      "end" : 6.727,
+      "gloss_id" : "콘센트3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.0,
+      "end" : 7.693,
+      "gloss_id" : "바닥1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.067,
+      "end" : 8.47,
+      "gloss_id" : "두껍다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.663,
+      "end" : 10.1,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.347,
+      "end" : 10.512,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.678,
+      "end" : 11.005,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.191,
+      "end" : 11.324,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.492,
+      "end" : 11.69,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 5.522,
+      "end" : 6.744,
+      "loc" : "2",
+      "word" : "전기"
+    }, {
+      "start" : 7.0,
+      "end" : 7.693,
+      "loc" : "3,4",
+      "word" : "매트를 깔아서"
+    }, {
+      "start" : 8.067,
+      "end" : 8.47,
+      "loc" : "5",
+      "word" : "두꺼운"
+    }, {
+      "start" : 8.663,
+      "end" : 11.005,
+      "loc" : "6,7,8",
+      "word" : "이불을 쓰는 게"
+    }, {
+      "start" : 2.202,
+      "end" : 2.443,
+      "loc" : "9",
+      "word" : "이번"
+    }, {
+      "start" : 2.657,
+      "end" : 3.092,
+      "loc" : "10",
+      "word" : "겨울"
+    }, {
+      "start" : 11.191,
+      "end" : 11.324,
+      "loc" : "13,14,15",
+      "word" : "좋을 거 같다고"
+    }, {
+      "start" : 11.492,
+      "end" : 11.69,
+      "loc" : "16,17",
+      "word" : "생각을 해."
+    }, {
+      "start" : 3.329,
+      "end" : 5.176,
+      "loc" : "11,12",
+      "word" : "나는 데"
+    }, {
+      "start" : 1.723,
+      "end" : 1.986,
+      "loc" : "0,1",
+      "word" : "나는 일단은"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.202,
+      "end" : 2.443,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.657,
+      "end" : 3.092,
+      "gloss_id" : "춥다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.329,
+      "end" : 3.7,
+      "gloss_id" : "따뜻1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.843,
+      "end" : 4.224,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.452,
+      "end" : 5.2,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.522,
+      "end" : 5.936,
+      "gloss_id" : "전기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.238,
+      "end" : 6.727,
+      "gloss_id" : "콘센트3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.0,
+      "end" : 7.693,
+      "gloss_id" : "바닥1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.067,
+      "end" : 8.47,
+      "gloss_id" : "두껍다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.663,
+      "end" : 10.499,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.678,
+      "end" : 11.005,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.329,
+      "end" : 3.7
+    }, {
+      "descriptor" : "",
+      "start" : 4.452,
+      "end" : 5.2
+    }, {
+      "descriptor" : "",
+      "start" : 11.191,
+      "end" : 11.324
+    }, {
+      "descriptor" : "",
+      "start" : 11.492,
+      "end" : 11.69
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.431,
+      "end" : 7.693
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 8.196,
+      "end" : 8.47
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 8.663,
+      "end" : 10.1
+    }, {
+      "descriptor" : "",
+      "start" : 6.238,
+      "end" : 6.727
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.202,
+      "end" : 5.191
+    }, {
+      "descriptor" : "",
+      "start" : 10.495,
+      "end" : 11.005
+    }, {
+      "descriptor" : "",
+      "start" : 7.0,
+      "end" : 7.693
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784020",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:20:36",
+    "sentence_ID" : "VXPAKOKS240784020",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

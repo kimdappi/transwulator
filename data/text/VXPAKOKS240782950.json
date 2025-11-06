@@ -1,0 +1,146 @@
+{
+  "id" : "VXPAKOKS240782950",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "해산물 맛있는 데 알아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.032,
+      "end" : 2.166,
+      "gloss_id" : "오징어1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.501,
+      "end" : 2.596,
+      "gloss_id" : "조개1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.752,
+      "end" : 2.975,
+      "gloss_id" : "여러가지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.265,
+      "end" : 3.522,
+      "gloss_id" : "맛있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.696,
+      "end" : 3.944,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.191,
+      "end" : 4.553,
+      "gloss_id" : "알다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.032,
+      "end" : 2.977,
+      "loc" : "0",
+      "word" : "해산물"
+    }, {
+      "start" : 3.265,
+      "end" : 3.522,
+      "loc" : "1",
+      "word" : "맛있는"
+    }, {
+      "start" : 3.696,
+      "end" : 3.944,
+      "loc" : "2",
+      "word" : "데"
+    }, {
+      "start" : 4.191,
+      "end" : 4.553,
+      "loc" : "3",
+      "word" : "알아?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.501,
+      "end" : 2.977,
+      "gloss_id" : "조개1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.191,
+      "end" : 4.553
+    }, {
+      "descriptor" : "",
+      "start" : 3.696,
+      "end" : 3.944
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.752,
+      "end" : 3.509
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.191,
+      "end" : 4.553
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782950",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:15:05",
+    "sentence_ID" : "VXPAKOKS240782950",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

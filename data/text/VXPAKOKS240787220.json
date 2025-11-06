@@ -1,0 +1,210 @@
+{
+  "id" : "VXPAKOKS240787220",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "제주도는 큰 섬이니까 둘레가 온통 바다니까 바다를 실컷 보고 올 수 있을 것 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.518,
+      "end" : 1.717,
+      "gloss_id" : "제주도1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.196,
+      "end" : 3.055,
+      "gloss_id" : "넓다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.672,
+      "end" : 4.975,
+      "gloss_id" : "바다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.331,
+      "end" : 6.274,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.624,
+      "end" : 7.007,
+      "gloss_id" : "구경1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.417,
+      "end" : 7.834,
+      "gloss_id" : "충분하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.08,
+      "end" : 8.354,
+      "gloss_id" : "가능1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.518,
+      "end" : 1.717,
+      "loc" : "0",
+      "word" : "제주도는"
+    }, {
+      "start" : 2.196,
+      "end" : 3.055,
+      "loc" : "1,2",
+      "word" : "큰 섬이니까"
+    }, {
+      "start" : 3.351,
+      "end" : 4.955,
+      "loc" : "4,5",
+      "word" : "온통 바다니까"
+    }, {
+      "start" : 5.331,
+      "end" : 6.274,
+      "loc" : "3",
+      "word" : "둘레가"
+    }, {
+      "start" : 6.624,
+      "end" : 8.345,
+      "loc" : "6,7,8,9,10,11,12,13",
+      "word" : "바다를 실컷 보고 올 수 있을 것 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.351,
+      "end" : 8.341,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.518,
+      "end" : 1.717,
+      "gloss_id" : "제주도1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.196,
+      "end" : 3.055,
+      "gloss_id" : "넓다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.196,
+      "end" : 3.055
+    }, {
+      "descriptor" : "",
+      "start" : 5.331,
+      "end" : 6.274
+    }, {
+      "descriptor" : "",
+      "start" : 7.417,
+      "end" : 7.834
+    }, {
+      "descriptor" : "",
+      "start" : 8.08,
+      "end" : 8.354
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 8.08,
+      "end" : 8.354
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.196,
+      "end" : 3.055
+    }, {
+      "descriptor" : "",
+      "start" : 4.063,
+      "end" : 4.931
+    }, {
+      "descriptor" : "",
+      "start" : 7.417,
+      "end" : 7.834
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 5.331,
+      "end" : 6.274
+    }, {
+      "descriptor" : "",
+      "start" : 6.624,
+      "end" : 7.007
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.518,
+      "end" : 1.717
+    }, {
+      "descriptor" : "",
+      "start" : 5.331,
+      "end" : 6.968
+    }, {
+      "descriptor" : "",
+      "start" : 3.672,
+      "end" : 4.975
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787220",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:32:53",
+    "sentence_ID" : "VXPAKOKS240787220",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

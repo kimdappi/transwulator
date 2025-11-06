@@ -1,0 +1,165 @@
+{
+  "id" : "VXPAKOKS240788180",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 주식을 20년 2월쯤부터 하고 있거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.797,
+      "end" : 1.968,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.255,
+      "end" : 2.613,
+      "gloss_id" : "2020",
+      "express" : "n",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.967,
+      "end" : 3.608,
+      "gloss_id" : "날짜:2월",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.852,
+      "end" : 4.003,
+      "gloss_id" : "달리기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.15,
+      "end" : 4.331,
+      "gloss_id" : "투자2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.656,
+      "end" : 5.004,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.797,
+      "end" : 1.968,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.255,
+      "end" : 2.613,
+      "loc" : "2",
+      "word" : "20년"
+    }, {
+      "start" : 2.967,
+      "end" : 3.608,
+      "loc" : "3",
+      "word" : "2월쯤부터"
+    }, {
+      "start" : 3.852,
+      "end" : 4.342,
+      "loc" : "1",
+      "word" : "주식을"
+    }, {
+      "start" : 4.656,
+      "end" : 5.004,
+      "loc" : "4,5",
+      "word" : "하고 있거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.967,
+      "end" : 3.608,
+      "gloss_id" : "날짜:2월",
+      "express" : "d",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.852,
+      "end" : 4.003,
+      "gloss_id" : "달리기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.656,
+      "end" : 5.004,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.967,
+      "end" : 3.466
+    }, {
+      "descriptor" : "",
+      "start" : 4.656,
+      "end" : 5.004
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.538,
+      "end" : 5.004
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.967,
+      "end" : 3.451
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788180",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:42:04",
+    "sentence_ID" : "VXPAKOKS240788180",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

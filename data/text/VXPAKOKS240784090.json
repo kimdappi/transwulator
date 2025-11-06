@@ -1,0 +1,490 @@
+{
+  "id" : "VXPAKOKS240784090",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "내 주변만 하더라도 대학교를 졸업하기도 전에 취직을 해서 한곳에 근무를 한 친구는 과장이 되고 높은 직급에 있는 친구들도 꽤 많거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.995,
+      "end" : 2.122,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.325,
+      "end" : 2.711,
+      "gloss_id" : "분위기2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.936,
+      "end" : 3.41,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.659,
+      "end" : 3.786,
+      "gloss_id" : "보다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.062,
+      "end" : 4.308,
+      "gloss_id" : "대학3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.429,
+      "end" : 4.556,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.849,
+      "end" : 5.082,
+      "gloss_id" : "졸업1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.312,
+      "end" : 5.977,
+      "gloss_id" : "이전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.228,
+      "end" : 6.359,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.746,
+      "end" : 7.589,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 7.88,
+      "end" : 8.138,
+      "gloss_id" : "오래2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.406,
+      "end" : 8.779,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.073,
+      "end" : 9.458,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.687,
+      "end" : 10.06,
+      "gloss_id" : "모임1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.249,
+      "end" : 10.609,
+      "gloss_id" : "장1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.848,
+      "end" : 11.526,
+      "gloss_id" : "오르다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.838,
+      "end" : 12.173,
+      "gloss_id" : "앉다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 12.38,
+      "end" : 12.791,
+      "gloss_id" : "오르다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 12.953,
+      "end" : 13.08,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 13.237,
+      "end" : 13.47,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 13.656,
+      "end" : 13.901,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.995,
+      "end" : 2.122,
+      "loc" : "0",
+      "word" : "내"
+    }, {
+      "start" : 2.325,
+      "end" : 3.779,
+      "loc" : "1,2",
+      "word" : "주변만 하더라도"
+    }, {
+      "start" : 4.062,
+      "end" : 4.537,
+      "loc" : "3",
+      "word" : "대학교를"
+    }, {
+      "start" : 4.849,
+      "end" : 5.082,
+      "loc" : "4",
+      "word" : "졸업하기도"
+    }, {
+      "start" : 5.312,
+      "end" : 5.977,
+      "loc" : "5",
+      "word" : "전에"
+    }, {
+      "start" : 6.228,
+      "end" : 7.568,
+      "loc" : "6,7",
+      "word" : "취직을 해서"
+    }, {
+      "start" : 7.88,
+      "end" : 8.138,
+      "loc" : "8",
+      "word" : "한곳에"
+    }, {
+      "start" : 8.406,
+      "end" : 8.779,
+      "loc" : "9,10",
+      "word" : "근무를 한"
+    }, {
+      "start" : 9.06,
+      "end" : 9.458,
+      "loc" : "11",
+      "word" : "친구는"
+    }, {
+      "start" : 9.687,
+      "end" : 10.581,
+      "loc" : "12",
+      "word" : "과장이"
+    }, {
+      "start" : 10.848,
+      "end" : 11.526,
+      "loc" : "13",
+      "word" : "되고"
+    }, {
+      "start" : 11.838,
+      "end" : 12.173,
+      "loc" : "15",
+      "word" : "직급에"
+    }, {
+      "start" : 12.38,
+      "end" : 12.791,
+      "loc" : "14",
+      "word" : "높은"
+    }, {
+      "start" : 12.953,
+      "end" : 13.474,
+      "loc" : "16,17",
+      "word" : "있는 친구들도"
+    }, {
+      "start" : 13.656,
+      "end" : 13.901,
+      "loc" : "18,19",
+      "word" : "꽤 많거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.325,
+      "end" : 2.711,
+      "gloss_id" : "분위기2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.936,
+      "end" : 3.41,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.062,
+      "end" : 4.308,
+      "gloss_id" : "대학3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.429,
+      "end" : 4.556,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.849,
+      "end" : 5.082,
+      "gloss_id" : "졸업1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.312,
+      "end" : 5.977,
+      "gloss_id" : "이전1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.228,
+      "end" : 6.359,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.746,
+      "end" : 7.589,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.406,
+      "end" : 8.779,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.073,
+      "end" : 9.458,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.687,
+      "end" : 10.06,
+      "gloss_id" : "모임1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 11.838,
+      "end" : 12.173,
+      "gloss_id" : "앉다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 12.953,
+      "end" : 13.08,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 13.656,
+      "end" : 13.901,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.88,
+      "end" : 8.137,
+      "gloss_id" : "오래2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.659,
+      "end" : 3.786
+    }, {
+      "descriptor" : "",
+      "start" : 5.312,
+      "end" : 5.977
+    }, {
+      "descriptor" : "",
+      "start" : 6.746,
+      "end" : 7.589
+    }, {
+      "descriptor" : "",
+      "start" : 9.073,
+      "end" : 9.458
+    }, {
+      "descriptor" : "",
+      "start" : 11.119,
+      "end" : 11.492
+    }, {
+      "descriptor" : "",
+      "start" : 13.237,
+      "end" : 13.47
+    }, {
+      "descriptor" : "",
+      "start" : 13.656,
+      "end" : 13.901
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 11.119,
+      "end" : 11.492
+    }, {
+      "descriptor" : "",
+      "start" : 12.38,
+      "end" : 12.524
+    }, {
+      "descriptor" : "",
+      "start" : 12.543,
+      "end" : 12.671
+    }, {
+      "descriptor" : "",
+      "start" : 12.696,
+      "end" : 12.823
+    }, {
+      "descriptor" : "",
+      "start" : 13.774,
+      "end" : 13.901
+    }, {
+      "descriptor" : "",
+      "start" : 3.659,
+      "end" : 3.786
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 6.746,
+      "end" : 7.589
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.325,
+      "end" : 3.41
+    }, {
+      "descriptor" : "",
+      "start" : 5.312,
+      "end" : 5.977
+    }, {
+      "descriptor" : "",
+      "start" : 9.073,
+      "end" : 9.458
+    }, {
+      "descriptor" : "",
+      "start" : 12.919,
+      "end" : 13.47
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784090",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:21:02",
+    "sentence_ID" : "VXPAKOKS240784090",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

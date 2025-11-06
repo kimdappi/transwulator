@@ -1,0 +1,210 @@
+{
+  "id" : "VXPAKOKS240787470",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "인간이라는 게 살면서 다 항상 좋은 일만 하면서 살 순 없잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.283,
+      "end" : 1.379,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.633,
+      "end" : 2.277,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.632,
+      "end" : 3.187,
+      "gloss_id" : "재미1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.678,
+      "end" : 4.198,
+      "gloss_id" : "웃다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.491,
+      "end" : 5.046,
+      "gloss_id" : "우울1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.362,
+      "end" : 5.63,
+      "gloss_id" : "울다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.821,
+      "end" : 6.198,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.436,
+      "end" : 7.025,
+      "gloss_id" : "법1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.283,
+      "end" : 1.379,
+      "loc" : "0,1",
+      "word" : "인간이라는 게"
+    }, {
+      "start" : 1.633,
+      "end" : 2.277,
+      "loc" : "2",
+      "word" : "살면서"
+    }, {
+      "start" : 2.632,
+      "end" : 7.02,
+      "loc" : "3,4,5,6,7,8,9,10",
+      "word" : "다 항상 좋은 일만 하면서 살 순 없잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.283,
+      "end" : 1.379,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.633,
+      "end" : 2.277,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.632,
+      "end" : 3.187,
+      "gloss_id" : "재미1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.821,
+      "end" : 6.198,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.436,
+      "end" : 7.025,
+      "gloss_id" : "법1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.362,
+      "end" : 5.63,
+      "gloss_id" : "울다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.633,
+      "end" : 2.277
+    }, {
+      "descriptor" : "",
+      "start" : 2.632,
+      "end" : 3.187
+    }, {
+      "descriptor" : "",
+      "start" : 4.491,
+      "end" : 5.046
+    }, {
+      "descriptor" : "",
+      "start" : 5.362,
+      "end" : 5.63
+    }, {
+      "descriptor" : "",
+      "start" : 6.436,
+      "end" : 7.025
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.678,
+      "end" : 7.013
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 1.633,
+      "end" : 2.277
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.283,
+      "end" : 2.268
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787470",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:34:51",
+    "sentence_ID" : "VXPAKOKS240787470",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

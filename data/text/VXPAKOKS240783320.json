@@ -1,0 +1,216 @@
+{
+  "id" : "VXPAKOKS240783320",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "야식을 줄여 보는 거 어때 다이어트 하기 전에?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.615,
+      "end" : 1.913,
+      "gloss_id" : "고기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.194,
+      "end" : 2.505,
+      "gloss_id" : "빼다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.862,
+      "end" : 3.438,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.751,
+      "end" : 4.264,
+      "gloss_id" : "이전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.577,
+      "end" : 4.749,
+      "gloss_id" : "어둡다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.912,
+      "end" : 5.128,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.372,
+      "end" : 5.538,
+      "gloss_id" : "줄다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.82,
+      "end" : 6.143,
+      "gloss_id" : "보다10",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.615,
+      "end" : 2.506,
+      "loc" : "5",
+      "word" : "다이어트"
+    }, {
+      "start" : 2.862,
+      "end" : 3.438,
+      "loc" : "6",
+      "word" : "하기"
+    }, {
+      "start" : 3.751,
+      "end" : 4.264,
+      "loc" : "7",
+      "word" : "전에?"
+    }, {
+      "start" : 4.577,
+      "end" : 5.14,
+      "loc" : "0",
+      "word" : "야식을"
+    }, {
+      "start" : 5.372,
+      "end" : 6.143,
+      "loc" : "1,2,3,4",
+      "word" : "줄여 보는 거 어때"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.615,
+      "end" : 1.913,
+      "gloss_id" : "고기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.194,
+      "end" : 2.505,
+      "gloss_id" : "빼다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.862,
+      "end" : 3.438,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.751,
+      "end" : 4.264,
+      "gloss_id" : "이전1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.577,
+      "end" : 4.749,
+      "gloss_id" : "어둡다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.372,
+      "end" : 5.538,
+      "gloss_id" : "줄다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.194,
+      "end" : 3.451
+    }, {
+      "descriptor" : "",
+      "start" : 3.751,
+      "end" : 4.264
+    }, {
+      "descriptor" : "",
+      "start" : 4.918,
+      "end" : 5.55
+    }, {
+      "descriptor" : "",
+      "start" : 5.82,
+      "end" : 6.143
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.314,
+      "end" : 2.505
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.894,
+      "end" : 4.264
+    }, {
+      "descriptor" : "",
+      "start" : 5.877,
+      "end" : 6.143
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783320",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:16:58",
+    "sentence_ID" : "VXPAKOKS240783320",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

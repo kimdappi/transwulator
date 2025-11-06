@@ -1,0 +1,190 @@
+{
+  "id" : "VXPAKOKS240788220",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "이상 기후 현상들이 되게 많이 나타나고 있잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.401,
+      "end" : 1.642,
+      "gloss_id" : "과거1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.792,
+      "end" : 2.033,
+      "gloss_id" : "다르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.25,
+      "end" : 2.617,
+      "gloss_id" : "날1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.014,
+      "end" : 3.64,
+      "gloss_id" : "비1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.062,
+      "end" : 5.066,
+      "gloss_id" : "덥다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.457,
+      "end" : 5.585,
+      "gloss_id" : "과거1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.785,
+      "end" : 6.238,
+      "gloss_id" : "증가12",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.545,
+      "end" : 6.846,
+      "gloss_id" : "이상하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.401,
+      "end" : 5.067,
+      "loc" : "0,1,2",
+      "word" : "이상 기후 현상들이"
+    }, {
+      "start" : 5.457,
+      "end" : 6.826,
+      "loc" : "3,4,5,6",
+      "word" : "되게 많이 나타나고 있잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.792,
+      "end" : 2.033,
+      "gloss_id" : "다르다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.25,
+      "end" : 2.617,
+      "gloss_id" : "날1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.014,
+      "end" : 3.64,
+      "gloss_id" : "비1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.062,
+      "end" : 5.066,
+      "gloss_id" : "덥다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.785,
+      "end" : 6.238,
+      "gloss_id" : "증가12",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.014,
+      "end" : 3.64
+    }, {
+      "descriptor" : "",
+      "start" : 4.062,
+      "end" : 5.066
+    }, {
+      "descriptor" : "",
+      "start" : 6.545,
+      "end" : 6.846
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.25,
+      "end" : 5.059
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 5.785,
+      "end" : 6.822
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.457,
+      "end" : 6.833
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788220",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:42:36",
+    "sentence_ID" : "VXPAKOKS240788220",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

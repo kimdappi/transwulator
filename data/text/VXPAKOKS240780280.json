@@ -1,0 +1,244 @@
+{
+  "id" : "VXPAKOKS240780280",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "나 저번 학기 때 학점이 망해서 3.04가 나왔거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.612,
+      "end" : 1.723,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.932,
+      "end" : 2.122,
+      "gloss_id" : "며칠전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.274,
+      "end" : 3.079,
+      "gloss_id" : "학기",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.423,
+      "end" : 3.939,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.161,
+      "end" : 4.319,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.629,
+      "end" : 4.85,
+      "gloss_id" : "게으르다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.955,
+      "end" : 5.087,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.548,
+      "end" : 5.643,
+      "gloss_id" : "누르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.834,
+      "end" : 6.287,
+      "gloss_id" : "04",
+      "express" : "n",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.506,
+      "end" : 6.622,
+      "gloss_id" : "점수1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.876,
+      "end" : 7.25,
+      "gloss_id" : "나쁘다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.612,
+      "end" : 1.723,
+      "loc" : "0",
+      "word" : "나"
+    }, {
+      "start" : 1.932,
+      "end" : 2.122,
+      "loc" : "1",
+      "word" : "저번"
+    }, {
+      "start" : 2.274,
+      "end" : 3.079,
+      "loc" : "2",
+      "word" : "학기"
+    }, {
+      "start" : 3.423,
+      "end" : 3.939,
+      "loc" : "3",
+      "word" : "때"
+    }, {
+      "start" : 4.161,
+      "end" : 7.242,
+      "loc" : "4,5,6,7",
+      "word" : "학점이 망해서 3.04가 나왔거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 5.361,
+      "end" : 6.623,
+      "gloss_id" : "3",
+      "express" : "n",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.423,
+      "end" : 3.939,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.161,
+      "end" : 4.319,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.622,
+      "end" : 4.843,
+      "gloss_id" : "게으르다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.955,
+      "end" : 5.087,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "학기",
+      "start" : 2.274,
+      "end" : 3.079
+    }, {
+      "descriptor" : "삼점공사",
+      "start" : 5.361,
+      "end" : 6.281
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.423,
+      "end" : 3.939
+    }, {
+      "descriptor" : "",
+      "start" : 1.932,
+      "end" : 2.122
+    }, {
+      "descriptor" : "",
+      "start" : 6.876,
+      "end" : 7.25
+    }, {
+      "descriptor" : "",
+      "start" : 6.506,
+      "end" : 6.622
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.955,
+      "end" : 5.087
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 6.876,
+      "end" : 7.25
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.612,
+      "end" : 3.679
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780280",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:03:28",
+    "sentence_ID" : "VXPAKOKS240780280",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

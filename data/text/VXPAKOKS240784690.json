@@ -1,0 +1,127 @@
+{
+  "id" : "VXPAKOKS240784690",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 원래 개를 좋아하지 않았어요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.265,
+      "end" : 1.312,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.476,
+      "end" : 1.848,
+      "gloss_id" : "원래2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.113,
+      "end" : 2.58,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.84,
+      "end" : 3.84,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.056,
+      "end" : 4.239,
+      "gloss_id" : "아니다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.265,
+      "end" : 1.312,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 1.476,
+      "end" : 1.848,
+      "loc" : "1",
+      "word" : "원래"
+    }, {
+      "start" : 2.113,
+      "end" : 2.58,
+      "loc" : "2",
+      "word" : "개를"
+    }, {
+      "start" : 2.84,
+      "end" : 3.84,
+      "loc" : "3",
+      "word" : "좋아하지"
+    }, {
+      "start" : 4.056,
+      "end" : 4.239,
+      "loc" : "4",
+      "word" : "않았어요."
+    } ],
+    "sign_gestures_weak" : null
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.476,
+      "end" : 1.848
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.84,
+      "end" : 4.255
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240784690",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:24:05",
+    "sentence_ID" : "VXPAKOKS240784690",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

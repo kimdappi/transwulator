@@ -1,0 +1,209 @@
+{
+  "id" : "VXPAKOKS240785090",
+  "opertor" : "label10",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 스포츠하기에는 너무 체력이 약해서 힘들어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.188,
+      "end" : 1.303,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.495,
+      "end" : 1.812,
+      "gloss_id" : "몸1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.02,
+      "end" : 2.298,
+      "gloss_id" : "건강1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.653,
+      "end" : 3.088,
+      "gloss_id" : "약하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.388,
+      "end" : 3.725,
+      "gloss_id" : "심하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.061,
+      "end" : 4.195,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.521,
+      "end" : 5.138,
+      "gloss_id" : "종류1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.832,
+      "end" : 6.639,
+      "gloss_id" : "힘들다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.188,
+      "end" : 1.303,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 1.495,
+      "end" : 2.295,
+      "loc" : "3",
+      "word" : "체력이"
+    }, {
+      "start" : 2.653,
+      "end" : 3.728,
+      "loc" : "4",
+      "word" : "약해서"
+    }, {
+      "start" : 4.061,
+      "end" : 5.141,
+      "loc" : "1",
+      "word" : "스포츠하기에는"
+    }, {
+      "start" : 5.832,
+      "end" : 6.639,
+      "loc" : "2,5",
+      "word" : "너무 힘들어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.495,
+      "end" : 1.812,
+      "gloss_id" : "몸1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.02,
+      "end" : 2.298,
+      "gloss_id" : "건강1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.653,
+      "end" : 3.088,
+      "gloss_id" : "약하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.061,
+      "end" : 4.195,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.521,
+      "end" : 5.138,
+      "gloss_id" : "종류1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.832,
+      "end" : 6.639
+    }, {
+      "descriptor" : "",
+      "start" : 2.653,
+      "end" : 3.088
+    }, {
+      "descriptor" : "",
+      "start" : 1.188,
+      "end" : 1.303
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.388,
+      "end" : 3.607
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.832,
+      "end" : 6.639
+    }, {
+      "descriptor" : "",
+      "start" : 2.653,
+      "end" : 3.728
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.521,
+      "end" : 5.138
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785090",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 01:29:33",
+    "sentence_ID" : "VXPAKOKS240785090",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

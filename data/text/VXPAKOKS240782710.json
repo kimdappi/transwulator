@@ -1,0 +1,187 @@
+{
+  "id" : "VXPAKOKS240782710",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "감자탕에 와인이 좀 어울릴진 모르겠네.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.547,
+      "end" : 1.84,
+      "gloss_id" : "감자1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.173,
+      "end" : 2.616,
+      "gloss_id" : "끓다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.879,
+      "end" : 3.536,
+      "gloss_id" : "와인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.019,
+      "end" : 4.23,
+      "gloss_id" : "잘하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.418,
+      "end" : 5.075,
+      "gloss_id" : "맞추다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.351,
+      "end" : 6.121,
+      "gloss_id" : "물음표1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.547,
+      "end" : 2.612,
+      "loc" : "0",
+      "word" : "감자탕에"
+    }, {
+      "start" : 2.879,
+      "end" : 3.536,
+      "loc" : "1",
+      "word" : "와인이"
+    }, {
+      "start" : 4.019,
+      "end" : 4.23,
+      "loc" : "2",
+      "word" : "좀"
+    }, {
+      "start" : 4.418,
+      "end" : 5.075,
+      "loc" : "3",
+      "word" : "어울릴진"
+    }, {
+      "start" : 5.351,
+      "end" : 6.121,
+      "loc" : "4",
+      "word" : "모르겠네."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.547,
+      "end" : 1.84,
+      "gloss_id" : "감자1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.173,
+      "end" : 2.616,
+      "gloss_id" : "끓다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.019,
+      "end" : 4.23,
+      "gloss_id" : "잘하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.418,
+      "end" : 5.075,
+      "gloss_id" : "맞추다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.351,
+      "end" : 6.121,
+      "gloss_id" : "물음표1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.173,
+      "end" : 2.616
+    }, {
+      "descriptor" : "",
+      "start" : 4.019,
+      "end" : 5.059
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.633,
+      "end" : 5.058
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.351,
+      "end" : 6.121
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.173,
+      "end" : 2.616
+    }, {
+      "descriptor" : "",
+      "start" : 4.019,
+      "end" : 5.027
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782710",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:14:11",
+    "sentence_ID" : "VXPAKOKS240782710",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

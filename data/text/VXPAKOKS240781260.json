@@ -1,0 +1,256 @@
+{
+  "id" : "VXPAKOKS240781260",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "생각해 보면 친구 관계라는 게 좋을 때도 있고 안 좋을 때도 있잖아요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.872,
+      "end" : 1.983,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.262,
+      "end" : 2.534,
+      "gloss_id" : "조용히1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.744,
+      "end" : 2.962,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.246,
+      "end" : 3.784,
+      "gloss_id" : "연결1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.976,
+      "end" : 4.552,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.832,
+      "end" : 4.982,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.234,
+      "end" : 5.528,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.755,
+      "end" : 5.897,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.405,
+      "end" : 6.57,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.665,
+      "end" : 6.838,
+      "gloss_id" : "아니다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.992,
+      "end" : 7.21,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.428,
+      "end" : 7.836,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.872,
+      "end" : 2.53,
+      "loc" : "0,1",
+      "word" : "생각해 보면"
+    }, {
+      "start" : 2.744,
+      "end" : 2.962,
+      "loc" : "2",
+      "word" : "친구"
+    }, {
+      "start" : 3.246,
+      "end" : 4.537,
+      "loc" : "3,4",
+      "word" : "관계라는 게"
+    }, {
+      "start" : 4.832,
+      "end" : 4.982,
+      "loc" : "5",
+      "word" : "좋을"
+    }, {
+      "start" : 5.234,
+      "end" : 5.528,
+      "loc" : "6",
+      "word" : "때도"
+    }, {
+      "start" : 5.755,
+      "end" : 5.897,
+      "loc" : "7",
+      "word" : "있고"
+    }, {
+      "start" : 6.405,
+      "end" : 7.209,
+      "loc" : "8,9,10",
+      "word" : "안 좋을 때도"
+    }, {
+      "start" : 7.428,
+      "end" : 7.836,
+      "loc" : "11",
+      "word" : "있잖아요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.262,
+      "end" : 2.534,
+      "gloss_id" : "조용히1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.744,
+      "end" : 2.962,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.246,
+      "end" : 4.987,
+      "gloss_id" : "연결1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.234,
+      "end" : 5.528,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.992,
+      "end" : 7.21,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.976,
+      "end" : 4.552
+    }, {
+      "descriptor" : "",
+      "start" : 5.755,
+      "end" : 5.897
+    }, {
+      "descriptor" : "",
+      "start" : 7.428,
+      "end" : 7.836
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 6.405,
+      "end" : 7.833
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 1.872,
+      "end" : 2.5
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.246,
+      "end" : 4.271
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781260",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:07:38",
+    "sentence_ID" : "VXPAKOKS240781260",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

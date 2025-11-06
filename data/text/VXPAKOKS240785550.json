@@ -1,0 +1,187 @@
+{
+  "id" : "VXPAKOKS240785550",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "너 최근에 재밌게 본 드라마 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.981,
+      "end" : 2.315,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.541,
+      "end" : 3.391,
+      "gloss_id" : "과거1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.568,
+      "end" : 3.853,
+      "gloss_id" : "TV",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.028,
+      "end" : 4.412,
+      "gloss_id" : "영상1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.653,
+      "end" : 4.951,
+      "gloss_id" : "재미1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.126,
+      "end" : 5.239,
+      "gloss_id" : "보다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 5.432,
+      "end" : 6.03,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.981,
+      "end" : 2.315,
+      "loc" : "0",
+      "word" : "너"
+    }, {
+      "start" : 2.541,
+      "end" : 3.391,
+      "loc" : "1",
+      "word" : "최근에"
+    }, {
+      "start" : 4.653,
+      "end" : 4.951,
+      "loc" : "2",
+      "word" : "재밌게"
+    }, {
+      "start" : 5.126,
+      "end" : 5.239,
+      "loc" : "3",
+      "word" : "본"
+    }, {
+      "start" : 5.432,
+      "end" : 6.03,
+      "loc" : "5",
+      "word" : "있어?"
+    }, {
+      "start" : 3.568,
+      "end" : 4.412,
+      "loc" : "4",
+      "word" : "드라마"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 5.126,
+      "end" : 5.239,
+      "gloss_id" : "보다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.653,
+      "end" : 4.951,
+      "gloss_id" : "재미1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.028,
+      "end" : 4.412,
+      "gloss_id" : "영상1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.541,
+      "end" : 3.391
+    }, {
+      "descriptor" : "",
+      "start" : 5.432,
+      "end" : 6.03
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.028,
+      "end" : 4.94
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.028,
+      "end" : 4.412
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.981,
+      "end" : 3.395
+    }, {
+      "descriptor" : "",
+      "start" : 5.126,
+      "end" : 6.025
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785550",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 01:55:27",
+    "sentence_ID" : "VXPAKOKS240785550",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

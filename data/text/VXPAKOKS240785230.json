@@ -1,0 +1,244 @@
+{
+  "id" : "VXPAKOKS240785230",
+  "opertor" : "label10",
+  "krlgg_sntenc" : {
+    "koreanText" : "다이어트를 하고 나서 요요가 와서 다시 되돌아가면 그 투자한 시간과 노력 없어지게 되는 거잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.049,
+      "end" : 2.145,
+      "gloss_id" : "고기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.419,
+      "end" : 3.589,
+      "gloss_id" : "좁다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.882,
+      "end" : 4.095,
+      "gloss_id" : "되돌리다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.32,
+      "end" : 4.812,
+      "gloss_id" : "뚱뚱하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.38,
+      "end" : 5.776,
+      "gloss_id" : "때2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.312,
+      "end" : 6.573,
+      "gloss_id" : "노력1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.78,
+      "end" : 7.368,
+      "gloss_id" : "헛수고1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.753,
+      "end" : 8.508,
+      "gloss_id" : "아깝다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.049,
+      "end" : 3.596,
+      "loc" : "0,1,2",
+      "word" : "다이어트를 하고 나서"
+    }, {
+      "start" : 4.32,
+      "end" : 4.812,
+      "loc" : "3,4",
+      "word" : "요요가 와서"
+    }, {
+      "start" : 3.882,
+      "end" : 4.095,
+      "loc" : "5,6",
+      "word" : "다시 되돌아가면"
+    }, {
+      "start" : 5.38,
+      "end" : 5.776,
+      "loc" : "7,8,9",
+      "word" : "그 투자한 시간과"
+    }, {
+      "start" : 6.312,
+      "end" : 6.573,
+      "loc" : "10",
+      "word" : "노력"
+    }, {
+      "start" : 6.78,
+      "end" : 8.516,
+      "loc" : "11,12,13",
+      "word" : "없어지게 되는 거잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.049,
+      "end" : 2.145,
+      "gloss_id" : "고기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.882,
+      "end" : 4.095,
+      "gloss_id" : "되돌리다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.32,
+      "end" : 4.812,
+      "gloss_id" : "뚱뚱하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.38,
+      "end" : 5.776,
+      "gloss_id" : "때2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.312,
+      "end" : 6.573,
+      "gloss_id" : "노력1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.78,
+      "end" : 7.368,
+      "gloss_id" : "헛수고1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.419,
+      "end" : 3.589,
+      "gloss_id" : "좁다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.125,
+      "end" : 3.593
+    }, {
+      "descriptor" : "",
+      "start" : 5.38,
+      "end" : 5.776
+    }, {
+      "descriptor" : "",
+      "start" : 6.312,
+      "end" : 6.573
+    }, {
+      "descriptor" : "",
+      "start" : 6.78,
+      "end" : 7.368
+    }, {
+      "descriptor" : "",
+      "start" : 7.753,
+      "end" : 8.508
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.125,
+      "end" : 3.585
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 6.78,
+      "end" : 8.492
+    }, {
+      "descriptor" : "",
+      "start" : 2.049,
+      "end" : 3.572
+    }, {
+      "descriptor" : "",
+      "start" : 4.32,
+      "end" : 4.812
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 4.368,
+      "end" : 4.605
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.882,
+      "end" : 4.095
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785230",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 01:35:41",
+    "sentence_ID" : "VXPAKOKS240785230",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

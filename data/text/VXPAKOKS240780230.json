@@ -1,0 +1,201 @@
+{
+  "id" : "VXPAKOKS240780230",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "여러 맛집을 탐방하는 프로그램이 있는데 혹시 보셨어요?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.87,
+      "end" : 2.075,
+      "gloss_id" : "맛있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.354,
+      "end" : 3.198,
+      "gloss_id" : "동네1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.194,
+      "end" : 4.48,
+      "gloss_id" : "순서2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.65,
+      "end" : 4.842,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.993,
+      "end" : 5.113,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.411,
+      "end" : 5.857,
+      "gloss_id" : "보았다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.332,
+      "end" : 3.854,
+      "gloss_id" : "방문2#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.332,
+      "end" : 3.854,
+      "loc" : "2",
+      "word" : "탐방하는"
+    }, {
+      "start" : 4.194,
+      "end" : 4.48,
+      "loc" : "3",
+      "word" : "프로그램이"
+    }, {
+      "start" : 4.65,
+      "end" : 4.842,
+      "loc" : "4",
+      "word" : "있는데"
+    }, {
+      "start" : 4.993,
+      "end" : 5.858,
+      "loc" : "5,6",
+      "word" : "혹시 보셨어요?"
+    }, {
+      "start" : 1.87,
+      "end" : 3.208,
+      "loc" : "0,1",
+      "word" : "여러 맛집을"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 5.411,
+      "end" : 5.857,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.194,
+      "end" : 4.841,
+      "gloss_id" : "순서2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.332,
+      "end" : 3.854,
+      "gloss_id" : "방문2#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.354,
+      "end" : 3.198,
+      "gloss_id" : "동네1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.695,
+      "end" : 3.204
+    }, {
+      "descriptor" : "",
+      "start" : 3.332,
+      "end" : 3.854
+    }, {
+      "descriptor" : "",
+      "start" : 4.65,
+      "end" : 4.842
+    }, {
+      "descriptor" : "",
+      "start" : 4.993,
+      "end" : 5.857
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.548,
+      "end" : 5.857
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.194,
+      "end" : 4.837
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.424,
+      "end" : 3.854
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.354,
+      "end" : 2.479
+    }, {
+      "descriptor" : "",
+      "start" : 5.411,
+      "end" : 5.857
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780230",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:03:16",
+    "sentence_ID" : "VXPAKOKS240780230",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

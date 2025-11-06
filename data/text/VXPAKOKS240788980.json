@@ -1,0 +1,178 @@
+{
+  "id" : "VXPAKOKS240788980",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "너희는 너희만의 라면 레시피 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.421,
+      "end" : 3.109,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.371,
+      "end" : 3.494,
+      "gloss_id" : "닭1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.577,
+      "end" : 3.742,
+      "gloss_id" : "먹다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.038,
+      "end" : 4.593,
+      "gloss_id" : "방식2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.805,
+      "end" : 4.921,
+      "gloss_id" : "요리1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.018,
+      "end" : 5.244,
+      "gloss_id" : "가지다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.402,
+      "end" : 5.968,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.421,
+      "end" : 3.109,
+      "loc" : "0",
+      "word" : "너희는"
+    }, {
+      "start" : 3.371,
+      "end" : 3.737,
+      "loc" : "2",
+      "word" : "라면"
+    }, {
+      "start" : 5.402,
+      "end" : 5.968,
+      "loc" : "4",
+      "word" : "있어?"
+    }, {
+      "start" : 4.805,
+      "end" : 5.237,
+      "loc" : "3",
+      "word" : "레시피"
+    }, {
+      "start" : 4.038,
+      "end" : 4.593,
+      "loc" : "1",
+      "word" : "너희만의"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.577,
+      "end" : 3.736,
+      "gloss_id" : "먹다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.038,
+      "end" : 4.593,
+      "gloss_id" : "방식2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.805,
+      "end" : 4.921,
+      "gloss_id" : "요리1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.402,
+      "end" : 5.968
+    }, {
+      "descriptor" : "",
+      "start" : 4.038,
+      "end" : 4.593
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.371,
+      "end" : 4.595
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.402,
+      "end" : 5.968
+    }, {
+      "descriptor" : "",
+      "start" : 2.421,
+      "end" : 3.109
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788980",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:51:46",
+    "sentence_ID" : "VXPAKOKS240788980",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

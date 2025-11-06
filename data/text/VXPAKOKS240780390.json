@@ -1,0 +1,147 @@
+{
+  "id" : "VXPAKOKS240780390",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "다들 버스를 한 번쯤 탔구나.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.543,
+      "end" : 1.933,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.281,
+      "end" : 3.109,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.393,
+      "end" : 3.557,
+      "gloss_id" : "1",
+      "express" : "n",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.797,
+      "end" : 3.979,
+      "gloss_id" : "약속1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.394,
+      "end" : 4.726,
+      "gloss_id" : "아하3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.543,
+      "end" : 1.933,
+      "loc" : "0",
+      "word" : "다들"
+    }, {
+      "start" : 2.281,
+      "end" : 3.109,
+      "loc" : "1,4",
+      "word" : "버스를 탔구나."
+    }, {
+      "start" : 3.393,
+      "end" : 3.98,
+      "loc" : "2,3",
+      "word" : "한 번쯤"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.823,
+      "end" : 3.111,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.797,
+      "end" : 3.979,
+      "gloss_id" : "약속1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.543,
+      "end" : 1.933
+    }, {
+      "descriptor" : "",
+      "start" : 2.823,
+      "end" : 3.108
+    }, {
+      "descriptor" : "",
+      "start" : 3.395,
+      "end" : 3.979
+    }, {
+      "descriptor" : "",
+      "start" : 4.394,
+      "end" : 4.726
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.797,
+      "end" : 3.979
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.393,
+      "end" : 3.963
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780390",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:03:54",
+    "sentence_ID" : "VXPAKOKS240780390",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

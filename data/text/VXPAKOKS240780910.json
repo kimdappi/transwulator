@@ -1,0 +1,175 @@
+{
+  "id" : "VXPAKOKS240780910",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "서울 버스랑 광역 버스랑 가격이 달라?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.792,
+      "end" : 2.025,
+      "gloss_id" : "서울1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.311,
+      "end" : 2.618,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.955,
+      "end" : 3.103,
+      "gloss_id" : "빨강1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.365,
+      "end" : 3.657,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.23,
+      "end" : 4.458,
+      "gloss_id" : "얼마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.601,
+      "end" : 5.064,
+      "gloss_id" : "다르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.965,
+      "end" : 4.089,
+      "gloss_id" : "돈1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.792,
+      "end" : 2.025,
+      "loc" : "0",
+      "word" : "서울"
+    }, {
+      "start" : 2.311,
+      "end" : 2.618,
+      "loc" : "1",
+      "word" : "버스랑"
+    }, {
+      "start" : 2.955,
+      "end" : 3.103,
+      "loc" : "2",
+      "word" : "광역"
+    }, {
+      "start" : 3.365,
+      "end" : 3.657,
+      "loc" : "3",
+      "word" : "버스랑"
+    }, {
+      "start" : 3.965,
+      "end" : 4.458,
+      "loc" : "4",
+      "word" : "가격이"
+    }, {
+      "start" : 4.601,
+      "end" : 5.064,
+      "loc" : "5",
+      "word" : "달라?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.311,
+      "end" : 2.618,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.365,
+      "end" : 3.657,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.601,
+      "end" : 5.064,
+      "gloss_id" : "다르다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.311,
+      "end" : 2.618
+    }, {
+      "descriptor" : "",
+      "start" : 4.601,
+      "end" : 5.064
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.601,
+      "end" : 5.064
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780910",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:06:08",
+    "sentence_ID" : "VXPAKOKS240780910",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

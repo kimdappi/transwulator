@@ -1,0 +1,170 @@
+{
+  "id" : "VXPAKOKS240783590",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "50대 언니들 일하는 거 보면 진짜 대단하다고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.535,
+      "end" : 2.898,
+      "gloss_id" : "나이:50살",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.048,
+      "end" : 3.327,
+      "gloss_id" : "대",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.619,
+      "end" : 3.814,
+      "gloss_id" : "언니2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.957,
+      "end" : 4.132,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.302,
+      "end" : 4.613,
+      "gloss_id" : "보다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.039,
+      "end" : 5.948,
+      "gloss_id" : "대단하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.535,
+      "end" : 3.333,
+      "loc" : "0",
+      "word" : "50대"
+    }, {
+      "start" : 3.619,
+      "end" : 3.814,
+      "loc" : "1",
+      "word" : "언니들"
+    }, {
+      "start" : 3.957,
+      "end" : 4.132,
+      "loc" : "2,3",
+      "word" : "일하는 거"
+    }, {
+      "start" : 4.302,
+      "end" : 4.613,
+      "loc" : "4",
+      "word" : "보면"
+    }, {
+      "start" : 5.039,
+      "end" : 5.948,
+      "loc" : "5,6",
+      "word" : "진짜 대단하다고."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.957,
+      "end" : 4.132,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.039,
+      "end" : 5.948,
+      "gloss_id" : "대단하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "오십",
+      "start" : 2.535,
+      "end" : 2.898
+    }, {
+      "descriptor" : "대",
+      "start" : 3.048,
+      "end" : 3.327
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.302,
+      "end" : 4.613
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.49,
+      "end" : 4.613
+    } ],
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 5.221,
+      "end" : 5.948
+    } ],
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 5.377,
+      "end" : 5.954
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.302,
+      "end" : 4.613
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783590",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:18:20",
+    "sentence_ID" : "VXPAKOKS240783590",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,152 @@
+{
+  "id" : "VXPAKOKS240789310",
+  "opertor" : "label26",
+  "krlgg_sntenc" : {
+    "koreanText" : "부산에 놀러 가고 싶은 곳이 많아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.576,
+      "end" : 1.826,
+      "gloss_id" : "부산1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.028,
+      "end" : 2.115,
+      "gloss_id" : "놀다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.338,
+      "end" : 2.597,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.777,
+      "end" : 3.286,
+      "gloss_id" : "곳1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.47,
+      "end" : 4.013,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.576,
+      "end" : 1.826,
+      "loc" : "0",
+      "word" : "부산에"
+    }, {
+      "start" : 2.028,
+      "end" : 2.115,
+      "loc" : "1,2",
+      "word" : "놀러 가고"
+    }, {
+      "start" : 2.338,
+      "end" : 2.597,
+      "loc" : "3",
+      "word" : "싶은"
+    }, {
+      "start" : 2.777,
+      "end" : 3.286,
+      "loc" : "4",
+      "word" : "곳이"
+    }, {
+      "start" : 3.47,
+      "end" : 4.013,
+      "loc" : "5",
+      "word" : "많아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.576,
+      "end" : 1.826,
+      "gloss_id" : "부산1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.028,
+      "end" : 2.115,
+      "gloss_id" : "놀다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.47,
+      "end" : 4.013,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.47,
+      "end" : 4.013
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.677,
+      "end" : 4.013
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.576,
+      "end" : 4.013
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240789310",
+  "potogrf" : {
+    "createdTime" : "2024-10-21 04:08:57",
+    "sentence_ID" : "VXPAKOKS240789310",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "mp4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

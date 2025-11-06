@@ -1,0 +1,191 @@
+{
+  "id" : "VXPAKOKS240785980",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "나 이렇게 금리가 급격하게 오르는 거는 내가 사는 동안 처음인 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.304,
+      "end" : 1.581,
+      "gloss_id" : "은행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.713,
+      "end" : 2.098,
+      "gloss_id" : "이익1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.355,
+      "end" : 2.911,
+      "gloss_id" : "값오르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.096,
+      "end" : 3.675,
+      "gloss_id" : "많다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.843,
+      "end" : 4.109,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.229,
+      "end" : 4.541,
+      "gloss_id" : "역사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.755,
+      "end" : 5.55,
+      "gloss_id" : "처음1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.304,
+      "end" : 2.093,
+      "loc" : "2",
+      "word" : "금리가"
+    }, {
+      "start" : 2.355,
+      "end" : 2.911,
+      "loc" : "4,5",
+      "word" : "오르는 거는"
+    }, {
+      "start" : 3.096,
+      "end" : 3.675,
+      "loc" : "1,3",
+      "word" : "이렇게 급격하게"
+    }, {
+      "start" : 4.755,
+      "end" : 5.55,
+      "loc" : "9,10,11",
+      "word" : "처음인 거 같아."
+    }, {
+      "start" : 3.843,
+      "end" : 4.109,
+      "loc" : "6",
+      "word" : "내가"
+    }, {
+      "start" : 4.218,
+      "end" : 4.541,
+      "loc" : "7,8",
+      "word" : "사는 동안"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.229,
+      "end" : 4.541,
+      "gloss_id" : "역사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.096,
+      "end" : 3.675,
+      "gloss_id" : "많다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.304,
+      "end" : 1.581,
+      "gloss_id" : "은행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.755,
+      "end" : 5.55
+    }, {
+      "descriptor" : "",
+      "start" : 2.355,
+      "end" : 2.911
+    }, {
+      "descriptor" : "",
+      "start" : 1.713,
+      "end" : 2.098
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.096,
+      "end" : 3.675
+    }, {
+      "descriptor" : "",
+      "start" : 5.04,
+      "end" : 5.402
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 3.238,
+      "end" : 3.544
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.72,
+      "end" : 4.78
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785980",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:23:36",
+    "sentence_ID" : "VXPAKOKS240785980",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

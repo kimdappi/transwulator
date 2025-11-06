@@ -1,0 +1,232 @@
+{
+  "id" : "VXPAKOKS240785060",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "나 이번 여름휴가 때는 꼭 바다를 보고 싶었거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.617,
+      "end" : 1.687,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.825,
+      "end" : 2.18,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.498,
+      "end" : 2.73,
+      "gloss_id" : "덥다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.804,
+      "end" : 3.075,
+      "gloss_id" : "쉬다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.251,
+      "end" : 3.422,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.653,
+      "end" : 3.946,
+      "gloss_id" : "바다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.197,
+      "end" : 4.423,
+      "gloss_id" : "약속1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.618,
+      "end" : 4.772,
+      "gloss_id" : "보다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 4.989,
+      "end" : 5.137,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.617,
+      "end" : 1.687,
+      "loc" : "0",
+      "word" : "나"
+    }, {
+      "start" : 1.825,
+      "end" : 2.18,
+      "loc" : "1",
+      "word" : "이번"
+    }, {
+      "start" : 2.498,
+      "end" : 3.065,
+      "loc" : "2",
+      "word" : "여름휴가"
+    }, {
+      "start" : 3.251,
+      "end" : 3.422,
+      "loc" : "3",
+      "word" : "때는"
+    }, {
+      "start" : 3.653,
+      "end" : 3.946,
+      "loc" : "5",
+      "word" : "바다를"
+    }, {
+      "start" : 4.197,
+      "end" : 4.423,
+      "loc" : "4",
+      "word" : "꼭"
+    }, {
+      "start" : 4.618,
+      "end" : 4.772,
+      "loc" : "6",
+      "word" : "보고"
+    }, {
+      "start" : 4.989,
+      "end" : 5.137,
+      "loc" : "7",
+      "word" : "싶었거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.831,
+      "end" : 2.18,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.498,
+      "end" : 2.73,
+      "gloss_id" : "덥다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.804,
+      "end" : 3.075,
+      "gloss_id" : "쉬다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.251,
+      "end" : 3.422,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.653,
+      "end" : 3.946,
+      "gloss_id" : "바다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.197,
+      "end" : 4.423,
+      "gloss_id" : "약속1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.498,
+      "end" : 2.73
+    }, {
+      "descriptor" : "",
+      "start" : 4.197,
+      "end" : 4.423
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.197,
+      "end" : 4.775
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.989,
+      "end" : 5.137
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.825,
+      "end" : 3.916
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785060",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:25:50",
+    "sentence_ID" : "VXPAKOKS240785060",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

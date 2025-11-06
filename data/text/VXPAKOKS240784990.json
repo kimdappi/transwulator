@@ -1,0 +1,199 @@
+{
+  "id" : "VXPAKOKS240784990",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "거제도랑 통영이랑 가까우니까 둘 다 가는 건 어때?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.528,
+      "end" : 2.816,
+      "gloss_id" : "가난1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.026,
+      "end" : 4.234,
+      "gloss_id" : "화살1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.321,
+      "end" : 4.624,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.915,
+      "end" : 5.649,
+      "gloss_id" : "가깝다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.944,
+      "end" : 6.261,
+      "gloss_id" : "가다7",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.995,
+      "end" : 7.561,
+      "gloss_id" : "괜찮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.206,
+      "end" : 3.721,
+      "gloss_id" : "섬2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.479,
+      "end" : 6.716,
+      "gloss_id" : "가다7",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.528,
+      "end" : 3.707,
+      "loc" : "0",
+      "word" : "거제도랑"
+    }, {
+      "start" : 4.026,
+      "end" : 4.628,
+      "loc" : "1",
+      "word" : "통영이랑"
+    }, {
+      "start" : 4.915,
+      "end" : 5.649,
+      "loc" : "2",
+      "word" : "가까우니까"
+    }, {
+      "start" : 5.944,
+      "end" : 6.714,
+      "loc" : "3,4,5,6",
+      "word" : "둘 다 가는 건"
+    }, {
+      "start" : 6.995,
+      "end" : 7.561,
+      "loc" : "7",
+      "word" : "어때?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.026,
+      "end" : 4.629,
+      "gloss_id" : "화살1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.915,
+      "end" : 5.649,
+      "gloss_id" : "가깝다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.206,
+      "end" : 3.721,
+      "gloss_id" : "섬2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.321,
+      "end" : 4.624
+    }, {
+      "descriptor" : "",
+      "start" : 6.995,
+      "end" : 7.561
+    }, {
+      "descriptor" : "",
+      "start" : 3.206,
+      "end" : 3.721
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.09,
+      "end" : 6.261
+    }, {
+      "descriptor" : "",
+      "start" : 6.487,
+      "end" : 6.71
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.915,
+      "end" : 5.649
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 6.995,
+      "end" : 7.561
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 6.995,
+      "end" : 7.561
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784990",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:25:22",
+    "sentence_ID" : "VXPAKOKS240784990",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

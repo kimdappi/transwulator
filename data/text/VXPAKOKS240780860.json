@@ -1,0 +1,170 @@
+{
+  "id" : "VXPAKOKS240780860",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "아마도 다음 학기에 주로 지하철을 많이 이용할 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.844,
+      "end" : 2.042,
+      "gloss_id" : "아마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.259,
+      "end" : 2.531,
+      "gloss_id" : "다음1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.697,
+      "end" : 4.06,
+      "gloss_id" : "학기",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.56,
+      "end" : 4.828,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.14,
+      "end" : 5.385,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.607,
+      "end" : 5.861,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.844,
+      "end" : 2.042,
+      "loc" : "0",
+      "word" : "아마도"
+    }, {
+      "start" : 2.259,
+      "end" : 2.531,
+      "loc" : "1",
+      "word" : "다음"
+    }, {
+      "start" : 2.697,
+      "end" : 4.06,
+      "loc" : "2",
+      "word" : "학기에"
+    }, {
+      "start" : 4.56,
+      "end" : 4.828,
+      "loc" : "4",
+      "word" : "지하철을"
+    }, {
+      "start" : 5.14,
+      "end" : 5.859,
+      "loc" : "5,6,7,8",
+      "word" : "많이 이용할 거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.56,
+      "end" : 4.828,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.14,
+      "end" : 5.385,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "학기",
+      "start" : 2.697,
+      "end" : 4.06
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.259,
+      "end" : 2.531
+    }, {
+      "descriptor" : "",
+      "start" : 5.14,
+      "end" : 5.385
+    }, {
+      "descriptor" : "",
+      "start" : 5.607,
+      "end" : 5.861
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.27,
+      "end" : 5.372
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.844,
+      "end" : 2.042
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.259,
+      "end" : 4.009
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780860",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:05:50",
+    "sentence_ID" : "VXPAKOKS240780860",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

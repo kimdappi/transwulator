@@ -1,0 +1,186 @@
+{
+  "id" : "VXPAKOKS240789680",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 코로나 이후로 여행을 1번도 안 가 봤으니까.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.407,
+      "end" : 1.692,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.305,
+      "end" : 3.261,
+      "gloss_id" : "코로나1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.593,
+      "end" : 3.909,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.221,
+      "end" : 4.354,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.487,
+      "end" : 4.554,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.748,
+      "end" : 5.216,
+      "gloss_id" : "한적없다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.022,
+      "end" : 4.102,
+      "gloss_id" : "1",
+      "express" : "n",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.407,
+      "end" : 1.692,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 3.593,
+      "end" : 3.909,
+      "loc" : "3",
+      "word" : "여행을"
+    }, {
+      "start" : 2.305,
+      "end" : 3.25,
+      "loc" : "1,2",
+      "word" : "코로나 이후로"
+    }, {
+      "start" : 4.021,
+      "end" : 4.563,
+      "loc" : "4",
+      "word" : "1번도"
+    }, {
+      "start" : 4.748,
+      "end" : 5.216,
+      "loc" : "5,6,7",
+      "word" : "안 가 봤으니까."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.305,
+      "end" : 3.255,
+      "gloss_id" : "코로나1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.593,
+      "end" : 3.909,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.221,
+      "end" : 4.354,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.766,
+      "end" : 3.266
+    }, {
+      "descriptor" : "",
+      "start" : 4.748,
+      "end" : 5.216
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.856,
+      "end" : 2.999
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.305,
+      "end" : 3.277
+    }, {
+      "descriptor" : "",
+      "start" : 4.748,
+      "end" : 4.835
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.407,
+      "end" : 1.692
+    }, {
+      "descriptor" : "",
+      "start" : 3.593,
+      "end" : 4.559
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789680",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:57:07",
+    "sentence_ID" : "VXPAKOKS240789680",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

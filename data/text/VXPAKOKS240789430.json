@@ -1,0 +1,118 @@
+{
+  "id" : "VXPAKOKS240789430",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "형은 혹시 등산 같은 거 자주 가 보셨어요?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.541,
+      "end" : 1.745,
+      "gloss_id" : "형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.249,
+      "end" : 2.798,
+      "gloss_id" : "등산1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.265,
+      "end" : 3.765,
+      "gloss_id" : "여러번1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.541,
+      "end" : 1.745,
+      "loc" : "0",
+      "word" : "형은"
+    }, {
+      "start" : 2.249,
+      "end" : 2.798,
+      "loc" : "1,2,3,4",
+      "word" : "혹시 등산 같은 거"
+    }, {
+      "start" : 3.265,
+      "end" : 3.765,
+      "loc" : "5,6,7",
+      "word" : "자주 가 보셨어요?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.249,
+      "end" : 3.765,
+      "gloss_id" : "등산1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.541,
+      "end" : 1.745
+    }, {
+      "descriptor" : "",
+      "start" : 3.265,
+      "end" : 3.765
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.249,
+      "end" : 2.798
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.249,
+      "end" : 3.774
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.265,
+      "end" : 3.765
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789430",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:55:36",
+    "sentence_ID" : "VXPAKOKS240789430",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

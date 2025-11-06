@@ -1,0 +1,226 @@
+{
+  "id" : "VXPAKOKS240779320",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "공대는 취업도 잘 되고 전망이 좋잖아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.987,
+      "end" : 2.08,
+      "gloss_id" : "기계1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.296,
+      "end" : 2.585,
+      "gloss_id" : "대학3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.92,
+      "end" : 3.048,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.252,
+      "end" : 3.461,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 3.736,
+      "end" : 4.025,
+      "gloss_id" : "기름1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.324,
+      "end" : 4.522,
+      "gloss_id" : "미래1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.777,
+      "end" : 5.126,
+      "gloss_id" : "발전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.343,
+      "end" : 5.516,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.66,
+      "end" : 5.944,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.987,
+      "end" : 2.587,
+      "loc" : "0",
+      "word" : "공대는"
+    }, {
+      "start" : 2.92,
+      "end" : 3.46,
+      "loc" : "1",
+      "word" : "취업도"
+    }, {
+      "start" : 3.736,
+      "end" : 4.025,
+      "loc" : "2,3",
+      "word" : "잘 되고"
+    }, {
+      "start" : 4.324,
+      "end" : 5.13,
+      "loc" : "4",
+      "word" : "전망이"
+    }, {
+      "start" : 5.343,
+      "end" : 5.938,
+      "loc" : "5",
+      "word" : "좋잖아?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.987,
+      "end" : 2.08,
+      "gloss_id" : "기계1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.296,
+      "end" : 2.585,
+      "gloss_id" : "대학3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.92,
+      "end" : 3.048,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.252,
+      "end" : 3.46,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.777,
+      "end" : 5.126,
+      "gloss_id" : "발전1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.296,
+      "end" : 2.585
+    }, {
+      "descriptor" : "",
+      "start" : 3.252,
+      "end" : 3.461
+    }, {
+      "descriptor" : "",
+      "start" : 3.736,
+      "end" : 4.025
+    }, {
+      "descriptor" : "",
+      "start" : 5.343,
+      "end" : 5.516
+    }, {
+      "descriptor" : "",
+      "start" : 5.66,
+      "end" : 5.944
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.249,
+      "end" : 4.028
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.987,
+      "end" : 2.582
+    }, {
+      "descriptor" : "",
+      "start" : 4.777,
+      "end" : 5.126
+    }, {
+      "descriptor" : "",
+      "start" : 5.66,
+      "end" : 5.944
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779320",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 10:57:44",
+    "sentence_ID" : "VXPAKOKS240779320",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

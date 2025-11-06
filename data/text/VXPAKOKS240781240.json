@@ -1,0 +1,135 @@
+{
+  "id" : "VXPAKOKS240781240",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "혹시 기억이 나는 친구 있나요?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 5.973,
+      "end" : 6.414,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.683,
+      "end" : 6.981,
+      "gloss_id" : "만나다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.217,
+      "end" : 7.355,
+      "gloss_id" : "잊다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.519,
+      "end" : 7.716,
+      "gloss_id" : "불가능3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.893,
+      "end" : 8.586,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 5.973,
+      "end" : 6.978,
+      "loc" : "3",
+      "word" : "친구"
+    }, {
+      "start" : 7.217,
+      "end" : 7.691,
+      "loc" : "1,2",
+      "word" : "기억이 나는"
+    }, {
+      "start" : 7.893,
+      "end" : 8.586,
+      "loc" : "0,4",
+      "word" : "혹시 있나요?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 5.973,
+      "end" : 6.414,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.683,
+      "end" : 6.981,
+      "gloss_id" : "만나다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 7.893,
+      "end" : 8.586
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 7.217,
+      "end" : 7.7
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 7.893,
+      "end" : 8.586
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781240",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:07:33",
+    "sentence_ID" : "VXPAKOKS240781240",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

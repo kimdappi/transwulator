@@ -1,0 +1,121 @@
+{
+  "id" : "VXPAKOKS240786530",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "공포 영화 좋아해?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.667,
+      "end" : 1.921,
+      "gloss_id" : "무섭다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.229,
+      "end" : 2.61,
+      "gloss_id" : "영상1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.877,
+      "end" : 3.564,
+      "gloss_id" : "취미1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.667,
+      "end" : 1.921,
+      "loc" : "0",
+      "word" : "공포"
+    }, {
+      "start" : 2.229,
+      "end" : 2.61,
+      "loc" : "1",
+      "word" : "영화"
+    }, {
+      "start" : 2.877,
+      "end" : 3.564,
+      "loc" : "2",
+      "word" : "좋아해?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.667,
+      "end" : 1.921,
+      "gloss_id" : "무섭다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.229,
+      "end" : 2.61,
+      "gloss_id" : "영상1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.877,
+      "end" : 3.564
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.667,
+      "end" : 1.921
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.877,
+      "end" : 3.564
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.229,
+      "end" : 3.562
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786530",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:27:44",
+    "sentence_ID" : "VXPAKOKS240786530",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,124 @@
+{
+  "id" : "VXPAKOKS240789100",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 강원도에 가고 싶어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.415,
+      "end" : 1.627,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.902,
+      "end" : 2.301,
+      "gloss_id" : "강원도1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.439,
+      "end" : 2.538,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.761,
+      "end" : 3.432,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.415,
+      "end" : 1.627,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 1.902,
+      "end" : 2.301,
+      "loc" : "1",
+      "word" : "강원도에"
+    }, {
+      "start" : 2.439,
+      "end" : 2.538,
+      "loc" : "2",
+      "word" : "가고"
+    }, {
+      "start" : 2.761,
+      "end" : 3.432,
+      "loc" : "3",
+      "word" : "싶어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.902,
+      "end" : 2.301,
+      "gloss_id" : "강원도1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.761,
+      "end" : 3.436
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.902,
+      "end" : 3.431
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.439,
+      "end" : 2.538
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240789100",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:52:33",
+    "sentence_ID" : "VXPAKOKS240789100",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

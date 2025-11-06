@@ -1,0 +1,340 @@
+{
+  "id" : "VXPAKOKS240784000",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "내 방이 제일 추운 편이라서 내가 이 집에서 겨울을 겪으면서 방한용품을 많이 써 봤어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.795,
+      "end" : 1.903,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.138,
+      "end" : 2.421,
+      "gloss_id" : "방1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.771,
+      "end" : 2.925,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.16,
+      "end" : 3.487,
+      "gloss_id" : "춥다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.697,
+      "end" : 4.759,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.154,
+      "end" : 5.481,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.95,
+      "end" : 6.677,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.897,
+      "end" : 7.213,
+      "gloss_id" : "춥다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.402,
+      "end" : 8.42,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.642,
+      "end" : 9.109,
+      "gloss_id" : "춥다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.401,
+      "end" : 9.749,
+      "gloss_id" : "돕다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "2",
+        "target" : "1"
+      }
+    }, {
+      "start" : 9.99,
+      "end" : 10.457,
+      "gloss_id" : "물건2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.629,
+      "end" : 10.913,
+      "gloss_id" : "사용1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.062,
+      "end" : 11.313,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.795,
+      "end" : 1.903,
+      "loc" : "0",
+      "word" : "내"
+    }, {
+      "start" : 2.138,
+      "end" : 2.421,
+      "loc" : "1",
+      "word" : "방이"
+    }, {
+      "start" : 2.771,
+      "end" : 2.925,
+      "loc" : "2",
+      "word" : "제일"
+    }, {
+      "start" : 3.16,
+      "end" : 4.74,
+      "loc" : "3,4",
+      "word" : "추운 편이라서"
+    }, {
+      "start" : 5.95,
+      "end" : 6.677,
+      "loc" : "7",
+      "word" : "집에서"
+    }, {
+      "start" : 6.897,
+      "end" : 7.213,
+      "loc" : "8",
+      "word" : "겨울을"
+    }, {
+      "start" : 7.402,
+      "end" : 8.42,
+      "loc" : "9",
+      "word" : "겪으면서"
+    }, {
+      "start" : 8.642,
+      "end" : 10.449,
+      "loc" : "10",
+      "word" : "방한용품을"
+    }, {
+      "start" : 10.629,
+      "end" : 10.913,
+      "loc" : "12,13",
+      "word" : "써 봤어."
+    }, {
+      "start" : 11.062,
+      "end" : 11.313,
+      "loc" : "11",
+      "word" : "많이"
+    }, {
+      "start" : 5.154,
+      "end" : 5.481,
+      "loc" : "6",
+      "word" : "이"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.138,
+      "end" : 2.421,
+      "gloss_id" : "방1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.16,
+      "end" : 5.475,
+      "gloss_id" : "춥다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.95,
+      "end" : 6.677,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.897,
+      "end" : 7.213,
+      "gloss_id" : "춥다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.402,
+      "end" : 8.42,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.642,
+      "end" : 9.109,
+      "gloss_id" : "춥다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.401,
+      "end" : 9.749,
+      "gloss_id" : "돕다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.99,
+      "end" : 10.457,
+      "gloss_id" : "물건2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.629,
+      "end" : 10.913,
+      "gloss_id" : "사용1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 11.062,
+      "end" : 11.313,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.771,
+      "end" : 2.925
+    }, {
+      "descriptor" : "",
+      "start" : 3.697,
+      "end" : 4.186
+    }, {
+      "descriptor" : "",
+      "start" : 11.062,
+      "end" : 11.313
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 11.062,
+      "end" : 11.313
+    }, {
+      "descriptor" : "",
+      "start" : 2.138,
+      "end" : 2.421
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.771,
+      "end" : 3.487
+    }, {
+      "descriptor" : "",
+      "start" : 8.642,
+      "end" : 9.703
+    }, {
+      "descriptor" : "",
+      "start" : 10.629,
+      "end" : 10.913
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.154,
+      "end" : 7.836
+    }, {
+      "descriptor" : "",
+      "start" : 2.138,
+      "end" : 2.421
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784000",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:20:29",
+    "sentence_ID" : "VXPAKOKS240784000",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

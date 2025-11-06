@@ -1,0 +1,196 @@
+{
+  "id" : "VXPAKOKS240786840",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 군대에 있을 때 아이돌을 많이 좋아하지 않았던 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.825,
+      "end" : 2.077,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.398,
+      "end" : 3.428,
+      "gloss_id" : "군대1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.762,
+      "end" : 3.889,
+      "gloss_id" : "젊다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.96,
+      "end" : 4.116,
+      "gloss_id" : "노래1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.968,
+      "end" : 5.089,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.314,
+      "end" : 5.765,
+      "gloss_id" : "광분4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.113,
+      "end" : 6.702,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.484,
+      "end" : 4.788,
+      "gloss_id" : "인기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.825,
+      "end" : 2.077,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.398,
+      "end" : 3.428,
+      "loc" : "1,2,3",
+      "word" : "군대에 있을 때"
+    }, {
+      "start" : 3.762,
+      "end" : 4.784,
+      "loc" : "4",
+      "word" : "아이돌을"
+    }, {
+      "start" : 4.968,
+      "end" : 5.764,
+      "loc" : "5,6",
+      "word" : "많이 좋아하지"
+    }, {
+      "start" : 6.113,
+      "end" : 6.702,
+      "loc" : "7,8,9",
+      "word" : "않았던 거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.398,
+      "end" : 3.428,
+      "gloss_id" : "군대1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.314,
+      "end" : 5.765,
+      "gloss_id" : "광분4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.398,
+      "end" : 3.428
+    }, {
+      "descriptor" : "",
+      "start" : 5.314,
+      "end" : 5.765
+    }, {
+      "descriptor" : "",
+      "start" : 6.113,
+      "end" : 6.702
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.484,
+      "end" : 4.788
+    }, {
+      "descriptor" : "",
+      "start" : 5.314,
+      "end" : 6.696
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 6.113,
+      "end" : 6.702
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.825,
+      "end" : 3.131
+    }, {
+      "descriptor" : "",
+      "start" : 3.762,
+      "end" : 4.785
+    }, {
+      "descriptor" : "",
+      "start" : 5.314,
+      "end" : 5.765
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786840",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:30:05",
+    "sentence_ID" : "VXPAKOKS240786840",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

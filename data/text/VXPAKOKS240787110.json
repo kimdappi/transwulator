@@ -1,0 +1,173 @@
+{
+  "id" : "VXPAKOKS240787110",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "저도 해외 여행 못 간 지 몇 년 된 거 같아요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.363,
+      "end" : 1.487,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.643,
+      "end" : 1.92,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.212,
+      "end" : 2.445,
+      "gloss_id" : "외국3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.643,
+      "end" : 2.778,
+      "gloss_id" : "비행기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.003,
+      "end" : 3.302,
+      "gloss_id" : "한적없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.726,
+      "end" : 4.737,
+      "gloss_id" : "몇년2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.363,
+      "end" : 1.923,
+      "loc" : "0",
+      "word" : "저도"
+    }, {
+      "start" : 2.212,
+      "end" : 2.445,
+      "loc" : "1",
+      "word" : "해외"
+    }, {
+      "start" : 2.643,
+      "end" : 2.778,
+      "loc" : "2",
+      "word" : "여행"
+    }, {
+      "start" : 3.003,
+      "end" : 3.302,
+      "loc" : "3,4,5,6",
+      "word" : "여행 못 간 지"
+    }, {
+      "start" : 3.726,
+      "end" : 4.737,
+      "loc" : "7,8,9,10,11",
+      "word" : "몇 년 된 거 같아요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.726,
+      "end" : 4.737,
+      "gloss_id" : "몇년2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.643,
+      "end" : 1.92,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.212,
+      "end" : 2.445,
+      "gloss_id" : "외국3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.643,
+      "end" : 1.92
+    }, {
+      "descriptor" : "",
+      "start" : 3.003,
+      "end" : 3.302
+    }, {
+      "descriptor" : "",
+      "start" : 3.726,
+      "end" : 4.737
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.363,
+      "end" : 1.917
+    }, {
+      "descriptor" : "",
+      "start" : 2.991,
+      "end" : 4.737
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.212,
+      "end" : 2.445
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787110",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:31:52",
+    "sentence_ID" : "VXPAKOKS240787110",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

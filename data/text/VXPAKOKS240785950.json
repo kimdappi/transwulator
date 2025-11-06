@@ -1,0 +1,257 @@
+{
+  "id" : "VXPAKOKS240785950",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "우리 봄에 서울 할인 행사 같은 게 있어 가지고 되게 저렴하게 갔다 왔잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.186,
+      "end" : 2.683,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.92,
+      "end" : 3.417,
+      "gloss_id" : "따뜻1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.808,
+      "end" : 3.948,
+      "gloss_id" : "서울1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.131,
+      "end" : 4.549,
+      "gloss_id" : "할인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.755,
+      "end" : 5.724,
+      "gloss_id" : "행사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.908,
+      "end" : 6.088,
+      "gloss_id" : "물건2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.286,
+      "end" : 7.092,
+      "gloss_id" : "싸다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.345,
+      "end" : 7.545,
+      "gloss_id" : "오가다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.867,
+      "end" : 8.69,
+      "gloss_id" : "기억1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.65,
+      "end" : 7.743,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.186,
+      "end" : 2.683,
+      "loc" : "0",
+      "word" : "우리"
+    }, {
+      "start" : 2.92,
+      "end" : 3.417,
+      "loc" : "1",
+      "word" : "봄에"
+    }, {
+      "start" : 3.808,
+      "end" : 3.948,
+      "loc" : "2",
+      "word" : "서울"
+    }, {
+      "start" : 4.131,
+      "end" : 4.549,
+      "loc" : "3",
+      "word" : "할인"
+    }, {
+      "start" : 7.345,
+      "end" : 8.683,
+      "loc" : "11,12",
+      "word" : "갔다 왔잖아."
+    }, {
+      "start" : 4.755,
+      "end" : 5.724,
+      "loc" : "4,5,6,7,8",
+      "word" : "행사 같은 게 있어 가지고"
+    }, {
+      "start" : 5.913,
+      "end" : 7.092,
+      "loc" : "9,10",
+      "word" : "되게 저렴하게"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.92,
+      "end" : 3.417,
+      "gloss_id" : "따뜻1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.131,
+      "end" : 4.549,
+      "gloss_id" : "할인1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.755,
+      "end" : 5.724,
+      "gloss_id" : "행사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.908,
+      "end" : 6.088,
+      "gloss_id" : "물건2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.286,
+      "end" : 7.092,
+      "gloss_id" : "싸다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.186,
+      "end" : 2.683
+    }, {
+      "descriptor" : "",
+      "start" : 4.131,
+      "end" : 4.549
+    }, {
+      "descriptor" : "",
+      "start" : 4.755,
+      "end" : 5.724
+    }, {
+      "descriptor" : "",
+      "start" : 6.286,
+      "end" : 7.092
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.816,
+      "end" : 8.207
+    }, {
+      "descriptor" : "",
+      "start" : 6.523,
+      "end" : 7.092
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 7.345,
+      "end" : 8.672
+    }, {
+      "descriptor" : "",
+      "start" : 4.755,
+      "end" : 5.724
+    }, {
+      "descriptor" : "",
+      "start" : 6.523,
+      "end" : 7.092
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.92,
+      "end" : 3.417
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.186,
+      "end" : 2.683
+    }, {
+      "descriptor" : "",
+      "start" : 4.131,
+      "end" : 4.549
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785950",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:23:27",
+    "sentence_ID" : "VXPAKOKS240785950",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

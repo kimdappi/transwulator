@@ -1,0 +1,142 @@
+{
+  "id" : "VXPAKOKS240781890",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "도서관 가 보면 좋을 것 같아요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.619,
+      "end" : 1.714,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.868,
+      "end" : 2.03,
+      "gloss_id" : "읽다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.24,
+      "end" : 2.428,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.654,
+      "end" : 3.658,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 4.025,
+      "end" : 4.546,
+      "gloss_id" : "괜찮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.619,
+      "end" : 2.425,
+      "loc" : "0",
+      "word" : "도서관"
+    }, {
+      "start" : 2.654,
+      "end" : 3.658,
+      "loc" : "1,2",
+      "word" : "가 보면"
+    }, {
+      "start" : 4.025,
+      "end" : 4.546,
+      "loc" : "3,4,5",
+      "word" : "좋을 것 같아요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.619,
+      "end" : 1.714,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.868,
+      "end" : 2.03,
+      "gloss_id" : "읽다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.654,
+      "end" : 3.658,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.654,
+      "end" : 3.658
+    }, {
+      "descriptor" : "",
+      "start" : 4.025,
+      "end" : 4.546
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.619,
+      "end" : 2.42
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781890",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:10:15",
+    "sentence_ID" : "VXPAKOKS240781890",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,164 @@
+{
+  "id" : "VXPAKOKS240780370",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 버스 타고 공항 철도 타고 왔어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.721,
+      "end" : 1.818,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.185,
+      "end" : 2.519,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.685,
+      "end" : 3.244,
+      "gloss_id" : "바꾸다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.432,
+      "end" : 3.695,
+      "gloss_id" : "비행기3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.122,
+      "end" : 4.59,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.874,
+      "end" : 5.046,
+      "gloss_id" : "도착1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.721,
+      "end" : 1.818,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.185,
+      "end" : 2.519,
+      "loc" : "1,2",
+      "word" : "버스 타고"
+    }, {
+      "start" : 2.685,
+      "end" : 4.586,
+      "loc" : "3,4,5",
+      "word" : "공항 철도 타고"
+    }, {
+      "start" : 4.874,
+      "end" : 5.046,
+      "loc" : "6",
+      "word" : "왔어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.185,
+      "end" : 2.519,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.122,
+      "end" : 4.59,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.874,
+      "end" : 5.046,
+      "gloss_id" : "도착1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.185,
+      "end" : 2.519
+    }, {
+      "descriptor" : "",
+      "start" : 2.685,
+      "end" : 3.244
+    }, {
+      "descriptor" : "",
+      "start" : 4.874,
+      "end" : 5.046
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.874,
+      "end" : 5.046
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 2.315,
+      "end" : 3.238
+    } ],
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240780370",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:03:49",
+    "sentence_ID" : "VXPAKOKS240780370",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

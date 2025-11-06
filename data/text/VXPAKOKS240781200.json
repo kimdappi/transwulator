@@ -1,0 +1,242 @@
+{
+  "id" : "VXPAKOKS240781200",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "고등학교 2학년 때 담임 선생님이셨는데 학생에 대한 관심이 너무 없으셔서 제가 기억이 나요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.026,
+      "end" : 2.831,
+      "gloss_id" : "고등학교이학년2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.065,
+      "end" : 3.328,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.495,
+      "end" : 3.662,
+      "gloss_id" : "맡다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.866,
+      "end" : 4.381,
+      "gloss_id" : "교사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.583,
+      "end" : 4.801,
+      "gloss_id" : "학생1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.053,
+      "end" : 5.412,
+      "gloss_id" : "관심1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.62,
+      "end" : 6.024,
+      "gloss_id" : "없다11",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.236,
+      "end" : 6.454,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.546,
+      "end" : 6.62,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.929,
+      "end" : 7.57,
+      "gloss_id" : "기억1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.026,
+      "end" : 2.831,
+      "loc" : "0,1",
+      "word" : "고등학교 2학년"
+    }, {
+      "start" : 3.065,
+      "end" : 3.328,
+      "loc" : "2",
+      "word" : "때"
+    }, {
+      "start" : 3.495,
+      "end" : 3.662,
+      "loc" : "3",
+      "word" : "담임"
+    }, {
+      "start" : 3.866,
+      "end" : 4.381,
+      "loc" : "4",
+      "word" : "선생님이셨는데"
+    }, {
+      "start" : 4.583,
+      "end" : 4.801,
+      "loc" : "5",
+      "word" : "학생에"
+    }, {
+      "start" : 5.053,
+      "end" : 5.412,
+      "loc" : "6,7",
+      "word" : "대한 관심이"
+    }, {
+      "start" : 5.62,
+      "end" : 6.447,
+      "loc" : "8,9",
+      "word" : "너무 없으셔서"
+    }, {
+      "start" : 6.546,
+      "end" : 6.62,
+      "loc" : "10",
+      "word" : "제가"
+    }, {
+      "start" : 6.929,
+      "end" : 7.57,
+      "loc" : "11,12",
+      "word" : "기억이 나요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.065,
+      "end" : 3.328,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.866,
+      "end" : 4.381,
+      "gloss_id" : "교사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.583,
+      "end" : 4.801,
+      "gloss_id" : "학생1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.053,
+      "end" : 5.412,
+      "gloss_id" : "관심1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.62,
+      "end" : 6.024,
+      "gloss_id" : "없다11",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.236,
+      "end" : 6.454,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 6.929,
+      "end" : 7.57
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.369,
+      "end" : 6.506
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.62,
+      "end" : 6.024
+    }, {
+      "descriptor" : "",
+      "start" : 6.929,
+      "end" : 7.57
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240781200",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:07:21",
+    "sentence_ID" : "VXPAKOKS240781200",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

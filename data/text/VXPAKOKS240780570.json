@@ -1,0 +1,227 @@
+{
+  "id" : "VXPAKOKS240780570",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "내 목표는 식품공학과로 이제 지방에 있는 국립 대학교를 목표로 하고 있단 말이야.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.509,
+      "end" : 2.704,
+      "gloss_id" : "지방1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.855,
+      "end" : 3.008,
+      "gloss_id" : "나라1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.104,
+      "end" : 3.269,
+      "gloss_id" : "가지다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.505,
+      "end" : 4.163,
+      "gloss_id" : "대학3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.359,
+      "end" : 4.585,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.761,
+      "end" : 5.998,
+      "gloss_id" : "공학",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.253,
+      "end" : 6.795,
+      "gloss_id" : "전문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.188,
+      "end" : 7.353,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 7.572,
+      "end" : 7.913,
+      "gloss_id" : "목적1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.171,
+      "end" : 8.653,
+      "gloss_id" : "오직1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.855,
+      "end" : 3.264,
+      "loc" : "6",
+      "word" : "국립"
+    }, {
+      "start" : 3.505,
+      "end" : 4.163,
+      "loc" : "7",
+      "word" : "대학교를"
+    }, {
+      "start" : 7.197,
+      "end" : 8.65,
+      "loc" : "8,9,10,11",
+      "word" : "목표로 하고 있단 말이야."
+    }, {
+      "start" : 4.359,
+      "end" : 6.79,
+      "loc" : "2",
+      "word" : "식품공학과로"
+    }, {
+      "start" : 2.509,
+      "end" : 2.704,
+      "loc" : "4,5",
+      "word" : "지방에 있는"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.509,
+      "end" : 2.704,
+      "gloss_id" : "지방1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.855,
+      "end" : 3.27,
+      "gloss_id" : "나라1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.505,
+      "end" : 4.163,
+      "gloss_id" : "대학3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.188,
+      "end" : 7.353,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.572,
+      "end" : 7.913,
+      "gloss_id" : "목적1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "공학",
+      "start" : 4.761,
+      "end" : 5.998
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.104,
+      "end" : 3.269
+    }, {
+      "descriptor" : "",
+      "start" : 3.505,
+      "end" : 4.163
+    }, {
+      "descriptor" : "",
+      "start" : 6.253,
+      "end" : 6.795
+    }, {
+      "descriptor" : "",
+      "start" : 8.171,
+      "end" : 8.653
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 7.188,
+      "end" : 8.638
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 7.188,
+      "end" : 8.644
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240780570",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:04:43",
+    "sentence_ID" : "VXPAKOKS240780570",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

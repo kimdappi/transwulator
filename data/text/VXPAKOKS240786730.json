@@ -1,0 +1,239 @@
+{
+  "id" : "VXPAKOKS240786730",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "나도 결혼식이 지방에서 있을 때는 사실 참석을 잘 못 했던 것 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.773,
+      "end" : 1.912,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.158,
+      "end" : 2.738,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.12,
+      "end" : 3.326,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.611,
+      "end" : 4.251,
+      "gloss_id" : "행사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.598,
+      "end" : 4.965,
+      "gloss_id" : "지방1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.583,
+      "end" : 5.751,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.877,
+      "end" : 6.075,
+      "gloss_id" : "맞다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.355,
+      "end" : 6.678,
+      "gloss_id" : "들어가다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "3"
+      }
+    }, {
+      "start" : 6.917,
+      "end" : 7.13,
+      "gloss_id" : "잘하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.31,
+      "end" : 7.508,
+      "gloss_id" : "아니다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.773,
+      "end" : 2.736,
+      "loc" : "0",
+      "word" : "나도"
+    }, {
+      "start" : 3.12,
+      "end" : 4.238,
+      "loc" : "1",
+      "word" : "결혼식이"
+    }, {
+      "start" : 4.598,
+      "end" : 4.965,
+      "loc" : "2,3,4",
+      "word" : "지방에서 있을 때는"
+    }, {
+      "start" : 5.583,
+      "end" : 6.067,
+      "loc" : "5",
+      "word" : "사실"
+    }, {
+      "start" : 6.355,
+      "end" : 6.678,
+      "loc" : "6",
+      "word" : "참석을"
+    }, {
+      "start" : 6.917,
+      "end" : 7.498,
+      "loc" : "7,8,9,10,11",
+      "word" : "잘 못 했던 것 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.158,
+      "end" : 2.738,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.12,
+      "end" : 3.326,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.611,
+      "end" : 4.251,
+      "gloss_id" : "행사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.598,
+      "end" : 4.965,
+      "gloss_id" : "지방1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.355,
+      "end" : 6.678,
+      "gloss_id" : "들어가다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.917,
+      "end" : 7.13,
+      "gloss_id" : "잘하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.158,
+      "end" : 2.738
+    }, {
+      "descriptor" : "",
+      "start" : 3.611,
+      "end" : 4.251
+    }, {
+      "descriptor" : "",
+      "start" : 6.355,
+      "end" : 6.678
+    }, {
+      "descriptor" : "",
+      "start" : 7.31,
+      "end" : 7.508
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.773,
+      "end" : 2.729
+    }, {
+      "descriptor" : "",
+      "start" : 4.598,
+      "end" : 7.505
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.12,
+      "end" : 4.231
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786730",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:29:22",
+    "sentence_ID" : "VXPAKOKS240786730",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

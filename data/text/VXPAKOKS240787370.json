@@ -1,0 +1,277 @@
+{
+  "id" : "VXPAKOKS240787370",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "나도 로맨스 코미디 진짜 좋아하고 하이틴 영화 진짜 좋아해.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.273,
+      "end" : 1.442,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.565,
+      "end" : 1.964,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.204,
+      "end" : 3.135,
+      "gloss_id" : "사랑1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.388,
+      "end" : 3.528,
+      "gloss_id" : "웃다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.669,
+      "end" : 3.763,
+      "gloss_id" : "장난2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.034,
+      "end" : 4.167,
+      "gloss_id" : "모으다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.5,
+      "end" : 5.036,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.285,
+      "end" : 5.577,
+      "gloss_id" : "젊다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.732,
+      "end" : 5.804,
+      "gloss_id" : "연결2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.91,
+      "end" : 6.417,
+      "gloss_id" : "영상1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.607,
+      "end" : 6.712,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.902,
+      "end" : 7.575,
+      "gloss_id" : "취미1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.273,
+      "end" : 1.953,
+      "loc" : "0",
+      "word" : "나도"
+    }, {
+      "start" : 2.204,
+      "end" : 4.171,
+      "loc" : "1,2",
+      "word" : "로맨스 코미디"
+    }, {
+      "start" : 4.5,
+      "end" : 5.036,
+      "loc" : "3,4",
+      "word" : "진짜 좋아하고"
+    }, {
+      "start" : 5.285,
+      "end" : 5.807,
+      "loc" : "5",
+      "word" : "하이틴"
+    }, {
+      "start" : 5.91,
+      "end" : 6.417,
+      "loc" : "6",
+      "word" : "영화"
+    }, {
+      "start" : 6.607,
+      "end" : 7.561,
+      "loc" : "7,8",
+      "word" : "진짜 좋아해."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.565,
+      "end" : 1.964,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.204,
+      "end" : 3.516,
+      "gloss_id" : "사랑1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.669,
+      "end" : 3.763,
+      "gloss_id" : "장난2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.034,
+      "end" : 4.167,
+      "gloss_id" : "모으다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.732,
+      "end" : 5.804,
+      "gloss_id" : "연결2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.91,
+      "end" : 6.417,
+      "gloss_id" : "영상1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.565,
+      "end" : 1.964
+    }, {
+      "descriptor" : "",
+      "start" : 2.204,
+      "end" : 3.135
+    }, {
+      "descriptor" : "",
+      "start" : 4.034,
+      "end" : 4.167
+    }, {
+      "descriptor" : "",
+      "start" : 4.5,
+      "end" : 5.036
+    }, {
+      "descriptor" : "",
+      "start" : 5.91,
+      "end" : 6.417
+    }, {
+      "descriptor" : "",
+      "start" : 6.902,
+      "end" : 7.575
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.902,
+      "end" : 7.575
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.388,
+      "end" : 3.751
+    }, {
+      "descriptor" : "",
+      "start" : 4.5,
+      "end" : 5.036
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.204,
+      "end" : 3.135
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.034,
+      "end" : 4.167
+    }, {
+      "descriptor" : "",
+      "start" : 5.285,
+      "end" : 6.425
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787370",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:34:06",
+    "sentence_ID" : "VXPAKOKS240787370",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

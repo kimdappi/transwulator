@@ -1,0 +1,218 @@
+{
+  "id" : "VXPAKOKS240786360",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "최근에 그 자가용으로 출퇴근이나 이동을 해 보신 적은 별로 없으신가요?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.585,
+      "end" : 2.062,
+      "gloss_id" : "과거1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.278,
+      "end" : 2.382,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.857,
+      "end" : 3.784,
+      "gloss_id" : "승용차1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.002,
+      "end" : 4.149,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.372,
+      "end" : 4.622,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.831,
+      "end" : 5.578,
+      "gloss_id" : "승용차1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.834,
+      "end" : 6.587,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.905,
+      "end" : 7.539,
+      "gloss_id" : "없다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.507,
+      "end" : 2.725,
+      "gloss_id" : "가지다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.585,
+      "end" : 2.062,
+      "loc" : "0",
+      "word" : "최근에"
+    }, {
+      "start" : 2.263,
+      "end" : 2.382,
+      "loc" : "1",
+      "word" : "그"
+    }, {
+      "start" : 2.507,
+      "end" : 3.787,
+      "loc" : "2",
+      "word" : "자가용으로"
+    }, {
+      "start" : 4.002,
+      "end" : 4.62,
+      "loc" : "3",
+      "word" : "출퇴근이나"
+    }, {
+      "start" : 4.823,
+      "end" : 5.578,
+      "loc" : "4,5",
+      "word" : "이동을 해"
+    }, {
+      "start" : 5.834,
+      "end" : 6.587,
+      "loc" : "6,7",
+      "word" : "보신 적은"
+    }, {
+      "start" : 6.905,
+      "end" : 7.539,
+      "loc" : "8,9",
+      "word" : "별로 없으신가요?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.857,
+      "end" : 3.784,
+      "gloss_id" : "승용차1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.002,
+      "end" : 4.149,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.372,
+      "end" : 4.622,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.857,
+      "end" : 3.784
+    }, {
+      "descriptor" : "",
+      "start" : 5.834,
+      "end" : 6.587
+    }, {
+      "descriptor" : "",
+      "start" : 6.905,
+      "end" : 7.539
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.91,
+      "end" : 6.587
+    } ],
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 6.72,
+      "end" : 7.243
+    } ],
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.857,
+      "end" : 3.784
+    } ],
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 2.507,
+      "end" : 2.725
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.834,
+      "end" : 7.52
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786360",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:26:37",
+    "sentence_ID" : "VXPAKOKS240786360",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

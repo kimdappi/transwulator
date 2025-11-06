@@ -1,0 +1,160 @@
+{
+  "id" : "VXPAKOKS240783350",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "너 오늘 서면 올 때 뭐 타고 왔어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.59,
+      "end" : 1.74,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.907,
+      "end" : 2.234,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.473,
+      "end" : 3.706,
+      "gloss_id" : "서면",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.912,
+      "end" : 4.261,
+      "gloss_id" : "오다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.429,
+      "end" : 4.762,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.909,
+      "end" : 5.145,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.59,
+      "end" : 1.74,
+      "loc" : "0",
+      "word" : "너"
+    }, {
+      "start" : 1.907,
+      "end" : 2.234,
+      "loc" : "1",
+      "word" : "오늘"
+    }, {
+      "start" : 2.473,
+      "end" : 3.706,
+      "loc" : "2",
+      "word" : "서면"
+    }, {
+      "start" : 3.912,
+      "end" : 4.261,
+      "loc" : "3,4",
+      "word" : "올 때"
+    }, {
+      "start" : 4.909,
+      "end" : 5.145,
+      "loc" : "5",
+      "word" : "뭐"
+    }, {
+      "start" : 4.429,
+      "end" : 4.762,
+      "loc" : "6,7",
+      "word" : "타고 왔어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.429,
+      "end" : 4.762,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "서면",
+      "start" : 2.473,
+      "end" : 3.706
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.909,
+      "end" : 5.145
+    }, {
+      "descriptor" : "",
+      "start" : 3.912,
+      "end" : 4.261
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.909,
+      "end" : 5.145
+    }, {
+      "descriptor" : "",
+      "start" : 1.907,
+      "end" : 2.234
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783350",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:17:05",
+    "sentence_ID" : "VXPAKOKS240783350",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

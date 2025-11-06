@@ -1,0 +1,141 @@
+{
+  "id" : "VXPAKOKS240785840",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "내가 쇼핑을 좀 많이 좋아하잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.118,
+      "end" : 2.411,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.642,
+      "end" : 2.807,
+      "gloss_id" : "구경1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.975,
+      "end" : 3.031,
+      "gloss_id" : "옷1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.809,
+      "end" : 3.861,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.136,
+      "end" : 3.652,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 3.998,
+      "end" : 4.71,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.118,
+      "end" : 2.411,
+      "loc" : "0",
+      "word" : "내가"
+    }, {
+      "start" : 2.642,
+      "end" : 3.861,
+      "loc" : "1",
+      "word" : "쇼핑을"
+    }, {
+      "start" : 3.998,
+      "end" : 4.71,
+      "loc" : "2,3,4",
+      "word" : "좀 많이 좋아하잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.136,
+      "end" : 3.652,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.998,
+      "end" : 4.71
+    }, {
+      "descriptor" : "",
+      "start" : 3.136,
+      "end" : 3.652
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.998,
+      "end" : 4.71
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.645,
+      "end" : 3.652
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785840",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:22:37",
+    "sentence_ID" : "VXPAKOKS240785840",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

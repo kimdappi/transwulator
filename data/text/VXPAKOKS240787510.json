@@ -1,0 +1,309 @@
+{
+  "id" : "VXPAKOKS240787510",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "지금은 닭만 키우고 있는데 전에는 새라든지 거북이 물고기 토끼를 키워 봤거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.476,
+      "end" : 1.82,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.031,
+      "end" : 2.153,
+      "gloss_id" : "닭1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.45,
+      "end" : 2.613,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.73,
+      "end" : 2.876,
+      "gloss_id" : "1",
+      "express" : "n",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.05,
+      "end" : 3.369,
+      "gloss_id" : "맞다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.618,
+      "end" : 3.921,
+      "gloss_id" : "과거1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.152,
+      "end" : 4.307,
+      "gloss_id" : "부리2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.489,
+      "end" : 5.055,
+      "gloss_id" : "새1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.393,
+      "end" : 5.901,
+      "gloss_id" : "거북1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.265,
+      "end" : 6.724,
+      "gloss_id" : "물고기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.35,
+      "end" : 7.57,
+      "gloss_id" : "토끼1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.909,
+      "end" : 8.129,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.337,
+      "end" : 8.96,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.476,
+      "end" : 1.82,
+      "loc" : "0",
+      "word" : "지금은"
+    }, {
+      "start" : 2.031,
+      "end" : 2.153,
+      "loc" : "1",
+      "word" : "닭만"
+    }, {
+      "start" : 2.45,
+      "end" : 3.345,
+      "loc" : "2,3",
+      "word" : "키우고 있는데"
+    }, {
+      "start" : 3.618,
+      "end" : 3.921,
+      "loc" : "4",
+      "word" : "전에는"
+    }, {
+      "start" : 4.152,
+      "end" : 5.055,
+      "loc" : "5",
+      "word" : "새라든지"
+    }, {
+      "start" : 5.393,
+      "end" : 5.901,
+      "loc" : "6",
+      "word" : "거북이"
+    }, {
+      "start" : 6.265,
+      "end" : 6.724,
+      "loc" : "7",
+      "word" : "물고기"
+    }, {
+      "start" : 7.35,
+      "end" : 7.57,
+      "loc" : "8",
+      "word" : "토끼를"
+    }, {
+      "start" : 7.909,
+      "end" : 8.129,
+      "loc" : "9",
+      "word" : "키워"
+    }, {
+      "start" : 8.337,
+      "end" : 8.96,
+      "loc" : "10",
+      "word" : "봤거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.476,
+      "end" : 2.149,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.45,
+      "end" : 2.613,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.489,
+      "end" : 5.055,
+      "gloss_id" : "새1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.393,
+      "end" : 5.901,
+      "gloss_id" : "거북1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.265,
+      "end" : 6.724,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.35,
+      "end" : 7.57,
+      "gloss_id" : "토끼1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.909,
+      "end" : 8.129,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.05,
+      "end" : 3.369
+    }, {
+      "descriptor" : "",
+      "start" : 4.489,
+      "end" : 5.055
+    }, {
+      "descriptor" : "",
+      "start" : 5.393,
+      "end" : 5.901
+    }, {
+      "descriptor" : "",
+      "start" : 6.265,
+      "end" : 6.724
+    }, {
+      "descriptor" : "",
+      "start" : 7.35,
+      "end" : 7.562
+    }, {
+      "descriptor" : "",
+      "start" : 8.337,
+      "end" : 8.96
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 8.337,
+      "end" : 8.96
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.039,
+      "end" : 3.345
+    }, {
+      "descriptor" : "",
+      "start" : 7.35,
+      "end" : 9.025
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.05,
+      "end" : 3.369
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.476,
+      "end" : 2.141
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787510",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:35:17",
+    "sentence_ID" : "VXPAKOKS240787510",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

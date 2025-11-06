@@ -1,0 +1,172 @@
+{
+  "id" : "VXPAKOKS240789670",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "코로나가 참 사람들을 많이 변화시킨 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.544,
+      "end" : 2.075,
+      "gloss_id" : "코로나1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.292,
+      "end" : 2.63,
+      "gloss_id" : "원인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.979,
+      "end" : 3.081,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.276,
+      "end" : 3.693,
+      "gloss_id" : "지시2#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.84,
+      "end" : 4.427,
+      "gloss_id" : "변하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.641,
+      "end" : 4.992,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.979,
+      "end" : 3.695,
+      "loc" : "2",
+      "word" : "사람들을"
+    }, {
+      "start" : 3.84,
+      "end" : 4.427,
+      "loc" : "3,4",
+      "word" : "많이 변화시킨"
+    }, {
+      "start" : 4.641,
+      "end" : 4.992,
+      "loc" : "5,6",
+      "word" : "거 같아."
+    }, {
+      "start" : 1.544,
+      "end" : 2.622,
+      "loc" : "0,1",
+      "word" : "코로나가 참"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.544,
+      "end" : 2.075,
+      "gloss_id" : "코로나1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.979,
+      "end" : 3.081,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.84,
+      "end" : 4.427,
+      "gloss_id" : "변하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.418,
+      "end" : 2.63
+    }, {
+      "descriptor" : "",
+      "start" : 4.641,
+      "end" : 4.992
+    }, {
+      "descriptor" : "",
+      "start" : 3.84,
+      "end" : 4.427
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.418,
+      "end" : 2.63
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.544,
+      "end" : 2.075
+    }, {
+      "descriptor" : "",
+      "start" : 3.84,
+      "end" : 4.994
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.292,
+      "end" : 3.727
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789670",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:57:04",
+    "sentence_ID" : "VXPAKOKS240789670",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

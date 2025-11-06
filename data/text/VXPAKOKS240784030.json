@@ -1,0 +1,264 @@
+{
+  "id" : "VXPAKOKS240784030",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "나도 아파트를 살 때 나는 1층하고 15층에서 살아 봤거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.1,
+      "end" : 2.216,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.386,
+      "end" : 2.49,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.75,
+      "end" : 2.922,
+      "gloss_id" : "아파트1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.068,
+      "end" : 3.336,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.521,
+      "end" : 3.912,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.14,
+      "end" : 4.599,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.836,
+      "end" : 5.144,
+      "gloss_id" : "층:1층",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.695,
+      "end" : 5.997,
+      "gloss_id" : "층:15층",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.102,
+      "end" : 6.37,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.598,
+      "end" : 6.845,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.1,
+      "end" : 2.482,
+      "loc" : "0",
+      "word" : "나도"
+    }, {
+      "start" : 2.75,
+      "end" : 2.922,
+      "loc" : "1",
+      "word" : "아파트를"
+    }, {
+      "start" : 3.068,
+      "end" : 3.336,
+      "loc" : "2",
+      "word" : "살"
+    }, {
+      "start" : 3.521,
+      "end" : 3.912,
+      "loc" : "3",
+      "word" : "때"
+    }, {
+      "start" : 4.14,
+      "end" : 4.599,
+      "loc" : "4",
+      "word" : "나는"
+    }, {
+      "start" : 4.836,
+      "end" : 5.144,
+      "loc" : "5",
+      "word" : "1층하고"
+    }, {
+      "start" : 5.695,
+      "end" : 5.997,
+      "loc" : "6",
+      "word" : "15층에서"
+    }, {
+      "start" : 6.102,
+      "end" : 6.848,
+      "loc" : "7,8",
+      "word" : "살아 봤거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.386,
+      "end" : 2.49,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.75,
+      "end" : 2.922,
+      "gloss_id" : "아파트1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.068,
+      "end" : 3.336,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.521,
+      "end" : 4.609,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.836,
+      "end" : 5.144,
+      "gloss_id" : "층:1층",
+      "express" : "d",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.695,
+      "end" : 5.997,
+      "gloss_id" : "층:15층",
+      "express" : "d",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.102,
+      "end" : 6.37,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "일층",
+      "start" : 4.836,
+      "end" : 5.144
+    }, {
+      "descriptor" : "십오층",
+      "start" : 5.695,
+      "end" : 5.997
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.521,
+      "end" : 3.912
+    }, {
+      "descriptor" : "",
+      "start" : 4.836,
+      "end" : 5.144
+    }, {
+      "descriptor" : "",
+      "start" : 5.695,
+      "end" : 5.997
+    }, {
+      "descriptor" : "",
+      "start" : 6.737,
+      "end" : 6.834
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.737,
+      "end" : 6.827
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.14,
+      "end" : 6.854
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.1,
+      "end" : 3.63
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784030",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:20:39",
+    "sentence_ID" : "VXPAKOKS240784030",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

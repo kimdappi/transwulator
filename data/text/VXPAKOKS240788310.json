@@ -1,0 +1,140 @@
+{
+  "id" : "VXPAKOKS240788310",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "공포 영화를 그렇게 즐겨 보지 않았던 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.557,
+      "end" : 1.682,
+      "gloss_id" : "무섭다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.867,
+      "end" : 2.345,
+      "gloss_id" : "영상1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.481,
+      "end" : 2.558,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.728,
+      "end" : 3.023,
+      "gloss_id" : "취미1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.156,
+      "end" : 3.486,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.557,
+      "end" : 1.682,
+      "loc" : "0",
+      "word" : "공포"
+    }, {
+      "start" : 1.867,
+      "end" : 2.345,
+      "loc" : "1",
+      "word" : "영화를"
+    }, {
+      "start" : 2.481,
+      "end" : 3.038,
+      "loc" : "2,3,4",
+      "word" : "그렇게 즐겨 보지"
+    }, {
+      "start" : 3.156,
+      "end" : 3.486,
+      "loc" : "5,6,7",
+      "word" : "않았던 거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.557,
+      "end" : 1.682,
+      "gloss_id" : "무섭다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.867,
+      "end" : 2.345,
+      "gloss_id" : "영상1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.728,
+      "end" : 3.023
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.557,
+      "end" : 3.483
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.156,
+      "end" : 3.486
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240788310",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:45:53",
+    "sentence_ID" : "VXPAKOKS240788310",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

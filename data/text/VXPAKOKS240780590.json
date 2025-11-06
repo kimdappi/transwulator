@@ -1,0 +1,183 @@
+{
+  "id" : "VXPAKOKS240780590",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "너는 이제 인문고가 아니어서 그런데 따로 모의고사 이런 거 본 적은 없는 거지?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.75,
+      "end" : 3.071,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.243,
+      "end" : 4.952,
+      "gloss_id" : "인문고",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.211,
+      "end" : 5.55,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.75,
+      "end" : 6.546,
+      "gloss_id" : "한적없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.721,
+      "end" : 6.968,
+      "gloss_id" : "그러면1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.136,
+      "end" : 7.556,
+      "gloss_id" : "경쟁1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.046,
+      "end" : 8.262,
+      "gloss_id" : "한적없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.455,
+      "end" : 8.69,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.75,
+      "end" : 3.071,
+      "loc" : "0",
+      "word" : "너는"
+    }, {
+      "start" : 3.243,
+      "end" : 4.952,
+      "loc" : "1,2",
+      "word" : "이제 인문고가"
+    }, {
+      "start" : 5.211,
+      "end" : 6.55,
+      "loc" : "3,4,5",
+      "word" : "아니어서 그런데 따로"
+    }, {
+      "start" : 6.721,
+      "end" : 7.56,
+      "loc" : "6,7,8",
+      "word" : "모의고사 이런 거"
+    }, {
+      "start" : 8.046,
+      "end" : 8.688,
+      "loc" : "9,10,11,12",
+      "word" : "본 적은 없는 거지?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 5.211,
+      "end" : 5.55,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.721,
+      "end" : 6.968,
+      "gloss_id" : "그러면1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.136,
+      "end" : 7.556,
+      "gloss_id" : "경쟁1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "인문고",
+      "start" : 3.243,
+      "end" : 4.952
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.75,
+      "end" : 6.546
+    }, {
+      "descriptor" : "",
+      "start" : 8.042,
+      "end" : 8.69
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.75,
+      "end" : 6.182
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240780590",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:04:48",
+    "sentence_ID" : "VXPAKOKS240780590",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

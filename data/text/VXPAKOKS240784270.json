@@ -1,0 +1,172 @@
+{
+  "id" : "VXPAKOKS240784270",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 배달 음식을 되게 많이 시켜 먹은 편이거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.193,
+      "end" : 2.727,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.085,
+      "end" : 3.476,
+      "gloss_id" : "전화하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 3.734,
+      "end" : 3.981,
+      "gloss_id" : "부르다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.123,
+      "end" : 4.37,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.594,
+      "end" : 4.937,
+      "gloss_id" : "가져오다9",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.127,
+      "end" : 5.702,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.078,
+      "end" : 6.4,
+      "gloss_id" : "여러번1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.193,
+      "end" : 2.727,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 3.085,
+      "end" : 3.982,
+      "loc" : "1",
+      "word" : "배달"
+    }, {
+      "start" : 4.123,
+      "end" : 4.37,
+      "loc" : "2",
+      "word" : "음식을"
+    }, {
+      "start" : 4.594,
+      "end" : 4.937,
+      "loc" : "5",
+      "word" : "시켜"
+    }, {
+      "start" : 5.127,
+      "end" : 5.702,
+      "loc" : "6,7",
+      "word" : "먹은 편이거든."
+    }, {
+      "start" : 6.078,
+      "end" : 6.4,
+      "loc" : "3,4",
+      "word" : "되게 많이"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 5.127,
+      "end" : 6.392,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.594,
+      "end" : 4.937,
+      "gloss_id" : "가져오다9",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.127,
+      "end" : 5.702
+    }, {
+      "descriptor" : "",
+      "start" : 6.078,
+      "end" : 6.4
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 6.078,
+      "end" : 6.4
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 6.078,
+      "end" : 6.4
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240784270",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:21:52",
+    "sentence_ID" : "VXPAKOKS240784270",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

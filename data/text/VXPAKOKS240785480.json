@@ -1,0 +1,228 @@
+{
+  "id" : "VXPAKOKS240785480",
+  "opertor" : "label10",
+  "krlgg_sntenc" : {
+    "koreanText" : "나 우등 버스 타 봤는데 그것도 넓고 좋았던 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.404,
+      "end" : 1.634,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.833,
+      "end" : 2.195,
+      "gloss_id" : "고속도로1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.508,
+      "end" : 3.52,
+      "gloss_id" : "우등",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.787,
+      "end" : 4.052,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.309,
+      "end" : 4.518,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.27,
+      "end" : 5.583,
+      "gloss_id" : "넓다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.071,
+      "end" : 6.329,
+      "gloss_id" : "넓다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.66,
+      "end" : 7.049,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.404,
+      "end" : 1.634,
+      "loc" : "0",
+      "word" : "나"
+    }, {
+      "start" : 1.833,
+      "end" : 2.195,
+      "loc" : "2",
+      "word" : "버스"
+    }, {
+      "start" : 2.508,
+      "end" : 3.52,
+      "loc" : "1",
+      "word" : "우등"
+    }, {
+      "start" : 3.787,
+      "end" : 4.052,
+      "loc" : "3",
+      "word" : "타"
+    }, {
+      "start" : 4.309,
+      "end" : 4.518,
+      "loc" : "4",
+      "word" : "봤는데"
+    }, {
+      "start" : 5.27,
+      "end" : 6.33,
+      "loc" : "5,6",
+      "word" : "그것도 넓고"
+    }, {
+      "start" : 6.66,
+      "end" : 7.049,
+      "loc" : "7,8,9",
+      "word" : "좋았던 거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.833,
+      "end" : 2.195,
+      "gloss_id" : "고속도로1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.787,
+      "end" : 4.052,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.27,
+      "end" : 5.583,
+      "gloss_id" : "넓다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.071,
+      "end" : 6.329,
+      "gloss_id" : "넓다3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "우등",
+      "start" : 2.508,
+      "end" : 3.52
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.404,
+      "end" : 1.634
+    }, {
+      "descriptor" : "",
+      "start" : 2.508,
+      "end" : 3.52
+    }, {
+      "descriptor" : "",
+      "start" : 6.66,
+      "end" : 7.049
+    }, {
+      "descriptor" : "",
+      "start" : 5.27,
+      "end" : 5.583
+    }, {
+      "descriptor" : "",
+      "start" : 6.071,
+      "end" : 6.329
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.309,
+      "end" : 4.518
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.27,
+      "end" : 7.028
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 1.404,
+      "end" : 2.194
+    }, {
+      "descriptor" : "",
+      "start" : 3.787,
+      "end" : 4.052
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.404,
+      "end" : 4.518
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785480",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 01:55:02",
+    "sentence_ID" : "VXPAKOKS240785480",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

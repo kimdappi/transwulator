@@ -1,0 +1,223 @@
+{
+  "id" : "VXPAKOKS240784730",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "호박잎쌈은 이 여름 지나면 못 먹잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.852,
+      "end" : 2.025,
+      "gloss_id" : "호박1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.215,
+      "end" : 2.483,
+      "gloss_id" : "초록3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.68,
+      "end" : 2.948,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.588,
+      "end" : 3.755,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.089,
+      "end" : 4.473,
+      "gloss_id" : "덥다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.757,
+      "end" : 5.772,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.031,
+      "end" : 6.139,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.326,
+      "end" : 6.529,
+      "gloss_id" : "기회1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.731,
+      "end" : 6.999,
+      "gloss_id" : "없다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.852,
+      "end" : 2.96,
+      "loc" : "0",
+      "word" : "호박잎쌈은"
+    }, {
+      "start" : 4.089,
+      "end" : 4.473,
+      "loc" : "1,2",
+      "word" : "이 여름"
+    }, {
+      "start" : 4.757,
+      "end" : 5.772,
+      "loc" : "3",
+      "word" : "지나면"
+    }, {
+      "start" : 6.031,
+      "end" : 6.98,
+      "loc" : "4,5",
+      "word" : "못 먹잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.852,
+      "end" : 2.025,
+      "gloss_id" : "호박1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.108,
+      "end" : 3.746,
+      "gloss_id" : "먹다4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.089,
+      "end" : 4.473,
+      "gloss_id" : "덥다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.757,
+      "end" : 5.772,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.326,
+      "end" : 6.529,
+      "gloss_id" : "기회1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.731,
+      "end" : 6.999,
+      "gloss_id" : "없다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.68,
+      "end" : 2.948,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.588,
+      "end" : 3.755
+    }, {
+      "descriptor" : "",
+      "start" : 4.973,
+      "end" : 5.473
+    }, {
+      "descriptor" : "",
+      "start" : 6.825,
+      "end" : 6.999
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.973,
+      "end" : 5.473
+    }, {
+      "descriptor" : "",
+      "start" : 6.832,
+      "end" : 6.999
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.852,
+      "end" : 3.736
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784730",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:24:18",
+    "sentence_ID" : "VXPAKOKS240784730",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

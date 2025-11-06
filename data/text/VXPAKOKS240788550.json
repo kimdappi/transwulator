@@ -1,0 +1,144 @@
+{
+  "id" : "VXPAKOKS240788550",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "자기는 어디에 취직하고 싶어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.233,
+      "end" : 1.408,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.628,
+      "end" : 1.755,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.874,
+      "end" : 2.045,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.256,
+      "end" : 2.431,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.631,
+      "end" : 3.57,
+      "gloss_id" : "어디3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.233,
+      "end" : 1.408,
+      "loc" : "0",
+      "word" : "자기는"
+    }, {
+      "start" : 1.628,
+      "end" : 2.04,
+      "loc" : "2",
+      "word" : "취직하고"
+    }, {
+      "start" : 2.256,
+      "end" : 2.431,
+      "loc" : "3",
+      "word" : "싶어?"
+    }, {
+      "start" : 2.631,
+      "end" : 3.57,
+      "loc" : "1",
+      "word" : "어디에"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.628,
+      "end" : 1.755,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.874,
+      "end" : 2.045,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.631,
+      "end" : 3.57
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.256,
+      "end" : 2.431
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.256,
+      "end" : 2.431
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.631,
+      "end" : 3.57
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788550",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:47:30",
+    "sentence_ID" : "VXPAKOKS240788550",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

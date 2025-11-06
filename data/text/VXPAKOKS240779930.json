@@ -1,0 +1,199 @@
+{
+  "id" : "VXPAKOKS240779930",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "너는 이번에 부산으로 휴가 갈 수도 있잖아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.171,
+      "end" : 2.38,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.605,
+      "end" : 2.725,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.92,
+      "end" : 3.286,
+      "gloss_id" : "부산1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.498,
+      "end" : 3.714,
+      "gloss_id" : "쉬다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.872,
+      "end" : 4.111,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.193,
+      "end" : 4.335,
+      "gloss_id" : "가능1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.442,
+      "end" : 4.703,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.171,
+      "end" : 2.38,
+      "loc" : "0",
+      "word" : "너는"
+    }, {
+      "start" : 2.605,
+      "end" : 2.725,
+      "loc" : "1",
+      "word" : "이번에"
+    }, {
+      "start" : 2.92,
+      "end" : 3.286,
+      "loc" : "2",
+      "word" : "부산으로"
+    }, {
+      "start" : 3.498,
+      "end" : 3.714,
+      "loc" : "3",
+      "word" : "휴가"
+    }, {
+      "start" : 3.872,
+      "end" : 4.111,
+      "loc" : "4",
+      "word" : "갈"
+    }, {
+      "start" : 4.193,
+      "end" : 4.708,
+      "loc" : "5,6",
+      "word" : "수도 있잖아?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.605,
+      "end" : 2.725,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.92,
+      "end" : 3.286,
+      "gloss_id" : "부산1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.498,
+      "end" : 3.714,
+      "gloss_id" : "쉬다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.605,
+      "end" : 2.725
+    }, {
+      "descriptor" : "",
+      "start" : 3.498,
+      "end" : 3.714
+    }, {
+      "descriptor" : "",
+      "start" : 4.193,
+      "end" : 4.335
+    }, {
+      "descriptor" : "",
+      "start" : 3.872,
+      "end" : 4.111
+    }, {
+      "descriptor" : "",
+      "start" : 4.442,
+      "end" : 4.703
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.193,
+      "end" : 4.335
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.872,
+      "end" : 4.111
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.605,
+      "end" : 3.706
+    }, {
+      "descriptor" : "",
+      "start" : 4.442,
+      "end" : 4.703
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779930",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:02:02",
+    "sentence_ID" : "VXPAKOKS240779930",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

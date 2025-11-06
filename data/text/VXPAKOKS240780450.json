@@ -1,0 +1,363 @@
+{
+  "id" : "VXPAKOKS240780450",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "서울 밖에서 사는 사람들은 항상 막차 시간을 되게 중요하게 생각하는 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.541,
+      "end" : 1.821,
+      "gloss_id" : "서울1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.08,
+      "end" : 2.231,
+      "gloss_id" : "지역1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.485,
+      "end" : 2.739,
+      "gloss_id" : "밖3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.869,
+      "end" : 3.104,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.252,
+      "end" : 3.39,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.532,
+      "end" : 4.045,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.268,
+      "end" : 4.8,
+      "gloss_id" : "항상1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.09,
+      "end" : 5.415,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.585,
+      "end" : 6.053,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.318,
+      "end" : 7.012,
+      "gloss_id" : "시간2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.294,
+      "end" : 7.458,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.626,
+      "end" : 7.744,
+      "gloss_id" : "때2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.018,
+      "end" : 8.466,
+      "gloss_id" : "신경1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.573,
+      "end" : 8.918,
+      "gloss_id" : "중요1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.176,
+      "end" : 9.417,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.541,
+      "end" : 2.228,
+      "loc" : "0",
+      "word" : "서울"
+    }, {
+      "start" : 2.485,
+      "end" : 2.739,
+      "loc" : "1",
+      "word" : "밖에서"
+    }, {
+      "start" : 2.869,
+      "end" : 3.104,
+      "loc" : "2",
+      "word" : "사는"
+    }, {
+      "start" : 3.252,
+      "end" : 4.043,
+      "loc" : "3",
+      "word" : "사람들은"
+    }, {
+      "start" : 4.268,
+      "end" : 4.8,
+      "loc" : "4",
+      "word" : "항상"
+    }, {
+      "start" : 5.087,
+      "end" : 7.452,
+      "loc" : "5",
+      "word" : "막차"
+    }, {
+      "start" : 7.626,
+      "end" : 7.744,
+      "loc" : "6",
+      "word" : "시간을"
+    }, {
+      "start" : 8.018,
+      "end" : 8.466,
+      "loc" : "9",
+      "word" : "생각하는"
+    }, {
+      "start" : 8.573,
+      "end" : 8.918,
+      "loc" : "7,8",
+      "word" : "되게 중요하게"
+    }, {
+      "start" : 9.176,
+      "end" : 9.417,
+      "loc" : "10,11",
+      "word" : "거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.08,
+      "end" : 2.735,
+      "gloss_id" : "지역1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.869,
+      "end" : 3.104,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.252,
+      "end" : 4.043,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.268,
+      "end" : 4.8,
+      "gloss_id" : "항상1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.09,
+      "end" : 5.415,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.585,
+      "end" : 6.053,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.318,
+      "end" : 7.012,
+      "gloss_id" : "시간2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.294,
+      "end" : 7.458,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.626,
+      "end" : 7.744,
+      "gloss_id" : "때2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.018,
+      "end" : 8.466,
+      "gloss_id" : "신경1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.573,
+      "end" : 8.918,
+      "gloss_id" : "중요1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.485,
+      "end" : 2.739
+    }, {
+      "descriptor" : "",
+      "start" : 3.532,
+      "end" : 4.045
+    }, {
+      "descriptor" : "",
+      "start" : 4.268,
+      "end" : 4.8
+    }, {
+      "descriptor" : "",
+      "start" : 5.09,
+      "end" : 5.415
+    }, {
+      "descriptor" : "",
+      "start" : 5.585,
+      "end" : 6.053
+    }, {
+      "descriptor" : "",
+      "start" : 7.294,
+      "end" : 7.458
+    }, {
+      "descriptor" : "",
+      "start" : 7.626,
+      "end" : 7.744
+    }, {
+      "descriptor" : "",
+      "start" : 8.573,
+      "end" : 8.918
+    }, {
+      "descriptor" : "",
+      "start" : 9.176,
+      "end" : 9.417
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.626,
+      "end" : 7.744
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.268,
+      "end" : 6.055
+    }, {
+      "descriptor" : "",
+      "start" : 8.573,
+      "end" : 8.918
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.485,
+      "end" : 3.337
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780450",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:04:09",
+    "sentence_ID" : "VXPAKOKS240780450",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,340 @@
+{
+  "id" : "VXPAKOKS240783990",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 지금도 우리 가족이 살고 있는 집에서 집안일을 나름 분담하면서 하고 있다고 생각을 하거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.642,
+      "end" : 1.761,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.921,
+      "end" : 2.031,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.23,
+      "end" : 2.427,
+      "gloss_id" : "같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.596,
+      "end" : 2.683,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.874,
+      "end" : 3.287,
+      "gloss_id" : "가족2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.477,
+      "end" : 3.891,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.145,
+      "end" : 4.593,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.787,
+      "end" : 5.01,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.267,
+      "end" : 5.914,
+      "gloss_id" : "가정1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.181,
+      "end" : 6.447,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.57,
+      "end" : 7.754,
+      "gloss_id" : "구분하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.99,
+      "end" : 8.143,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.312,
+      "end" : 8.491,
+      "gloss_id" : "중1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.791,
+      "end" : 8.945,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.642,
+      "end" : 1.761,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 1.921,
+      "end" : 2.43,
+      "loc" : "1",
+      "word" : "지금도"
+    }, {
+      "start" : 2.596,
+      "end" : 2.691,
+      "loc" : "2",
+      "word" : "우리"
+    }, {
+      "start" : 2.874,
+      "end" : 3.287,
+      "loc" : "3",
+      "word" : "가족이"
+    }, {
+      "start" : 3.477,
+      "end" : 3.891,
+      "loc" : "4,5",
+      "word" : "살고 있는"
+    }, {
+      "start" : 4.145,
+      "end" : 5.009,
+      "loc" : "6",
+      "word" : "집에서"
+    }, {
+      "start" : 5.267,
+      "end" : 6.451,
+      "loc" : "7",
+      "word" : "집안일을"
+    }, {
+      "start" : 6.57,
+      "end" : 7.754,
+      "loc" : "8,9",
+      "word" : "나름 분담하면서"
+    }, {
+      "start" : 7.99,
+      "end" : 8.143,
+      "loc" : "10",
+      "word" : "하고"
+    }, {
+      "start" : 8.312,
+      "end" : 8.491,
+      "loc" : "11",
+      "word" : "있다고"
+    }, {
+      "start" : 8.808,
+      "end" : 8.945,
+      "loc" : "12,13",
+      "word" : "생각을 하거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.921,
+      "end" : 2.031,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.23,
+      "end" : 2.427,
+      "gloss_id" : "같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.874,
+      "end" : 3.287,
+      "gloss_id" : "가족2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.477,
+      "end" : 3.891,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.145,
+      "end" : 5.009,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.267,
+      "end" : 5.914,
+      "gloss_id" : "가정1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.181,
+      "end" : 6.447,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.57,
+      "end" : 7.754,
+      "gloss_id" : "구분하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.99,
+      "end" : 8.143,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.312,
+      "end" : 8.491,
+      "gloss_id" : "중1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.23,
+      "end" : 2.427
+    }, {
+      "descriptor" : "",
+      "start" : 4.787,
+      "end" : 5.01
+    }, {
+      "descriptor" : "",
+      "start" : 6.57,
+      "end" : 7.754
+    }, {
+      "descriptor" : "",
+      "start" : 8.791,
+      "end" : 8.945
+    }, {
+      "descriptor" : "",
+      "start" : 8.312,
+      "end" : 8.491
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.787,
+      "end" : 5.01
+    }, {
+      "descriptor" : "",
+      "start" : 6.57,
+      "end" : 7.754
+    }, {
+      "descriptor" : "",
+      "start" : 2.23,
+      "end" : 2.427
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.921,
+      "end" : 2.031
+    }, {
+      "descriptor" : "",
+      "start" : 2.874,
+      "end" : 5.037
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783990",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:20:18",
+    "sentence_ID" : "VXPAKOKS240783990",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

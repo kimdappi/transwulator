@@ -1,0 +1,196 @@
+{
+  "id" : "VXPAKOKS240788230",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "이제 겨울 되면 에너지 소비가 더 증가하잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.167,
+      "end" : 1.432,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.664,
+      "end" : 1.957,
+      "gloss_id" : "춥다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.172,
+      "end" : 2.627,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.975,
+      "end" : 3.374,
+      "gloss_id" : "전기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.913,
+      "end" : 4.374,
+      "gloss_id" : "더1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.594,
+      "end" : 5.155,
+      "gloss_id" : "요금1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.167,
+      "end" : 1.432,
+      "loc" : "0",
+      "word" : "이제"
+    }, {
+      "start" : 1.664,
+      "end" : 1.957,
+      "loc" : "1",
+      "word" : "겨울"
+    }, {
+      "start" : 2.172,
+      "end" : 2.627,
+      "loc" : "2",
+      "word" : "되면"
+    }, {
+      "start" : 2.975,
+      "end" : 3.374,
+      "loc" : "3,4",
+      "word" : "에너지 소비가"
+    }, {
+      "start" : 3.913,
+      "end" : 4.374,
+      "loc" : "5",
+      "word" : "더"
+    }, {
+      "start" : 4.594,
+      "end" : 5.155,
+      "loc" : "6",
+      "word" : "증가하잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.167,
+      "end" : 1.432,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.664,
+      "end" : 1.957,
+      "gloss_id" : "춥다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.172,
+      "end" : 2.627,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.975,
+      "end" : 3.374,
+      "gloss_id" : "전기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.913,
+      "end" : 4.374,
+      "gloss_id" : "더1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.172,
+      "end" : 2.627
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.172,
+      "end" : 2.627
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.975,
+      "end" : 3.374
+    }, {
+      "descriptor" : "",
+      "start" : 3.913,
+      "end" : 5.144
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 4.594,
+      "end" : 5.082
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.167,
+      "end" : 2.621
+    }, {
+      "descriptor" : "",
+      "start" : 3.577,
+      "end" : 3.759
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788230",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:42:42",
+    "sentence_ID" : "VXPAKOKS240788230",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

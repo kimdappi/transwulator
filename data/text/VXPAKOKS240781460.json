@@ -1,0 +1,181 @@
+{
+  "id" : "VXPAKOKS240781460",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 만약에 키우게 된다면 고양이를 한번 길러 보고 싶어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.709,
+      "end" : 2.182,
+      "gloss_id" : "만약2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.589,
+      "end" : 2.902,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.125,
+      "end" : 3.63,
+      "gloss_id" : "기회1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.874,
+      "end" : 4.242,
+      "gloss_id" : "고양이1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.449,
+      "end" : 4.735,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.937,
+      "end" : 5.234,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.589,
+      "end" : 2.902,
+      "loc" : "2",
+      "word" : "키우게"
+    }, {
+      "start" : 3.125,
+      "end" : 3.63,
+      "loc" : "3",
+      "word" : "된다면"
+    }, {
+      "start" : 1.709,
+      "end" : 2.182,
+      "loc" : "0,1",
+      "word" : "나는 만약에"
+    }, {
+      "start" : 3.874,
+      "end" : 4.242,
+      "loc" : "4",
+      "word" : "고양이를"
+    }, {
+      "start" : 4.449,
+      "end" : 4.735,
+      "loc" : "5,6,7",
+      "word" : "한번 길러 보고"
+    }, {
+      "start" : 4.937,
+      "end" : 5.234,
+      "loc" : "8",
+      "word" : "싶어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.709,
+      "end" : 2.182,
+      "gloss_id" : "만약2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.589,
+      "end" : 2.902,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.125,
+      "end" : 3.63,
+      "gloss_id" : "기회1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.449,
+      "end" : 4.735,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.125,
+      "end" : 3.63
+    }, {
+      "descriptor" : "",
+      "start" : 4.937,
+      "end" : 5.234
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.709,
+      "end" : 2.182
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.449,
+      "end" : 5.224
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.589,
+      "end" : 3.633
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781460",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:08:34",
+    "sentence_ID" : "VXPAKOKS240781460",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,160 @@
+{
+  "id" : "VXPAKOKS240780050",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "다들 이번에 몇 학점 들어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.473,
+      "end" : 2.865,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.131,
+      "end" : 3.406,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.704,
+      "end" : 3.887,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.204,
+      "end" : 4.404,
+      "gloss_id" : "신청1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 4.61,
+      "end" : 4.789,
+      "gloss_id" : "점수1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.93,
+      "end" : 5.192,
+      "gloss_id" : "얼마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.473,
+      "end" : 2.865,
+      "loc" : "0",
+      "word" : "다들"
+    }, {
+      "start" : 3.131,
+      "end" : 3.406,
+      "loc" : "1",
+      "word" : "이번에"
+    }, {
+      "start" : 4.93,
+      "end" : 5.192,
+      "loc" : "2",
+      "word" : "몇"
+    }, {
+      "start" : 3.704,
+      "end" : 4.795,
+      "loc" : "3,4",
+      "word" : "학점 들어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.131,
+      "end" : 3.406,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.704,
+      "end" : 3.887,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.204,
+      "end" : 4.404,
+      "gloss_id" : "신청1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.131,
+      "end" : 3.406
+    }, {
+      "descriptor" : "",
+      "start" : 4.204,
+      "end" : 4.404
+    }, {
+      "descriptor" : "",
+      "start" : 4.604,
+      "end" : 5.192
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.603,
+      "end" : 5.214
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780050",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:02:35",
+    "sentence_ID" : "VXPAKOKS240780050",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

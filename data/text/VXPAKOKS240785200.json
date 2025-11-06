@@ -1,0 +1,193 @@
+{
+  "id" : "VXPAKOKS240785200",
+  "opertor" : "label10",
+  "krlgg_sntenc" : {
+    "koreanText" : "이제 경제 공부가 진짜 중요하구나 생각이 드네.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.752,
+      "end" : 2.186,
+      "gloss_id" : "경제1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.424,
+      "end" : 2.648,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.962,
+      "end" : 3.357,
+      "gloss_id" : "중요1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.784,
+      "end" : 4.157,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.505,
+      "end" : 4.607,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.953,
+      "end" : 5.724,
+      "gloss_id" : "깨닫다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.752,
+      "end" : 2.186,
+      "loc" : "1",
+      "word" : "경제"
+    }, {
+      "start" : 2.424,
+      "end" : 2.648,
+      "loc" : "2",
+      "word" : "공부가"
+    }, {
+      "start" : 2.962,
+      "end" : 3.357,
+      "loc" : "4",
+      "word" : "중요하구나"
+    }, {
+      "start" : 3.784,
+      "end" : 4.157,
+      "loc" : "3",
+      "word" : "진짜"
+    }, {
+      "start" : 4.505,
+      "end" : 4.607,
+      "loc" : "0",
+      "word" : "이제"
+    }, {
+      "start" : 4.953,
+      "end" : 5.724,
+      "loc" : "5,6",
+      "word" : "생각이 드네."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.752,
+      "end" : 2.186,
+      "gloss_id" : "경제1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.424,
+      "end" : 2.648,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.962,
+      "end" : 3.357,
+      "gloss_id" : "중요1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.505,
+      "end" : 4.607,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.962,
+      "end" : 3.357
+    }, {
+      "descriptor" : "",
+      "start" : 3.784,
+      "end" : 4.157
+    }, {
+      "descriptor" : "",
+      "start" : 4.505,
+      "end" : 4.607
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.784,
+      "end" : 4.157
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.962,
+      "end" : 3.357
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.953,
+      "end" : 5.724
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.505,
+      "end" : 4.607
+    }, {
+      "descriptor" : "",
+      "start" : 1.752,
+      "end" : 2.634
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785200",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 01:35:16",
+    "sentence_ID" : "VXPAKOKS240785200",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

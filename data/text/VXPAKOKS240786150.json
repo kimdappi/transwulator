@@ -1,0 +1,149 @@
+{
+  "id" : "VXPAKOKS240786150",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "부산은 케이티엑스를 타고 가는 게 제일 좋더라고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.46,
+      "end" : 1.772,
+      "gloss_id" : "부산1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.909,
+      "end" : 2.23,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.33,
+      "end" : 3.064,
+      "gloss_id" : "케이티엑스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.302,
+      "end" : 3.435,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.632,
+      "end" : 4.057,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.46,
+      "end" : 1.772,
+      "loc" : "0",
+      "word" : "부산은"
+    }, {
+      "start" : 2.33,
+      "end" : 3.064,
+      "loc" : "1",
+      "word" : "케이티엑스를"
+    }, {
+      "start" : 3.302,
+      "end" : 3.435,
+      "loc" : "5",
+      "word" : "제일"
+    }, {
+      "start" : 3.632,
+      "end" : 4.057,
+      "loc" : "6",
+      "word" : "좋더라고."
+    }, {
+      "start" : 1.909,
+      "end" : 2.23,
+      "loc" : "2,3,4",
+      "word" : "타고 가는 게"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.46,
+      "end" : 1.772,
+      "gloss_id" : "부산1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.33,
+      "end" : 3.064,
+      "gloss_id" : "케이티엑스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.33,
+      "end" : 3.064
+    }, {
+      "descriptor" : "",
+      "start" : 3.632,
+      "end" : 4.057
+    }, {
+      "descriptor" : "",
+      "start" : 3.302,
+      "end" : 3.435
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.46,
+      "end" : 2.223
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786150",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:24:41",
+    "sentence_ID" : "VXPAKOKS240786150",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

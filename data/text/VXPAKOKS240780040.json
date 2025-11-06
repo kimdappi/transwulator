@@ -1,0 +1,106 @@
+{
+  "id" : "VXPAKOKS240780040",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "학교 가기 싫다.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.487,
+      "end" : 1.592,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.692,
+      "end" : 1.857,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.432,
+      "end" : 2.757,
+      "gloss_id" : "싫다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.487,
+      "end" : 1.592,
+      "loc" : "0",
+      "word" : "학교"
+    }, {
+      "start" : 1.692,
+      "end" : 1.857,
+      "loc" : "1",
+      "word" : "가기"
+    }, {
+      "start" : 2.432,
+      "end" : 2.757,
+      "loc" : "2",
+      "word" : "싫다."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.487,
+      "end" : 1.592,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.692,
+      "end" : 1.857
+    }, {
+      "descriptor" : "",
+      "start" : 2.432,
+      "end" : 2.757
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240780040",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:02:32",
+    "sentence_ID" : "VXPAKOKS240780040",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

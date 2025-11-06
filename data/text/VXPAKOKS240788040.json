@@ -1,0 +1,177 @@
+{
+  "id" : "VXPAKOKS240788040",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "결혼식 할 때 돈이 진짜 많이 든대.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.542,
+      "end" : 2.102,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.375,
+      "end" : 2.833,
+      "gloss_id" : "행사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.204,
+      "end" : 3.734,
+      "gloss_id" : "사용1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.025,
+      "end" : 4.327,
+      "gloss_id" : "크다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.583,
+      "end" : 4.759,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.986,
+      "end" : 5.414,
+      "gloss_id" : "말하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "2",
+        "target" : "1"
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.542,
+      "end" : 2.828,
+      "loc" : "0,1,2",
+      "word" : "결혼식 할 때"
+    }, {
+      "start" : 3.204,
+      "end" : 3.734,
+      "loc" : "3",
+      "word" : "돈이"
+    }, {
+      "start" : 4.025,
+      "end" : 4.327,
+      "loc" : "5",
+      "word" : "많이"
+    }, {
+      "start" : 4.583,
+      "end" : 4.759,
+      "loc" : "4",
+      "word" : "진짜"
+    }, {
+      "start" : 4.986,
+      "end" : 5.414,
+      "loc" : "6",
+      "word" : "든대."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.542,
+      "end" : 2.102,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.375,
+      "end" : 2.833,
+      "gloss_id" : "행사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.204,
+      "end" : 3.734,
+      "gloss_id" : "사용1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.375,
+      "end" : 2.833
+    }, {
+      "descriptor" : "",
+      "start" : 4.589,
+      "end" : 4.759
+    }, {
+      "descriptor" : "",
+      "start" : 5.042,
+      "end" : 5.414
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.589,
+      "end" : 4.759
+    }, {
+      "descriptor" : "",
+      "start" : 5.038,
+      "end" : 5.414
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.204,
+      "end" : 4.322
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.375,
+      "end" : 2.833
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788040",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:39:47",
+    "sentence_ID" : "VXPAKOKS240788040",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

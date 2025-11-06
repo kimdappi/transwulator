@@ -1,0 +1,180 @@
+{
+  "id" : "VXPAKOKS240781040",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "난 계획을 짜는 게 무조건적으로 좋다고 보고 있어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.112,
+      "end" : 2.176,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.417,
+      "end" : 2.917,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.098,
+      "end" : 3.267,
+      "gloss_id" : "꽉끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.454,
+      "end" : 4.654,
+      "gloss_id" : "완전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.942,
+      "end" : 5.277,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.559,
+      "end" : 5.735,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.934,
+      "end" : 6.091,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.112,
+      "end" : 2.176,
+      "loc" : "0",
+      "word" : "난"
+    }, {
+      "start" : 2.417,
+      "end" : 2.917,
+      "loc" : "1",
+      "word" : "계획을"
+    }, {
+      "start" : 3.098,
+      "end" : 4.666,
+      "loc" : "2,3",
+      "word" : "짜는 게"
+    }, {
+      "start" : 4.942,
+      "end" : 5.277,
+      "loc" : "4",
+      "word" : "무조건적으로"
+    }, {
+      "start" : 5.559,
+      "end" : 5.735,
+      "loc" : "5",
+      "word" : "좋다고"
+    }, {
+      "start" : 5.934,
+      "end" : 6.091,
+      "loc" : "6,7",
+      "word" : "보고 있어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.417,
+      "end" : 2.917,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.454,
+      "end" : 4.654,
+      "gloss_id" : "완전1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.559,
+      "end" : 5.735
+    }, {
+      "descriptor" : "",
+      "start" : 5.934,
+      "end" : 6.091
+    }, {
+      "descriptor" : "",
+      "start" : 3.454,
+      "end" : 4.654
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.098,
+      "end" : 4.609
+    }, {
+      "descriptor" : "",
+      "start" : 5.559,
+      "end" : 5.735
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.098,
+      "end" : 5.729
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240781040",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:06:34",
+    "sentence_ID" : "VXPAKOKS240781040",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

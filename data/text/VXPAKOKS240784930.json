@@ -1,0 +1,118 @@
+{
+  "id" : "VXPAKOKS240784930",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "꿀빵이 뭐야?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.521,
+      "end" : 1.827,
+      "gloss_id" : "모기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.106,
+      "end" : 2.248,
+      "gloss_id" : "빵1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.311,
+      "end" : 2.471,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.654,
+      "end" : 2.957,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.521,
+      "end" : 2.465,
+      "loc" : "0",
+      "word" : "꿀빵이"
+    }, {
+      "start" : 2.654,
+      "end" : 2.957,
+      "loc" : "1",
+      "word" : "뭐야?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.106,
+      "end" : 2.953,
+      "gloss_id" : "빵1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.106,
+      "end" : 2.248
+    }, {
+      "descriptor" : "",
+      "start" : 2.654,
+      "end" : 2.957
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.311,
+      "end" : 2.944
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.654,
+      "end" : 2.957
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784930",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:25:08",
+    "sentence_ID" : "VXPAKOKS240784930",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

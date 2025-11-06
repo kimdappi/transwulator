@@ -1,0 +1,151 @@
+{
+  "id" : "VXPAKOKS240786200",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "세상에 나쁜 짓하는 사람들 얼마나 많아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.743,
+      "end" : 3.008,
+      "gloss_id" : "나쁘다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.4,
+      "end" : 3.674,
+      "gloss_id" : "괴팍하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.887,
+      "end" : 4.062,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.296,
+      "end" : 5.452,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.179,
+      "end" : 3.231,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 4.296,
+      "end" : 5.452,
+      "loc" : "4,5",
+      "word" : "얼마나 많아."
+    }, {
+      "start" : 3.887,
+      "end" : 4.062,
+      "loc" : "3",
+      "word" : "사람들"
+    }, {
+      "start" : 2.743,
+      "end" : 3.008,
+      "loc" : "1",
+      "word" : "나쁜"
+    }, {
+      "start" : 3.179,
+      "end" : 3.679,
+      "loc" : "0,2",
+      "word" : "세상에 짓하는"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.296,
+      "end" : 5.452,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.4,
+      "end" : 3.674,
+      "gloss_id" : "괴팍하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.887,
+      "end" : 4.062,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.4,
+      "end" : 3.674
+    }, {
+      "descriptor" : "",
+      "start" : 4.296,
+      "end" : 5.452
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.743,
+      "end" : 5.453
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 4.907,
+      "end" : 5.452
+    } ],
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240786200",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:25:06",
+    "sentence_ID" : "VXPAKOKS240786200",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

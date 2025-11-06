@@ -1,0 +1,213 @@
+{
+  "id" : "VXPAKOKS240785880",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "한라산 한번 갔다 오면은 그다음 날은 쉬어 줘야 돼 진짜.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 0.402,
+      "end" : 0.732,
+      "gloss_id" : "제주도1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.724,
+      "end" : 2.926,
+      "gloss_id" : "걷다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.174,
+      "end" : 3.521,
+      "gloss_id" : "날짜(활용):1일",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.797,
+      "end" : 3.918,
+      "gloss_id" : "쉬다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.033,
+      "end" : 4.209,
+      "gloss_id" : "약속1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.424,
+      "end" : 4.63,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.895,
+      "end" : 5.507,
+      "gloss_id" : "맞다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 0.402,
+      "end" : 0.732,
+      "loc" : "0",
+      "word" : "한라산"
+    }, {
+      "start" : 0.918,
+      "end" : 2.925,
+      "loc" : "1,2,3",
+      "word" : "한번 갔다 오면은"
+    }, {
+      "start" : 3.174,
+      "end" : 3.521,
+      "loc" : "4,5",
+      "word" : "그다음 날은"
+    }, {
+      "start" : 3.797,
+      "end" : 3.918,
+      "loc" : "6",
+      "word" : "쉬어"
+    }, {
+      "start" : 4.895,
+      "end" : 5.507,
+      "loc" : "9",
+      "word" : "진짜."
+    }, {
+      "start" : 4.033,
+      "end" : 4.623,
+      "loc" : "7,8",
+      "word" : "줘야 돼"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 0.918,
+      "end" : 2.925,
+      "gloss_id" : "산1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.033,
+      "end" : 4.209,
+      "gloss_id" : "약속1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.797,
+      "end" : 3.918,
+      "gloss_id" : "쉬다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.424,
+      "end" : 4.63,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 0.402,
+      "end" : 0.732,
+      "gloss_id" : "제주도1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 0.589,
+      "end" : 0.732
+    }, {
+      "descriptor" : "",
+      "start" : 2.653,
+      "end" : 2.926
+    }, {
+      "descriptor" : "",
+      "start" : 3.797,
+      "end" : 4.213
+    }, {
+      "descriptor" : "",
+      "start" : 4.895,
+      "end" : 5.507
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.653,
+      "end" : 2.926
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.797,
+      "end" : 4.626
+    }, {
+      "descriptor" : "",
+      "start" : 0.402,
+      "end" : 2.517
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.895,
+      "end" : 5.507
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.174,
+      "end" : 3.521
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785880",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:22:50",
+    "sentence_ID" : "VXPAKOKS240785880",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

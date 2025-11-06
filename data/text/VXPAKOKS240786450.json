@@ -1,0 +1,422 @@
+{
+  "id" : "VXPAKOKS240786450",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "재테크를 100프로 예금이나 적금으로 한다는 거는 현대 사회에서는 좀 맞지 않은 거 같아요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.21,
+      "end" : 1.421,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.552,
+      "end" : 2.052,
+      "gloss_id" : "사회1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.172,
+      "end" : 2.283,
+      "gloss_id" : "눈1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.427,
+      "end" : 3.437,
+      "gloss_id" : "평가1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.627,
+      "end" : 3.738,
+      "gloss_id" : "돈1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.846,
+      "end" : 4.135,
+      "gloss_id" : "운영1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.301,
+      "end" : 5.133,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.661,
+      "end" : 5.862,
+      "gloss_id" : "자유1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.977,
+      "end" : 6.088,
+      "gloss_id" : "가치1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.173,
+      "end" : 6.684,
+      "gloss_id" : "적금1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.86,
+      "end" : 6.982,
+      "gloss_id" : "날짜(활용):1개월",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.184,
+      "end" : 7.473,
+      "gloss_id" : "제한1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.658,
+      "end" : 8.479,
+      "gloss_id" : "적금1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.857,
+      "end" : 9.501,
+      "gloss_id" : "집중1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.803,
+      "end" : 10.137,
+      "gloss_id" : "퍼센트1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.41,
+      "end" : 10.611,
+      "gloss_id" : "투자1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 10.735,
+      "end" : 11.024,
+      "gloss_id" : "하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.134,
+      "end" : 11.244,
+      "gloss_id" : "아니다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.408,
+      "end" : 12.052,
+      "gloss_id" : "맞지않다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.21,
+      "end" : 1.421,
+      "loc" : "6",
+      "word" : "현대"
+    }, {
+      "start" : 1.552,
+      "end" : 3.426,
+      "loc" : "7",
+      "word" : "사회에서는"
+    }, {
+      "start" : 3.627,
+      "end" : 5.134,
+      "loc" : "0",
+      "word" : "재테크를"
+    }, {
+      "start" : 5.661,
+      "end" : 6.66,
+      "loc" : "2",
+      "word" : "예금이나"
+    }, {
+      "start" : 6.86,
+      "end" : 9.509,
+      "loc" : "3",
+      "word" : "적금으로"
+    }, {
+      "start" : 9.648,
+      "end" : 10.137,
+      "loc" : "1",
+      "word" : "100프로"
+    }, {
+      "start" : 10.41,
+      "end" : 11.01,
+      "loc" : "4,5",
+      "word" : "한다는 거는"
+    }, {
+      "start" : 11.133,
+      "end" : 12.042,
+      "loc" : "8,9,10,11,12",
+      "word" : "좀 맞지 않은 거 같아요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.21,
+      "end" : 1.421,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.552,
+      "end" : 2.052,
+      "gloss_id" : "사회1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.846,
+      "end" : 4.135,
+      "gloss_id" : "운영1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.301,
+      "end" : 5.133,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.661,
+      "end" : 5.851,
+      "gloss_id" : "자유1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.977,
+      "end" : 6.088,
+      "gloss_id" : "가치1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.173,
+      "end" : 6.684,
+      "gloss_id" : "적금1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.658,
+      "end" : 8.479,
+      "gloss_id" : "적금1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.857,
+      "end" : 9.501,
+      "gloss_id" : "집중1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.648,
+      "end" : 10.137,
+      "gloss_id" : "100",
+      "express" : "n",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.735,
+      "end" : 11.024,
+      "gloss_id" : "하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 11.408,
+      "end" : 12.052,
+      "gloss_id" : "맞지않다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.184,
+      "end" : 7.473,
+      "gloss_id" : "제한1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.427,
+      "end" : 3.437,
+      "gloss_id" : "평가1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "백",
+      "start" : 9.659,
+      "end" : 9.937
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.427,
+      "end" : 3.437
+    }, {
+      "descriptor" : "",
+      "start" : 4.301,
+      "end" : 5.133
+    }, {
+      "descriptor" : "",
+      "start" : 10.735,
+      "end" : 11.024
+    }, {
+      "descriptor" : "",
+      "start" : 7.658,
+      "end" : 8.479
+    }, {
+      "descriptor" : "",
+      "start" : 8.857,
+      "end" : 9.501
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.173,
+      "end" : 7.284
+    }, {
+      "descriptor" : "",
+      "start" : 7.303,
+      "end" : 7.459
+    }, {
+      "descriptor" : "",
+      "start" : 3.014,
+      "end" : 3.437
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 7.658,
+      "end" : 10.163
+    }, {
+      "descriptor" : "",
+      "start" : 11.134,
+      "end" : 12.042
+    }, {
+      "descriptor" : "",
+      "start" : 3.627,
+      "end" : 5.124
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 5.977,
+      "end" : 6.587
+    }, {
+      "descriptor" : "",
+      "start" : 7.658,
+      "end" : 8.479
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.21,
+      "end" : 1.432
+    }, {
+      "descriptor" : "",
+      "start" : 10.41,
+      "end" : 10.999
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786450",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:27:13",
+    "sentence_ID" : "VXPAKOKS240786450",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

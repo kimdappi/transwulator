@@ -1,0 +1,166 @@
+{
+  "id" : "VXPAKOKS240784760",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "엄마 음식은 제일 좋아요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.59,
+      "end" : 1.757,
+      "gloss_id" : "엄마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.847,
+      "end" : 1.959,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.171,
+      "end" : 2.466,
+      "gloss_id" : "요리1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.705,
+      "end" : 2.854,
+      "gloss_id" : "상주다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "3",
+        "target" : "1"
+      }
+    }, {
+      "start" : 3.035,
+      "end" : 3.175,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.472,
+      "end" : 3.78,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.926,
+      "end" : 4.103,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.59,
+      "end" : 1.757,
+      "loc" : "0",
+      "word" : "엄마"
+    }, {
+      "start" : 1.847,
+      "end" : 3.175,
+      "loc" : "1",
+      "word" : "음식은"
+    }, {
+      "start" : 3.472,
+      "end" : 3.78,
+      "loc" : "2",
+      "word" : "제일"
+    }, {
+      "start" : 3.926,
+      "end" : 4.103,
+      "loc" : "3",
+      "word" : "좋아요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.171,
+      "end" : 2.466,
+      "gloss_id" : "요리1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.705,
+      "end" : 3.186,
+      "gloss_id" : "상주다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.705,
+      "end" : 2.854
+    }, {
+      "descriptor" : "",
+      "start" : 3.472,
+      "end" : 3.78
+    }, {
+      "descriptor" : "",
+      "start" : 3.926,
+      "end" : 4.103
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.035,
+      "end" : 3.776
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.59,
+      "end" : 2.855
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784760",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:24:28",
+    "sentence_ID" : "VXPAKOKS240784760",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

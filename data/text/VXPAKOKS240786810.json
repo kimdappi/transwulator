@@ -1,0 +1,175 @@
+{
+  "id" : "VXPAKOKS240786810",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "정말 일반인들을 대상으로 하는 방송이 정말 많아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.63,
+      "end" : 1.931,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.588,
+      "end" : 2.674,
+      "gloss_id" : "보통1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.921,
+      "end" : 3.129,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.371,
+      "end" : 3.492,
+      "gloss_id" : "TV",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.706,
+      "end" : 4.226,
+      "gloss_id" : "방송하다2#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.634,
+      "end" : 5.119,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.63,
+      "end" : 1.931,
+      "loc" : "0",
+      "word" : "정말"
+    }, {
+      "start" : 2.588,
+      "end" : 3.124,
+      "loc" : "1,2,3",
+      "word" : "일반인들을 대상으로 하는"
+    }, {
+      "start" : 3.371,
+      "end" : 4.228,
+      "loc" : "4",
+      "word" : "방송이"
+    }, {
+      "start" : 4.634,
+      "end" : 5.119,
+      "loc" : "5,6",
+      "word" : "정말 많아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.588,
+      "end" : 2.674,
+      "gloss_id" : "보통1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.921,
+      "end" : 3.129,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.634,
+      "end" : 5.119,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.706,
+      "end" : 4.226,
+      "gloss_id" : "방송하다2#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.63,
+      "end" : 1.931
+    }, {
+      "descriptor" : "",
+      "start" : 4.634,
+      "end" : 5.119
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.706,
+      "end" : 4.226
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 1.63,
+      "end" : 1.931
+    }, {
+      "descriptor" : "",
+      "start" : 4.634,
+      "end" : 5.119
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.63,
+      "end" : 4.225
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786810",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:29:56",
+    "sentence_ID" : "VXPAKOKS240786810",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

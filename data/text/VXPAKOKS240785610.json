@@ -1,0 +1,121 @@
+{
+  "id" : "VXPAKOKS240785610",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "넌 단 것에 대해서 어떻게 생각해?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.416,
+      "end" : 1.529,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.69,
+      "end" : 2.237,
+      "gloss_id" : "달다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.481,
+      "end" : 2.673,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.968,
+      "end" : 3.822,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.416,
+      "end" : 1.529,
+      "loc" : "0",
+      "word" : "넌"
+    }, {
+      "start" : 2.968,
+      "end" : 3.822,
+      "loc" : "4",
+      "word" : "어떻게"
+    }, {
+      "start" : 2.481,
+      "end" : 2.673,
+      "loc" : "5",
+      "word" : "생각해?"
+    }, {
+      "start" : 1.69,
+      "end" : 2.237,
+      "loc" : "1,2,3",
+      "word" : "단 것에 대해서"
+    } ],
+    "sign_gestures_weak" : null
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.968,
+      "end" : 3.822
+    }, {
+      "descriptor" : "",
+      "start" : 1.69,
+      "end" : 2.237
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.966,
+      "end" : 3.813
+    }, {
+      "descriptor" : "",
+      "start" : 1.416,
+      "end" : 1.529
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785610",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:13:23",
+    "sentence_ID" : "VXPAKOKS240785610",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

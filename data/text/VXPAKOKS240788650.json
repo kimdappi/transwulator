@@ -1,0 +1,241 @@
+{
+  "id" : "VXPAKOKS240788650",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "내가 일하는 개인 카페에 사과 유자티가 새로 생겼거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.735,
+      "end" : 1.883,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.975,
+      "end" : 2.081,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.277,
+      "end" : 2.538,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.677,
+      "end" : 3.064,
+      "gloss_id" : "카페1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.183,
+      "end" : 3.253,
+      "gloss_id" : "빨강1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.47,
+      "end" : 3.851,
+      "gloss_id" : "사과1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.0,
+      "end" : 5.02,
+      "gloss_id" : "유자",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.214,
+      "end" : 5.918,
+      "gloss_id" : "차2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.212,
+      "end" : 6.445,
+      "gloss_id" : "아이디어2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.672,
+      "end" : 7.123,
+      "gloss_id" : "새롭다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.735,
+      "end" : 1.883,
+      "loc" : "0",
+      "word" : "내가"
+    }, {
+      "start" : 1.975,
+      "end" : 2.081,
+      "loc" : "1",
+      "word" : "일하는"
+    }, {
+      "start" : 2.277,
+      "end" : 2.538,
+      "loc" : "2",
+      "word" : "개인"
+    }, {
+      "start" : 2.677,
+      "end" : 3.064,
+      "loc" : "3",
+      "word" : "카페에"
+    }, {
+      "start" : 3.183,
+      "end" : 3.857,
+      "loc" : "4",
+      "word" : "사과"
+    }, {
+      "start" : 4.0,
+      "end" : 5.919,
+      "loc" : "5",
+      "word" : "유자티가"
+    }, {
+      "start" : 6.212,
+      "end" : 7.119,
+      "loc" : "6,7",
+      "word" : "새로 생겼거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.975,
+      "end" : 2.081,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.277,
+      "end" : 2.538,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.47,
+      "end" : 3.851,
+      "gloss_id" : "사과1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.214,
+      "end" : 5.918,
+      "gloss_id" : "차2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.672,
+      "end" : 7.123,
+      "gloss_id" : "새롭다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "유자",
+      "start" : 4.0,
+      "end" : 5.02
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 6.731,
+      "end" : 7.123
+    }, {
+      "descriptor" : "",
+      "start" : 6.212,
+      "end" : 6.445
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.731,
+      "end" : 7.123
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.214,
+      "end" : 5.918
+    }, {
+      "descriptor" : "",
+      "start" : 1.735,
+      "end" : 3.071
+    }, {
+      "descriptor" : "",
+      "start" : 3.47,
+      "end" : 3.851
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 6.212,
+      "end" : 6.445
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788650",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:48:07",
+    "sentence_ID" : "VXPAKOKS240788650",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

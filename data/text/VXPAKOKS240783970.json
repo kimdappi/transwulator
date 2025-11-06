@@ -1,0 +1,285 @@
+{
+  "id" : "VXPAKOKS240783970",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "우리 회사는 얼마 전에 리모델링을 해 가지고 사옥을 이전할 계획은 없는 것 같거든 앞으로.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.244,
+      "end" : 2.355,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.604,
+      "end" : 2.928,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.139,
+      "end" : 3.5,
+      "gloss_id" : "며칠전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.809,
+      "end" : 4.773,
+      "gloss_id" : "수리1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.963,
+      "end" : 5.268,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.466,
+      "end" : 5.752,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.969,
+      "end" : 6.284,
+      "gloss_id" : "옮기다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.488,
+      "end" : 6.877,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.04,
+      "end" : 7.169,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.371,
+      "end" : 7.759,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.832,
+      "end" : 9.164,
+      "gloss_id" : "미래1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.457,
+      "end" : 9.836,
+      "gloss_id" : "뻔하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.244,
+      "end" : 2.355,
+      "loc" : "0",
+      "word" : "우리"
+    }, {
+      "start" : 2.604,
+      "end" : 2.928,
+      "loc" : "1",
+      "word" : "회사는"
+    }, {
+      "start" : 3.139,
+      "end" : 3.5,
+      "loc" : "2,3",
+      "word" : "얼마 전에"
+    }, {
+      "start" : 3.809,
+      "end" : 5.265,
+      "loc" : "4,5,6",
+      "word" : "리모델링을 해 가지고"
+    }, {
+      "start" : 5.466,
+      "end" : 5.752,
+      "loc" : "7",
+      "word" : "사옥을"
+    }, {
+      "start" : 5.969,
+      "end" : 6.284,
+      "loc" : "8",
+      "word" : "이전할"
+    }, {
+      "start" : 6.488,
+      "end" : 6.877,
+      "loc" : "9",
+      "word" : "계획은"
+    }, {
+      "start" : 7.04,
+      "end" : 7.169,
+      "loc" : "10,11",
+      "word" : "없는 것"
+    }, {
+      "start" : 7.371,
+      "end" : 7.759,
+      "loc" : "12",
+      "word" : "같거든"
+    }, {
+      "start" : 8.832,
+      "end" : 9.832,
+      "loc" : "13",
+      "word" : "앞으로."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.604,
+      "end" : 2.928,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.809,
+      "end" : 4.773,
+      "gloss_id" : "수리1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.963,
+      "end" : 5.268,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.466,
+      "end" : 5.752,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.969,
+      "end" : 6.284,
+      "gloss_id" : "옮기다3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.488,
+      "end" : 6.877,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 7.371,
+      "end" : 7.759
+    }, {
+      "descriptor" : "",
+      "start" : 8.832,
+      "end" : 9.164
+    }, {
+      "descriptor" : "",
+      "start" : 9.457,
+      "end" : 9.836
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.175,
+      "end" : 5.277
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.809,
+      "end" : 4.773
+    }, {
+      "descriptor" : "",
+      "start" : 7.04,
+      "end" : 7.735
+    }, {
+      "descriptor" : "",
+      "start" : 8.832,
+      "end" : 9.164
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 5.969,
+      "end" : 6.284
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.139,
+      "end" : 3.5
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783970",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:20:11",
+    "sentence_ID" : "VXPAKOKS240783970",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

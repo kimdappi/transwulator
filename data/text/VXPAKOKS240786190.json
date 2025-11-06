@@ -1,0 +1,337 @@
+{
+  "id" : "VXPAKOKS240786190",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "모든 결정은 본인이 하고 모든 그 결정에 따른 그 책임도 본인이 져야 된다고 생각해.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.813,
+      "end" : 1.97,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.219,
+      "end" : 2.68,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.003,
+      "end" : 3.29,
+      "gloss_id" : "결정1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.519,
+      "end" : 3.948,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.207,
+      "end" : 4.723,
+      "gloss_id" : "본인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.955,
+      "end" : 5.794,
+      "gloss_id" : "직접1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.093,
+      "end" : 6.166,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.327,
+      "end" : 6.614,
+      "gloss_id" : "문제1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.832,
+      "end" : 7.261,
+      "gloss_id" : "생기다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.528,
+      "end" : 7.676,
+      "gloss_id" : "맡다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.883,
+      "end" : 8.124,
+      "gloss_id" : "누구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.26,
+      "end" : 8.574,
+      "gloss_id" : "본인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.787,
+      "end" : 9.149,
+      "gloss_id" : "맡기다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "2",
+        "target" : "1"
+      }
+    }, {
+      "start" : 9.37,
+      "end" : 9.901,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 8.26,
+      "end" : 8.574,
+      "loc" : "10",
+      "word" : "본인이"
+    }, {
+      "start" : 8.787,
+      "end" : 9.149,
+      "loc" : "11,12",
+      "word" : "져야 된다고"
+    }, {
+      "start" : 9.37,
+      "end" : 9.901,
+      "loc" : "13",
+      "word" : "생각해."
+    }, {
+      "start" : 7.528,
+      "end" : 8.118,
+      "loc" : "8,9",
+      "word" : "그 책임도"
+    }, {
+      "start" : 4.207,
+      "end" : 4.723,
+      "loc" : "2",
+      "word" : "본인이"
+    }, {
+      "start" : 4.955,
+      "end" : 7.253,
+      "loc" : "3,4,5,6,7",
+      "word" : "하고 모든 그 결정에 따른"
+    }, {
+      "start" : 1.813,
+      "end" : 3.947,
+      "loc" : "0,1",
+      "word" : "모든 결정은"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.955,
+      "end" : 5.794,
+      "gloss_id" : "직접1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.091,
+      "end" : 6.614,
+      "gloss_id" : "문제1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.832,
+      "end" : 7.261,
+      "gloss_id" : "생기다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.37,
+      "end" : 9.901,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.787,
+      "end" : 9.149,
+      "gloss_id" : "맡기다3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.26,
+      "end" : 8.574,
+      "gloss_id" : "본인1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.519,
+      "end" : 3.948,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.207,
+      "end" : 4.723,
+      "gloss_id" : "본인1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.003,
+      "end" : 3.29,
+      "gloss_id" : "결정1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.219,
+      "end" : 2.68
+    }, {
+      "descriptor" : "",
+      "start" : 3.519,
+      "end" : 3.948
+    }, {
+      "descriptor" : "",
+      "start" : 4.207,
+      "end" : 4.723
+    }, {
+      "descriptor" : "",
+      "start" : 5.15,
+      "end" : 5.794
+    }, {
+      "descriptor" : "",
+      "start" : 6.905,
+      "end" : 7.261
+    }, {
+      "descriptor" : "",
+      "start" : 8.787,
+      "end" : 9.149
+    }, {
+      "descriptor" : "",
+      "start" : 9.37,
+      "end" : 9.901
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.093,
+      "end" : 6.166
+    }, {
+      "descriptor" : "",
+      "start" : 6.9,
+      "end" : 7.261
+    } ],
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 3.519,
+      "end" : 3.948
+    } ],
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.955,
+      "end" : 5.794
+    }, {
+      "descriptor" : "",
+      "start" : 6.093,
+      "end" : 6.599
+    }, {
+      "descriptor" : "",
+      "start" : 7.883,
+      "end" : 8.124
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 8.787,
+      "end" : 9.149
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.519,
+      "end" : 3.948
+    }, {
+      "descriptor" : "",
+      "start" : 6.832,
+      "end" : 8.118
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786190",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:24:58",
+    "sentence_ID" : "VXPAKOKS240786190",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

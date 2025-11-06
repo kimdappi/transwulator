@@ -1,0 +1,327 @@
+{
+  "id" : "VXPAKOKS240784110",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "우리 아파트가 지금 원래 13억 5000 정도 했었었는데 9억 5000에 거래된 게 있다고 하더라고. 너 혹시 알고 있었냐?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.954,
+      "end" : 2.098,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.302,
+      "end" : 2.742,
+      "gloss_id" : "아파트1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.228,
+      "end" : 3.763,
+      "gloss_id" : "원래2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.021,
+      "end" : 5.137,
+      "gloss_id" : "1350000000",
+      "express" : "n",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.318,
+      "end" : 6.067,
+      "gloss_id" : "정도1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.269,
+      "end" : 6.828,
+      "gloss_id" : "맞다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.204,
+      "end" : 7.525,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.712,
+      "end" : 8.769,
+      "gloss_id" : "950000000",
+      "express" : "n",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.982,
+      "end" : 9.813,
+      "gloss_id" : "팔다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.216,
+      "end" : 10.42,
+      "gloss_id" : "중1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.862,
+      "end" : 11.124,
+      "gloss_id" : "듣다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.307,
+      "end" : 11.546,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.789,
+      "end" : 12.016,
+      "gloss_id" : "알다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 12.186,
+      "end" : 12.555,
+      "gloss_id" : "벌써2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.954,
+      "end" : 2.098,
+      "loc" : "0",
+      "word" : "우리"
+    }, {
+      "start" : 2.302,
+      "end" : 2.742,
+      "loc" : "1",
+      "word" : "아파트가"
+    }, {
+      "start" : 3.228,
+      "end" : 3.763,
+      "loc" : "3",
+      "word" : "원래"
+    }, {
+      "start" : 4.021,
+      "end" : 5.137,
+      "loc" : "4,5",
+      "word" : "13억 5000"
+    }, {
+      "start" : 5.318,
+      "end" : 6.067,
+      "loc" : "6",
+      "word" : "정도"
+    }, {
+      "start" : 6.269,
+      "end" : 6.828,
+      "loc" : "7",
+      "word" : "했었었는데"
+    }, {
+      "start" : 7.204,
+      "end" : 7.525,
+      "loc" : "2",
+      "word" : "지금"
+    }, {
+      "start" : 7.712,
+      "end" : 8.769,
+      "loc" : "8,9",
+      "word" : "9억 5000에"
+    }, {
+      "start" : 8.982,
+      "end" : 9.813,
+      "loc" : "10,11",
+      "word" : "거래된 게"
+    }, {
+      "start" : 10.216,
+      "end" : 10.42,
+      "loc" : "12",
+      "word" : "있다고"
+    }, {
+      "start" : 10.862,
+      "end" : 11.124,
+      "loc" : "13",
+      "word" : "하더라고."
+    }, {
+      "start" : 11.307,
+      "end" : 11.546,
+      "loc" : "14",
+      "word" : "너"
+    }, {
+      "start" : 11.789,
+      "end" : 12.016,
+      "loc" : "16,17",
+      "word" : "알고 있었냐?"
+    }, {
+      "start" : 12.186,
+      "end" : 12.555,
+      "loc" : "15",
+      "word" : "혹시"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.302,
+      "end" : 2.742,
+      "gloss_id" : "아파트1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.228,
+      "end" : 3.763,
+      "gloss_id" : "원래2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.204,
+      "end" : 7.525,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.982,
+      "end" : 9.813,
+      "gloss_id" : "팔다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.216,
+      "end" : 10.42,
+      "gloss_id" : "중1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 12.186,
+      "end" : 12.555,
+      "gloss_id" : "벌써2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "십삼억오천만",
+      "start" : 4.021,
+      "end" : 5.137
+    }, {
+      "descriptor" : "구억오천만",
+      "start" : 7.712,
+      "end" : 8.769
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.302,
+      "end" : 2.742
+    }, {
+      "descriptor" : "",
+      "start" : 3.228,
+      "end" : 3.763
+    }, {
+      "descriptor" : "",
+      "start" : 6.269,
+      "end" : 6.828
+    }, {
+      "descriptor" : "",
+      "start" : 11.789,
+      "end" : 12.561
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 12.364,
+      "end" : 12.555
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.228,
+      "end" : 3.763
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 6.269,
+      "end" : 6.828
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 11.307,
+      "end" : 12.566
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784110",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:21:07",
+    "sentence_ID" : "VXPAKOKS240784110",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

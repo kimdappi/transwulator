@@ -1,0 +1,230 @@
+{
+  "id" : "VXPAKOKS240780160",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "우리 다음에 유기 동물 보호 센터라도 같이 가 볼래?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.037,
+      "end" : 2.273,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.445,
+      "end" : 3.189,
+      "gloss_id" : "다음1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.545,
+      "end" : 3.9,
+      "gloss_id" : "버리다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.05,
+      "end" : 4.228,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.31,
+      "end" : 4.427,
+      "gloss_id" : "검사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.513,
+      "end" : 4.754,
+      "gloss_id" : "보호2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.006,
+      "end" : 5.411,
+      "gloss_id" : "센터1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.643,
+      "end" : 5.959,
+      "gloss_id" : "함께가다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.133,
+      "end" : 6.409,
+      "gloss_id" : "보다10",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.037,
+      "end" : 2.273,
+      "loc" : "0",
+      "word" : "우리"
+    }, {
+      "start" : 2.445,
+      "end" : 3.189,
+      "loc" : "1",
+      "word" : "다음에"
+    }, {
+      "start" : 3.545,
+      "end" : 3.9,
+      "loc" : "2",
+      "word" : "유기"
+    }, {
+      "start" : 4.057,
+      "end" : 4.228,
+      "loc" : "3",
+      "word" : "동물"
+    }, {
+      "start" : 4.31,
+      "end" : 4.751,
+      "loc" : "4",
+      "word" : "보호"
+    }, {
+      "start" : 5.006,
+      "end" : 5.411,
+      "loc" : "5",
+      "word" : "센터라도"
+    }, {
+      "start" : 5.643,
+      "end" : 5.959,
+      "loc" : "6,7",
+      "word" : "같이 가"
+    }, {
+      "start" : 6.133,
+      "end" : 6.409,
+      "loc" : "8",
+      "word" : "볼래?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.513,
+      "end" : 4.754,
+      "gloss_id" : "보호2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.006,
+      "end" : 5.411,
+      "gloss_id" : "센터1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.643,
+      "end" : 5.959,
+      "gloss_id" : "함께가다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.05,
+      "end" : 4.228,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.445,
+      "end" : 3.189
+    }, {
+      "descriptor" : "",
+      "start" : 3.545,
+      "end" : 3.9
+    }, {
+      "descriptor" : "",
+      "start" : 4.513,
+      "end" : 4.754
+    }, {
+      "descriptor" : "",
+      "start" : 6.133,
+      "end" : 6.409
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.126,
+      "end" : 6.409
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 3.669,
+      "end" : 3.9
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.445,
+      "end" : 3.189
+    }, {
+      "descriptor" : "",
+      "start" : 5.643,
+      "end" : 6.407
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780160",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:02:57",
+    "sentence_ID" : "VXPAKOKS240780160",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

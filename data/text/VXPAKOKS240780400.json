@@ -1,0 +1,323 @@
+{
+  "id" : "VXPAKOKS240780400",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 집에서 마을버스 타면 보통 10분에서 15분 정도에 역까지 가는 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.247,
+      "end" : 1.409,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.625,
+      "end" : 1.734,
+      "gloss_id" : "보다10",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.842,
+      "end" : 2.027,
+      "gloss_id" : "평가1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.268,
+      "end" : 2.377,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.567,
+      "end" : 2.956,
+      "gloss_id" : "~하자2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.112,
+      "end" : 3.478,
+      "gloss_id" : "동네1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.179,
+      "end" : 4.702,
+      "gloss_id" : "앉다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.998,
+      "end" : 5.393,
+      "gloss_id" : "평균1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.891,
+      "end" : 6.105,
+      "gloss_id" : "일형3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.267,
+      "end" : 7.006,
+      "gloss_id" : "시간:15분",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.201,
+      "end" : 7.678,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.858,
+      "end" : 8.031,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.229,
+      "end" : 8.548,
+      "gloss_id" : "도착1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.247,
+      "end" : 1.409,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.268,
+      "end" : 2.96,
+      "loc" : "1",
+      "word" : "집에서"
+    }, {
+      "start" : 4.998,
+      "end" : 5.393,
+      "loc" : "4",
+      "word" : "보통"
+    }, {
+      "start" : 5.677,
+      "end" : 6.107,
+      "loc" : "5",
+      "word" : "10분에서"
+    }, {
+      "start" : 6.267,
+      "end" : 7.006,
+      "loc" : "6,7",
+      "word" : "15분 정도에"
+    }, {
+      "start" : 7.201,
+      "end" : 8.022,
+      "loc" : "8",
+      "word" : "역까지"
+    }, {
+      "start" : 1.625,
+      "end" : 2.031,
+      "loc" : "10,11",
+      "word" : "거 같아."
+    }, {
+      "start" : 3.112,
+      "end" : 3.845,
+      "loc" : "2",
+      "word" : "마을버스"
+    }, {
+      "start" : 4.179,
+      "end" : 4.702,
+      "loc" : "3",
+      "word" : "타면"
+    }, {
+      "start" : 8.229,
+      "end" : 8.548,
+      "loc" : "9",
+      "word" : "가는"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.63,
+      "end" : 4.707,
+      "gloss_id" : "버스1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.677,
+      "end" : 6.999,
+      "gloss_id" : "시간:10분",
+      "express" : "d",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.842,
+      "end" : 2.027,
+      "gloss_id" : "평가1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.268,
+      "end" : 2.377,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.112,
+      "end" : 3.478,
+      "gloss_id" : "동네1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.998,
+      "end" : 5.393,
+      "gloss_id" : "평균1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.201,
+      "end" : 7.678,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.858,
+      "end" : 8.031,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.229,
+      "end" : 8.548,
+      "gloss_id" : "도착1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "십오분",
+      "start" : 6.267,
+      "end" : 7.006
+    }, {
+      "descriptor" : "십",
+      "start" : 5.677,
+      "end" : 6.091
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.615,
+      "end" : 2.027
+    }, {
+      "descriptor" : "",
+      "start" : 2.567,
+      "end" : 2.956
+    }, {
+      "descriptor" : "",
+      "start" : 4.998,
+      "end" : 5.393
+    }, {
+      "descriptor" : "",
+      "start" : 5.677,
+      "end" : 5.88
+    }, {
+      "descriptor" : "",
+      "start" : 8.229,
+      "end" : 8.548
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.587,
+      "end" : 5.379
+    }, {
+      "descriptor" : "",
+      "start" : 5.891,
+      "end" : 6.105
+    }, {
+      "descriptor" : "",
+      "start" : 7.201,
+      "end" : 8.553
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.268,
+      "end" : 5.375
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780400",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:03:56",
+    "sentence_ID" : "VXPAKOKS240780400",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

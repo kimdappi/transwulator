@@ -1,0 +1,124 @@
+{
+  "id" : "VXPAKOKS240788600",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "운전을 언제 처음 해 봤어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.316,
+      "end" : 2.816,
+      "gloss_id" : "운전2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.283,
+      "end" : 3.465,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.68,
+      "end" : 4.468,
+      "gloss_id" : "언제1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.316,
+      "end" : 2.816,
+      "loc" : "0",
+      "word" : "운전을"
+    }, {
+      "start" : 3.68,
+      "end" : 4.468,
+      "loc" : "1",
+      "word" : "언제"
+    }, {
+      "start" : 3.283,
+      "end" : 3.465,
+      "loc" : "2,3,4",
+      "word" : "처음 해 봤어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.316,
+      "end" : 2.816,
+      "gloss_id" : "운전2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.68,
+      "end" : 4.468,
+      "gloss_id" : "언제1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.283,
+      "end" : 3.465,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.68,
+      "end" : 4.468
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.016,
+      "end" : 3.359
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.68,
+      "end" : 4.468
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788600",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:47:49",
+    "sentence_ID" : "VXPAKOKS240788600",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

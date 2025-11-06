@@ -1,0 +1,132 @@
+{
+  "id" : "VXPAKOKS240783400",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "요즘 너는 택시 최근에 탄 적 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.413,
+      "end" : 2.864,
+      "gloss_id" : "택시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.058,
+      "end" : 3.327,
+      "gloss_id" : "요즘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.539,
+      "end" : 3.734,
+      "gloss_id" : "앉다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.032,
+      "end" : 4.301,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.413,
+      "end" : 2.864,
+      "loc" : "2",
+      "word" : "택시"
+    }, {
+      "start" : 3.058,
+      "end" : 3.327,
+      "loc" : "0,1,3",
+      "word" : "요즘 너는 최근에"
+    }, {
+      "start" : 4.032,
+      "end" : 4.301,
+      "loc" : "5,6",
+      "word" : "적 있어?"
+    }, {
+      "start" : 3.539,
+      "end" : 3.734,
+      "loc" : "4",
+      "word" : "탄"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.539,
+      "end" : 3.734,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.091,
+      "end" : 4.301
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.095,
+      "end" : 4.301
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.539,
+      "end" : 4.083
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.058,
+      "end" : 3.327
+    }, {
+      "descriptor" : "",
+      "start" : 4.032,
+      "end" : 4.301
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783400",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:17:39",
+    "sentence_ID" : "VXPAKOKS240783400",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,241 @@
+{
+  "id" : "VXPAKOKS240787190",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 자전거 배운 지 얼마 안 돼서 사람들이 너무 많거나 그러면은 좀 뒤처질 거 같아서 걱정이네.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.322,
+      "end" : 1.439,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.685,
+      "end" : 2.222,
+      "gloss_id" : "자전거1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.401,
+      "end" : 2.71,
+      "gloss_id" : "배우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.039,
+      "end" : 3.127,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.502,
+      "end" : 3.862,
+      "gloss_id" : "며칠전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.289,
+      "end" : 4.392,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.559,
+      "end" : 4.926,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.294,
+      "end" : 5.985,
+      "gloss_id" : "뒤떨어지다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.298,
+      "end" : 7.151,
+      "gloss_id" : "걱정1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.322,
+      "end" : 1.439,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 1.685,
+      "end" : 2.222,
+      "loc" : "1",
+      "word" : "자전거"
+    }, {
+      "start" : 2.401,
+      "end" : 3.122,
+      "loc" : "2,3",
+      "word" : "배운 지"
+    }, {
+      "start" : 3.502,
+      "end" : 3.862,
+      "loc" : "4,5,6",
+      "word" : "얼마 안 돼서"
+    }, {
+      "start" : 4.289,
+      "end" : 4.392,
+      "loc" : "7",
+      "word" : "사람들이"
+    }, {
+      "start" : 4.559,
+      "end" : 4.926,
+      "loc" : "8,9,10",
+      "word" : "너무 많거나 그러면은"
+    }, {
+      "start" : 5.294,
+      "end" : 5.985,
+      "loc" : "11,12,13,14",
+      "word" : "좀 뒤처질 거 같아서"
+    }, {
+      "start" : 6.298,
+      "end" : 7.151,
+      "loc" : "15",
+      "word" : "걱정이네."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.685,
+      "end" : 2.222,
+      "gloss_id" : "자전거1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.039,
+      "end" : 3.127,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.559,
+      "end" : 4.926,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.294,
+      "end" : 5.985,
+      "gloss_id" : "뒤떨어지다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.289,
+      "end" : 4.392,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.502,
+      "end" : 3.862
+    }, {
+      "descriptor" : "",
+      "start" : 4.559,
+      "end" : 4.926
+    }, {
+      "descriptor" : "",
+      "start" : 6.298,
+      "end" : 7.151
+    }, {
+      "descriptor" : "",
+      "start" : 1.685,
+      "end" : 2.222
+    }, {
+      "descriptor" : "",
+      "start" : 2.401,
+      "end" : 2.71
+    }, {
+      "descriptor" : "",
+      "start" : 3.039,
+      "end" : 3.127
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.699,
+      "end" : 4.926
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.298,
+      "end" : 7.146
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.322,
+      "end" : 3.861
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787190",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:32:34",
+    "sentence_ID" : "VXPAKOKS240787190",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

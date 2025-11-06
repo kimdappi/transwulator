@@ -1,0 +1,211 @@
+{
+  "id" : "VXPAKOKS240783470",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "기사가 없는 택시가 곧 도입된다는 말도 있더라고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.705,
+      "end" : 2.842,
+      "gloss_id" : "택시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.134,
+      "end" : 3.383,
+      "gloss_id" : "운전2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.629,
+      "end" : 3.779,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.226,
+      "end" : 4.957,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.282,
+      "end" : 5.438,
+      "gloss_id" : "운전2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.699,
+      "end" : 6.027,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.182,
+      "end" : 6.364,
+      "gloss_id" : "말하다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.532,
+      "end" : 6.807,
+      "gloss_id" : "듣다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.705,
+      "end" : 2.842,
+      "loc" : "2",
+      "word" : "택시가"
+    }, {
+      "start" : 3.134,
+      "end" : 3.793,
+      "loc" : "0",
+      "word" : "기사가"
+    }, {
+      "start" : 4.226,
+      "end" : 4.957,
+      "loc" : "1",
+      "word" : "없는"
+    }, {
+      "start" : 5.282,
+      "end" : 6.013,
+      "loc" : "3,4",
+      "word" : "곧 도입된다는"
+    }, {
+      "start" : 6.182,
+      "end" : 6.364,
+      "loc" : "5",
+      "word" : "말도"
+    }, {
+      "start" : 6.532,
+      "end" : 6.807,
+      "loc" : "6",
+      "word" : "있더라고."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.134,
+      "end" : 3.383,
+      "gloss_id" : "운전2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.629,
+      "end" : 4.956,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.282,
+      "end" : 5.438,
+      "gloss_id" : "운전2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.699,
+      "end" : 6.027,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.226,
+      "end" : 4.957
+    }, {
+      "descriptor" : "",
+      "start" : 5.699,
+      "end" : 6.027
+    }, {
+      "descriptor" : "",
+      "start" : 6.532,
+      "end" : 6.807
+    }, {
+      "descriptor" : "",
+      "start" : 6.182,
+      "end" : 6.364
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.248,
+      "end" : 6.364
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.226,
+      "end" : 4.957
+    }, {
+      "descriptor" : "",
+      "start" : 6.532,
+      "end" : 6.807
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 6.182,
+      "end" : 6.364
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783470",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:17:55",
+    "sentence_ID" : "VXPAKOKS240783470",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

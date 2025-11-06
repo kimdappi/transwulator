@@ -1,0 +1,219 @@
+{
+  "id" : "VXPAKOKS240779810",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "일단 밥을 1차로 먹고 2차로 술집을 가는 건 어떨까?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.743,
+      "end" : 1.977,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.392,
+      "end" : 2.822,
+      "gloss_id" : "먹다5",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.073,
+      "end" : 3.461,
+      "gloss_id" : "차",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.889,
+      "end" : 4.095,
+      "gloss_id" : "차",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.304,
+      "end" : 4.547,
+      "gloss_id" : "술1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.808,
+      "end" : 5.149,
+      "gloss_id" : "술2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.323,
+      "end" : 5.52,
+      "gloss_id" : "함께가다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.68,
+      "end" : 6.082,
+      "gloss_id" : "괜찮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.743,
+      "end" : 1.977,
+      "loc" : "0",
+      "word" : "일단"
+    }, {
+      "start" : 2.392,
+      "end" : 2.822,
+      "loc" : "1",
+      "word" : "밥을"
+    }, {
+      "start" : 3.073,
+      "end" : 3.461,
+      "loc" : "2,3",
+      "word" : "1차로 먹고"
+    }, {
+      "start" : 3.889,
+      "end" : 4.095,
+      "loc" : "4",
+      "word" : "2차로"
+    }, {
+      "start" : 4.304,
+      "end" : 5.148,
+      "loc" : "5",
+      "word" : "술집을"
+    }, {
+      "start" : 5.323,
+      "end" : 5.52,
+      "loc" : "6,7",
+      "word" : "가는 건"
+    }, {
+      "start" : 5.68,
+      "end" : 6.082,
+      "loc" : "8",
+      "word" : "어떨까?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.073,
+      "end" : 3.461,
+      "gloss_id" : "1",
+      "express" : "n",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.889,
+      "end" : 4.543,
+      "gloss_id" : "2",
+      "express" : "n",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.808,
+      "end" : 5.149,
+      "gloss_id" : "술2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.323,
+      "end" : 5.52,
+      "gloss_id" : "함께가다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.392,
+      "end" : 2.822,
+      "gloss_id" : "먹다5",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "일차",
+      "start" : 3.073,
+      "end" : 3.461
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.073,
+      "end" : 3.461
+    }, {
+      "descriptor" : "",
+      "start" : 3.889,
+      "end" : 4.095
+    }, {
+      "descriptor" : "",
+      "start" : 5.323,
+      "end" : 5.52
+    }, {
+      "descriptor" : "",
+      "start" : 5.68,
+      "end" : 6.082
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 5.68,
+      "end" : 6.082
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.68,
+      "end" : 6.082
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779810",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:01:35",
+    "sentence_ID" : "VXPAKOKS240779810",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

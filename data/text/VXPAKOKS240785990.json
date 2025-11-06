@@ -1,0 +1,356 @@
+{
+  "id" : "VXPAKOKS240785990",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "작년 여름 정도부터 주식을 시작했던 거 같은데 솔직히 주식 하기 전에는 내가 경제 쪽에 별로 관심이 없었잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.412,
+      "end" : 2.613,
+      "gloss_id" : "날짜(활용):1년전",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.756,
+      "end" : 3.521,
+      "gloss_id" : "덥다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.697,
+      "end" : 3.843,
+      "gloss_id" : "부터3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.044,
+      "end" : 4.366,
+      "gloss_id" : "달리기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.619,
+      "end" : 5.322,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.426,
+      "end" : 5.637,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.831,
+      "end" : 5.927,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.84,
+      "end" : 7.081,
+      "gloss_id" : "달리기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.347,
+      "end" : 7.665,
+      "gloss_id" : "이전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.189,
+      "end" : 8.286,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.456,
+      "end" : 8.78,
+      "gloss_id" : "경제1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.9,
+      "end" : 9.19,
+      "gloss_id" : "관심1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.421,
+      "end" : 9.846,
+      "gloss_id" : "무",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.909,
+      "end" : 8.029,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.045,
+      "end" : 6.638,
+      "gloss_id" : "솔직하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.412,
+      "end" : 2.613,
+      "loc" : "0",
+      "word" : "작년"
+    }, {
+      "start" : 2.756,
+      "end" : 3.521,
+      "loc" : "1",
+      "word" : "여름"
+    }, {
+      "start" : 3.697,
+      "end" : 3.843,
+      "loc" : "2",
+      "word" : "정도부터"
+    }, {
+      "start" : 4.044,
+      "end" : 4.366,
+      "loc" : "3",
+      "word" : "주식을"
+    }, {
+      "start" : 4.619,
+      "end" : 5.322,
+      "loc" : "4",
+      "word" : "시작했던"
+    }, {
+      "start" : 5.426,
+      "end" : 5.647,
+      "loc" : "5,6",
+      "word" : "거 같은데"
+    }, {
+      "start" : 5.831,
+      "end" : 6.64,
+      "loc" : "7",
+      "word" : "솔직히"
+    }, {
+      "start" : 6.84,
+      "end" : 7.081,
+      "loc" : "8,9",
+      "word" : "주식 하기"
+    }, {
+      "start" : 7.347,
+      "end" : 7.665,
+      "loc" : "10",
+      "word" : "전에는"
+    }, {
+      "start" : 7.909,
+      "end" : 8.289,
+      "loc" : "11",
+      "word" : "내가"
+    }, {
+      "start" : 8.456,
+      "end" : 8.78,
+      "loc" : "12,13",
+      "word" : "경제 쪽에"
+    }, {
+      "start" : 8.9,
+      "end" : 9.19,
+      "loc" : "15",
+      "word" : "관심이"
+    }, {
+      "start" : 9.412,
+      "end" : 9.846,
+      "loc" : "14,16",
+      "word" : "별로 없었잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.756,
+      "end" : 3.845,
+      "gloss_id" : "덥다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.412,
+      "end" : 2.613,
+      "gloss_id" : "날짜(활용):1년전",
+      "express" : "d",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.619,
+      "end" : 5.65,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.045,
+      "end" : 6.638,
+      "gloss_id" : "솔직하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.84,
+      "end" : 7.081,
+      "gloss_id" : "달리기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.347,
+      "end" : 7.665,
+      "gloss_id" : "이전1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.456,
+      "end" : 8.78,
+      "gloss_id" : "경제1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.9,
+      "end" : 9.19,
+      "gloss_id" : "관심1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.044,
+      "end" : 4.366,
+      "gloss_id" : "달리기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "무",
+      "start" : 9.412,
+      "end" : 9.846
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.756,
+      "end" : 3.521
+    }, {
+      "descriptor" : "",
+      "start" : 4.619,
+      "end" : 5.322
+    }, {
+      "descriptor" : "",
+      "start" : 7.347,
+      "end" : 7.665
+    }, {
+      "descriptor" : "",
+      "start" : 9.421,
+      "end" : 9.846
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.756,
+      "end" : 3.521
+    }, {
+      "descriptor" : "",
+      "start" : 8.21,
+      "end" : 9.809
+    }, {
+      "descriptor" : "",
+      "start" : 4.619,
+      "end" : 6.623
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.938,
+      "end" : 4.366
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.412,
+      "end" : 2.613
+    }, {
+      "descriptor" : "",
+      "start" : 7.347,
+      "end" : 7.665
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785990",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:23:39",
+    "sentence_ID" : "VXPAKOKS240785990",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

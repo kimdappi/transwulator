@@ -1,0 +1,206 @@
+{
+  "id" : "VXPAKOKS240779360",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "나중에 학기 중에 축제할 때 가 보자.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.453,
+      "end" : 1.742,
+      "gloss_id" : "며칠후2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.987,
+      "end" : 2.066,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.291,
+      "end" : 2.611,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.824,
+      "end" : 2.955,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.122,
+      "end" : 3.391,
+      "gloss_id" : "행사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.588,
+      "end" : 3.763,
+      "gloss_id" : "기회1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.958,
+      "end" : 4.154,
+      "gloss_id" : "가다7",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.222,
+      "end" : 4.525,
+      "gloss_id" : "보다10",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.453,
+      "end" : 1.742,
+      "loc" : "0",
+      "word" : "나중에"
+    }, {
+      "start" : 1.987,
+      "end" : 2.957,
+      "loc" : "1,2",
+      "word" : "학기 중에"
+    }, {
+      "start" : 3.122,
+      "end" : 3.391,
+      "loc" : "3",
+      "word" : "축제할"
+    }, {
+      "start" : 3.588,
+      "end" : 3.763,
+      "loc" : "4",
+      "word" : "때"
+    }, {
+      "start" : 3.958,
+      "end" : 4.154,
+      "loc" : "5",
+      "word" : "가"
+    }, {
+      "start" : 4.222,
+      "end" : 4.525,
+      "loc" : "6",
+      "word" : "보자."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.987,
+      "end" : 2.066,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.291,
+      "end" : 2.611,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.824,
+      "end" : 2.955,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.122,
+      "end" : 3.391,
+      "gloss_id" : "행사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.588,
+      "end" : 3.763,
+      "gloss_id" : "기회1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.824,
+      "end" : 2.955
+    }, {
+      "descriptor" : "",
+      "start" : 3.588,
+      "end" : 3.763
+    }, {
+      "descriptor" : "",
+      "start" : 4.222,
+      "end" : 4.525
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.958,
+      "end" : 4.52
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.453,
+      "end" : 3.761
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779360",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 10:58:50",
+    "sentence_ID" : "VXPAKOKS240779360",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

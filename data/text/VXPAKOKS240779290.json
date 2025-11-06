@@ -1,0 +1,144 @@
+{
+  "id" : "VXPAKOKS240779290",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "사회복지에 어떤 연유로 관심을 가지게 된 것이야?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.539,
+      "end" : 2.821,
+      "gloss_id" : "사회1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.057,
+      "end" : 3.859,
+      "gloss_id" : "복지2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.335,
+      "end" : 4.644,
+      "gloss_id" : "관심1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.759,
+      "end" : 5.045,
+      "gloss_id" : "원인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.155,
+      "end" : 5.298,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.539,
+      "end" : 3.849,
+      "loc" : "0",
+      "word" : "사회복지에"
+    }, {
+      "start" : 4.759,
+      "end" : 5.045,
+      "loc" : "2",
+      "word" : "연유로"
+    }, {
+      "start" : 5.155,
+      "end" : 5.298,
+      "loc" : "1",
+      "word" : "어떤"
+    }, {
+      "start" : 4.335,
+      "end" : 4.644,
+      "loc" : "3,4,5,6",
+      "word" : "관심을 가지게 된 것이야?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.539,
+      "end" : 3.86,
+      "gloss_id" : "사회1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.335,
+      "end" : 4.644,
+      "gloss_id" : "관심1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.155,
+      "end" : 5.298
+    }, {
+      "descriptor" : "",
+      "start" : 4.759,
+      "end" : 5.045
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.335,
+      "end" : 5.299
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.335,
+      "end" : 4.644
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240779290",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 10:57:38",
+    "sentence_ID" : "VXPAKOKS240779290",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

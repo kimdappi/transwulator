@@ -1,0 +1,159 @@
+{
+  "id" : "VXPAKOKS240785600",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "요즘 1회용품 많이 써서 걱정되더라고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.442,
+      "end" : 1.884,
+      "gloss_id" : "회",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.068,
+      "end" : 2.279,
+      "gloss_id" : "물건2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.498,
+      "end" : 2.748,
+      "gloss_id" : "요즘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.997,
+      "end" : 3.391,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.64,
+      "end" : 4.962,
+      "gloss_id" : "걱정1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.442,
+      "end" : 2.278,
+      "loc" : "1",
+      "word" : "1회용품"
+    }, {
+      "start" : 2.498,
+      "end" : 2.748,
+      "loc" : "0",
+      "word" : "요즘"
+    }, {
+      "start" : 2.997,
+      "end" : 3.391,
+      "loc" : "2,3",
+      "word" : "많이 써서"
+    }, {
+      "start" : 3.64,
+      "end" : 4.962,
+      "loc" : "4",
+      "word" : "걱정되더라고."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.997,
+      "end" : 3.391,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.442,
+      "end" : 1.884,
+      "gloss_id" : "1",
+      "express" : "f",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.068,
+      "end" : 2.279,
+      "gloss_id" : "물건2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "회",
+      "start" : 1.442,
+      "end" : 1.884
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.997,
+      "end" : 3.391
+    }, {
+      "descriptor" : "",
+      "start" : 3.64,
+      "end" : 4.962
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.237,
+      "end" : 3.391
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.728,
+      "end" : 4.957
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.442,
+      "end" : 2.739
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785600",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:12:59",
+    "sentence_ID" : "VXPAKOKS240785600",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

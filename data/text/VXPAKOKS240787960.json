@@ -1,0 +1,171 @@
+{
+  "id" : "VXPAKOKS240787960",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "결혼을 하긴 할 건데 애는 안 낳을 거야.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.058,
+      "end" : 2.148,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.432,
+      "end" : 2.567,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.71,
+      "end" : 2.927,
+      "gloss_id" : "하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.143,
+      "end" : 3.189,
+      "gloss_id" : "아이1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.352,
+      "end" : 3.57,
+      "gloss_id" : "낳다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.786,
+      "end" : 4.19,
+      "gloss_id" : "아니다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.058,
+      "end" : 2.572,
+      "loc" : "0",
+      "word" : "결혼을"
+    }, {
+      "start" : 2.71,
+      "end" : 2.927,
+      "loc" : "1,2,3",
+      "word" : "하긴 할 건데"
+    }, {
+      "start" : 3.143,
+      "end" : 3.189,
+      "loc" : "4",
+      "word" : "애는"
+    }, {
+      "start" : 3.352,
+      "end" : 4.199,
+      "loc" : "5,6,7",
+      "word" : "안 낳을 거야."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.432,
+      "end" : 2.567,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.71,
+      "end" : 2.927,
+      "gloss_id" : "하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.143,
+      "end" : 3.189,
+      "gloss_id" : "아이1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.352,
+      "end" : 3.57,
+      "gloss_id" : "낳다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : null,
+    "Mo1" : null,
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 3.564,
+      "end" : 4.19
+    } ],
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.432,
+      "end" : 2.904
+    }, {
+      "descriptor" : "",
+      "start" : 3.352,
+      "end" : 4.189
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.567,
+      "end" : 4.19
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.143,
+      "end" : 3.188
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787960",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:39:10",
+    "sentence_ID" : "VXPAKOKS240787960",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

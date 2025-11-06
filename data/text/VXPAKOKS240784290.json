@@ -1,0 +1,375 @@
+{
+  "id" : "VXPAKOKS240784290",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "오히려 배달보다는 포장이나 가서 먹고 이런 게 더 깔끔하고 뒤처리 면에서도 좋은 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 3.459,
+      "end" : 3.861,
+      "gloss_id" : "오히려1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.25,
+      "end" : 4.54,
+      "gloss_id" : "전화하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 4.786,
+      "end" : 5.425,
+      "gloss_id" : "가져오다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "3"
+      }
+    }, {
+      "start" : 5.761,
+      "end" : 6.316,
+      "gloss_id" : "~보다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.504,
+      "end" : 6.644,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.014,
+      "end" : 7.401,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 8.129,
+      "end" : 9.118,
+      "gloss_id" : "가져오다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 9.444,
+      "end" : 9.762,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 10.141,
+      "end" : 10.584,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.815,
+      "end" : 11.273,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.45,
+      "end" : 11.6,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.759,
+      "end" : 12.119,
+      "gloss_id" : "더1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 12.36,
+      "end" : 12.859,
+      "gloss_id" : "깨끗하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 13.0,
+      "end" : 13.14,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 13.21,
+      "end" : 13.626,
+      "gloss_id" : "해결2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 13.72,
+      "end" : 13.86,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 14.268,
+      "end" : 14.726,
+      "gloss_id" : "간단하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.459,
+      "end" : 3.861,
+      "loc" : "0",
+      "word" : "오히려"
+    }, {
+      "start" : 4.25,
+      "end" : 6.3,
+      "loc" : "1",
+      "word" : "배달보다는"
+    }, {
+      "start" : 8.129,
+      "end" : 9.118,
+      "loc" : "2",
+      "word" : "포장이나"
+    }, {
+      "start" : 9.444,
+      "end" : 9.762,
+      "loc" : "3",
+      "word" : "가서"
+    }, {
+      "start" : 10.141,
+      "end" : 10.584,
+      "loc" : "4",
+      "word" : "먹고"
+    }, {
+      "start" : 10.815,
+      "end" : 11.552,
+      "loc" : "5,6",
+      "word" : "이런 게"
+    }, {
+      "start" : 11.759,
+      "end" : 12.119,
+      "loc" : "7",
+      "word" : "더"
+    }, {
+      "start" : 12.36,
+      "end" : 12.859,
+      "loc" : "8",
+      "word" : "깔끔하고"
+    }, {
+      "start" : 13.0,
+      "end" : 13.615,
+      "loc" : "9",
+      "word" : "뒤처리"
+    }, {
+      "start" : 13.72,
+      "end" : 13.86,
+      "loc" : "10",
+      "word" : "면에서도"
+    }, {
+      "start" : 14.268,
+      "end" : 14.726,
+      "loc" : "11,12,13",
+      "word" : "좋은 거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.459,
+      "end" : 3.861,
+      "gloss_id" : "오히려1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.786,
+      "end" : 5.425,
+      "gloss_id" : "가져오다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.761,
+      "end" : 6.316,
+      "gloss_id" : "~보다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.014,
+      "end" : 7.401,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.129,
+      "end" : 9.117,
+      "gloss_id" : "가져오다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.444,
+      "end" : 9.762,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.815,
+      "end" : 11.566,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 11.759,
+      "end" : 12.119,
+      "gloss_id" : "더1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 13.21,
+      "end" : 13.863,
+      "gloss_id" : "해결2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 14.268,
+      "end" : 14.726,
+      "gloss_id" : "간단하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.459,
+      "end" : 3.861
+    }, {
+      "descriptor" : "",
+      "start" : 5.761,
+      "end" : 6.316
+    }, {
+      "descriptor" : "",
+      "start" : 8.129,
+      "end" : 9.118
+    }, {
+      "descriptor" : "",
+      "start" : 10.141,
+      "end" : 10.584
+    }, {
+      "descriptor" : "",
+      "start" : 12.36,
+      "end" : 12.859
+    }, {
+      "descriptor" : "",
+      "start" : 14.268,
+      "end" : 14.726
+    }, {
+      "descriptor" : "",
+      "start" : 13.21,
+      "end" : 13.849
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.112,
+      "end" : 7.401
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.761,
+      "end" : 6.316
+    }, {
+      "descriptor" : "",
+      "start" : 12.36,
+      "end" : 12.859
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.786,
+      "end" : 5.425
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 11.45,
+      "end" : 11.6
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784290",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:21:56",
+    "sentence_ID" : "VXPAKOKS240784290",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

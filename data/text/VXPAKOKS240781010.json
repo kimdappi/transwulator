@@ -1,0 +1,249 @@
+{
+  "id" : "VXPAKOKS240781010",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "너는 여행을 간다면 계획을 세우고 가는 편이야 아니면 안 세우고 가는 편이야?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.275,
+      "end" : 1.407,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.59,
+      "end" : 1.872,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.055,
+      "end" : 2.232,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.52,
+      "end" : 3.11,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.405,
+      "end" : 3.597,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.2,
+      "end" : 5.225,
+      "gloss_id" : "완전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.129,
+      "end" : 6.434,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.637,
+      "end" : 6.762,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.989,
+      "end" : 7.354,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.574,
+      "end" : 7.751,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.847,
+      "end" : 4.011,
+      "gloss_id" : "꽉끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.275,
+      "end" : 1.407,
+      "loc" : "0",
+      "word" : "너는"
+    }, {
+      "start" : 1.59,
+      "end" : 1.872,
+      "loc" : "1",
+      "word" : "여행을"
+    }, {
+      "start" : 2.055,
+      "end" : 2.232,
+      "loc" : "2",
+      "word" : "간다면"
+    }, {
+      "start" : 2.52,
+      "end" : 5.225,
+      "loc" : "3,4,5,6",
+      "word" : "계획을 세우고 가는 편이야"
+    }, {
+      "start" : 6.129,
+      "end" : 7.746,
+      "loc" : "8,9,10,11",
+      "word" : "안 세우고 가는 편이야?"
+    }, {
+      "start" : 5.324,
+      "end" : 5.697,
+      "loc" : "7",
+      "word" : "아니면"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.59,
+      "end" : 1.872,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.52,
+      "end" : 3.11,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.2,
+      "end" : 5.225,
+      "gloss_id" : "완전1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.129,
+      "end" : 6.434,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.989,
+      "end" : 7.751,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.847,
+      "end" : 4.824
+    }, {
+      "descriptor" : "",
+      "start" : 6.129,
+      "end" : 6.779
+    }, {
+      "descriptor" : "",
+      "start" : 7.574,
+      "end" : 7.751
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.055,
+      "end" : 2.232
+    } ],
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 5.331,
+      "end" : 5.689
+    } ],
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.52,
+      "end" : 4.822
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.847,
+      "end" : 4.819
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.59,
+      "end" : 1.872
+    }, {
+      "descriptor" : "",
+      "start" : 7.574,
+      "end" : 7.751
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781010",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:06:28",
+    "sentence_ID" : "VXPAKOKS240781010",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

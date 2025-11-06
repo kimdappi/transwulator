@@ -1,0 +1,126 @@
+{
+  "id" : "VXPAKOKS240783630",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "유산소 운동하고 나하곤 안 맞대.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.762,
+      "end" : 3.512,
+      "gloss_id" : "달리다5",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.695,
+      "end" : 3.817,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.992,
+      "end" : 4.339,
+      "gloss_id" : "맞지않다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.492,
+      "end" : 4.752,
+      "gloss_id" : "말하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "3",
+        "target" : "1"
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.762,
+      "end" : 3.512,
+      "loc" : "0,1",
+      "word" : "유산소 운동하고"
+    }, {
+      "start" : 3.695,
+      "end" : 3.817,
+      "loc" : "2",
+      "word" : "나하곤"
+    }, {
+      "start" : 3.992,
+      "end" : 4.758,
+      "loc" : "3,4",
+      "word" : "안 맞대."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.762,
+      "end" : 3.813,
+      "gloss_id" : "달리다5",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.992,
+      "end" : 4.339,
+      "gloss_id" : "맞지않다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.992,
+      "end" : 4.758
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.579,
+      "end" : 4.752
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.492,
+      "end" : 4.752
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240783630",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:18:27",
+    "sentence_ID" : "VXPAKOKS240783630",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

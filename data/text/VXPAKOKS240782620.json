@@ -1,0 +1,121 @@
+{
+  "id" : "VXPAKOKS240782620",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "손해 보면서 장사하기 싫은 거야.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 3.171,
+      "end" : 3.477,
+      "gloss_id" : "가게1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.653,
+      "end" : 4.158,
+      "gloss_id" : "손해1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.374,
+      "end" : 4.817,
+      "gloss_id" : "싫다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.171,
+      "end" : 3.477,
+      "loc" : "2",
+      "word" : "장사하기"
+    }, {
+      "start" : 3.653,
+      "end" : 4.158,
+      "loc" : "0,1",
+      "word" : "손해 보면서"
+    }, {
+      "start" : 4.374,
+      "end" : 4.817,
+      "loc" : "3,4",
+      "word" : "싫은 거야."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.171,
+      "end" : 3.477,
+      "gloss_id" : "가게1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.653,
+      "end" : 4.158,
+      "gloss_id" : "손해1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.653,
+      "end" : 4.158
+    }, {
+      "descriptor" : "",
+      "start" : 4.374,
+      "end" : 4.817
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.374,
+      "end" : 4.817
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.171,
+      "end" : 4.159
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782620",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:13:41",
+    "sentence_ID" : "VXPAKOKS240782620",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

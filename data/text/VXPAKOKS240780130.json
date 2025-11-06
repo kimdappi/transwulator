@@ -1,0 +1,334 @@
+{
+  "id" : "VXPAKOKS240780130",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "다들 학교 도서관을 많이 선호한 거 같은데 나는 학교 도서관에서 공부를 하고 있으면은 오히려 잠이 오더라고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.701,
+      "end" : 2.923,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.023,
+      "end" : 3.18,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.346,
+      "end" : 3.904,
+      "gloss_id" : "읽다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.158,
+      "end" : 4.417,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.619,
+      "end" : 5.046,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 5.327,
+      "end" : 5.586,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.839,
+      "end" : 6.061,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.199,
+      "end" : 6.421,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.743,
+      "end" : 6.9,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.958,
+      "end" : 7.086,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.214,
+      "end" : 7.619,
+      "gloss_id" : "읽다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.773,
+      "end" : 7.984,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.165,
+      "end" : 8.482,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.669,
+      "end" : 9.833,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.068,
+      "end" : 10.21,
+      "gloss_id" : "자다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.429,
+      "end" : 10.578,
+      "gloss_id" : "기름1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.023,
+      "end" : 4.407,
+      "loc" : "2",
+      "word" : "도서관을"
+    }, {
+      "start" : 2.701,
+      "end" : 2.923,
+      "loc" : "1",
+      "word" : "학교"
+    }, {
+      "start" : 4.619,
+      "end" : 6.056,
+      "loc" : "0,3,4,5,6",
+      "word" : "다들 많이 선호한 거 같은데"
+    }, {
+      "start" : 6.199,
+      "end" : 6.421,
+      "loc" : "7",
+      "word" : "나는"
+    }, {
+      "start" : 6.743,
+      "end" : 6.9,
+      "loc" : "8",
+      "word" : "학교"
+    }, {
+      "start" : 6.958,
+      "end" : 7.962,
+      "loc" : "9",
+      "word" : "도서관에서"
+    }, {
+      "start" : 8.165,
+      "end" : 10.563,
+      "loc" : "10,11,12,13,14,15",
+      "word" : "공부를 하고 있으면은 오히려 잠이 오더라고."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.701,
+      "end" : 2.923,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.023,
+      "end" : 3.18,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.346,
+      "end" : 3.904,
+      "gloss_id" : "읽다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.619,
+      "end" : 5.046,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.327,
+      "end" : 5.586,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.743,
+      "end" : 6.9,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.958,
+      "end" : 7.086,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.214,
+      "end" : 7.987,
+      "gloss_id" : "읽다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.165,
+      "end" : 8.482,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.669,
+      "end" : 9.833,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.158,
+      "end" : 4.417
+    }, {
+      "descriptor" : "",
+      "start" : 5.327,
+      "end" : 5.586
+    }, {
+      "descriptor" : "",
+      "start" : 8.165,
+      "end" : 9.136
+    }, {
+      "descriptor" : "",
+      "start" : 9.246,
+      "end" : 10.205
+    }, {
+      "descriptor" : "",
+      "start" : 10.429,
+      "end" : 10.578
+    }, {
+      "descriptor" : "",
+      "start" : 7.214,
+      "end" : 7.946
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.619,
+      "end" : 5.586
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.346,
+      "end" : 4.408
+    }, {
+      "descriptor" : "",
+      "start" : 7.214,
+      "end" : 8.473
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780130",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:02:52",
+    "sentence_ID" : "VXPAKOKS240780130",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

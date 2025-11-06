@@ -1,0 +1,210 @@
+{
+  "id" : "VXPAKOKS240780080",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "너희 과 졸업 학점이 몇 학점이었지?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.436,
+      "end" : 1.538,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.816,
+      "end" : 2.064,
+      "gloss_id" : "전문1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.23,
+      "end" : 2.442,
+      "gloss_id" : "졸업1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.726,
+      "end" : 3.131,
+      "gloss_id" : "목적1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.307,
+      "end" : 3.588,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.883,
+      "end" : 4.135,
+      "gloss_id" : "가득하다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.352,
+      "end" : 4.45,
+      "gloss_id" : "점수1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.586,
+      "end" : 4.812,
+      "gloss_id" : "얼마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.436,
+      "end" : 1.538,
+      "loc" : "0",
+      "word" : "너희"
+    }, {
+      "start" : 1.816,
+      "end" : 2.064,
+      "loc" : "1",
+      "word" : "과"
+    }, {
+      "start" : 2.23,
+      "end" : 3.132,
+      "loc" : "2",
+      "word" : "졸업"
+    }, {
+      "start" : 3.307,
+      "end" : 4.128,
+      "loc" : "3",
+      "word" : "학점이"
+    }, {
+      "start" : 4.352,
+      "end" : 4.45,
+      "loc" : "5",
+      "word" : "학점이었지?"
+    }, {
+      "start" : 4.586,
+      "end" : 4.812,
+      "loc" : "4",
+      "word" : "몇"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.816,
+      "end" : 2.064,
+      "gloss_id" : "전문1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.23,
+      "end" : 2.442,
+      "gloss_id" : "졸업1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.726,
+      "end" : 3.131,
+      "gloss_id" : "목적1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.307,
+      "end" : 3.588,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.883,
+      "end" : 4.135,
+      "gloss_id" : "가득하다3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.816,
+      "end" : 2.064
+    }, {
+      "descriptor" : "",
+      "start" : 2.23,
+      "end" : 2.442
+    }, {
+      "descriptor" : "",
+      "start" : 3.883,
+      "end" : 4.135
+    }, {
+      "descriptor" : "",
+      "start" : 4.352,
+      "end" : 4.804
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 3.883,
+      "end" : 4.135
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.352,
+      "end" : 4.814
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780080",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:02:40",
+    "sentence_ID" : "VXPAKOKS240780080",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

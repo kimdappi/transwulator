@@ -1,0 +1,245 @@
+{
+  "id" : "VXPAKOKS240787230",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "제주도는 옛날에 한번 가려고 찾아 봤었는데 확실히 예쁘고 좋은 숙소들은 많아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.799,
+      "end" : 2.13,
+      "gloss_id" : "제주도1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.318,
+      "end" : 2.649,
+      "gloss_id" : "옛날4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.917,
+      "end" : 3.224,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.516,
+      "end" : 4.193,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.379,
+      "end" : 5.225,
+      "gloss_id" : "찾다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.426,
+      "end" : 5.556,
+      "gloss_id" : "잠1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.808,
+      "end" : 6.058,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.375,
+      "end" : 6.818,
+      "gloss_id" : "예쁘다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.247,
+      "end" : 7.513,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.798,
+      "end" : 8.233,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.799,
+      "end" : 2.13,
+      "loc" : "0",
+      "word" : "제주도는"
+    }, {
+      "start" : 2.318,
+      "end" : 2.649,
+      "loc" : "1",
+      "word" : "옛날에"
+    }, {
+      "start" : 2.917,
+      "end" : 4.182,
+      "loc" : "2,3",
+      "word" : "한번 가려고"
+    }, {
+      "start" : 4.379,
+      "end" : 5.225,
+      "loc" : "4,5",
+      "word" : "찾아 봤었는데"
+    }, {
+      "start" : 5.426,
+      "end" : 6.047,
+      "loc" : "9",
+      "word" : "숙소들은"
+    }, {
+      "start" : 6.375,
+      "end" : 6.818,
+      "loc" : "6,7",
+      "word" : "확실히 예쁘고"
+    }, {
+      "start" : 7.247,
+      "end" : 7.513,
+      "loc" : "8",
+      "word" : "좋은"
+    }, {
+      "start" : 7.798,
+      "end" : 8.233,
+      "loc" : "10",
+      "word" : "많아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.799,
+      "end" : 2.13,
+      "gloss_id" : "제주도1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.798,
+      "end" : 8.233,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.799,
+      "end" : 2.13
+    }, {
+      "descriptor" : "",
+      "start" : 2.917,
+      "end" : 3.224
+    }, {
+      "descriptor" : "",
+      "start" : 3.516,
+      "end" : 4.193
+    }, {
+      "descriptor" : "",
+      "start" : 4.379,
+      "end" : 5.225
+    }, {
+      "descriptor" : "",
+      "start" : 6.375,
+      "end" : 6.818
+    }, {
+      "descriptor" : "",
+      "start" : 7.798,
+      "end" : 8.233
+    }, {
+      "descriptor" : "",
+      "start" : 5.808,
+      "end" : 6.058
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.887,
+      "end" : 8.152
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.339,
+      "end" : 5.223
+    }, {
+      "descriptor" : "",
+      "start" : 6.375,
+      "end" : 6.818
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.379,
+      "end" : 5.225
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.426,
+      "end" : 6.047
+    }, {
+      "descriptor" : "",
+      "start" : 7.247,
+      "end" : 7.513
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787230",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:32:56",
+    "sentence_ID" : "VXPAKOKS240787230",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

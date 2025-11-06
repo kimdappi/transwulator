@@ -1,0 +1,138 @@
+{
+  "id" : "VXPAKOKS240781250",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "학교에는 정말 다양한 친구들이 있는 거 같아요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.776,
+      "end" : 2.42,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.729,
+      "end" : 3.123,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.368,
+      "end" : 4.568,
+      "gloss_id" : "여러가지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.828,
+      "end" : 5.122,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.776,
+      "end" : 2.42,
+      "loc" : "0",
+      "word" : "학교에는"
+    }, {
+      "start" : 2.729,
+      "end" : 3.123,
+      "loc" : "3",
+      "word" : "친구들이"
+    }, {
+      "start" : 3.368,
+      "end" : 4.568,
+      "loc" : "1,2",
+      "word" : "정말 다양한"
+    }, {
+      "start" : 4.828,
+      "end" : 5.122,
+      "loc" : "4,5,6",
+      "word" : "있는 거 같아요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.776,
+      "end" : 2.42,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.729,
+      "end" : 3.123,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.368,
+      "end" : 4.568,
+      "gloss_id" : "여러가지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.368,
+      "end" : 4.568
+    }, {
+      "descriptor" : "",
+      "start" : 4.828,
+      "end" : 5.122
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.368,
+      "end" : 4.568
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240781250",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:07:35",
+    "sentence_ID" : "VXPAKOKS240781250",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

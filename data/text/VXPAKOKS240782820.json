@@ -1,0 +1,201 @@
+{
+  "id" : "VXPAKOKS240782820",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "캠핑이 어찌 보면 가장 저렴하면서도 시간을 잘 보낼 수 있는 방법이기도 해.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.958,
+      "end" : 2.23,
+      "gloss_id" : "텐트1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.467,
+      "end" : 2.664,
+      "gloss_id" : "보다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.984,
+      "end" : 3.212,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.434,
+      "end" : 4.125,
+      "gloss_id" : "싸다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.348,
+      "end" : 4.718,
+      "gloss_id" : "놀다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.983,
+      "end" : 5.458,
+      "gloss_id" : "재미1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.639,
+      "end" : 6.089,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.958,
+      "end" : 2.23,
+      "loc" : "0",
+      "word" : "캠핑이"
+    }, {
+      "start" : 2.467,
+      "end" : 2.664,
+      "loc" : "1,2",
+      "word" : "어찌 보면"
+    }, {
+      "start" : 2.984,
+      "end" : 3.212,
+      "loc" : "3",
+      "word" : "가장"
+    }, {
+      "start" : 3.434,
+      "end" : 4.125,
+      "loc" : "4",
+      "word" : "저렴하면서도"
+    }, {
+      "start" : 5.639,
+      "end" : 6.089,
+      "loc" : "10,11",
+      "word" : "방법이기도 해."
+    }, {
+      "start" : 4.348,
+      "end" : 5.458,
+      "loc" : "5,6,7,8,9",
+      "word" : "시간을 잘 보낼 수 있는"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.958,
+      "end" : 2.23,
+      "gloss_id" : "텐트1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.434,
+      "end" : 4.125,
+      "gloss_id" : "싸다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.348,
+      "end" : 4.718,
+      "gloss_id" : "놀다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.983,
+      "end" : 5.458,
+      "gloss_id" : "재미1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.639,
+      "end" : 6.089,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.467,
+      "end" : 2.664
+    }, {
+      "descriptor" : "",
+      "start" : 5.639,
+      "end" : 6.089
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.59,
+      "end" : 2.664
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.984,
+      "end" : 4.124
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.467,
+      "end" : 2.664
+    }, {
+      "descriptor" : "",
+      "start" : 4.983,
+      "end" : 5.458
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782820",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:14:38",
+    "sentence_ID" : "VXPAKOKS240782820",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

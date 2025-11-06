@@ -1,0 +1,275 @@
+{
+  "id" : "VXPAKOKS240786590",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "나도 여자 친구랑 결혼하면 큰 개 키우기로 했거든 리트리버.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.325,
+      "end" : 1.411,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.577,
+      "end" : 1.745,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.967,
+      "end" : 2.337,
+      "gloss_id" : "미래1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.623,
+      "end" : 2.766,
+      "gloss_id" : "여자1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.906,
+      "end" : 3.131,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.415,
+      "end" : 4.053,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.322,
+      "end" : 4.441,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.655,
+      "end" : 5.228,
+      "gloss_id" : "크다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.67,
+      "end" : 7.151,
+      "gloss_id" : "리트리버",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.511,
+      "end" : 7.702,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.944,
+      "end" : 8.501,
+      "gloss_id" : "약속1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.325,
+      "end" : 1.744,
+      "loc" : "0",
+      "word" : "나도"
+    }, {
+      "start" : 2.623,
+      "end" : 2.766,
+      "loc" : "1",
+      "word" : "여자"
+    }, {
+      "start" : 2.906,
+      "end" : 3.131,
+      "loc" : "2",
+      "word" : "친구랑"
+    }, {
+      "start" : 3.415,
+      "end" : 4.053,
+      "loc" : "3",
+      "word" : "결혼하면"
+    }, {
+      "start" : 4.322,
+      "end" : 4.441,
+      "loc" : "5",
+      "word" : "개"
+    }, {
+      "start" : 4.655,
+      "end" : 5.228,
+      "loc" : "4",
+      "word" : "큰"
+    }, {
+      "start" : 5.67,
+      "end" : 7.151,
+      "loc" : "8",
+      "word" : "리트리버."
+    }, {
+      "start" : 7.511,
+      "end" : 7.702,
+      "loc" : "6",
+      "word" : "키우기로"
+    }, {
+      "start" : 7.944,
+      "end" : 8.501,
+      "loc" : "7",
+      "word" : "했거든"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.577,
+      "end" : 1.745,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.623,
+      "end" : 2.766,
+      "gloss_id" : "여자1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.906,
+      "end" : 3.131,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.415,
+      "end" : 4.053,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.511,
+      "end" : 7.702,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.944,
+      "end" : 8.501,
+      "gloss_id" : "약속1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "리트리버",
+      "start" : 5.67,
+      "end" : 7.151
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.967,
+      "end" : 2.337
+    }, {
+      "descriptor" : "",
+      "start" : 3.415,
+      "end" : 4.053
+    }, {
+      "descriptor" : "",
+      "start" : 4.655,
+      "end" : 5.228
+    }, {
+      "descriptor" : "",
+      "start" : 7.944,
+      "end" : 8.501
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.553,
+      "end" : 3.736
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.325,
+      "end" : 1.728
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 7.511,
+      "end" : 8.481
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.623,
+      "end" : 4.031
+    }, {
+      "descriptor" : "",
+      "start" : 4.655,
+      "end" : 5.228
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786590",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:28:05",
+    "sentence_ID" : "VXPAKOKS240786590",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

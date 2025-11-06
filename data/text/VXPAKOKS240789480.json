@@ -1,0 +1,170 @@
+{
+  "id" : "VXPAKOKS240789480",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "형은 무슨 종류의 강아지 좋아하세요?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.475,
+      "end" : 1.794,
+      "gloss_id" : "형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.188,
+      "end" : 2.254,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.392,
+      "end" : 2.579,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.814,
+      "end" : 3.129,
+      "gloss_id" : "종류4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.251,
+      "end" : 3.412,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.673,
+      "end" : 4.125,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.475,
+      "end" : 1.794,
+      "loc" : "0",
+      "word" : "형은"
+    }, {
+      "start" : 2.188,
+      "end" : 2.589,
+      "loc" : "3",
+      "word" : "강아지"
+    }, {
+      "start" : 2.814,
+      "end" : 3.129,
+      "loc" : "2",
+      "word" : "종류의"
+    }, {
+      "start" : 3.251,
+      "end" : 3.412,
+      "loc" : "4",
+      "word" : "좋아하세요?"
+    }, {
+      "start" : 3.673,
+      "end" : 4.125,
+      "loc" : "1",
+      "word" : "무슨"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.814,
+      "end" : 3.129,
+      "gloss_id" : "종류4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.392,
+      "end" : 2.579,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.673,
+      "end" : 4.125
+    }, {
+      "descriptor" : "",
+      "start" : 2.392,
+      "end" : 2.579
+    }, {
+      "descriptor" : "",
+      "start" : 3.251,
+      "end" : 3.412
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.475,
+      "end" : 1.794
+    }, {
+      "descriptor" : "",
+      "start" : 3.251,
+      "end" : 3.448
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.814,
+      "end" : 3.129
+    }, {
+      "descriptor" : "",
+      "start" : 3.673,
+      "end" : 4.125
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789480",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:55:55",
+    "sentence_ID" : "VXPAKOKS240789480",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

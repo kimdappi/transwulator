@@ -1,0 +1,130 @@
+{
+  "id" : "VXPAKOKS240782500",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "수영장 있는 데 가서 수영 해.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.83,
+      "end" : 1.936,
+      "gloss_id" : "수영1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.115,
+      "end" : 2.342,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.565,
+      "end" : 2.926,
+      "gloss_id" : "가다7",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.149,
+      "end" : 3.649,
+      "gloss_id" : "수영1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.83,
+      "end" : 2.334,
+      "loc" : "0,1,2",
+      "word" : "수영장 있는 데"
+    }, {
+      "start" : 2.565,
+      "end" : 2.926,
+      "loc" : "3",
+      "word" : "가서"
+    }, {
+      "start" : 3.149,
+      "end" : 3.649,
+      "loc" : "4,5",
+      "word" : "수영 해."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.83,
+      "end" : 1.936,
+      "gloss_id" : "수영1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.149,
+      "end" : 3.649,
+      "gloss_id" : "수영1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.565,
+      "end" : 2.926
+    }, {
+      "descriptor" : "",
+      "start" : 3.149,
+      "end" : 3.649
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.565,
+      "end" : 3.641
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.83,
+      "end" : 2.334
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782500",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:13:07",
+    "sentence_ID" : "VXPAKOKS240782500",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

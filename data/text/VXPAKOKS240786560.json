@@ -1,0 +1,135 @@
+{
+  "id" : "VXPAKOKS240786560",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "겨울 등산 자체는 원래 위험하긴 하지.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.329,
+      "end" : 1.721,
+      "gloss_id" : "춥다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.098,
+      "end" : 2.715,
+      "gloss_id" : "등산1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.009,
+      "end" : 3.131,
+      "gloss_id" : "원래2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.36,
+      "end" : 4.017,
+      "gloss_id" : "위험1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.329,
+      "end" : 1.721,
+      "loc" : "0",
+      "word" : "겨울"
+    }, {
+      "start" : 2.098,
+      "end" : 2.715,
+      "loc" : "1,2",
+      "word" : "등산 자체는"
+    }, {
+      "start" : 3.009,
+      "end" : 3.131,
+      "loc" : "3",
+      "word" : "원래"
+    }, {
+      "start" : 3.36,
+      "end" : 4.017,
+      "loc" : "4,5",
+      "word" : "위험하긴 하지."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.329,
+      "end" : 1.721,
+      "gloss_id" : "춥다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.098,
+      "end" : 3.124,
+      "gloss_id" : "등산1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.098,
+      "end" : 2.715
+    }, {
+      "descriptor" : "",
+      "start" : 3.36,
+      "end" : 4.017
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.098,
+      "end" : 4.015
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.329,
+      "end" : 2.706
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786560",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:27:54",
+    "sentence_ID" : "VXPAKOKS240786560",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

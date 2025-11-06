@@ -1,0 +1,234 @@
+{
+  "id" : "VXPAKOKS240789110",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "너는 해외 여행이나 국내 여행 중 둘 중에 어디 가고 싶어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.447,
+      "end" : 1.692,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.879,
+      "end" : 2.075,
+      "gloss_id" : "외국3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.247,
+      "end" : 2.948,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.277,
+      "end" : 3.6,
+      "gloss_id" : "한국1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.747,
+      "end" : 3.992,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.123,
+      "end" : 4.556,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.677,
+      "end" : 4.788,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.969,
+      "end" : 5.153,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.281,
+      "end" : 5.751,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.447,
+      "end" : 1.692,
+      "loc" : "0",
+      "word" : "너는"
+    }, {
+      "start" : 1.879,
+      "end" : 2.075,
+      "loc" : "1",
+      "word" : "해외"
+    }, {
+      "start" : 2.247,
+      "end" : 2.948,
+      "loc" : "2",
+      "word" : "여행이나"
+    }, {
+      "start" : 3.277,
+      "end" : 3.6,
+      "loc" : "3",
+      "word" : "국내"
+    }, {
+      "start" : 3.747,
+      "end" : 3.992,
+      "loc" : "4",
+      "word" : "여행"
+    }, {
+      "start" : 4.123,
+      "end" : 4.556,
+      "loc" : "5,6,7",
+      "word" : "중 둘 중에"
+    }, {
+      "start" : 4.677,
+      "end" : 5.141,
+      "loc" : "10",
+      "word" : "싶어?"
+    }, {
+      "start" : 5.281,
+      "end" : 5.751,
+      "loc" : "8,9",
+      "word" : "어디 가고"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.879,
+      "end" : 2.075,
+      "gloss_id" : "외국3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.247,
+      "end" : 2.948,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.747,
+      "end" : 3.992,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.123,
+      "end" : 4.787,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.281,
+      "end" : 5.751
+    }, {
+      "descriptor" : "",
+      "start" : 1.447,
+      "end" : 1.692
+    }, {
+      "descriptor" : "",
+      "start" : 2.247,
+      "end" : 2.948
+    }, {
+      "descriptor" : "",
+      "start" : 3.747,
+      "end" : 3.992
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.677,
+      "end" : 5.153
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.247,
+      "end" : 2.948
+    }, {
+      "descriptor" : "",
+      "start" : 4.677,
+      "end" : 5.153
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.281,
+      "end" : 5.751
+    }, {
+      "descriptor" : "",
+      "start" : 1.447,
+      "end" : 1.692
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789110",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:52:37",
+    "sentence_ID" : "VXPAKOKS240789110",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

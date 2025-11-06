@@ -1,0 +1,246 @@
+{
+  "id" : "VXPAKOKS240779350",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "조종사분들이 일하는 모습을 보면서 직업에 대한 감명을 약간 얻은 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.443,
+      "end" : 1.706,
+      "gloss_id" : "비행기3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.999,
+      "end" : 2.413,
+      "gloss_id" : "운전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.56,
+      "end" : 2.678,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.872,
+      "end" : 3.103,
+      "gloss_id" : "모습1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.364,
+      "end" : 3.708,
+      "gloss_id" : "보다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "3"
+      }
+    }, {
+      "start" : 4.23,
+      "end" : 4.864,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.071,
+      "end" : 5.329,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.733,
+      "end" : 6.513,
+      "gloss_id" : "감동1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.726,
+      "end" : 6.893,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.958,
+      "end" : 7.103,
+      "gloss_id" : "반응1",
+      "express" : "s",
+      "direction" : {
+        "source" : "3",
+        "target" : "1"
+      }
+    }, {
+      "start" : 7.27,
+      "end" : 7.458,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.443,
+      "end" : 2.416,
+      "loc" : "0",
+      "word" : "조종사분들이"
+    }, {
+      "start" : 2.56,
+      "end" : 2.678,
+      "loc" : "1",
+      "word" : "일하는"
+    }, {
+      "start" : 2.872,
+      "end" : 3.103,
+      "loc" : "2",
+      "word" : "모습을"
+    }, {
+      "start" : 3.364,
+      "end" : 3.708,
+      "loc" : "3",
+      "word" : "보면서"
+    }, {
+      "start" : 4.23,
+      "end" : 4.864,
+      "loc" : "4,5",
+      "word" : "직업에 대한"
+    }, {
+      "start" : 5.733,
+      "end" : 6.513,
+      "loc" : "6",
+      "word" : "감명을"
+    }, {
+      "start" : 5.071,
+      "end" : 5.329,
+      "loc" : "7",
+      "word" : "약간"
+    }, {
+      "start" : 6.726,
+      "end" : 7.447,
+      "loc" : "8,9,10",
+      "word" : "얻은 거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.999,
+      "end" : 2.413,
+      "gloss_id" : "운전1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.56,
+      "end" : 2.678,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.872,
+      "end" : 3.103,
+      "gloss_id" : "모습1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.23,
+      "end" : 4.864,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.733,
+      "end" : 6.512,
+      "gloss_id" : "감동1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.958,
+      "end" : 7.103,
+      "gloss_id" : "반응1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.364,
+      "end" : 3.708
+    }, {
+      "descriptor" : "",
+      "start" : 7.27,
+      "end" : 7.458
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 6.726,
+      "end" : 7.447
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 2.097,
+      "end" : 2.413
+    } ],
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240779350",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 10:58:48",
+    "sentence_ID" : "VXPAKOKS240779350",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

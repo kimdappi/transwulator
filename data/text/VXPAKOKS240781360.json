@@ -1,0 +1,130 @@
+{
+  "id" : "VXPAKOKS240781360",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "반려동물 어떤 거 키워 보셨어요?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.611,
+      "end" : 2.955,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.187,
+      "end" : 3.57,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.861,
+      "end" : 4.029,
+      "gloss_id" : "한적있다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.185,
+      "end" : 4.489,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.611,
+      "end" : 2.955,
+      "loc" : "0",
+      "word" : "반려동물"
+    }, {
+      "start" : 3.192,
+      "end" : 4.029,
+      "loc" : "3,4",
+      "word" : "키워 보셨어요?"
+    }, {
+      "start" : 4.185,
+      "end" : 4.489,
+      "loc" : "1,2",
+      "word" : "어떤 거"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.611,
+      "end" : 2.955,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.187,
+      "end" : 3.57,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.187,
+      "end" : 3.57
+    }, {
+      "descriptor" : "",
+      "start" : 4.185,
+      "end" : 4.489
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.949,
+      "end" : 4.029
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.185,
+      "end" : 4.489
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781360",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:08:02",
+    "sentence_ID" : "VXPAKOKS240781360",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

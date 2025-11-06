@@ -1,0 +1,176 @@
+{
+  "id" : "VXPAKOKS240782440",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "다이어트는 솔직히 식단이 80퍼센트래.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.825,
+      "end" : 2.014,
+      "gloss_id" : "고기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.23,
+      "end" : 2.724,
+      "gloss_id" : "날씬하다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.968,
+      "end" : 3.396,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.014,
+      "end" : 4.231,
+      "gloss_id" : "퍼센트1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.414,
+      "end" : 4.614,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.864,
+      "end" : 5.22,
+      "gloss_id" : "조절1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.825,
+      "end" : 2.708,
+      "loc" : "0",
+      "word" : "다이어트는"
+    }, {
+      "start" : 2.968,
+      "end" : 5.224,
+      "loc" : "1,2,3",
+      "word" : "솔직히 식단이 80퍼센트래."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.825,
+      "end" : 2.014,
+      "gloss_id" : "고기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.23,
+      "end" : 2.724,
+      "gloss_id" : "날씬하다3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.968,
+      "end" : 3.396,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.608,
+      "end" : 4.624,
+      "gloss_id" : "80",
+      "express" : "n",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.864,
+      "end" : 5.22,
+      "gloss_id" : "조절1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "팔십",
+      "start" : 3.608,
+      "end" : 4.025
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.23,
+      "end" : 2.724
+    }, {
+      "descriptor" : "",
+      "start" : 2.968,
+      "end" : 3.396
+    }, {
+      "descriptor" : "",
+      "start" : 4.864,
+      "end" : 5.22
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.533,
+      "end" : 2.724
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 4.864,
+      "end" : 5.22
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.968,
+      "end" : 4.235
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782440",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:12:49",
+    "sentence_ID" : "VXPAKOKS240782440",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

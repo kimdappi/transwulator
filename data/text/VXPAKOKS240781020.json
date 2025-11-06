@@ -1,0 +1,210 @@
+{
+  "id" : "VXPAKOKS240781020",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 계획을 세우기보다는 즉석적으로 여행을 떠나는 편이야.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.352,
+      "end" : 1.47,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.706,
+      "end" : 2.526,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.755,
+      "end" : 3.283,
+      "gloss_id" : "아니다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.585,
+      "end" : 3.815,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.017,
+      "end" : 4.203,
+      "gloss_id" : "감정1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.483,
+      "end" : 4.708,
+      "gloss_id" : "같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.831,
+      "end" : 5.045,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.195,
+      "end" : 5.404,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.352,
+      "end" : 1.47,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 1.706,
+      "end" : 3.278,
+      "loc" : "1,2",
+      "word" : "계획을 세우기보다는"
+    }, {
+      "start" : 3.585,
+      "end" : 4.713,
+      "loc" : "3",
+      "word" : "즉석적으로"
+    }, {
+      "start" : 4.831,
+      "end" : 5.045,
+      "loc" : "4",
+      "word" : "여행을"
+    }, {
+      "start" : 5.195,
+      "end" : 5.404,
+      "loc" : "5,6",
+      "word" : "떠나는 편이야."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.706,
+      "end" : 2.526,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.585,
+      "end" : 4.208,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.831,
+      "end" : 5.045,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.483,
+      "end" : 4.708,
+      "gloss_id" : "같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.706,
+      "end" : 2.526
+    }, {
+      "descriptor" : "",
+      "start" : 5.195,
+      "end" : 5.404
+    }, {
+      "descriptor" : "",
+      "start" : 4.017,
+      "end" : 4.203
+    }, {
+      "descriptor" : "",
+      "start" : 4.483,
+      "end" : 4.708
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.59,
+      "end" : 4.703
+    } ],
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 2.596,
+      "end" : 2.9
+    } ],
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.706,
+      "end" : 3.289
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.017,
+      "end" : 4.697
+    }, {
+      "descriptor" : "",
+      "start" : 1.369,
+      "end" : 2.526
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781020",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:06:30",
+    "sentence_ID" : "VXPAKOKS240781020",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

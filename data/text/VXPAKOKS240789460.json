@@ -1,0 +1,222 @@
+{
+  "id" : "VXPAKOKS240789460",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "저는 복근 운동 요새 진짜 열심히 했거든요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.193,
+      "end" : 2.839,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.249,
+      "end" : 3.416,
+      "gloss_id" : "위장1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.721,
+      "end" : 3.953,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.114,
+      "end" : 4.258,
+      "gloss_id" : "며칠전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.629,
+      "end" : 4.752,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.999,
+      "end" : 5.184,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.529,
+      "end" : 6.117,
+      "gloss_id" : "열심1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.305,
+      "end" : 6.916,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.193,
+      "end" : 2.839,
+      "loc" : "0",
+      "word" : "저는"
+    }, {
+      "start" : 3.249,
+      "end" : 3.416,
+      "loc" : "1",
+      "word" : "복근"
+    }, {
+      "start" : 3.721,
+      "end" : 3.953,
+      "loc" : "2",
+      "word" : "운동"
+    }, {
+      "start" : 4.109,
+      "end" : 4.769,
+      "loc" : "3",
+      "word" : "요새"
+    }, {
+      "start" : 5.529,
+      "end" : 6.943,
+      "loc" : "5,6",
+      "word" : "열심히 했거든요."
+    }, {
+      "start" : 4.999,
+      "end" : 5.184,
+      "loc" : "4",
+      "word" : "진짜"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.721,
+      "end" : 3.953,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.636,
+      "end" : 4.752,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.529,
+      "end" : 6.117,
+      "gloss_id" : "열심1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.305,
+      "end" : 6.916,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.249,
+      "end" : 3.416,
+      "gloss_id" : "위장1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.529,
+      "end" : 6.117
+    }, {
+      "descriptor" : "",
+      "start" : 3.721,
+      "end" : 3.953
+    }, {
+      "descriptor" : "",
+      "start" : 6.305,
+      "end" : 6.916
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.249,
+      "end" : 3.955
+    }, {
+      "descriptor" : "",
+      "start" : 4.629,
+      "end" : 6.908
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 5.529,
+      "end" : 6.908
+    }, {
+      "descriptor" : "",
+      "start" : 3.249,
+      "end" : 3.958
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.193,
+      "end" : 2.839
+    }, {
+      "descriptor" : "",
+      "start" : 4.114,
+      "end" : 4.258
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789460",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:55:50",
+    "sentence_ID" : "VXPAKOKS240789460",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

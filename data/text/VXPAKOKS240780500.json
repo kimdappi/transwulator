@@ -1,0 +1,207 @@
+{
+  "id" : "VXPAKOKS240780500",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "기차 같은 것보다는 사람들이 버스를 많이 이용하는 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.688,
+      "end" : 1.965,
+      "gloss_id" : "평가1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.086,
+      "end" : 2.21,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.338,
+      "end" : 2.794,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.021,
+      "end" : 3.796,
+      "gloss_id" : "기차1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.128,
+      "end" : 4.965,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.287,
+      "end" : 5.621,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.688,
+      "end" : 1.965,
+      "loc" : "7,8",
+      "word" : "거 같아."
+    }, {
+      "start" : 2.086,
+      "end" : 2.795,
+      "loc" : "3",
+      "word" : "사람들이"
+    }, {
+      "start" : 3.021,
+      "end" : 3.796,
+      "loc" : "0,1,2",
+      "word" : "기차 같은 것보다는"
+    }, {
+      "start" : 4.128,
+      "end" : 4.519,
+      "loc" : "4",
+      "word" : "버스를"
+    }, {
+      "start" : 4.674,
+      "end" : 4.965,
+      "loc" : "6",
+      "word" : "이용하는"
+    }, {
+      "start" : 5.287,
+      "end" : 5.621,
+      "loc" : "5",
+      "word" : "많이"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.688,
+      "end" : 1.965,
+      "gloss_id" : "평가1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.086,
+      "end" : 2.21,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.021,
+      "end" : 3.796,
+      "gloss_id" : "기차1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.128,
+      "end" : 4.513,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.287,
+      "end" : 5.621,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.674,
+      "end" : 4.954,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.338,
+      "end" : 2.794
+    }, {
+      "descriptor" : "",
+      "start" : 4.128,
+      "end" : 4.519
+    }, {
+      "descriptor" : "",
+      "start" : 5.287,
+      "end" : 5.621
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.366,
+      "end" : 5.472
+    } ],
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 3.484,
+      "end" : 3.796
+    } ],
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.357,
+      "end" : 3.796
+    }, {
+      "descriptor" : "",
+      "start" : 5.287,
+      "end" : 5.621
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.338,
+      "end" : 2.794
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780500",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:04:19",
+    "sentence_ID" : "VXPAKOKS240780500",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

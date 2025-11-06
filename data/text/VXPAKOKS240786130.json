@@ -1,0 +1,131 @@
+{
+  "id" : "VXPAKOKS240786130",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 부산에 한번 가 보고 싶어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.555,
+      "end" : 1.775,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.988,
+      "end" : 2.278,
+      "gloss_id" : "부산1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.489,
+      "end" : 2.845,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 3.043,
+      "end" : 3.566,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.555,
+      "end" : 1.775,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 1.988,
+      "end" : 2.278,
+      "loc" : "1",
+      "word" : "부산에"
+    }, {
+      "start" : 3.043,
+      "end" : 3.566,
+      "loc" : "5",
+      "word" : "싶어."
+    }, {
+      "start" : 2.489,
+      "end" : 2.845,
+      "loc" : "2,3,4",
+      "word" : "한번 가 보고"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.988,
+      "end" : 2.278,
+      "gloss_id" : "부산1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.489,
+      "end" : 2.845,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.043,
+      "end" : 3.566
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.495,
+      "end" : 3.566
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.555,
+      "end" : 1.775
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786130",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:24:34",
+    "sentence_ID" : "VXPAKOKS240786130",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

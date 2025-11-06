@@ -1,0 +1,220 @@
+{
+  "id" : "VXPAKOKS240785830",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "술이라도 적당히 몸 생각하면서 마시고 회복할 수 있게 해야지.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.448,
+      "end" : 1.859,
+      "gloss_id" : "술1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.104,
+      "end" : 2.344,
+      "gloss_id" : "물1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.505,
+      "end" : 3.277,
+      "gloss_id" : "괜찮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.563,
+      "end" : 4.18,
+      "gloss_id" : "몸1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.424,
+      "end" : 4.785,
+      "gloss_id" : "건강1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.867,
+      "end" : 4.982,
+      "gloss_id" : "처음1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.128,
+      "end" : 5.72,
+      "gloss_id" : "신경1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.953,
+      "end" : 6.073,
+      "gloss_id" : "물1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.344,
+      "end" : 7.116,
+      "gloss_id" : "적당하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.448,
+      "end" : 1.859,
+      "loc" : "0",
+      "word" : "술이라도"
+    }, {
+      "start" : 3.563,
+      "end" : 4.18,
+      "loc" : "2",
+      "word" : "몸"
+    }, {
+      "start" : 6.344,
+      "end" : 7.116,
+      "loc" : "1",
+      "word" : "적당히"
+    }, {
+      "start" : 2.104,
+      "end" : 2.344,
+      "loc" : "4",
+      "word" : "마시고"
+    }, {
+      "start" : 2.505,
+      "end" : 3.277,
+      "loc" : "3",
+      "word" : "생각하면서"
+    }, {
+      "start" : 4.424,
+      "end" : 6.075,
+      "loc" : "5,6,7",
+      "word" : "회복할 수 있게"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 6.344,
+      "end" : 7.116,
+      "gloss_id" : "적당하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.563,
+      "end" : 4.18,
+      "gloss_id" : "몸1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.424,
+      "end" : 4.785,
+      "gloss_id" : "건강1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.128,
+      "end" : 5.72,
+      "gloss_id" : "신경1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.104,
+      "end" : 2.344
+    }, {
+      "descriptor" : "",
+      "start" : 5.128,
+      "end" : 5.72
+    }, {
+      "descriptor" : "",
+      "start" : 6.344,
+      "end" : 6.769
+    }, {
+      "descriptor" : "",
+      "start" : 2.505,
+      "end" : 2.838
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.563,
+      "end" : 5.716
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.505,
+      "end" : 2.838
+    }, {
+      "descriptor" : "",
+      "start" : 5.128,
+      "end" : 5.72
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.448,
+      "end" : 1.859
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785830",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:22:34",
+    "sentence_ID" : "VXPAKOKS240785830",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

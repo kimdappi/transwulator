@@ -1,0 +1,224 @@
+{
+  "id" : "VXPAKOKS240783510",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "인간한테 그렇게 큰 피해가 가지 않는다면 고양이한테 밥을 주는 것도 나쁘지 않다고 생각하긴 해.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.322,
+      "end" : 2.593,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.866,
+      "end" : 3.206,
+      "gloss_id" : "손해1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.394,
+      "end" : 3.62,
+      "gloss_id" : "방해1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.836,
+      "end" : 4.541,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.327,
+      "end" : 5.736,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.868,
+      "end" : 6.573,
+      "gloss_id" : "주다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 6.842,
+      "end" : 7.388,
+      "gloss_id" : "괜찮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.58,
+      "end" : 7.753,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.818,
+      "end" : 5.143,
+      "gloss_id" : "고양이1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.322,
+      "end" : 2.593,
+      "loc" : "0",
+      "word" : "인간한테"
+    }, {
+      "start" : 2.866,
+      "end" : 3.206,
+      "loc" : "1,2,3",
+      "word" : "그렇게 큰 피해가"
+    }, {
+      "start" : 3.394,
+      "end" : 3.62,
+      "loc" : "4",
+      "word" : "가지"
+    }, {
+      "start" : 3.836,
+      "end" : 4.541,
+      "loc" : "5",
+      "word" : "않는다면"
+    }, {
+      "start" : 4.818,
+      "end" : 5.143,
+      "loc" : "6",
+      "word" : "고양이한테"
+    }, {
+      "start" : 5.327,
+      "end" : 5.736,
+      "loc" : "7",
+      "word" : "밥을"
+    }, {
+      "start" : 5.868,
+      "end" : 6.573,
+      "loc" : "8,9",
+      "word" : "주는 것도"
+    }, {
+      "start" : 6.842,
+      "end" : 7.388,
+      "loc" : "10,11",
+      "word" : "나쁘지 않다고"
+    }, {
+      "start" : 7.58,
+      "end" : 7.753,
+      "loc" : "12,13",
+      "word" : "생각하긴 해."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.866,
+      "end" : 3.206,
+      "gloss_id" : "손해1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.868,
+      "end" : 6.573,
+      "gloss_id" : "남자1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.322,
+      "end" : 2.593,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.866,
+      "end" : 3.609
+    }, {
+      "descriptor" : "",
+      "start" : 3.836,
+      "end" : 4.541
+    }, {
+      "descriptor" : "",
+      "start" : 5.868,
+      "end" : 6.573
+    }, {
+      "descriptor" : "",
+      "start" : 6.842,
+      "end" : 7.388
+    }, {
+      "descriptor" : "",
+      "start" : 7.58,
+      "end" : 7.753
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.395,
+      "end" : 4.541
+    }, {
+      "descriptor" : "",
+      "start" : 5.868,
+      "end" : 6.573
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783510",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:18:02",
+    "sentence_ID" : "VXPAKOKS240783510",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

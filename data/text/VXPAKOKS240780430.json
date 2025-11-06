@@ -1,0 +1,136 @@
+{
+  "id" : "VXPAKOKS240780430",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "집이 응암 쪽이었었지?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.298,
+      "end" : 1.394,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.675,
+      "end" : 2.358,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.536,
+      "end" : 3.535,
+      "gloss_id" : "응암",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.696,
+      "end" : 3.83,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.002,
+      "end" : 4.312,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.298,
+      "end" : 2.358,
+      "loc" : "0",
+      "word" : "집이"
+    }, {
+      "start" : 2.536,
+      "end" : 3.535,
+      "loc" : "1",
+      "word" : "응암"
+    }, {
+      "start" : 3.696,
+      "end" : 4.308,
+      "loc" : "2",
+      "word" : "쪽이었었지?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.675,
+      "end" : 2.358,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "응암",
+      "start" : 2.536,
+      "end" : 3.535
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.002,
+      "end" : 4.312
+    }, {
+      "descriptor" : "",
+      "start" : 3.696,
+      "end" : 3.83
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.675,
+      "end" : 4.305
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.696,
+      "end" : 4.305
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240780430",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:04:04",
+    "sentence_ID" : "VXPAKOKS240780430",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

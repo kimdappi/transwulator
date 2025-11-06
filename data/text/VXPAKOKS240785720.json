@@ -1,0 +1,238 @@
+{
+  "id" : "VXPAKOKS240785720",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 배달이 편리함이 있다 하더라도 나는 별로 배달을 시켜 먹고 싶지 않아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.38,
+      "end" : 1.612,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.784,
+      "end" : 2.126,
+      "gloss_id" : "보내다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.371,
+      "end" : 2.793,
+      "gloss_id" : "간단하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.036,
+      "end" : 3.402,
+      "gloss_id" : "맞다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.64,
+      "end" : 4.391,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.573,
+      "end" : 4.886,
+      "gloss_id" : "보내다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 5.069,
+      "end" : 5.405,
+      "gloss_id" : "시키다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 5.658,
+      "end" : 5.856,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.06,
+      "end" : 6.792,
+      "gloss_id" : "원하지않다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.38,
+      "end" : 1.612,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 1.784,
+      "end" : 2.126,
+      "loc" : "1",
+      "word" : "배달이"
+    }, {
+      "start" : 2.371,
+      "end" : 3.393,
+      "loc" : "2",
+      "word" : "편리함이"
+    }, {
+      "start" : 3.64,
+      "end" : 4.391,
+      "loc" : "5",
+      "word" : "나는"
+    }, {
+      "start" : 4.573,
+      "end" : 4.886,
+      "loc" : "7",
+      "word" : "배달을"
+    }, {
+      "start" : 5.069,
+      "end" : 5.405,
+      "loc" : "8",
+      "word" : "시켜"
+    }, {
+      "start" : 5.658,
+      "end" : 5.856,
+      "loc" : "9",
+      "word" : "먹고"
+    }, {
+      "start" : 6.06,
+      "end" : 6.792,
+      "loc" : "6,10,11",
+      "word" : "별로 싶지 않아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.784,
+      "end" : 2.126,
+      "gloss_id" : "보내다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.371,
+      "end" : 2.793,
+      "gloss_id" : "간단하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.573,
+      "end" : 4.886,
+      "gloss_id" : "보내다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.069,
+      "end" : 5.405,
+      "gloss_id" : "시키다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.371,
+      "end" : 2.793
+    }, {
+      "descriptor" : "",
+      "start" : 3.64,
+      "end" : 4.391
+    }, {
+      "descriptor" : "",
+      "start" : 5.069,
+      "end" : 5.405
+    }, {
+      "descriptor" : "",
+      "start" : 6.06,
+      "end" : 6.792
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.517,
+      "end" : 6.792
+    }, {
+      "descriptor" : "",
+      "start" : 2.558,
+      "end" : 2.793
+    }, {
+      "descriptor" : "",
+      "start" : 4.68,
+      "end" : 4.886
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.371,
+      "end" : 3.402
+    }, {
+      "descriptor" : "",
+      "start" : 3.646,
+      "end" : 6.795
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.036,
+      "end" : 3.402
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240785720",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:21:48",
+    "sentence_ID" : "VXPAKOKS240785720",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

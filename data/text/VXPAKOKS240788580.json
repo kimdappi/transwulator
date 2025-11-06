@@ -1,0 +1,189 @@
+{
+  "id" : "VXPAKOKS240788580",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "공무원들은 다 거의 6시 되면 퇴근이잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.392,
+      "end" : 1.736,
+      "gloss_id" : "공공1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.929,
+      "end" : 2.364,
+      "gloss_id" : "사무1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.516,
+      "end" : 2.581,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.655,
+      "end" : 3.08,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.437,
+      "end" : 3.721,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.907,
+      "end" : 4.407,
+      "gloss_id" : "시:6시",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.392,
+      "end" : 2.359,
+      "loc" : "0",
+      "word" : "공무원들은"
+    }, {
+      "start" : 2.516,
+      "end" : 3.079,
+      "loc" : "5",
+      "word" : "퇴근이잖아."
+    }, {
+      "start" : 3.437,
+      "end" : 3.721,
+      "loc" : "1,2",
+      "word" : "다 거의"
+    }, {
+      "start" : 3.907,
+      "end" : 4.407,
+      "loc" : "3",
+      "word" : "6시"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.392,
+      "end" : 1.736,
+      "gloss_id" : "공공1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.929,
+      "end" : 2.364,
+      "gloss_id" : "사무1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.516,
+      "end" : 2.581,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.655,
+      "end" : 3.08,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.437,
+      "end" : 3.721,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.907,
+      "end" : 4.407,
+      "gloss_id" : "시:6시",
+      "express" : "d",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.907,
+      "end" : 4.407
+    }, {
+      "descriptor" : "",
+      "start" : 2.894,
+      "end" : 3.07
+    }, {
+      "descriptor" : "",
+      "start" : 3.437,
+      "end" : 3.721
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.895,
+      "end" : 3.068
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.929,
+      "end" : 2.364
+    }, {
+      "descriptor" : "",
+      "start" : 3.437,
+      "end" : 4.41
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240788580",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:47:41",
+    "sentence_ID" : "VXPAKOKS240788580",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,132 @@
+{
+  "id" : "VXPAKOKS240786510",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 속초를 갔었는데 정말 별로더라고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.69,
+      "end" : 1.874,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.073,
+      "end" : 2.199,
+      "gloss_id" : "속초2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.51,
+      "end" : 2.791,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 3.327,
+      "end" : 3.997,
+      "gloss_id" : "별로1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.69,
+      "end" : 1.874,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.073,
+      "end" : 2.199,
+      "loc" : "1",
+      "word" : "속초를"
+    }, {
+      "start" : 2.51,
+      "end" : 2.791,
+      "loc" : "2",
+      "word" : "갔었는데"
+    }, {
+      "start" : 3.327,
+      "end" : 3.997,
+      "loc" : "3,4",
+      "word" : "정말 별로더라고."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.51,
+      "end" : 2.791,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.51,
+      "end" : 2.791
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.51,
+      "end" : 2.791
+    } ],
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 2.821,
+      "end" : 3.297
+    } ],
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.69,
+      "end" : 3.993
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.69,
+      "end" : 1.874
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786510",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:27:37",
+    "sentence_ID" : "VXPAKOKS240786510",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,216 @@
+{
+  "id" : "VXPAKOKS240788470",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "요 며칠 새 버스를 좀 많이 탔는데 버스가 자꾸 느리게 가는 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.624,
+      "end" : 1.779,
+      "gloss_id" : "며칠전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.101,
+      "end" : 2.278,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.396,
+      "end" : 2.573,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.83,
+      "end" : 3.534,
+      "gloss_id" : "여러번1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.392,
+      "end" : 4.625,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.701,
+      "end" : 5.355,
+      "gloss_id" : "버스1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.65,
+      "end" : 5.967,
+      "gloss_id" : "늙다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.181,
+      "end" : 6.976,
+      "gloss_id" : "더1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.624,
+      "end" : 1.779,
+      "loc" : "0,1,2",
+      "word" : "요 며칠 새"
+    }, {
+      "start" : 2.101,
+      "end" : 2.278,
+      "loc" : "3",
+      "word" : "버스를"
+    }, {
+      "start" : 2.396,
+      "end" : 2.573,
+      "loc" : "6",
+      "word" : "탔는데"
+    }, {
+      "start" : 2.83,
+      "end" : 3.534,
+      "loc" : "4,5",
+      "word" : "좀 많이"
+    }, {
+      "start" : 4.392,
+      "end" : 4.625,
+      "loc" : "7",
+      "word" : "버스가"
+    }, {
+      "start" : 4.701,
+      "end" : 5.959,
+      "loc" : "9,10,11,12",
+      "word" : "느리게 가는 거 같아."
+    }, {
+      "start" : 6.181,
+      "end" : 6.976,
+      "loc" : "8",
+      "word" : "자꾸"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.101,
+      "end" : 2.278,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.396,
+      "end" : 2.573,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.392,
+      "end" : 5.349,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.181,
+      "end" : 6.976,
+      "gloss_id" : "더1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.83,
+      "end" : 3.534
+    }, {
+      "descriptor" : "",
+      "start" : 4.701,
+      "end" : 5.341
+    }, {
+      "descriptor" : "",
+      "start" : 6.181,
+      "end" : 6.976
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.83,
+      "end" : 3.534
+    }, {
+      "descriptor" : "",
+      "start" : 4.392,
+      "end" : 5.328
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 4.94,
+      "end" : 5.193
+    }, {
+      "descriptor" : "",
+      "start" : 5.713,
+      "end" : 5.967
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 6.181,
+      "end" : 6.976
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788470",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:46:56",
+    "sentence_ID" : "VXPAKOKS240788470",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

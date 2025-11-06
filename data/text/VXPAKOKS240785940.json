@@ -1,0 +1,375 @@
+{
+  "id" : "VXPAKOKS240785940",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "옛날에 내가 제주도에 살 때 아버지도 강아지를 키우고 사냥개를 키웠다 했잖아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.717,
+      "end" : 2.232,
+      "gloss_id" : "옛날4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.353,
+      "end" : 2.535,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.78,
+      "end" : 3.058,
+      "gloss_id" : "제주도1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.309,
+      "end" : 3.779,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.054,
+      "end" : 4.118,
+      "gloss_id" : "아빠1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.248,
+      "end" : 4.494,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.663,
+      "end" : 4.807,
+      "gloss_id" : "아이1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.256,
+      "end" : 5.758,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.088,
+      "end" : 6.232,
+      "gloss_id" : "물다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.469,
+      "end" : 6.607,
+      "gloss_id" : "전문1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.901,
+      "end" : 7.032,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.318,
+      "end" : 7.571,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.743,
+      "end" : 8.015,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.182,
+      "end" : 8.28,
+      "gloss_id" : "과거1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.859,
+      "end" : 9.604,
+      "gloss_id" : "기억1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.336,
+      "end" : 8.653,
+      "gloss_id" : "말하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "3",
+        "target" : "1"
+      }
+    }, {
+      "start" : 4.899,
+      "end" : 5.006,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.717,
+      "end" : 2.232,
+      "loc" : "0",
+      "word" : "옛날에"
+    }, {
+      "start" : 2.353,
+      "end" : 2.535,
+      "loc" : "1",
+      "word" : "내가"
+    }, {
+      "start" : 2.78,
+      "end" : 3.058,
+      "loc" : "2",
+      "word" : "제주도에"
+    }, {
+      "start" : 3.309,
+      "end" : 3.779,
+      "loc" : "3,4",
+      "word" : "살 때"
+    }, {
+      "start" : 4.054,
+      "end" : 4.502,
+      "loc" : "5",
+      "word" : "아버지도"
+    }, {
+      "start" : 4.663,
+      "end" : 5.004,
+      "loc" : "6",
+      "word" : "강아지를"
+    }, {
+      "start" : 5.256,
+      "end" : 5.758,
+      "loc" : "7",
+      "word" : "키우고"
+    }, {
+      "start" : 6.088,
+      "end" : 7.028,
+      "loc" : "8",
+      "word" : "사냥개를"
+    }, {
+      "start" : 7.318,
+      "end" : 8.018,
+      "loc" : "9",
+      "word" : "키웠다"
+    }, {
+      "start" : 8.182,
+      "end" : 9.595,
+      "loc" : "10",
+      "word" : "했잖아?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.78,
+      "end" : 3.058,
+      "gloss_id" : "제주도1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.309,
+      "end" : 3.779,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.663,
+      "end" : 4.807,
+      "gloss_id" : "아이1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.914,
+      "end" : 5.006,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.256,
+      "end" : 5.758,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.088,
+      "end" : 6.609,
+      "gloss_id" : "물다1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.901,
+      "end" : 7.032,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.318,
+      "end" : 8.018,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.248,
+      "end" : 4.494,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.717,
+      "end" : 2.232
+    }, {
+      "descriptor" : "",
+      "start" : 3.309,
+      "end" : 3.779
+    }, {
+      "descriptor" : "",
+      "start" : 4.914,
+      "end" : 5.006
+    }, {
+      "descriptor" : "",
+      "start" : 6.469,
+      "end" : 6.607
+    }, {
+      "descriptor" : "",
+      "start" : 7.743,
+      "end" : 8.015
+    }, {
+      "descriptor" : "",
+      "start" : 8.336,
+      "end" : 8.653
+    }, {
+      "descriptor" : "",
+      "start" : 8.859,
+      "end" : 9.604
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.904,
+      "end" : 8.015
+    }, {
+      "descriptor" : "",
+      "start" : 5.578,
+      "end" : 5.758
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.717,
+      "end" : 2.232
+    }, {
+      "descriptor" : "",
+      "start" : 4.054,
+      "end" : 4.806
+    }, {
+      "descriptor" : "",
+      "start" : 5.256,
+      "end" : 9.595
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.309,
+      "end" : 3.779
+    }, {
+      "descriptor" : "",
+      "start" : 5.256,
+      "end" : 5.642
+    } ],
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 8.434,
+      "end" : 9.297
+    } ],
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240785940",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:23:23",
+    "sentence_ID" : "VXPAKOKS240785940",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

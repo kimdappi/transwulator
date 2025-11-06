@@ -1,0 +1,184 @@
+{
+  "id" : "VXPAKOKS240783700",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "동물 대소변은 옷에서 냄새가 안 빠져.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.568,
+      "end" : 2.899,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.203,
+      "end" : 3.378,
+      "gloss_id" : "대변1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.67,
+      "end" : 4.867,
+      "gloss_id" : "옷1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.263,
+      "end" : 5.41,
+      "gloss_id" : "묻다2#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.651,
+      "end" : 5.918,
+      "gloss_id" : "생명1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.3,
+      "end" : 6.489,
+      "gloss_id" : "사라지다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.702,
+      "end" : 7.138,
+      "gloss_id" : "강하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.626,
+      "end" : 4.316,
+      "gloss_id" : "소변3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.568,
+      "end" : 2.899,
+      "loc" : "0",
+      "word" : "동물"
+    }, {
+      "start" : 3.203,
+      "end" : 4.316,
+      "loc" : "1",
+      "word" : "대소변은"
+    }, {
+      "start" : 4.67,
+      "end" : 4.867,
+      "loc" : "2",
+      "word" : "옷에서"
+    }, {
+      "start" : 5.263,
+      "end" : 5.89,
+      "loc" : "3",
+      "word" : "냄새가"
+    }, {
+      "start" : 6.3,
+      "end" : 7.138,
+      "loc" : "4,5",
+      "word" : "안 빠져."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.568,
+      "end" : 2.899,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.263,
+      "end" : 7.138,
+      "gloss_id" : "묻다2#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.626,
+      "end" : 4.309
+    }, {
+      "descriptor" : "",
+      "start" : 5.263,
+      "end" : 6.539
+    }, {
+      "descriptor" : "",
+      "start" : 6.702,
+      "end" : 7.138
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 6.702,
+      "end" : 7.138
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.572,
+      "end" : 4.316
+    }, {
+      "descriptor" : "",
+      "start" : 5.263,
+      "end" : 5.41
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783700",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:18:45",
+    "sentence_ID" : "VXPAKOKS240783700",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

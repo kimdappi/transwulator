@@ -1,0 +1,146 @@
+{
+  "id" : "VXPAKOKS240789320",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "너는 야구 보러 갈 생각 없어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.286,
+      "end" : 1.396,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.717,
+      "end" : 1.91,
+      "gloss_id" : "야구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.141,
+      "end" : 2.397,
+      "gloss_id" : "경쟁1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.577,
+      "end" : 2.697,
+      "gloss_id" : "구경1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.959,
+      "end" : 3.114,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.31,
+      "end" : 3.763,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.286,
+      "end" : 1.396,
+      "loc" : "0",
+      "word" : "너는"
+    }, {
+      "start" : 1.717,
+      "end" : 1.91,
+      "loc" : "1",
+      "word" : "야구"
+    }, {
+      "start" : 2.141,
+      "end" : 2.687,
+      "loc" : "2,3",
+      "word" : "보러 갈"
+    }, {
+      "start" : 2.954,
+      "end" : 3.763,
+      "loc" : "4,5",
+      "word" : "생각 없어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.141,
+      "end" : 2.397,
+      "gloss_id" : "경쟁1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.31,
+      "end" : 3.763
+    }, {
+      "descriptor" : "",
+      "start" : 1.286,
+      "end" : 1.396
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.141,
+      "end" : 2.397
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.602,
+      "end" : 3.763
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789320",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:54:58",
+    "sentence_ID" : "VXPAKOKS240789320",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

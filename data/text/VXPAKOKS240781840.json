@@ -1,0 +1,287 @@
+{
+  "id" : "VXPAKOKS240781840",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "우리가 종이책을 읽을 때 뇌에서 엄청나게 많은 에너지를 쓴대요",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.301,
+      "end" : 2.721,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.919,
+      "end" : 3.153,
+      "gloss_id" : "종이2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.389,
+      "end" : 3.622,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.804,
+      "end" : 4.695,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.895,
+      "end" : 5.191,
+      "gloss_id" : "읽다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.36,
+      "end" : 5.62,
+      "gloss_id" : "때2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.881,
+      "end" : 6.079,
+      "gloss_id" : "뇌",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.342,
+      "end" : 6.576,
+      "gloss_id" : "머리1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.841,
+      "end" : 7.163,
+      "gloss_id" : "환기6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.339,
+      "end" : 7.883,
+      "gloss_id" : "활동1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.091,
+      "end" : 8.236,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.381,
+      "end" : 8.641,
+      "gloss_id" : "사용1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.849,
+      "end" : 9.118,
+      "gloss_id" : "말하다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.301,
+      "end" : 2.721,
+      "loc" : "0",
+      "word" : "우리가"
+    }, {
+      "start" : 2.919,
+      "end" : 4.691,
+      "loc" : "1",
+      "word" : "종이책을"
+    }, {
+      "start" : 4.895,
+      "end" : 5.191,
+      "loc" : "2",
+      "word" : "읽을"
+    }, {
+      "start" : 5.36,
+      "end" : 5.62,
+      "loc" : "3",
+      "word" : "때"
+    }, {
+      "start" : 5.881,
+      "end" : 6.585,
+      "loc" : "4",
+      "word" : "뇌에서"
+    }, {
+      "start" : 6.841,
+      "end" : 7.874,
+      "loc" : "7",
+      "word" : "에너지를"
+    }, {
+      "start" : 8.091,
+      "end" : 8.236,
+      "loc" : "5,6",
+      "word" : "엄청나게 많은"
+    }, {
+      "start" : 8.381,
+      "end" : 9.103,
+      "loc" : "8",
+      "word" : "쓴대요"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.919,
+      "end" : 3.153,
+      "gloss_id" : "종이2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.389,
+      "end" : 5.187,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.36,
+      "end" : 5.62,
+      "gloss_id" : "때2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.841,
+      "end" : 7.163,
+      "gloss_id" : "환기6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.339,
+      "end" : 7.883,
+      "gloss_id" : "활동1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.091,
+      "end" : 8.236,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.381,
+      "end" : 8.641,
+      "gloss_id" : "사용1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "뇌",
+      "start" : 5.881,
+      "end" : 6.079
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.804,
+      "end" : 4.695
+    }, {
+      "descriptor" : "",
+      "start" : 8.091,
+      "end" : 8.236
+    }, {
+      "descriptor" : "",
+      "start" : 8.849,
+      "end" : 9.118
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 8.159,
+      "end" : 8.248
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 6.841,
+      "end" : 8.23
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 6.841,
+      "end" : 7.865
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 8.849,
+      "end" : 9.118
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781840",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:10:02",
+    "sentence_ID" : "VXPAKOKS240781840",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

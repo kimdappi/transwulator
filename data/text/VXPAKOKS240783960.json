@@ -1,0 +1,365 @@
+{
+  "id" : "VXPAKOKS240783960",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "경기도에 살면서 서울에 출퇴근을 하려면 광역 버스를 타고 출퇴근하지 않을까 싶었는데 우리 매봉역으로 출근하는 분들을 보면은 또 그렇지만도 않더라고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.79,
+      "end" : 2.24,
+      "gloss_id" : "경기도2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.428,
+      "end" : 3.015,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.451,
+      "end" : 3.914,
+      "gloss_id" : "서울1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.108,
+      "end" : 4.983,
+      "gloss_id" : "오가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.34,
+      "end" : 5.677,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.95,
+      "end" : 6.2,
+      "gloss_id" : "빨강1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.443,
+      "end" : 6.905,
+      "gloss_id" : "고속도로1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.165,
+      "end" : 8.053,
+      "gloss_id" : "버스1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.18,
+      "end" : 8.305,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.671,
+      "end" : 9.308,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.632,
+      "end" : 10.932,
+      "gloss_id" : "매봉",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.105,
+      "end" : 11.28,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.432,
+      "end" : 11.557,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.662,
+      "end" : 11.874,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 12.107,
+      "end" : 12.232,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 12.458,
+      "end" : 12.845,
+      "gloss_id" : "보다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 13.152,
+      "end" : 13.652,
+      "gloss_id" : "다르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.79,
+      "end" : 2.24,
+      "loc" : "0",
+      "word" : "경기도에"
+    }, {
+      "start" : 2.428,
+      "end" : 3.015,
+      "loc" : "1",
+      "word" : "살면서"
+    }, {
+      "start" : 3.451,
+      "end" : 3.914,
+      "loc" : "2",
+      "word" : "서울에"
+    }, {
+      "start" : 4.108,
+      "end" : 5.633,
+      "loc" : "3,4",
+      "word" : "출퇴근을 하려면"
+    }, {
+      "start" : 5.95,
+      "end" : 8.037,
+      "loc" : "5,6,7,8,9",
+      "word" : "광역 버스를 타고 출퇴근하지 않을까"
+    }, {
+      "start" : 8.18,
+      "end" : 9.305,
+      "loc" : "10,11",
+      "word" : "싶었는데 우리"
+    }, {
+      "start" : 9.632,
+      "end" : 11.557,
+      "loc" : "12",
+      "word" : "매봉역으로"
+    }, {
+      "start" : 11.662,
+      "end" : 11.874,
+      "loc" : "13",
+      "word" : "출근하는"
+    }, {
+      "start" : 12.107,
+      "end" : 12.232,
+      "loc" : "14",
+      "word" : "분들을"
+    }, {
+      "start" : 12.458,
+      "end" : 12.845,
+      "loc" : "15",
+      "word" : "보면은"
+    }, {
+      "start" : 13.152,
+      "end" : 13.652,
+      "loc" : "16,17,18",
+      "word" : "또 그렇지만도 않더라고."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.79,
+      "end" : 2.24,
+      "gloss_id" : "경기도2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.428,
+      "end" : 3.015,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.443,
+      "end" : 6.905,
+      "gloss_id" : "고속도로1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.165,
+      "end" : 8.053,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 11.105,
+      "end" : 11.28,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 11.662,
+      "end" : 11.874,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 12.107,
+      "end" : 12.232,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 13.152,
+      "end" : 13.652,
+      "gloss_id" : "다르다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "매봉",
+      "start" : 9.632,
+      "end" : 10.932
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.428,
+      "end" : 3.015
+    }, {
+      "descriptor" : "",
+      "start" : 5.34,
+      "end" : 5.677
+    }, {
+      "descriptor" : "",
+      "start" : 8.671,
+      "end" : 9.308
+    }, {
+      "descriptor" : "",
+      "start" : 11.662,
+      "end" : 12.836
+    }, {
+      "descriptor" : "",
+      "start" : 13.152,
+      "end" : 13.652
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 12.596,
+      "end" : 12.845
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 13.152,
+      "end" : 13.652
+    }, {
+      "descriptor" : "",
+      "start" : 8.671,
+      "end" : 9.308
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 7.165,
+      "end" : 8.053
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.428,
+      "end" : 3.015
+    }, {
+      "descriptor" : "",
+      "start" : 5.34,
+      "end" : 5.677
+    }, {
+      "descriptor" : "",
+      "start" : 11.662,
+      "end" : 12.711
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783960",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:20:08",
+    "sentence_ID" : "VXPAKOKS240783960",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

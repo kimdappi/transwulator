@@ -1,0 +1,194 @@
+{
+  "id" : "VXPAKOKS240786550",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "테니스랑 스쿼시 둘 중에는 결과적으로 어떤 게 더 할 만한 거 같아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.781,
+      "end" : 3.024,
+      "gloss_id" : "테니스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.731,
+      "end" : 4.38,
+      "gloss_id" : "주먹형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.585,
+      "end" : 5.242,
+      "gloss_id" : "일형3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.472,
+      "end" : 6.032,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.403,
+      "end" : 6.58,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.82,
+      "end" : 6.93,
+      "gloss_id" : "괜찮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.168,
+      "end" : 7.466,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.781,
+      "end" : 3.024,
+      "loc" : "0",
+      "word" : "테니스랑"
+    }, {
+      "start" : 3.731,
+      "end" : 5.227,
+      "loc" : "1",
+      "word" : "스쿼시"
+    }, {
+      "start" : 5.472,
+      "end" : 6.032,
+      "loc" : "2,3",
+      "word" : "둘 중에는"
+    }, {
+      "start" : 6.403,
+      "end" : 6.917,
+      "loc" : "4,7,8,9,10,11",
+      "word" : "결과적으로 더 할 만한 거 같아?"
+    }, {
+      "start" : 7.168,
+      "end" : 7.466,
+      "loc" : "5,6",
+      "word" : "어떤 게"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 5.472,
+      "end" : 6.032,
+      "gloss_id" : "둘중하나3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.731,
+      "end" : 4.38,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.585,
+      "end" : 5.242,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.781,
+      "end" : 3.024
+    }, {
+      "descriptor" : "",
+      "start" : 4.218,
+      "end" : 4.38
+    }, {
+      "descriptor" : "",
+      "start" : 5.472,
+      "end" : 6.032
+    }, {
+      "descriptor" : "",
+      "start" : 7.168,
+      "end" : 7.466
+    }, {
+      "descriptor" : "",
+      "start" : 4.585,
+      "end" : 5.242
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.218,
+      "end" : 4.373
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 6.403,
+      "end" : 6.91
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.731,
+      "end" : 5.235
+    }, {
+      "descriptor" : "",
+      "start" : 7.168,
+      "end" : 7.466
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786550",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:27:50",
+    "sentence_ID" : "VXPAKOKS240786550",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

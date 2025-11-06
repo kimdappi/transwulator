@@ -1,0 +1,223 @@
+{
+  "id" : "VXPAKOKS240784190",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "어떻게 1년 동안 운동을 다니는지 정말 궁금하네?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.973,
+      "end" : 3.415,
+      "gloss_id" : "날짜(활용):1년",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.626,
+      "end" : 3.789,
+      "gloss_id" : "간격1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.963,
+      "end" : 5.234,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.475,
+      "end" : 5.811,
+      "gloss_id" : "열심1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.081,
+      "end" : 6.851,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.072,
+      "end" : 7.745,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.846,
+      "end" : 8.009,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.301,
+      "end" : 9.524,
+      "gloss_id" : "궁금하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.705,
+      "end" : 9.925,
+      "gloss_id" : "크다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.973,
+      "end" : 3.415,
+      "loc" : "1",
+      "word" : "1년"
+    }, {
+      "start" : 3.626,
+      "end" : 3.789,
+      "loc" : "2",
+      "word" : "동안"
+    }, {
+      "start" : 3.963,
+      "end" : 5.234,
+      "loc" : "3",
+      "word" : "운동을"
+    }, {
+      "start" : 6.081,
+      "end" : 6.851,
+      "loc" : "4",
+      "word" : "다니는지"
+    }, {
+      "start" : 7.072,
+      "end" : 7.745,
+      "loc" : "0",
+      "word" : "어떻게"
+    }, {
+      "start" : 7.846,
+      "end" : 9.512,
+      "loc" : "6",
+      "word" : "궁금하네?"
+    }, {
+      "start" : 9.705,
+      "end" : 9.925,
+      "loc" : "5",
+      "word" : "정말"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.973,
+      "end" : 3.415,
+      "gloss_id" : "날짜(활용):1년",
+      "express" : "d",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.626,
+      "end" : 3.789,
+      "gloss_id" : "간격1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.963,
+      "end" : 5.234,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.475,
+      "end" : 5.811,
+      "gloss_id" : "열심1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.081,
+      "end" : 6.851,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.072,
+      "end" : 7.745,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 6.081,
+      "end" : 6.851
+    }, {
+      "descriptor" : "",
+      "start" : 9.705,
+      "end" : 9.925
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.973,
+      "end" : 9.526
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 9.705,
+      "end" : 9.925
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784190",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:21:32",
+    "sentence_ID" : "VXPAKOKS240784190",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

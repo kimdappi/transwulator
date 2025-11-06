@@ -1,0 +1,217 @@
+{
+  "id" : "VXPAKOKS240784660",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "집이 너무 오래돼서 새집을 가보고 싶은 생각이 있다는 거지.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.732,
+      "end" : 1.802,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.011,
+      "end" : 2.517,
+      "gloss_id" : "썩다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.678,
+      "end" : 2.919,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.159,
+      "end" : 3.3,
+      "gloss_id" : "새롭다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.466,
+      "end" : 3.818,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.014,
+      "end" : 4.455,
+      "gloss_id" : "이사하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.708,
+      "end" : 5.125,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.505,
+      "end" : 5.869,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.732,
+      "end" : 1.802,
+      "loc" : "0",
+      "word" : "집이"
+    }, {
+      "start" : 2.011,
+      "end" : 2.917,
+      "loc" : "1,2",
+      "word" : "너무 오래돼서"
+    }, {
+      "start" : 3.159,
+      "end" : 3.812,
+      "loc" : "3",
+      "word" : "새집을"
+    }, {
+      "start" : 4.014,
+      "end" : 4.455,
+      "loc" : "4",
+      "word" : "가보고"
+    }, {
+      "start" : 4.708,
+      "end" : 5.125,
+      "loc" : "5",
+      "word" : "싶은"
+    }, {
+      "start" : 5.505,
+      "end" : 5.869,
+      "loc" : "6,7,8",
+      "word" : "생각이 있다는 거지."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.732,
+      "end" : 1.802,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.011,
+      "end" : 2.517,
+      "gloss_id" : "썩다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.678,
+      "end" : 2.919,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.159,
+      "end" : 3.3,
+      "gloss_id" : "새롭다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.466,
+      "end" : 3.818,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.014,
+      "end" : 4.455,
+      "gloss_id" : "이사하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.505,
+      "end" : 5.869
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.766,
+      "end" : 2.919
+    }, {
+      "descriptor" : "",
+      "start" : 3.159,
+      "end" : 3.3
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.011,
+      "end" : 2.517
+    }, {
+      "descriptor" : "",
+      "start" : 4.708,
+      "end" : 5.855
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.014,
+      "end" : 4.455
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240784660",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:24:01",
+    "sentence_ID" : "VXPAKOKS240784660",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

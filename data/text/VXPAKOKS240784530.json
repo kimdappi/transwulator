@@ -1,0 +1,131 @@
+{
+  "id" : "VXPAKOKS240784530",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "내가 오늘 마그네슘을 구입을 했거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.783,
+      "end" : 1.881,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.083,
+      "end" : 2.394,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.592,
+      "end" : 4.719,
+      "gloss_id" : "마그네슘",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.966,
+      "end" : 5.391,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.783,
+      "end" : 1.881,
+      "loc" : "0",
+      "word" : "내가"
+    }, {
+      "start" : 2.083,
+      "end" : 2.394,
+      "loc" : "1",
+      "word" : "오늘"
+    }, {
+      "start" : 2.592,
+      "end" : 4.719,
+      "loc" : "2",
+      "word" : "마그네슘을"
+    }, {
+      "start" : 4.966,
+      "end" : 5.391,
+      "loc" : "3,4",
+      "word" : "구입을 했거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.083,
+      "end" : 2.394,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.966,
+      "end" : 5.391,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "마그네슘",
+      "start" : 2.592,
+      "end" : 4.719
+    } ],
+    "Hno" : null,
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.163,
+      "end" : 5.387
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.783,
+      "end" : 2.393
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784530",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:23:39",
+    "sentence_ID" : "VXPAKOKS240784530",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

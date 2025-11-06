@@ -1,0 +1,430 @@
+{
+  "id" : "VXPAKOKS240779570",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "나도 사막 투어를 갔었는데 이상한 차도 타고 사막에서 미끄럼틀도 타고 재밌었는데 바람이 너무 많이 불어서 3년 치 모래를 다 먹고 왔어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.524,
+      "end" : 1.63,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.77,
+      "end" : 2.027,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.261,
+      "end" : 2.518,
+      "gloss_id" : "흙1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.68,
+      "end" : 3.293,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.428,
+      "end" : 3.669,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.808,
+      "end" : 4.435,
+      "gloss_id" : "오가다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.687,
+      "end" : 4.952,
+      "gloss_id" : "괴팍하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.217,
+      "end" : 5.417,
+      "gloss_id" : "승용차1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.612,
+      "end" : 6.411,
+      "gloss_id" : "앉다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.165,
+      "end" : 8.151,
+      "gloss_id" : "미끄럼틀2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.471,
+      "end" : 8.947,
+      "gloss_id" : "재미1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.12,
+      "end" : 9.345,
+      "gloss_id" : "바람1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.654,
+      "end" : 9.781,
+      "gloss_id" : "많다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.891,
+      "end" : 10.197,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.378,
+      "end" : 10.497,
+      "gloss_id" : "흙1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.623,
+      "end" : 11.568,
+      "gloss_id" : "빨아먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.703,
+      "end" : 12.009,
+      "gloss_id" : "크다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.524,
+      "end" : 2.027,
+      "loc" : "0",
+      "word" : "나도"
+    }, {
+      "start" : 2.261,
+      "end" : 3.295,
+      "loc" : "1",
+      "word" : "사막"
+    }, {
+      "start" : 3.428,
+      "end" : 3.669,
+      "loc" : "2",
+      "word" : "투어를"
+    }, {
+      "start" : 3.797,
+      "end" : 4.418,
+      "loc" : "3",
+      "word" : "갔었는데"
+    }, {
+      "start" : 4.687,
+      "end" : 4.952,
+      "loc" : "4",
+      "word" : "이상한"
+    }, {
+      "start" : 5.217,
+      "end" : 5.417,
+      "loc" : "5",
+      "word" : "차도"
+    }, {
+      "start" : 5.612,
+      "end" : 6.411,
+      "loc" : "6",
+      "word" : "타고"
+    }, {
+      "start" : 7.165,
+      "end" : 8.151,
+      "loc" : "7,8,9",
+      "word" : "사막에서 미끄럼틀도 타고"
+    }, {
+      "start" : 8.471,
+      "end" : 8.947,
+      "loc" : "10",
+      "word" : "재밌었는데"
+    }, {
+      "start" : 9.12,
+      "end" : 9.345,
+      "loc" : "11,14",
+      "word" : "바람이 불어서"
+    }, {
+      "start" : 9.654,
+      "end" : 10.186,
+      "loc" : "12,13",
+      "word" : "너무 많이"
+    }, {
+      "start" : 10.378,
+      "end" : 10.497,
+      "loc" : "17",
+      "word" : "모래를"
+    }, {
+      "start" : 10.623,
+      "end" : 12.013,
+      "loc" : "15,16,18,19,20",
+      "word" : "3년 치 다 먹고 왔어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 10.623,
+      "end" : 11.568,
+      "gloss_id" : "빨아먹다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.77,
+      "end" : 2.027,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.261,
+      "end" : 3.295,
+      "gloss_id" : "흙1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.428,
+      "end" : 3.669,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.687,
+      "end" : 4.952,
+      "gloss_id" : "괴팍하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.217,
+      "end" : 5.417,
+      "gloss_id" : "승용차1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.612,
+      "end" : 6.411,
+      "gloss_id" : "승용차1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.471,
+      "end" : 8.947,
+      "gloss_id" : "재미1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.12,
+      "end" : 9.345,
+      "gloss_id" : "바람1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.654,
+      "end" : 9.781,
+      "gloss_id" : "많다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.378,
+      "end" : 10.497,
+      "gloss_id" : "흙1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.165,
+      "end" : 8.151,
+      "gloss_id" : "미끄럼틀2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.891,
+      "end" : 10.197,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.77,
+      "end" : 2.027
+    }, {
+      "descriptor" : "",
+      "start" : 3.809,
+      "end" : 4.435
+    }, {
+      "descriptor" : "",
+      "start" : 4.687,
+      "end" : 4.952
+    }, {
+      "descriptor" : "",
+      "start" : 5.612,
+      "end" : 6.411
+    }, {
+      "descriptor" : "",
+      "start" : 7.439,
+      "end" : 8.151
+    }, {
+      "descriptor" : "",
+      "start" : 10.061,
+      "end" : 10.197
+    }, {
+      "descriptor" : "",
+      "start" : 11.703,
+      "end" : 12.009
+    }, {
+      "descriptor" : "",
+      "start" : 9.654,
+      "end" : 9.781
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.687,
+      "end" : 4.952
+    }, {
+      "descriptor" : "",
+      "start" : 10.061,
+      "end" : 10.197
+    }, {
+      "descriptor" : "",
+      "start" : 3.797,
+      "end" : 4.425
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.687,
+      "end" : 4.952
+    }, {
+      "descriptor" : "",
+      "start" : 7.42,
+      "end" : 8.151
+    }, {
+      "descriptor" : "",
+      "start" : 9.435,
+      "end" : 9.781
+    }, {
+      "descriptor" : "",
+      "start" : 10.623,
+      "end" : 12.005
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.996,
+      "end" : 3.293
+    } ],
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 6.033,
+      "end" : 6.411
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.524,
+      "end" : 2.027
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779570",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 10:59:50",
+    "sentence_ID" : "VXPAKOKS240779570",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

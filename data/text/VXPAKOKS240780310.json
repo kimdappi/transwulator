@@ -1,0 +1,349 @@
+{
+  "id" : "VXPAKOKS240780310",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "취업하고 싶은 분야 회사가 우리나라에 대부분 있어 가지고 꼭 해외로 나갈 필요는 없다고 생각해.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.05,
+      "end" : 2.194,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.468,
+      "end" : 2.629,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.907,
+      "end" : 3.05,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.362,
+      "end" : 3.637,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.976,
+      "end" : 4.378,
+      "gloss_id" : "한국1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.69,
+      "end" : 4.908,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.116,
+      "end" : 5.305,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.626,
+      "end" : 6.016,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.357,
+      "end" : 6.492,
+      "gloss_id" : "약속1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.682,
+      "end" : 6.837,
+      "gloss_id" : "외국3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.06,
+      "end" : 7.387,
+      "gloss_id" : "비행기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.586,
+      "end" : 7.919,
+      "gloss_id" : "필요없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.188,
+      "end" : 8.302,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.05,
+      "end" : 2.62,
+      "loc" : "0",
+      "word" : "취업하고"
+    }, {
+      "start" : 2.907,
+      "end" : 3.05,
+      "loc" : "1,2",
+      "word" : "싶은 분야"
+    }, {
+      "start" : 3.362,
+      "end" : 3.637,
+      "loc" : "3",
+      "word" : "회사가"
+    }, {
+      "start" : 3.976,
+      "end" : 4.378,
+      "loc" : "4",
+      "word" : "우리나라에"
+    }, {
+      "start" : 4.69,
+      "end" : 4.908,
+      "loc" : "5",
+      "word" : "대부분"
+    }, {
+      "start" : 5.116,
+      "end" : 5.305,
+      "loc" : "6",
+      "word" : "있어"
+    }, {
+      "start" : 5.626,
+      "end" : 6.016,
+      "loc" : "7",
+      "word" : "가지고"
+    }, {
+      "start" : 6.349,
+      "end" : 6.492,
+      "loc" : "8",
+      "word" : "꼭"
+    }, {
+      "start" : 6.682,
+      "end" : 6.837,
+      "loc" : "9",
+      "word" : "해외로"
+    }, {
+      "start" : 7.06,
+      "end" : 7.387,
+      "loc" : "10",
+      "word" : "나갈"
+    }, {
+      "start" : 7.586,
+      "end" : 7.919,
+      "loc" : "11,12",
+      "word" : "필요는 없다고"
+    }, {
+      "start" : 8.188,
+      "end" : 8.31,
+      "loc" : "13",
+      "word" : "생각해."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 7.06,
+      "end" : 7.387,
+      "gloss_id" : "주먹형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.05,
+      "end" : 2.194,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.362,
+      "end" : 3.637,
+      "gloss_id" : "회사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.69,
+      "end" : 4.908,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.626,
+      "end" : 6.016,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.349,
+      "end" : 6.492,
+      "gloss_id" : "약속1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.682,
+      "end" : 6.837,
+      "gloss_id" : "외국3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.586,
+      "end" : 7.919,
+      "gloss_id" : "필요없다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.468,
+      "end" : 2.629,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.362,
+      "end" : 3.637
+    }, {
+      "descriptor" : "",
+      "start" : 4.69,
+      "end" : 4.908
+    }, {
+      "descriptor" : "",
+      "start" : 5.626,
+      "end" : 6.016
+    }, {
+      "descriptor" : "",
+      "start" : 7.06,
+      "end" : 7.387
+    }, {
+      "descriptor" : "",
+      "start" : 7.586,
+      "end" : 7.919
+    }, {
+      "descriptor" : "",
+      "start" : 8.188,
+      "end" : 8.302
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.787,
+      "end" : 6.016
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.468,
+      "end" : 3.032
+    }, {
+      "descriptor" : "",
+      "start" : 4.69,
+      "end" : 6.018
+    }, {
+      "descriptor" : "",
+      "start" : 7.586,
+      "end" : 7.919
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.468,
+      "end" : 3.026
+    }, {
+      "descriptor" : "",
+      "start" : 7.586,
+      "end" : 7.919
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.626,
+      "end" : 6.016
+    }, {
+      "descriptor" : "",
+      "start" : 3.362,
+      "end" : 3.637
+    }, {
+      "descriptor" : "",
+      "start" : 7.06,
+      "end" : 7.387
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780310",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:03:34",
+    "sentence_ID" : "VXPAKOKS240780310",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

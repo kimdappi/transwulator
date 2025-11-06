@@ -1,0 +1,183 @@
+{
+  "id" : "VXPAKOKS240785640",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "요즘 아무래도 제철이라서 딸기가 싱싱하고 맛있더라고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.263,
+      "end" : 2.619,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.784,
+      "end" : 3.576,
+      "gloss_id" : "사계절1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.82,
+      "end" : 4.184,
+      "gloss_id" : "긁어모으다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.378,
+      "end" : 5.063,
+      "gloss_id" : "딸기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.176,
+      "end" : 5.697,
+      "gloss_id" : "새롭다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.987,
+      "end" : 7.121,
+      "gloss_id" : "맛있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.263,
+      "end" : 2.619,
+      "loc" : "0",
+      "word" : "요즘"
+    }, {
+      "start" : 4.378,
+      "end" : 5.063,
+      "loc" : "3",
+      "word" : "딸기가"
+    }, {
+      "start" : 5.176,
+      "end" : 5.697,
+      "loc" : "4",
+      "word" : "싱싱하고"
+    }, {
+      "start" : 5.987,
+      "end" : 7.121,
+      "loc" : "5",
+      "word" : "맛있더라고."
+    }, {
+      "start" : 2.784,
+      "end" : 4.183,
+      "loc" : "1,2",
+      "word" : "아무래도 제철이라서"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.263,
+      "end" : 2.619,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.784,
+      "end" : 3.576,
+      "gloss_id" : "사계절1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.82,
+      "end" : 4.184,
+      "gloss_id" : "긁어모으다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.378,
+      "end" : 5.063,
+      "gloss_id" : "딸기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.176,
+      "end" : 5.697,
+      "gloss_id" : "새롭다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.987,
+      "end" : 7.121
+    }, {
+      "descriptor" : "",
+      "start" : 2.784,
+      "end" : 3.576
+    }, {
+      "descriptor" : "",
+      "start" : 5.176,
+      "end" : 5.697
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.454,
+      "end" : 5.697
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.263,
+      "end" : 7.102
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240785640",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:20:07",
+    "sentence_ID" : "VXPAKOKS240785640",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

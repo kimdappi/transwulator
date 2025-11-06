@@ -1,0 +1,256 @@
+{
+  "id" : "VXPAKOKS240781100",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "제가 보기에는 기부하는 사람보다는 자기 사욕을 챙기는 사람이 더 많은 거 같습디다.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.178,
+      "end" : 1.361,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.514,
+      "end" : 1.884,
+      "gloss_id" : "보다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.272,
+      "end" : 2.468,
+      "gloss_id" : "돈주다5",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.627,
+      "end" : 2.816,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.016,
+      "end" : 3.594,
+      "gloss_id" : "~보다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.864,
+      "end" : 4.222,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.517,
+      "end" : 4.777,
+      "gloss_id" : "욕심1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.034,
+      "end" : 5.288,
+      "gloss_id" : "혈안1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.708,
+      "end" : 5.943,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.213,
+      "end" : 6.338,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.178,
+      "end" : 1.361,
+      "loc" : "0",
+      "word" : "제가"
+    }, {
+      "start" : 1.514,
+      "end" : 1.884,
+      "loc" : "1",
+      "word" : "보기에는"
+    }, {
+      "start" : 2.272,
+      "end" : 2.468,
+      "loc" : "2",
+      "word" : "기부하는"
+    }, {
+      "start" : 2.627,
+      "end" : 3.599,
+      "loc" : "3",
+      "word" : "사람보다는"
+    }, {
+      "start" : 3.864,
+      "end" : 4.778,
+      "loc" : "4,5",
+      "word" : "자기 사욕을"
+    }, {
+      "start" : 5.034,
+      "end" : 5.288,
+      "loc" : "6,7",
+      "word" : "챙기는 사람이"
+    }, {
+      "start" : 5.708,
+      "end" : 6.344,
+      "loc" : "8,9,10,11",
+      "word" : "더 많은 거 같습디다."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.272,
+      "end" : 2.468,
+      "gloss_id" : "돈주다5",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.627,
+      "end" : 2.816,
+      "gloss_id" : "사람1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.016,
+      "end" : 3.594,
+      "gloss_id" : "~보다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.864,
+      "end" : 4.785,
+      "gloss_id" : "개인1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.034,
+      "end" : 5.288,
+      "gloss_id" : "혈안1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.708,
+      "end" : 5.943,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.514,
+      "end" : 1.884
+    }, {
+      "descriptor" : "",
+      "start" : 3.016,
+      "end" : 3.594
+    }, {
+      "descriptor" : "",
+      "start" : 6.213,
+      "end" : 6.338
+    }, {
+      "descriptor" : "",
+      "start" : 5.034,
+      "end" : 5.288
+    }, {
+      "descriptor" : "",
+      "start" : 5.708,
+      "end" : 5.943
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.805,
+      "end" : 5.943
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.708,
+      "end" : 5.943
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 5.034,
+      "end" : 5.288
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.514,
+      "end" : 1.884
+    }, {
+      "descriptor" : "",
+      "start" : 2.627,
+      "end" : 3.619
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781100",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:06:50",
+    "sentence_ID" : "VXPAKOKS240781100",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,198 @@
+{
+  "id" : "VXPAKOKS240786970",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "저는 어제 집에서 있는 그냥 집밥 먹었어요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.513,
+      "end" : 1.6,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.769,
+      "end" : 1.866,
+      "gloss_id" : "날짜(활용):1일전",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.103,
+      "end" : 2.21,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.346,
+      "end" : 2.662,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.026,
+      "end" : 3.297,
+      "gloss_id" : "그냥1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.562,
+      "end" : 3.65,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.812,
+      "end" : 4.083,
+      "gloss_id" : "먹다5",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.153,
+      "end" : 4.265,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.338,
+      "end" : 4.525,
+      "gloss_id" : "끝2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.513,
+      "end" : 1.6,
+      "loc" : "0",
+      "word" : "저는"
+    }, {
+      "start" : 1.769,
+      "end" : 1.866,
+      "loc" : "1",
+      "word" : "어제"
+    }, {
+      "start" : 2.103,
+      "end" : 2.653,
+      "loc" : "2,3",
+      "word" : "집에서 있는"
+    }, {
+      "start" : 3.026,
+      "end" : 3.297,
+      "loc" : "4",
+      "word" : "그냥"
+    }, {
+      "start" : 3.562,
+      "end" : 4.082,
+      "loc" : "5",
+      "word" : "집밥"
+    }, {
+      "start" : 4.153,
+      "end" : 4.524,
+      "loc" : "6",
+      "word" : "먹었어요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.103,
+      "end" : 2.657,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.562,
+      "end" : 4.088,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.346,
+      "end" : 2.662
+    }, {
+      "descriptor" : "",
+      "start" : 3.026,
+      "end" : 3.297
+    }, {
+      "descriptor" : "",
+      "start" : 4.338,
+      "end" : 4.525
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.338,
+      "end" : 4.525
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.346,
+      "end" : 4.521
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.513,
+      "end" : 2.182
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786970",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:30:51",
+    "sentence_ID" : "VXPAKOKS240786970",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

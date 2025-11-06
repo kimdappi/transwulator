@@ -1,0 +1,183 @@
+{
+  "id" : "VXPAKOKS240784880",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "거제도랑 가까이 있는 지역이 광양 있지 않아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.697,
+      "end" : 1.843,
+      "gloss_id" : "가난1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.058,
+      "end" : 2.447,
+      "gloss_id" : "섬2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.597,
+      "end" : 2.815,
+      "gloss_id" : "가깝다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.992,
+      "end" : 3.536,
+      "gloss_id" : "지역1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.748,
+      "end" : 4.32,
+      "gloss_id" : "광양1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.458,
+      "end" : 4.659,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.815,
+      "end" : 5.193,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.697,
+      "end" : 2.462,
+      "loc" : "0",
+      "word" : "거제도랑"
+    }, {
+      "start" : 2.597,
+      "end" : 2.815,
+      "loc" : "1",
+      "word" : "가까이"
+    }, {
+      "start" : 2.992,
+      "end" : 3.536,
+      "loc" : "2,3",
+      "word" : "있는 지역이"
+    }, {
+      "start" : 3.748,
+      "end" : 4.32,
+      "loc" : "4",
+      "word" : "광양"
+    }, {
+      "start" : 4.458,
+      "end" : 4.659,
+      "loc" : "5",
+      "word" : "있지"
+    }, {
+      "start" : 4.815,
+      "end" : 5.193,
+      "loc" : "6",
+      "word" : "않아?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.058,
+      "end" : 2.447,
+      "gloss_id" : "섬2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.597,
+      "end" : 2.815,
+      "gloss_id" : "가깝다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.992,
+      "end" : 3.536,
+      "gloss_id" : "지역1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.597,
+      "end" : 3.5
+    }, {
+      "descriptor" : "",
+      "start" : 4.815,
+      "end" : 5.193
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.815,
+      "end" : 5.193
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.597,
+      "end" : 2.815
+    }, {
+      "descriptor" : "",
+      "start" : 4.489,
+      "end" : 5.193
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784880",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:24:55",
+    "sentence_ID" : "VXPAKOKS240784880",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

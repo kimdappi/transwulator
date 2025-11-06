@@ -1,0 +1,121 @@
+{
+  "id" : "VXPAKOKS240780000",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "곰탕도 한번 먹어 보러 가자.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.926,
+      "end" : 4.769,
+      "gloss_id" : "곰탕",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.912,
+      "end" : 5.15,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.246,
+      "end" : 5.389,
+      "gloss_id" : "보다10",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.585,
+      "end" : 5.899,
+      "gloss_id" : "~하자2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.926,
+      "end" : 4.769,
+      "loc" : "0",
+      "word" : "곰탕도"
+    }, {
+      "start" : 4.912,
+      "end" : 5.15,
+      "loc" : "2",
+      "word" : "먹어"
+    }, {
+      "start" : 5.246,
+      "end" : 5.389,
+      "loc" : "1,3",
+      "word" : "한번 보러"
+    }, {
+      "start" : 5.585,
+      "end" : 5.899,
+      "loc" : "4",
+      "word" : "가자."
+    } ],
+    "sign_gestures_weak" : null
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "곰탕",
+      "start" : 2.926,
+      "end" : 4.769
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.912,
+      "end" : 5.387
+    }, {
+      "descriptor" : "",
+      "start" : 5.585,
+      "end" : 5.899
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.912,
+      "end" : 5.892
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780000",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:02:25",
+    "sentence_ID" : "VXPAKOKS240780000",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

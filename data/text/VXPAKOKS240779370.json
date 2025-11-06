@@ -1,0 +1,287 @@
+{
+  "id" : "VXPAKOKS240779370",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "우리 학교는 축제 때 놀이보다는 먹는 음식을 주로 많이 팔더라고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.203,
+      "end" : 1.328,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.494,
+      "end" : 1.741,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.925,
+      "end" : 2.13,
+      "gloss_id" : "행사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.311,
+      "end" : 2.549,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.731,
+      "end" : 3.31,
+      "gloss_id" : "놀다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.538,
+      "end" : 3.766,
+      "gloss_id" : "~보다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.998,
+      "end" : 4.526,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.791,
+      "end" : 5.314,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.442,
+      "end" : 5.811,
+      "gloss_id" : "팔다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.95,
+      "end" : 6.136,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.203,
+      "end" : 1.328,
+      "loc" : "0",
+      "word" : "우리"
+    }, {
+      "start" : 1.494,
+      "end" : 1.741,
+      "loc" : "1",
+      "word" : "학교는"
+    }, {
+      "start" : 1.925,
+      "end" : 2.13,
+      "loc" : "2",
+      "word" : "축제"
+    }, {
+      "start" : 2.311,
+      "end" : 2.549,
+      "loc" : "3",
+      "word" : "때"
+    }, {
+      "start" : 2.731,
+      "end" : 3.759,
+      "loc" : "4",
+      "word" : "놀이보다는"
+    }, {
+      "start" : 3.998,
+      "end" : 4.526,
+      "loc" : "5,6",
+      "word" : "먹는 음식을"
+    }, {
+      "start" : 4.791,
+      "end" : 5.314,
+      "loc" : "7",
+      "word" : "주로"
+    }, {
+      "start" : 5.442,
+      "end" : 5.811,
+      "loc" : "9",
+      "word" : "팔더라고."
+    }, {
+      "start" : 5.95,
+      "end" : 6.136,
+      "loc" : "8",
+      "word" : "많이"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.494,
+      "end" : 1.741,
+      "gloss_id" : "학교1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.925,
+      "end" : 2.13,
+      "gloss_id" : "행사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.311,
+      "end" : 2.549,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.731,
+      "end" : 3.31,
+      "gloss_id" : "놀다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.538,
+      "end" : 3.766,
+      "gloss_id" : "~보다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.791,
+      "end" : 5.314,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.442,
+      "end" : 5.811,
+      "gloss_id" : "팔다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.95,
+      "end" : 6.136,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.998,
+      "end" : 4.526,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.311,
+      "end" : 2.549
+    }, {
+      "descriptor" : "",
+      "start" : 3.538,
+      "end" : 3.766
+    }, {
+      "descriptor" : "",
+      "start" : 5.189,
+      "end" : 5.314
+    }, {
+      "descriptor" : "",
+      "start" : 5.95,
+      "end" : 6.136
+    }, {
+      "descriptor" : "",
+      "start" : 3.998,
+      "end" : 4.526
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.957,
+      "end" : 6.136
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.538,
+      "end" : 3.766
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 4.961,
+      "end" : 5.138
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.925,
+      "end" : 3.218
+    }, {
+      "descriptor" : "",
+      "start" : 3.998,
+      "end" : 4.526
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779370",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 10:58:53",
+    "sentence_ID" : "VXPAKOKS240779370",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

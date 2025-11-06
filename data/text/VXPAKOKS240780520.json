@@ -1,0 +1,313 @@
+{
+  "id" : "VXPAKOKS240780520",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 집 앞에서 김포 공항까지 15분에서 20분 정도 걸리기 때문에 비행기가 가장 빠른 교통수단인 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.76,
+      "end" : 1.908,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.063,
+      "end" : 2.215,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.405,
+      "end" : 3.106,
+      "gloss_id" : "안2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.594,
+      "end" : 4.133,
+      "gloss_id" : "비행기3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.422,
+      "end" : 4.967,
+      "gloss_id" : "가다7",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.141,
+      "end" : 5.342,
+      "gloss_id" : "시간:15분",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.494,
+      "end" : 5.655,
+      "gloss_id" : "일형3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.824,
+      "end" : 6.161,
+      "gloss_id" : "시간:20분",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.348,
+      "end" : 6.666,
+      "gloss_id" : "정도1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.077,
+      "end" : 7.46,
+      "gloss_id" : "비행기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.765,
+      "end" : 8.265,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.647,
+      "end" : 8.822,
+      "gloss_id" : "빠르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.043,
+      "end" : 9.367,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.76,
+      "end" : 1.908,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.063,
+      "end" : 2.224,
+      "loc" : "1",
+      "word" : "집"
+    }, {
+      "start" : 2.405,
+      "end" : 3.106,
+      "loc" : "2",
+      "word" : "앞에서"
+    }, {
+      "start" : 3.594,
+      "end" : 4.959,
+      "loc" : "3,4",
+      "word" : "김포 공항까지"
+    }, {
+      "start" : 5.141,
+      "end" : 5.654,
+      "loc" : "5",
+      "word" : "15분에서"
+    }, {
+      "start" : 5.824,
+      "end" : 6.161,
+      "loc" : "6",
+      "word" : "20분"
+    }, {
+      "start" : 6.348,
+      "end" : 6.666,
+      "loc" : "7,8,9",
+      "word" : "정도 걸리기 때문에"
+    }, {
+      "start" : 7.077,
+      "end" : 7.46,
+      "loc" : "10",
+      "word" : "비행기가"
+    }, {
+      "start" : 7.765,
+      "end" : 8.265,
+      "loc" : "11",
+      "word" : "가장"
+    }, {
+      "start" : 8.647,
+      "end" : 8.822,
+      "loc" : "12",
+      "word" : "빠른"
+    }, {
+      "start" : 9.043,
+      "end" : 9.367,
+      "loc" : "13,14,15",
+      "word" : "교통수단인 거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.063,
+      "end" : 3.097,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 9.043,
+      "end" : 9.367,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.594,
+      "end" : 4.133,
+      "gloss_id" : "비행기3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.077,
+      "end" : 7.46,
+      "gloss_id" : "비행기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "십오분",
+      "start" : 5.141,
+      "end" : 5.342
+    }, {
+      "descriptor" : "이십",
+      "start" : 5.824,
+      "end" : 6.161
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 6.348,
+      "end" : 6.666
+    }, {
+      "descriptor" : "",
+      "start" : 7.077,
+      "end" : 7.46
+    }, {
+      "descriptor" : "",
+      "start" : 7.765,
+      "end" : 8.265
+    }, {
+      "descriptor" : "",
+      "start" : 8.647,
+      "end" : 8.822
+    }, {
+      "descriptor" : "",
+      "start" : 9.043,
+      "end" : 9.367
+    }, {
+      "descriptor" : "",
+      "start" : 4.422,
+      "end" : 4.967
+    }, {
+      "descriptor" : "",
+      "start" : 2.405,
+      "end" : 3.106
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 8.656,
+      "end" : 8.822
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 7.765,
+      "end" : 8.811
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 6.348,
+      "end" : 6.666
+    }, {
+      "descriptor" : "",
+      "start" : 4.522,
+      "end" : 4.967
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.422,
+      "end" : 4.967
+    }, {
+      "descriptor" : "",
+      "start" : 2.05,
+      "end" : 3.106
+    }, {
+      "descriptor" : "",
+      "start" : 7.077,
+      "end" : 7.46
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780520",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:04:24",
+    "sentence_ID" : "VXPAKOKS240780520",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

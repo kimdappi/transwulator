@@ -1,0 +1,206 @@
+{
+  "id" : "VXPAKOKS240789230",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "보통 집에 올 때 몇 분 정도 간격으로 버스가 오니?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.34,
+      "end" : 1.492,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.573,
+      "end" : 1.725,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.96,
+      "end" : 2.223,
+      "gloss_id" : "목적1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.442,
+      "end" : 2.741,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.032,
+      "end" : 3.368,
+      "gloss_id" : "버스1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.663,
+      "end" : 4.1,
+      "gloss_id" : "제한1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.254,
+      "end" : 4.333,
+      "gloss_id" : "시간2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.454,
+      "end" : 5.123,
+      "gloss_id" : "몇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.34,
+      "end" : 1.492,
+      "loc" : "1",
+      "word" : "집에"
+    }, {
+      "start" : 1.573,
+      "end" : 2.221,
+      "loc" : "2,3",
+      "word" : "올 때"
+    }, {
+      "start" : 2.442,
+      "end" : 2.741,
+      "loc" : "8",
+      "word" : "버스가"
+    }, {
+      "start" : 3.663,
+      "end" : 4.1,
+      "loc" : "7",
+      "word" : "간격으로"
+    }, {
+      "start" : 4.254,
+      "end" : 5.114,
+      "loc" : "4,5,6",
+      "word" : "몇 분 정도"
+    }, {
+      "start" : 3.032,
+      "end" : 3.368,
+      "loc" : "9",
+      "word" : "오니?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.34,
+      "end" : 1.719,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.96,
+      "end" : 2.223,
+      "gloss_id" : "목적1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.442,
+      "end" : 2.741,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.663,
+      "end" : 4.1,
+      "gloss_id" : "제한1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.254,
+      "end" : 5.12,
+      "gloss_id" : "시간2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.96,
+      "end" : 2.223
+    }, {
+      "descriptor" : "",
+      "start" : 4.454,
+      "end" : 5.123
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.34,
+      "end" : 2.737
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 3.164,
+      "end" : 3.304
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.454,
+      "end" : 5.123
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789230",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:53:29",
+    "sentence_ID" : "VXPAKOKS240789230",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

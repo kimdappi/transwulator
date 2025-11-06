@@ -1,0 +1,265 @@
+{
+  "id" : "VXPAKOKS240786780",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "최근에 내 친구가 신혼여행으로 그런 휴양지를 갔다 왔는데 난 그냥 너무 부러웠거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.353,
+      "end" : 2.453,
+      "gloss_id" : "며칠전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.652,
+      "end" : 2.769,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.964,
+      "end" : 3.372,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.562,
+      "end" : 3.71,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.836,
+      "end" : 4.428,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.54,
+      "end" : 4.664,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.822,
+      "end" : 5.008,
+      "gloss_id" : "쉬다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.185,
+      "end" : 5.892,
+      "gloss_id" : "오가다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.108,
+      "end" : 6.355,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.712,
+      "end" : 7.036,
+      "gloss_id" : "그냥1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.317,
+      "end" : 8.192,
+      "gloss_id" : "부럽다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.353,
+      "end" : 2.453,
+      "loc" : "0",
+      "word" : "최근에"
+    }, {
+      "start" : 2.652,
+      "end" : 2.761,
+      "loc" : "1",
+      "word" : "내"
+    }, {
+      "start" : 2.964,
+      "end" : 3.372,
+      "loc" : "2",
+      "word" : "친구가"
+    }, {
+      "start" : 3.562,
+      "end" : 4.43,
+      "loc" : "3",
+      "word" : "신혼여행으로"
+    }, {
+      "start" : 4.54,
+      "end" : 5.009,
+      "loc" : "4,5",
+      "word" : "그런 휴양지를"
+    }, {
+      "start" : 5.185,
+      "end" : 5.892,
+      "loc" : "6,7",
+      "word" : "갔다 왔는데"
+    }, {
+      "start" : 6.108,
+      "end" : 6.355,
+      "loc" : "8",
+      "word" : "난"
+    }, {
+      "start" : 6.712,
+      "end" : 7.036,
+      "loc" : "9",
+      "word" : "그냥"
+    }, {
+      "start" : 7.317,
+      "end" : 8.192,
+      "loc" : "10,11",
+      "word" : "너무 부러웠거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.964,
+      "end" : 3.372,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.562,
+      "end" : 3.71,
+      "gloss_id" : "결혼1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.836,
+      "end" : 4.658,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.822,
+      "end" : 5.008,
+      "gloss_id" : "쉬다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.822,
+      "end" : 5.008
+    }, {
+      "descriptor" : "",
+      "start" : 5.576,
+      "end" : 5.892
+    }, {
+      "descriptor" : "",
+      "start" : 6.108,
+      "end" : 6.355
+    }, {
+      "descriptor" : "",
+      "start" : 7.317,
+      "end" : 8.192
+    }, {
+      "descriptor" : "",
+      "start" : 3.836,
+      "end" : 4.428
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.568,
+      "end" : 5.892
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.185,
+      "end" : 6.337
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.562,
+      "end" : 4.399
+    }, {
+      "descriptor" : "",
+      "start" : 7.317,
+      "end" : 8.192
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.353,
+      "end" : 2.453
+    }, {
+      "descriptor" : "",
+      "start" : 6.108,
+      "end" : 6.355
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786780",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:29:43",
+    "sentence_ID" : "VXPAKOKS240786780",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

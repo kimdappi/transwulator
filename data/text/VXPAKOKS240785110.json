@@ -1,0 +1,213 @@
+{
+  "id" : "VXPAKOKS240785110",
+  "opertor" : "label10",
+  "krlgg_sntenc" : {
+    "koreanText" : "펜션에 가서 싱싱한 고기를 구워 먹으면 정말 맛있을 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.177,
+      "end" : 3.363,
+      "gloss_id" : "펜션",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.652,
+      "end" : 4.031,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 4.323,
+      "end" : 4.398,
+      "gloss_id" : "고기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.682,
+      "end" : 5.009,
+      "gloss_id" : "새롭다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.54,
+      "end" : 5.972,
+      "gloss_id" : "굽다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.167,
+      "end" : 6.411,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.85,
+      "end" : 7.184,
+      "gloss_id" : "맛있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.428,
+      "end" : 8.011,
+      "gloss_id" : "아마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.177,
+      "end" : 3.363,
+      "loc" : "0",
+      "word" : "펜션에"
+    }, {
+      "start" : 3.652,
+      "end" : 4.031,
+      "loc" : "1",
+      "word" : "가서"
+    }, {
+      "start" : 4.323,
+      "end" : 4.398,
+      "loc" : "3",
+      "word" : "고기를"
+    }, {
+      "start" : 4.682,
+      "end" : 5.009,
+      "loc" : "2",
+      "word" : "싱싱한"
+    }, {
+      "start" : 5.54,
+      "end" : 5.972,
+      "loc" : "4",
+      "word" : "구워"
+    }, {
+      "start" : 6.167,
+      "end" : 6.411,
+      "loc" : "5",
+      "word" : "먹으면"
+    }, {
+      "start" : 6.85,
+      "end" : 7.184,
+      "loc" : "6,7,8",
+      "word" : "정말 맛있을 거"
+    }, {
+      "start" : 7.428,
+      "end" : 8.011,
+      "loc" : "9",
+      "word" : "같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.652,
+      "end" : 4.031,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.323,
+      "end" : 4.398,
+      "gloss_id" : "고기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.54,
+      "end" : 5.972,
+      "gloss_id" : "굽다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.682,
+      "end" : 5.009,
+      "gloss_id" : "새롭다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.652,
+      "end" : 4.031
+    }, {
+      "descriptor" : "",
+      "start" : 7.428,
+      "end" : 8.011
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.81,
+      "end" : 4.949
+    }, {
+      "descriptor" : "",
+      "start" : 6.91,
+      "end" : 7.116
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.682,
+      "end" : 5.009
+    }, {
+      "descriptor" : "",
+      "start" : 6.167,
+      "end" : 6.411
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785110",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 01:33:06",
+    "sentence_ID" : "VXPAKOKS240785110",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

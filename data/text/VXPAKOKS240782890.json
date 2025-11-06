@@ -1,0 +1,168 @@
+{
+  "id" : "VXPAKOKS240782890",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "자기 얼마 전에도 배달 시켜 먹었지 않나?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.959,
+      "end" : 2.124,
+      "gloss_id" : "부르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.32,
+      "end" : 3.041,
+      "gloss_id" : "며칠전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.446,
+      "end" : 3.678,
+      "gloss_id" : "전화하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 3.879,
+      "end" : 4.062,
+      "gloss_id" : "부르다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.43,
+      "end" : 4.59,
+      "gloss_id" : "가져오다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "3"
+      }
+    }, {
+      "start" : 4.75,
+      "end" : 4.886,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.032,
+      "end" : 5.215,
+      "gloss_id" : "한적있다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.368,
+      "end" : 5.725,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.959,
+      "end" : 2.124,
+      "loc" : "0",
+      "word" : "자기"
+    }, {
+      "start" : 2.32,
+      "end" : 3.041,
+      "loc" : "1,2",
+      "word" : "얼마 전에도"
+    }, {
+      "start" : 3.446,
+      "end" : 4.598,
+      "loc" : "3,4",
+      "word" : "배달 시켜"
+    }, {
+      "start" : 4.75,
+      "end" : 5.728,
+      "loc" : "5,6",
+      "word" : "먹었지 않나?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.43,
+      "end" : 5.724,
+      "gloss_id" : "가져오다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.368,
+      "end" : 5.725
+    }, {
+      "descriptor" : "",
+      "start" : 4.43,
+      "end" : 5.214
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.113,
+      "end" : 5.215
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.32,
+      "end" : 3.041
+    }, {
+      "descriptor" : "",
+      "start" : 5.368,
+      "end" : 5.725
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782890",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:14:52",
+    "sentence_ID" : "VXPAKOKS240782890",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,191 @@
+{
+  "id" : "VXPAKOKS240781560",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "주변에서 독특한 반려동물 기르는 사람 봤나요?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.694,
+      "end" : 2.322,
+      "gloss_id" : "분위기2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.508,
+      "end" : 2.903,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.151,
+      "end" : 3.418,
+      "gloss_id" : "독특1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.625,
+      "end" : 3.909,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.05,
+      "end" : 4.392,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.684,
+      "end" : 5.423,
+      "gloss_id" : "보았다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.694,
+      "end" : 2.322,
+      "loc" : "0",
+      "word" : "주변에서"
+    }, {
+      "start" : 2.508,
+      "end" : 2.903,
+      "loc" : "2",
+      "word" : "반려동물"
+    }, {
+      "start" : 3.151,
+      "end" : 3.418,
+      "loc" : "1",
+      "word" : "독특한"
+    }, {
+      "start" : 3.625,
+      "end" : 3.909,
+      "loc" : "3",
+      "word" : "기르는"
+    }, {
+      "start" : 4.05,
+      "end" : 4.392,
+      "loc" : "4",
+      "word" : "사람"
+    }, {
+      "start" : 4.684,
+      "end" : 5.423,
+      "loc" : "5",
+      "word" : "봤나요?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.694,
+      "end" : 2.322,
+      "gloss_id" : "분위기2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.508,
+      "end" : 2.903,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.151,
+      "end" : 3.418,
+      "gloss_id" : "독특1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.625,
+      "end" : 3.909,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.05,
+      "end" : 4.392,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.684,
+      "end" : 5.423,
+      "gloss_id" : "보았다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.684,
+      "end" : 5.423
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.08,
+      "end" : 5.428
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.151,
+      "end" : 3.418
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.048,
+      "end" : 5.423
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781560",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:08:57",
+    "sentence_ID" : "VXPAKOKS240781560",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

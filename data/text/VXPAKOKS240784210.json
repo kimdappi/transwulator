@@ -1,0 +1,240 @@
+{
+  "id" : "VXPAKOKS240784210",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "근력운동보다는 나는 그냥 걷고 뛰고 이런 게 더 맞는 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.74,
+      "end" : 2.038,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.261,
+      "end" : 2.513,
+      "gloss_id" : "근육2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.706,
+      "end" : 4.031,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.339,
+      "end" : 4.614,
+      "gloss_id" : "그냥1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.919,
+      "end" : 5.359,
+      "gloss_id" : "걷다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.562,
+      "end" : 6.107,
+      "gloss_id" : "달리다5",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.348,
+      "end" : 6.526,
+      "gloss_id" : "잘하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.698,
+      "end" : 6.883,
+      "gloss_id" : "맞추다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.15,
+      "end" : 7.38,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.74,
+      "end" : 2.038,
+      "loc" : "1",
+      "word" : "나는"
+    }, {
+      "start" : 2.261,
+      "end" : 4.02,
+      "loc" : "0",
+      "word" : "근력운동보다는"
+    }, {
+      "start" : 4.339,
+      "end" : 4.614,
+      "loc" : "2",
+      "word" : "그냥"
+    }, {
+      "start" : 4.919,
+      "end" : 5.359,
+      "loc" : "3",
+      "word" : "걷고"
+    }, {
+      "start" : 5.562,
+      "end" : 6.107,
+      "loc" : "4,5,6",
+      "word" : "뛰고 이런 게"
+    }, {
+      "start" : 6.348,
+      "end" : 6.526,
+      "loc" : "7",
+      "word" : "더"
+    }, {
+      "start" : 6.698,
+      "end" : 6.883,
+      "loc" : "8,9",
+      "word" : "맞는 거"
+    }, {
+      "start" : 7.15,
+      "end" : 7.38,
+      "loc" : "10",
+      "word" : "같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.261,
+      "end" : 2.513,
+      "gloss_id" : "근육2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.706,
+      "end" : 4.031,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.919,
+      "end" : 5.359,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.562,
+      "end" : 6.107,
+      "gloss_id" : "달리다5",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.348,
+      "end" : 6.526,
+      "gloss_id" : "잘하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.698,
+      "end" : 6.883,
+      "gloss_id" : "맞추다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.261,
+      "end" : 2.513
+    }, {
+      "descriptor" : "",
+      "start" : 4.339,
+      "end" : 4.614
+    }, {
+      "descriptor" : "",
+      "start" : 6.698,
+      "end" : 6.883
+    }, {
+      "descriptor" : "",
+      "start" : 7.15,
+      "end" : 7.38
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.793,
+      "end" : 6.883
+    } ],
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 3.367,
+      "end" : 4.024
+    } ],
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.706,
+      "end" : 7.361
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240784210",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:21:39",
+    "sentence_ID" : "VXPAKOKS240784210",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,260 @@
+{
+  "id" : "VXPAKOKS240781030",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "계획보다는 계획이 없이 떠나는 게 쪼금 더 여행의 취지에 맞다고 생각해.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.169,
+      "end" : 3.595,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.84,
+      "end" : 4.239,
+      "gloss_id" : "~보다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.436,
+      "end" : 4.945,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.27,
+      "end" : 5.715,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.994,
+      "end" : 7.273,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.513,
+      "end" : 7.82,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.103,
+      "end" : 8.392,
+      "gloss_id" : "목적1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.579,
+      "end" : 8.932,
+      "gloss_id" : "맞추다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.266,
+      "end" : 9.427,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.019,
+      "end" : 9.111,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.169,
+      "end" : 4.218,
+      "loc" : "0",
+      "word" : "계획보다는"
+    }, {
+      "start" : 4.436,
+      "end" : 4.945,
+      "loc" : "1",
+      "word" : "계획이"
+    }, {
+      "start" : 5.27,
+      "end" : 5.715,
+      "loc" : "2",
+      "word" : "없이"
+    }, {
+      "start" : 5.994,
+      "end" : 7.273,
+      "loc" : "3,4",
+      "word" : "떠나는 게"
+    }, {
+      "start" : 7.513,
+      "end" : 7.82,
+      "loc" : "7",
+      "word" : "여행의"
+    }, {
+      "start" : 8.103,
+      "end" : 8.392,
+      "loc" : "8",
+      "word" : "취지에"
+    }, {
+      "start" : 8.579,
+      "end" : 8.941,
+      "loc" : "5,6,9",
+      "word" : "쪼금 더 맞다고"
+    }, {
+      "start" : 9.019,
+      "end" : 9.432,
+      "loc" : "10",
+      "word" : "생각해."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.169,
+      "end" : 3.595,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.84,
+      "end" : 4.239,
+      "gloss_id" : "~보다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.436,
+      "end" : 5.733,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.994,
+      "end" : 7.273,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.513,
+      "end" : 7.82,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.103,
+      "end" : 8.392,
+      "gloss_id" : "목적1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.579,
+      "end" : 8.932,
+      "gloss_id" : "맞추다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.169,
+      "end" : 3.595
+    }, {
+      "descriptor" : "",
+      "start" : 5.27,
+      "end" : 5.715
+    }, {
+      "descriptor" : "",
+      "start" : 9.266,
+      "end" : 9.427
+    }, {
+      "descriptor" : "",
+      "start" : 8.579,
+      "end" : 8.932
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 8.671,
+      "end" : 8.941
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.169,
+      "end" : 3.595
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 5.994,
+      "end" : 7.273
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 7.513,
+      "end" : 8.966
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781030",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:06:32",
+    "sentence_ID" : "VXPAKOKS240781030",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

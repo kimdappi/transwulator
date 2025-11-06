@@ -1,0 +1,228 @@
+{
+  "id" : "VXPAKOKS240781080",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "다음 여행 갈 때는 계획을 세워서 가 보는 걸 추천해.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.057,
+      "end" : 2.342,
+      "gloss_id" : "다음1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.548,
+      "end" : 2.886,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.072,
+      "end" : 3.377,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.596,
+      "end" : 4.008,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.362,
+      "end" : 4.936,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.27,
+      "end" : 5.562,
+      "gloss_id" : "완전1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.036,
+      "end" : 6.381,
+      "gloss_id" : "추천1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 5.707,
+      "end" : 5.914,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.057,
+      "end" : 2.342,
+      "loc" : "0",
+      "word" : "다음"
+    }, {
+      "start" : 2.548,
+      "end" : 2.886,
+      "loc" : "1",
+      "word" : "여행"
+    }, {
+      "start" : 3.072,
+      "end" : 3.377,
+      "loc" : "2",
+      "word" : "갈"
+    }, {
+      "start" : 3.596,
+      "end" : 4.008,
+      "loc" : "3",
+      "word" : "때는"
+    }, {
+      "start" : 4.362,
+      "end" : 4.936,
+      "loc" : "4",
+      "word" : "계획을"
+    }, {
+      "start" : 5.27,
+      "end" : 5.562,
+      "loc" : "5",
+      "word" : "세워서"
+    }, {
+      "start" : 5.707,
+      "end" : 5.925,
+      "loc" : "6,7,8",
+      "word" : "가 보는 걸"
+    }, {
+      "start" : 6.036,
+      "end" : 6.381,
+      "loc" : "9",
+      "word" : "추천해."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.548,
+      "end" : 2.886,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.596,
+      "end" : 4.008,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.362,
+      "end" : 4.936,
+      "gloss_id" : "계획1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.27,
+      "end" : 5.562,
+      "gloss_id" : "완전1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.036,
+      "end" : 6.381,
+      "gloss_id" : "추천1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 6.043,
+      "end" : 6.381
+    }, {
+      "descriptor" : "",
+      "start" : 3.596,
+      "end" : 4.008
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.371,
+      "end" : 5.562
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.27,
+      "end" : 5.562
+    }, {
+      "descriptor" : "",
+      "start" : 3.596,
+      "end" : 4.008
+    }, {
+      "descriptor" : "",
+      "start" : 6.036,
+      "end" : 6.381
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.362,
+      "end" : 4.936
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.534,
+      "end" : 3.572
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781080",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:06:46",
+    "sentence_ID" : "VXPAKOKS240781080",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

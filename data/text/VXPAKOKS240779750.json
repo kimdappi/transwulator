@@ -1,0 +1,116 @@
+{
+  "id" : "VXPAKOKS240779750",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "합정에는 맛있는 게 하나 있어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.355,
+      "end" : 2.327,
+      "gloss_id" : "합정",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.446,
+      "end" : 2.661,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.904,
+      "end" : 3.436,
+      "gloss_id" : "맛있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.688,
+      "end" : 4.107,
+      "gloss_id" : "일3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.355,
+      "end" : 2.66,
+      "loc" : "0",
+      "word" : "합정에는"
+    }, {
+      "start" : 2.904,
+      "end" : 3.436,
+      "loc" : "1,2",
+      "word" : "맛있는 게"
+    }, {
+      "start" : 3.688,
+      "end" : 4.107,
+      "loc" : "3,4",
+      "word" : "하나 있어."
+    } ],
+    "sign_gestures_weak" : null
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "합정",
+      "start" : 1.355,
+      "end" : 2.327
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.446,
+      "end" : 3.431
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.904,
+      "end" : 3.436
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.355,
+      "end" : 2.667
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779750",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:01:18",
+    "sentence_ID" : "VXPAKOKS240779750",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

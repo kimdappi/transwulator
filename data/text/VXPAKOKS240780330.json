@@ -1,0 +1,402 @@
+{
+  "id" : "VXPAKOKS240780330",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 예전에 할머니랑 같이 살았는데 할머니가 한자를 너무 좋아하셔서 어렸을 때 3급까지 땄었어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.898,
+      "end" : 2.053,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.213,
+      "end" : 2.46,
+      "gloss_id" : "과거1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.629,
+      "end" : 2.899,
+      "gloss_id" : "할머니1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.028,
+      "end" : 3.183,
+      "gloss_id" : "함께1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.29,
+      "end" : 3.767,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.963,
+      "end" : 4.172,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.495,
+      "end" : 4.803,
+      "gloss_id" : "할머니1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.048,
+      "end" : 5.165,
+      "gloss_id" : "중국5",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.304,
+      "end" : 5.696,
+      "gloss_id" : "서류1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.921,
+      "end" : 6.237,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.481,
+      "end" : 6.812,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.931,
+      "end" : 7.055,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.24,
+      "end" : 7.541,
+      "gloss_id" : "꼬마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.768,
+      "end" : 8.329,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.589,
+      "end" : 9.219,
+      "gloss_id" : "급",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.364,
+      "end" : 9.902,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.027,
+      "end" : 10.573,
+      "gloss_id" : "급",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.792,
+      "end" : 11.2,
+      "gloss_id" : "가지다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.898,
+      "end" : 2.053,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.213,
+      "end" : 2.46,
+      "loc" : "1",
+      "word" : "예전에"
+    }, {
+      "start" : 2.629,
+      "end" : 2.899,
+      "loc" : "2",
+      "word" : "할머니랑"
+    }, {
+      "start" : 3.028,
+      "end" : 3.183,
+      "loc" : "3",
+      "word" : "같이"
+    }, {
+      "start" : 3.29,
+      "end" : 4.157,
+      "loc" : "4",
+      "word" : "살았는데"
+    }, {
+      "start" : 4.495,
+      "end" : 4.803,
+      "loc" : "5",
+      "word" : "할머니가"
+    }, {
+      "start" : 5.048,
+      "end" : 5.701,
+      "loc" : "6",
+      "word" : "한자를"
+    }, {
+      "start" : 5.921,
+      "end" : 6.804,
+      "loc" : "7,8",
+      "word" : "너무 좋아하셔서"
+    }, {
+      "start" : 6.931,
+      "end" : 7.553,
+      "loc" : "9",
+      "word" : "어렸을"
+    }, {
+      "start" : 7.768,
+      "end" : 8.329,
+      "loc" : "10",
+      "word" : "때"
+    }, {
+      "start" : 8.589,
+      "end" : 10.574,
+      "loc" : "11",
+      "word" : "3급까지"
+    }, {
+      "start" : 10.792,
+      "end" : 11.2,
+      "loc" : "12",
+      "word" : "땄었어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 8.589,
+      "end" : 9.893,
+      "gloss_id" : "8",
+      "express" : "n",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.027,
+      "end" : 10.573,
+      "gloss_id" : "3",
+      "express" : "n",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.028,
+      "end" : 3.183,
+      "gloss_id" : "함께1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.29,
+      "end" : 3.767,
+      "gloss_id" : "살다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.304,
+      "end" : 5.696,
+      "gloss_id" : "서류1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.481,
+      "end" : 6.812,
+      "gloss_id" : "자연3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.24,
+      "end" : 7.541,
+      "gloss_id" : "꼬마1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.768,
+      "end" : 8.329,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.792,
+      "end" : 11.2,
+      "gloss_id" : "가지다3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "팔급",
+      "start" : 8.589,
+      "end" : 9.219
+    }, {
+      "descriptor" : "삼급",
+      "start" : 10.027,
+      "end" : 10.573
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.213,
+      "end" : 2.46
+    }, {
+      "descriptor" : "",
+      "start" : 3.963,
+      "end" : 4.172
+    }, {
+      "descriptor" : "",
+      "start" : 6.481,
+      "end" : 6.812
+    }, {
+      "descriptor" : "",
+      "start" : 7.768,
+      "end" : 8.329
+    }, {
+      "descriptor" : "",
+      "start" : 8.605,
+      "end" : 9.219
+    }, {
+      "descriptor" : "",
+      "start" : 10.792,
+      "end" : 11.2
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.963,
+      "end" : 4.172
+    }, {
+      "descriptor" : "",
+      "start" : 6.481,
+      "end" : 6.812
+    }, {
+      "descriptor" : "",
+      "start" : 10.792,
+      "end" : 11.2
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.048,
+      "end" : 6.229
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.213,
+      "end" : 2.46
+    }, {
+      "descriptor" : "",
+      "start" : 5.048,
+      "end" : 5.693
+    }, {
+      "descriptor" : "",
+      "start" : 3.29,
+      "end" : 3.88
+    } ],
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 9.624,
+      "end" : 9.902
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 6.481,
+      "end" : 6.812
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780330",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:03:39",
+    "sentence_ID" : "VXPAKOKS240780330",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

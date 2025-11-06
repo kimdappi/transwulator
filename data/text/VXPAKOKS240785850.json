@@ -1,0 +1,291 @@
+{
+  "id" : "VXPAKOKS240785850",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "거의 마트를 안 가고 온라인으로 하니까 내가 쇼핑을 많이 하는 것처럼 느끼는 거지.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.532,
+      "end" : 1.996,
+      "gloss_id" : "가게2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.124,
+      "end" : 2.354,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.683,
+      "end" : 2.887,
+      "gloss_id" : "잘하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.565,
+      "end" : 4.019,
+      "gloss_id" : "인터넷1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.153,
+      "end" : 4.529,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 4.741,
+      "end" : 5.112,
+      "gloss_id" : "신고1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 5.387,
+      "end" : 5.439,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.289,
+      "end" : 6.441,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.826,
+      "end" : 7.525,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.575,
+      "end" : 6.024,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.976,
+      "end" : 3.325,
+      "gloss_id" : "아니다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.532,
+      "end" : 1.996,
+      "loc" : "1",
+      "word" : "마트를"
+    }, {
+      "start" : 2.124,
+      "end" : 2.354,
+      "loc" : "3",
+      "word" : "가고"
+    }, {
+      "start" : 2.683,
+      "end" : 2.887,
+      "loc" : "0",
+      "word" : "거의"
+    }, {
+      "start" : 2.976,
+      "end" : 3.325,
+      "loc" : "2",
+      "word" : "안"
+    }, {
+      "start" : 3.565,
+      "end" : 4.528,
+      "loc" : "4",
+      "word" : "온라인으로"
+    }, {
+      "start" : 5.387,
+      "end" : 5.439,
+      "loc" : "6",
+      "word" : "내가"
+    }, {
+      "start" : 4.741,
+      "end" : 5.112,
+      "loc" : "5",
+      "word" : "하니까"
+    }, {
+      "start" : 5.575,
+      "end" : 6.024,
+      "loc" : "7",
+      "word" : "쇼핑을"
+    }, {
+      "start" : 6.289,
+      "end" : 6.441,
+      "loc" : "8,9,10",
+      "word" : "많이 하는 것처럼"
+    }, {
+      "start" : 6.831,
+      "end" : 7.525,
+      "loc" : "11,12",
+      "word" : "느끼는 거지."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.532,
+      "end" : 1.996,
+      "gloss_id" : "가게2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.124,
+      "end" : 2.354,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.683,
+      "end" : 3.329,
+      "gloss_id" : "잘하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.565,
+      "end" : 4.019,
+      "gloss_id" : "인터넷1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.153,
+      "end" : 4.529,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.575,
+      "end" : 6.024,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.289,
+      "end" : 6.441,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.124,
+      "end" : 2.354
+    }, {
+      "descriptor" : "",
+      "start" : 4.153,
+      "end" : 4.529
+    }, {
+      "descriptor" : "",
+      "start" : 4.741,
+      "end" : 5.112
+    }, {
+      "descriptor" : "",
+      "start" : 6.845,
+      "end" : 7.525
+    }, {
+      "descriptor" : "",
+      "start" : 5.575,
+      "end" : 6.024
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.377,
+      "end" : 6.441
+    } ],
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 2.683,
+      "end" : 3.329
+    } ],
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.124,
+      "end" : 3.326
+    }, {
+      "descriptor" : "",
+      "start" : 6.289,
+      "end" : 7.522
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 5.575,
+      "end" : 6.024
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.532,
+      "end" : 1.996
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785850",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:22:41",
+    "sentence_ID" : "VXPAKOKS240785850",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

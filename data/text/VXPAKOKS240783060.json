@@ -1,0 +1,150 @@
+{
+  "id" : "VXPAKOKS240783060",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "프로틴 먹으면 근육이 좀 더 빨리 생기긴 한대.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.634,
+      "end" : 3.376,
+      "gloss_id" : "프로틴",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.559,
+      "end" : 4.012,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.348,
+      "end" : 5.165,
+      "gloss_id" : "근육2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.44,
+      "end" : 5.994,
+      "gloss_id" : "빠르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.291,
+      "end" : 6.561,
+      "gloss_id" : "말하다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.634,
+      "end" : 3.376,
+      "loc" : "0",
+      "word" : "프로틴"
+    }, {
+      "start" : 3.559,
+      "end" : 4.012,
+      "loc" : "1",
+      "word" : "먹으면"
+    }, {
+      "start" : 5.44,
+      "end" : 5.994,
+      "loc" : "3,4,5",
+      "word" : "좀 더 빨리"
+    }, {
+      "start" : 4.348,
+      "end" : 5.165,
+      "loc" : "2,6",
+      "word" : "근육이 생기긴"
+    }, {
+      "start" : 6.291,
+      "end" : 6.561,
+      "loc" : "7",
+      "word" : "한대."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.348,
+      "end" : 5.165,
+      "gloss_id" : "근육2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "프로틴",
+      "start" : 1.634,
+      "end" : 3.376
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.559,
+      "end" : 4.012
+    }, {
+      "descriptor" : "",
+      "start" : 5.44,
+      "end" : 5.994
+    }, {
+      "descriptor" : "",
+      "start" : 6.291,
+      "end" : 6.561
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.683,
+      "end" : 5.987
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 6.291,
+      "end" : 6.561
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783060",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:15:42",
+    "sentence_ID" : "VXPAKOKS240783060",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

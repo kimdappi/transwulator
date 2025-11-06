@@ -1,0 +1,299 @@
+{
+  "id" : "VXPAKOKS240780620",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "인문 대학교라는 게 사실 전문대보다 많은 다양성을 따지고 더 오래 다니고 있잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 3.535,
+      "end" : 4.503,
+      "gloss_id" : "인문",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.843,
+      "end" : 5.302,
+      "gloss_id" : "대학3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.415,
+      "end" : 5.528,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.681,
+      "end" : 5.963,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.314,
+      "end" : 6.701,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.097,
+      "end" : 7.258,
+      "gloss_id" : "대학교이학년1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.328,
+      "end" : 7.513,
+      "gloss_id" : "대학교삼학년1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.862,
+      "end" : 8.62,
+      "gloss_id" : "~보다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.945,
+      "end" : 10.163,
+      "gloss_id" : "종류3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.538,
+      "end" : 10.779,
+      "gloss_id" : "오래1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.986,
+      "end" : 11.445,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.745,
+      "end" : 12.099,
+      "gloss_id" : "가능1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.535,
+      "end" : 4.503,
+      "loc" : "0",
+      "word" : "인문"
+    }, {
+      "start" : 4.843,
+      "end" : 5.302,
+      "loc" : "1",
+      "word" : "대학교라는"
+    }, {
+      "start" : 5.415,
+      "end" : 5.948,
+      "loc" : "2",
+      "word" : "게"
+    }, {
+      "start" : 6.314,
+      "end" : 6.701,
+      "loc" : "3",
+      "word" : "사실"
+    }, {
+      "start" : 7.097,
+      "end" : 8.606,
+      "loc" : "4",
+      "word" : "전문대보다"
+    }, {
+      "start" : 8.945,
+      "end" : 10.163,
+      "loc" : "5,6,7",
+      "word" : "많은 다양성을 따지고"
+    }, {
+      "start" : 10.538,
+      "end" : 10.779,
+      "loc" : "8,9",
+      "word" : "더 오래"
+    }, {
+      "start" : 10.986,
+      "end" : 11.445,
+      "loc" : "10",
+      "word" : "다니고"
+    }, {
+      "start" : 11.745,
+      "end" : 12.099,
+      "loc" : "11",
+      "word" : "있잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.843,
+      "end" : 5.302,
+      "gloss_id" : "대학3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.097,
+      "end" : 7.257,
+      "gloss_id" : "대학교이학년1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.862,
+      "end" : 8.62,
+      "gloss_id" : "~보다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.945,
+      "end" : 10.163,
+      "gloss_id" : "종류3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.538,
+      "end" : 10.779,
+      "gloss_id" : "오래1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 10.986,
+      "end" : 11.445,
+      "gloss_id" : "다니다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.328,
+      "end" : 7.513,
+      "gloss_id" : "대학교삼학년1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "인문",
+      "start" : 3.535,
+      "end" : 4.503
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.681,
+      "end" : 5.963
+    }, {
+      "descriptor" : "",
+      "start" : 6.314,
+      "end" : 6.701
+    }, {
+      "descriptor" : "",
+      "start" : 7.862,
+      "end" : 8.62
+    }, {
+      "descriptor" : "",
+      "start" : 11.745,
+      "end" : 12.099
+    }, {
+      "descriptor" : "",
+      "start" : 8.945,
+      "end" : 10.163
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 11.745,
+      "end" : 12.099
+    }, {
+      "descriptor" : "",
+      "start" : 6.314,
+      "end" : 6.701
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 6.314,
+      "end" : 6.701
+    }, {
+      "descriptor" : "",
+      "start" : 8.945,
+      "end" : 10.163
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 8.945,
+      "end" : 10.109
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.415,
+      "end" : 5.948
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780620",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:04:56",
+    "sentence_ID" : "VXPAKOKS240780620",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

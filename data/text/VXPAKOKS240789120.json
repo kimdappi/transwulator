@@ -1,0 +1,153 @@
+{
+  "id" : "VXPAKOKS240789120",
+  "opertor" : "label26",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 해외 여행을 또 가 보고 싶어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.434,
+      "end" : 1.665,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.934,
+      "end" : 2.094,
+      "gloss_id" : "외국3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.269,
+      "end" : 2.517,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.701,
+      "end" : 3.138,
+      "gloss_id" : "또1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.301,
+      "end" : 3.591,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.434,
+      "end" : 1.665,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 1.934,
+      "end" : 2.094,
+      "loc" : "1",
+      "word" : "해외"
+    }, {
+      "start" : 2.269,
+      "end" : 2.517,
+      "loc" : "2",
+      "word" : "여행을"
+    }, {
+      "start" : 2.701,
+      "end" : 3.138,
+      "loc" : "3",
+      "word" : "또"
+    }, {
+      "start" : 3.301,
+      "end" : 3.591,
+      "loc" : "4,5,6",
+      "word" : "가 보고 싶어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.934,
+      "end" : 2.094,
+      "gloss_id" : "외국3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.269,
+      "end" : 2.517,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.701,
+      "end" : 3.138
+    }, {
+      "descriptor" : "",
+      "start" : 3.301,
+      "end" : 3.591
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.261,
+      "end" : 3.591
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.301,
+      "end" : 3.591
+    }, {
+      "descriptor" : "",
+      "start" : 2.269,
+      "end" : 2.517
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240789120",
+  "potogrf" : {
+    "createdTime" : "2024-10-21 04:09:59",
+    "sentence_ID" : "VXPAKOKS240789120",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "mp4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

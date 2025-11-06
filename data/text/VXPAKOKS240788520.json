@@ -1,0 +1,176 @@
+{
+  "id" : "VXPAKOKS240788520",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "지하철이나 버스 같은 거는 약간 민폐 승객들 있잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.862,
+      "end" : 2.299,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.552,
+      "end" : 2.97,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.249,
+      "end" : 3.451,
+      "gloss_id" : "손님1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.736,
+      "end" : 3.983,
+      "gloss_id" : "태도1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.266,
+      "end" : 4.829,
+      "gloss_id" : "역겹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.067,
+      "end" : 6.086,
+      "gloss_id" : "가끔1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.862,
+      "end" : 2.299,
+      "loc" : "0",
+      "word" : "지하철이나"
+    }, {
+      "start" : 3.249,
+      "end" : 3.451,
+      "loc" : "6",
+      "word" : "승객들"
+    }, {
+      "start" : 3.736,
+      "end" : 4.813,
+      "loc" : "4,5",
+      "word" : "약간 민폐"
+    }, {
+      "start" : 5.067,
+      "end" : 6.086,
+      "loc" : "7",
+      "word" : "있잖아."
+    }, {
+      "start" : 2.552,
+      "end" : 2.97,
+      "loc" : "1,2,3",
+      "word" : "버스 같은 거는"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.862,
+      "end" : 2.299,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.552,
+      "end" : 2.97,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.249,
+      "end" : 3.451,
+      "gloss_id" : "손님1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.736,
+      "end" : 3.983,
+      "gloss_id" : "태도1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.862,
+      "end" : 2.299
+    }, {
+      "descriptor" : "",
+      "start" : 2.552,
+      "end" : 2.97
+    }, {
+      "descriptor" : "",
+      "start" : 5.067,
+      "end" : 6.086
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.266,
+      "end" : 6.07
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.266,
+      "end" : 4.519
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240788520",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:47:20",
+    "sentence_ID" : "VXPAKOKS240788520",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,240 @@
+{
+  "id" : "VXPAKOKS240784340",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "음식의 냄새를 맡고 맛있는 냄새가 나면 일단 입에 넣어 보고 음식의 냄새가 별로면 아예 입에 대지도 않아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.389,
+      "end" : 2.617,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.813,
+      "end" : 3.891,
+      "gloss_id" : "향기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.591,
+      "end" : 4.855,
+      "gloss_id" : "향기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.133,
+      "end" : 5.491,
+      "gloss_id" : "맛있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.807,
+      "end" : 6.306,
+      "gloss_id" : "생명1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.645,
+      "end" : 6.897,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.173,
+      "end" : 8.464,
+      "gloss_id" : "먹다8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.119,
+      "end" : 9.418,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.583,
+      "end" : 10.319,
+      "gloss_id" : "생명1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 10.603,
+      "end" : 10.996,
+      "gloss_id" : "이상하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.217,
+      "end" : 11.575,
+      "gloss_id" : "먹다8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 11.738,
+      "end" : 12.108,
+      "gloss_id" : "먹지않다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.389,
+      "end" : 2.617,
+      "loc" : "0",
+      "word" : "음식의"
+    }, {
+      "start" : 2.813,
+      "end" : 3.891,
+      "loc" : "1",
+      "word" : "냄새를"
+    }, {
+      "start" : 4.591,
+      "end" : 4.855,
+      "loc" : "2",
+      "word" : "맡고"
+    }, {
+      "start" : 5.133,
+      "end" : 5.491,
+      "loc" : "3",
+      "word" : "맛있는"
+    }, {
+      "start" : 5.807,
+      "end" : 6.306,
+      "loc" : "4,5",
+      "word" : "냄새가 나면"
+    }, {
+      "start" : 6.645,
+      "end" : 6.897,
+      "loc" : "6",
+      "word" : "일단"
+    }, {
+      "start" : 7.173,
+      "end" : 8.464,
+      "loc" : "7,8,9",
+      "word" : "입에 넣어 보고"
+    }, {
+      "start" : 9.119,
+      "end" : 9.418,
+      "loc" : "10",
+      "word" : "음식의"
+    }, {
+      "start" : 9.583,
+      "end" : 10.319,
+      "loc" : "11",
+      "word" : "냄새가"
+    }, {
+      "start" : 10.603,
+      "end" : 10.996,
+      "loc" : "12",
+      "word" : "별로면"
+    }, {
+      "start" : 11.217,
+      "end" : 12.071,
+      "loc" : "13,14,15,16",
+      "word" : "아예 입에 대지도 않아."
+    } ],
+    "sign_gestures_weak" : null
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.807,
+      "end" : 6.306
+    }, {
+      "descriptor" : "",
+      "start" : 6.645,
+      "end" : 6.897
+    }, {
+      "descriptor" : "",
+      "start" : 7.173,
+      "end" : 8.464
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.779,
+      "end" : 6.897
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 10.603,
+      "end" : 12.105
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.389,
+      "end" : 3.892
+    }, {
+      "descriptor" : "",
+      "start" : 5.133,
+      "end" : 6.294
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784340",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:22:10",
+    "sentence_ID" : "VXPAKOKS240784340",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,142 @@
+{
+  "id" : "VXPAKOKS240784810",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "팥칼국수를 한번 해 먹읍시다.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.584,
+      "end" : 1.817,
+      "gloss_id" : "콩1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.032,
+      "end" : 2.211,
+      "gloss_id" : "칼1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.361,
+      "end" : 2.817,
+      "gloss_id" : "먹다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.189,
+      "end" : 3.567,
+      "gloss_id" : "만들다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.646,
+      "end" : 3.835,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.95,
+      "end" : 4.289,
+      "gloss_id" : "보다10",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.584,
+      "end" : 2.813,
+      "loc" : "0",
+      "word" : "팥칼국수를"
+    }, {
+      "start" : 3.189,
+      "end" : 4.272,
+      "loc" : "1,2,3",
+      "word" : "한번 해 먹읍시다."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.032,
+      "end" : 2.211,
+      "gloss_id" : "칼1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.361,
+      "end" : 2.817,
+      "gloss_id" : "먹다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.189,
+      "end" : 3.567,
+      "gloss_id" : "만들다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.361,
+      "end" : 4.061
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.584,
+      "end" : 1.817
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784810",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:24:41",
+    "sentence_ID" : "VXPAKOKS240784810",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

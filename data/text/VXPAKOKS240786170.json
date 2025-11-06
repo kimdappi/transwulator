@@ -1,0 +1,203 @@
+{
+  "id" : "VXPAKOKS240786170",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "진짜 서민들은 더 힘든 거지 대출이 더 안 되니까.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.206,
+      "end" : 2.341,
+      "gloss_id" : "맞다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.574,
+      "end" : 3.012,
+      "gloss_id" : "보통1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.263,
+      "end" : 3.552,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.812,
+      "end" : 4.264,
+      "gloss_id" : "더1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.537,
+      "end" : 4.747,
+      "gloss_id" : "힘들다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.882,
+      "end" : 4.952,
+      "gloss_id" : "돈1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.812,
+      "end" : 6.53,
+      "gloss_id" : "막히다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.059,
+      "end" : 5.525,
+      "gloss_id" : "빌리다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.206,
+      "end" : 2.341,
+      "loc" : "0",
+      "word" : "진짜"
+    }, {
+      "start" : 2.574,
+      "end" : 3.553,
+      "loc" : "1",
+      "word" : "서민들은"
+    }, {
+      "start" : 3.812,
+      "end" : 4.264,
+      "loc" : "2",
+      "word" : "더"
+    }, {
+      "start" : 4.537,
+      "end" : 4.747,
+      "loc" : "3,4",
+      "word" : "힘든 거지"
+    }, {
+      "start" : 4.882,
+      "end" : 5.521,
+      "loc" : "5",
+      "word" : "대출이"
+    }, {
+      "start" : 5.812,
+      "end" : 6.53,
+      "loc" : "6,7,8",
+      "word" : "더 안 되니까."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 5.812,
+      "end" : 6.53,
+      "gloss_id" : "막히다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.812,
+      "end" : 4.264,
+      "gloss_id" : "더1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.574,
+      "end" : 3.012,
+      "gloss_id" : "보통1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.263,
+      "end" : 3.552,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.574,
+      "end" : 3.012
+    }, {
+      "descriptor" : "",
+      "start" : 3.812,
+      "end" : 4.264
+    }, {
+      "descriptor" : "",
+      "start" : 5.812,
+      "end" : 6.53
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.812,
+      "end" : 6.006
+    }, {
+      "descriptor" : "",
+      "start" : 6.258,
+      "end" : 6.538
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.206,
+      "end" : 6.523
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240786170",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:24:51",
+    "sentence_ID" : "VXPAKOKS240786170",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

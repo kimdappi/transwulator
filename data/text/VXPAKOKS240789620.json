@@ -1,0 +1,164 @@
+{
+  "id" : "VXPAKOKS240789620",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "엄마는 휴대폰으로 책을 안 보시는 거예요?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.445,
+      "end" : 1.877,
+      "gloss_id" : "엄마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.162,
+      "end" : 2.265,
+      "gloss_id" : "핸드폰1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.489,
+      "end" : 2.768,
+      "gloss_id" : "핸드폰4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.988,
+      "end" : 3.104,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.3,
+      "end" : 3.483,
+      "gloss_id" : "읽다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.681,
+      "end" : 4.066,
+      "gloss_id" : "아니다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.445,
+      "end" : 1.877,
+      "loc" : "0",
+      "word" : "엄마는"
+    }, {
+      "start" : 2.162,
+      "end" : 2.787,
+      "loc" : "1",
+      "word" : "휴대폰으로"
+    }, {
+      "start" : 2.988,
+      "end" : 3.104,
+      "loc" : "2",
+      "word" : "책을"
+    }, {
+      "start" : 3.3,
+      "end" : 4.062,
+      "loc" : "3,4,5",
+      "word" : "안 보시는 거예요?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.489,
+      "end" : 2.768,
+      "gloss_id" : "핸드폰4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.988,
+      "end" : 3.104,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.3,
+      "end" : 4.065,
+      "gloss_id" : "읽다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.445,
+      "end" : 1.881
+    }, {
+      "descriptor" : "",
+      "start" : 3.681,
+      "end" : 4.066
+    }, {
+      "descriptor" : "",
+      "start" : 2.489,
+      "end" : 2.768
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.489,
+      "end" : 2.768
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.011,
+      "end" : 4.066
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789620",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:56:45",
+    "sentence_ID" : "VXPAKOKS240789620",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,238 @@
+{
+  "id" : "VXPAKOKS240784150",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "나도 어릴 때부터 갖고 있던 옷이 있지만 너도 옷이 많잖아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.469,
+      "end" : 1.588,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.753,
+      "end" : 1.977,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.279,
+      "end" : 2.504,
+      "gloss_id" : "젊다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.748,
+      "end" : 2.933,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.081,
+      "end" : 3.181,
+      "gloss_id" : "옷1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.36,
+      "end" : 4.24,
+      "gloss_id" : "가지고다니다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.508,
+      "end" : 4.66,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.831,
+      "end" : 5.187,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.416,
+      "end" : 5.581,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.765,
+      "end" : 5.858,
+      "gloss_id" : "옷1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.102,
+      "end" : 6.445,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.469,
+      "end" : 1.975,
+      "loc" : "0",
+      "word" : "나도"
+    }, {
+      "start" : 2.279,
+      "end" : 2.504,
+      "loc" : "1",
+      "word" : "어릴"
+    }, {
+      "start" : 2.748,
+      "end" : 2.933,
+      "loc" : "2",
+      "word" : "때부터"
+    }, {
+      "start" : 3.081,
+      "end" : 3.181,
+      "loc" : "5",
+      "word" : "옷이"
+    }, {
+      "start" : 3.36,
+      "end" : 4.24,
+      "loc" : "3,4",
+      "word" : "갖고 있던"
+    }, {
+      "start" : 4.508,
+      "end" : 5.171,
+      "loc" : "6",
+      "word" : "있지만"
+    }, {
+      "start" : 5.416,
+      "end" : 5.581,
+      "loc" : "7",
+      "word" : "너도"
+    }, {
+      "start" : 5.765,
+      "end" : 5.858,
+      "loc" : "8",
+      "word" : "옷이"
+    }, {
+      "start" : 6.102,
+      "end" : 6.445,
+      "loc" : "9",
+      "word" : "많잖아?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.753,
+      "end" : 1.977,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.748,
+      "end" : 2.933,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.102,
+      "end" : 6.445,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 6.102,
+      "end" : 6.445
+    }, {
+      "descriptor" : "",
+      "start" : 2.748,
+      "end" : 2.933
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.469,
+      "end" : 1.981
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.831,
+      "end" : 5.187
+    } ],
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 5.846,
+      "end" : 6.445
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.279,
+      "end" : 2.937
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784150",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:21:21",
+    "sentence_ID" : "VXPAKOKS240784150",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

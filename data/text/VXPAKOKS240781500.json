@@ -1,0 +1,190 @@
+{
+  "id" : "VXPAKOKS240781500",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "저는 지금까지 키웠던 모든 반려동물한테 미안해요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.083,
+      "end" : 2.143,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.312,
+      "end" : 2.396,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.591,
+      "end" : 2.764,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.971,
+      "end" : 3.334,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.52,
+      "end" : 3.741,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.883,
+      "end" : 4.33,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.769,
+      "end" : 5.239,
+      "gloss_id" : "미안하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.083,
+      "end" : 2.143,
+      "loc" : "0",
+      "word" : "저는"
+    }, {
+      "start" : 2.312,
+      "end" : 2.775,
+      "loc" : "1",
+      "word" : "지금까지"
+    }, {
+      "start" : 2.971,
+      "end" : 3.334,
+      "loc" : "2",
+      "word" : "키웠던"
+    }, {
+      "start" : 3.52,
+      "end" : 3.741,
+      "loc" : "4",
+      "word" : "반려동물한테"
+    }, {
+      "start" : 3.883,
+      "end" : 4.33,
+      "loc" : "3",
+      "word" : "모든"
+    }, {
+      "start" : 4.769,
+      "end" : 5.239,
+      "loc" : "5",
+      "word" : "미안해요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.312,
+      "end" : 2.396,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.591,
+      "end" : 2.764,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.971,
+      "end" : 3.334,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.52,
+      "end" : 5.233,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.312,
+      "end" : 3.311
+    }, {
+      "descriptor" : "",
+      "start" : 3.883,
+      "end" : 4.33
+    }, {
+      "descriptor" : "",
+      "start" : 4.769,
+      "end" : 5.239
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.769,
+      "end" : 5.239
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.52,
+      "end" : 4.121
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240781500",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:08:41",
+    "sentence_ID" : "VXPAKOKS240781500",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

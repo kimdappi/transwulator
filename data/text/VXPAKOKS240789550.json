@@ -1,0 +1,176 @@
+{
+  "id" : "VXPAKOKS240789550",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "내가 이번에 졸업을 조기 졸업을 했잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.609,
+      "end" : 1.787,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.007,
+      "end" : 3.105,
+      "gloss_id" : "점수1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.304,
+      "end" : 3.651,
+      "gloss_id" : "가지다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.905,
+      "end" : 4.138,
+      "gloss_id" : "빨리1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.4,
+      "end" : 4.883,
+      "gloss_id" : "졸업1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.19,
+      "end" : 2.673,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.609,
+      "end" : 1.787,
+      "loc" : "0",
+      "word" : "내가"
+    }, {
+      "start" : 2.19,
+      "end" : 2.673,
+      "loc" : "1",
+      "word" : "이번에"
+    }, {
+      "start" : 3.005,
+      "end" : 4.138,
+      "loc" : "3",
+      "word" : "조기"
+    }, {
+      "start" : 4.4,
+      "end" : 4.883,
+      "loc" : "2,4,5",
+      "word" : "졸업을 졸업을 했잖아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.4,
+      "end" : 4.883,
+      "gloss_id" : "졸업1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.19,
+      "end" : 2.673,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.304,
+      "end" : 3.651,
+      "gloss_id" : "가지다3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.19,
+      "end" : 2.673
+    }, {
+      "descriptor" : "",
+      "start" : 4.405,
+      "end" : 4.883
+    }, {
+      "descriptor" : "",
+      "start" : 3.304,
+      "end" : 3.651
+    }, {
+      "descriptor" : "",
+      "start" : 3.905,
+      "end" : 4.138
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.379,
+      "end" : 4.73
+    }, {
+      "descriptor" : "",
+      "start" : 3.925,
+      "end" : 4.138
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.007,
+      "end" : 4.905
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.609,
+      "end" : 2.793
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789550",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:56:20",
+    "sentence_ID" : "VXPAKOKS240789550",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

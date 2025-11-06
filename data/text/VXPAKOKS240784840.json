@@ -1,0 +1,129 @@
+{
+  "id" : "VXPAKOKS240784840",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "엄마 웬일로 탕수육을 시켰어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.636,
+      "end" : 1.726,
+      "gloss_id" : "엄마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.979,
+      "end" : 2.798,
+      "gloss_id" : "갑자기3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.092,
+      "end" : 3.939,
+      "gloss_id" : "탕수육1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.173,
+      "end" : 4.588,
+      "gloss_id" : "신고1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.636,
+      "end" : 1.726,
+      "loc" : "0",
+      "word" : "엄마"
+    }, {
+      "start" : 1.979,
+      "end" : 2.798,
+      "loc" : "1",
+      "word" : "웬일로"
+    }, {
+      "start" : 3.092,
+      "end" : 3.939,
+      "loc" : "2",
+      "word" : "탕수육을"
+    }, {
+      "start" : 4.173,
+      "end" : 4.588,
+      "loc" : "3",
+      "word" : "시켰어?"
+    } ],
+    "sign_gestures_weak" : null
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.486,
+      "end" : 2.798
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.497,
+      "end" : 2.798
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.979,
+      "end" : 2.798
+    }, {
+      "descriptor" : "",
+      "start" : 4.173,
+      "end" : 4.588
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.979,
+      "end" : 2.798
+    }, {
+      "descriptor" : "",
+      "start" : 4.173,
+      "end" : 4.588
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784840",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:24:47",
+    "sentence_ID" : "VXPAKOKS240784840",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

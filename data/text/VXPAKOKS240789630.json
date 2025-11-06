@@ -1,0 +1,148 @@
+{
+  "id" : "VXPAKOKS240789630",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "너는 수필집 같은 거 읽어 본 적 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.337,
+      "end" : 1.64,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.952,
+      "end" : 3.145,
+      "gloss_id" : "수필",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.423,
+      "end" : 3.535,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.672,
+      "end" : 3.902,
+      "gloss_id" : "읽다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.075,
+      "end" : 4.583,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.337,
+      "end" : 1.64,
+      "loc" : "0",
+      "word" : "너는"
+    }, {
+      "start" : 1.952,
+      "end" : 3.145,
+      "loc" : "1",
+      "word" : "수필집"
+    }, {
+      "start" : 3.423,
+      "end" : 3.912,
+      "loc" : "2,3,4",
+      "word" : "같은 거 읽어"
+    }, {
+      "start" : 4.075,
+      "end" : 4.583,
+      "loc" : "5,6,7",
+      "word" : "본 적 있어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.672,
+      "end" : 4.591,
+      "gloss_id" : "읽다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.423,
+      "end" : 3.54,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "수필",
+      "start" : 1.952,
+      "end" : 3.145
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.337,
+      "end" : 1.64
+    }, {
+      "descriptor" : "",
+      "start" : 4.123,
+      "end" : 4.586
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.123,
+      "end" : 4.252
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.672,
+      "end" : 4.622
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789630",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:56:47",
+    "sentence_ID" : "VXPAKOKS240789630",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

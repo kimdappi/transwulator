@@ -1,0 +1,289 @@
+{
+  "id" : "VXPAKOKS240779280",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "난 요즘 상법을 공부하고 있는데 한자가 너무 많고 그 단어가 너무 어렵게 구성이 되어 있었어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.395,
+      "end" : 1.482,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.63,
+      "end" : 1.851,
+      "gloss_id" : "요즘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.074,
+      "end" : 3.526,
+      "gloss_id" : "상법",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.761,
+      "end" : 3.861,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.157,
+      "end" : 4.866,
+      "gloss_id" : "중1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.229,
+      "end" : 5.354,
+      "gloss_id" : "중국5",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.441,
+      "end" : 5.827,
+      "gloss_id" : "서류1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.06,
+      "end" : 6.262,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.524,
+      "end" : 6.986,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.24,
+      "end" : 7.886,
+      "gloss_id" : "단어1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.099,
+      "end" : 8.637,
+      "gloss_id" : "기록1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.007,
+      "end" : 9.234,
+      "gloss_id" : "어렵다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.395,
+      "end" : 1.482,
+      "loc" : "0",
+      "word" : "난"
+    }, {
+      "start" : 1.63,
+      "end" : 1.851,
+      "loc" : "1",
+      "word" : "요즘"
+    }, {
+      "start" : 2.074,
+      "end" : 3.526,
+      "loc" : "2",
+      "word" : "상법을"
+    }, {
+      "start" : 3.761,
+      "end" : 3.861,
+      "loc" : "3",
+      "word" : "공부하고"
+    }, {
+      "start" : 4.144,
+      "end" : 4.866,
+      "loc" : "4",
+      "word" : "있는데"
+    }, {
+      "start" : 5.229,
+      "end" : 6.262,
+      "loc" : "5",
+      "word" : "한자가"
+    }, {
+      "start" : 6.524,
+      "end" : 6.986,
+      "loc" : "6,7",
+      "word" : "너무 많고"
+    }, {
+      "start" : 7.24,
+      "end" : 7.886,
+      "loc" : "8,9",
+      "word" : "그 단어가"
+    }, {
+      "start" : 8.099,
+      "end" : 8.637,
+      "loc" : "12,13,14",
+      "word" : "구성이 되어 있었어."
+    }, {
+      "start" : 9.007,
+      "end" : 9.234,
+      "loc" : "10,11",
+      "word" : "너무 어렵게"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.761,
+      "end" : 3.861,
+      "gloss_id" : "공부1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.157,
+      "end" : 4.866,
+      "gloss_id" : "중1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.441,
+      "end" : 5.827,
+      "gloss_id" : "서류1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.524,
+      "end" : 6.986,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.24,
+      "end" : 7.886,
+      "gloss_id" : "단어1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.099,
+      "end" : 8.637,
+      "gloss_id" : "기록1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "상법",
+      "start" : 2.074,
+      "end" : 3.526
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.356,
+      "end" : 3.526
+    }, {
+      "descriptor" : "",
+      "start" : 4.157,
+      "end" : 4.866
+    }, {
+      "descriptor" : "",
+      "start" : 6.524,
+      "end" : 6.986
+    }, {
+      "descriptor" : "",
+      "start" : 9.007,
+      "end" : 9.234
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 6.778,
+      "end" : 6.986
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.761,
+      "end" : 4.864
+    }, {
+      "descriptor" : "",
+      "start" : 5.549,
+      "end" : 6.97
+    }, {
+      "descriptor" : "",
+      "start" : 9.007,
+      "end" : 9.234
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 7.24,
+      "end" : 7.886
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240779280",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 10:57:36",
+    "sentence_ID" : "VXPAKOKS240779280",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,208 @@
+{
+  "id" : "VXPAKOKS240785300",
+  "opertor" : "label10",
+  "krlgg_sntenc" : {
+    "koreanText" : "택시는 너무 편한데 비용이 많이 들어서 아무래도 버스를 자주 이용하게 되더라고.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.645,
+      "end" : 1.869,
+      "gloss_id" : "택시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.268,
+      "end" : 2.872,
+      "gloss_id" : "편안하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.381,
+      "end" : 3.445,
+      "gloss_id" : "돈1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.73,
+      "end" : 4.457,
+      "gloss_id" : "부담1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.873,
+      "end" : 5.06,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.292,
+      "end" : 5.467,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.754,
+      "end" : 6.064,
+      "gloss_id" : "대부분2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.645,
+      "end" : 1.869,
+      "loc" : "0",
+      "word" : "택시는"
+    }, {
+      "start" : 2.268,
+      "end" : 2.872,
+      "loc" : "1,2",
+      "word" : "너무 편한데"
+    }, {
+      "start" : 3.381,
+      "end" : 3.445,
+      "loc" : "3",
+      "word" : "비용이"
+    }, {
+      "start" : 3.73,
+      "end" : 4.457,
+      "loc" : "4,5",
+      "word" : "많이 들어서"
+    }, {
+      "start" : 4.873,
+      "end" : 5.06,
+      "loc" : "6,7",
+      "word" : "아무래도 버스를"
+    }, {
+      "start" : 5.292,
+      "end" : 5.467,
+      "loc" : "9,10",
+      "word" : "이용하게 되더라고."
+    }, {
+      "start" : 5.754,
+      "end" : 6.064,
+      "loc" : "8",
+      "word" : "자주"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.268,
+      "end" : 2.872,
+      "gloss_id" : "편안하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.873,
+      "end" : 5.06,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.292,
+      "end" : 5.467,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.645,
+      "end" : 1.869
+    }, {
+      "descriptor" : "",
+      "start" : 2.268,
+      "end" : 2.872
+    }, {
+      "descriptor" : "",
+      "start" : 3.73,
+      "end" : 4.457
+    }, {
+      "descriptor" : "",
+      "start" : 5.292,
+      "end" : 5.467
+    }, {
+      "descriptor" : "",
+      "start" : 5.754,
+      "end" : 6.064
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 5.754,
+      "end" : 6.064
+    }, {
+      "descriptor" : "",
+      "start" : 2.268,
+      "end" : 2.872
+    }, {
+      "descriptor" : "",
+      "start" : 3.73,
+      "end" : 4.457
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 5.292,
+      "end" : 6.069
+    } ],
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 4.03,
+      "end" : 4.358
+    } ],
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240785300",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 01:36:21",
+    "sentence_ID" : "VXPAKOKS240785300",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

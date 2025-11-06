@@ -1,0 +1,228 @@
+{
+  "id" : "VXPAKOKS240786350",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "나 새벽 시간에 지하철 첫차를 5시 좀 넘어서 탔을 거 같아요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.102,
+      "end" : 1.201,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.379,
+      "end" : 1.731,
+      "gloss_id" : "새벽1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.967,
+      "end" : 2.149,
+      "gloss_id" : "때2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.381,
+      "end" : 2.991,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.29,
+      "end" : 3.403,
+      "gloss_id" : "번째:1번째",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.656,
+      "end" : 4.588,
+      "gloss_id" : "시:5시",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.763,
+      "end" : 4.996,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.19,
+      "end" : 5.383,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.514,
+      "end" : 6.101,
+      "gloss_id" : "아마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.102,
+      "end" : 1.201,
+      "loc" : "0",
+      "word" : "나"
+    }, {
+      "start" : 1.379,
+      "end" : 1.731,
+      "loc" : "1",
+      "word" : "새벽"
+    }, {
+      "start" : 1.967,
+      "end" : 2.149,
+      "loc" : "2",
+      "word" : "시간에"
+    }, {
+      "start" : 2.381,
+      "end" : 2.991,
+      "loc" : "3",
+      "word" : "지하철"
+    }, {
+      "start" : 3.29,
+      "end" : 3.403,
+      "loc" : "4",
+      "word" : "첫차를"
+    }, {
+      "start" : 4.763,
+      "end" : 6.087,
+      "loc" : "8,9,10",
+      "word" : "탔을 거 같아요."
+    }, {
+      "start" : 3.656,
+      "end" : 4.588,
+      "loc" : "5,6,7",
+      "word" : "5시 좀 넘어서"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.656,
+      "end" : 4.588,
+      "gloss_id" : "시:5시",
+      "express" : "d",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.967,
+      "end" : 2.149,
+      "gloss_id" : "때2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.381,
+      "end" : 2.991,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.29,
+      "end" : 3.403,
+      "gloss_id" : "번째:1번째",
+      "express" : "d",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.763,
+      "end" : 4.996,
+      "gloss_id" : "타다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.967,
+      "end" : 2.149
+    }, {
+      "descriptor" : "",
+      "start" : 3.29,
+      "end" : 3.403
+    }, {
+      "descriptor" : "",
+      "start" : 3.656,
+      "end" : 4.588
+    }, {
+      "descriptor" : "",
+      "start" : 5.514,
+      "end" : 6.101
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.254,
+      "end" : 5.377
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.381,
+      "end" : 3.397
+    }, {
+      "descriptor" : "",
+      "start" : 4.763,
+      "end" : 6.091
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240786350",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:26:35",
+    "sentence_ID" : "VXPAKOKS240786350",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

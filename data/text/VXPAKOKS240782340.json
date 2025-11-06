@@ -1,0 +1,159 @@
+{
+  "id" : "VXPAKOKS240782340",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "일요일 날 아침은 같이 먹을 수 있는 거야?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.913,
+      "end" : 2.323,
+      "gloss_id" : "일요일2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.533,
+      "end" : 2.993,
+      "gloss_id" : "아침4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.299,
+      "end" : 3.45,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.622,
+      "end" : 3.908,
+      "gloss_id" : "함께먹다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.162,
+      "end" : 4.523,
+      "gloss_id" : "가능1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.913,
+      "end" : 2.323,
+      "loc" : "0,1",
+      "word" : "일요일 날"
+    }, {
+      "start" : 2.533,
+      "end" : 2.993,
+      "loc" : "2",
+      "word" : "아침은"
+    }, {
+      "start" : 3.299,
+      "end" : 3.45,
+      "loc" : "3",
+      "word" : "같이"
+    }, {
+      "start" : 3.622,
+      "end" : 3.908,
+      "loc" : "4",
+      "word" : "먹을"
+    }, {
+      "start" : 4.162,
+      "end" : 4.523,
+      "loc" : "5,6,7",
+      "word" : "수 있는 거야?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.913,
+      "end" : 2.323,
+      "gloss_id" : "일요일2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.533,
+      "end" : 2.993,
+      "gloss_id" : "아침4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.299,
+      "end" : 3.45,
+      "gloss_id" : "너나같다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.622,
+      "end" : 3.908,
+      "gloss_id" : "함께먹다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.162,
+      "end" : 4.523
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.162,
+      "end" : 4.523
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.162,
+      "end" : 4.523
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782340",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:12:29",
+    "sentence_ID" : "VXPAKOKS240782340",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

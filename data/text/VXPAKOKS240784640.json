@@ -1,0 +1,165 @@
+{
+  "id" : "VXPAKOKS240784640",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "형이 너무 제사를 좋아해.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.258,
+      "end" : 2.327,
+      "gloss_id" : "형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.456,
+      "end" : 2.557,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.935,
+      "end" : 3.117,
+      "gloss_id" : "제사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.517,
+      "end" : 3.985,
+      "gloss_id" : "절하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.543,
+      "end" : 4.876,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.083,
+      "end" : 5.211,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.18,
+      "end" : 4.32,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.258,
+      "end" : 2.559,
+      "loc" : "0",
+      "word" : "형이"
+    }, {
+      "start" : 2.935,
+      "end" : 3.968,
+      "loc" : "2",
+      "word" : "제사를"
+    }, {
+      "start" : 4.543,
+      "end" : 5.194,
+      "loc" : "1,3",
+      "word" : "너무 좋아해."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.517,
+      "end" : 3.984,
+      "gloss_id" : "절하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.935,
+      "end" : 3.117,
+      "gloss_id" : "제사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.258,
+      "end" : 2.327
+    }, {
+      "descriptor" : "",
+      "start" : 3.517,
+      "end" : 3.985
+    }, {
+      "descriptor" : "",
+      "start" : 4.543,
+      "end" : 4.876
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.166,
+      "end" : 4.876
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.258,
+      "end" : 2.327
+    }, {
+      "descriptor" : "",
+      "start" : 5.083,
+      "end" : 5.211
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784640",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:23:58",
+    "sentence_ID" : "VXPAKOKS240784640",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

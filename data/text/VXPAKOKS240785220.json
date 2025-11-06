@@ -1,0 +1,159 @@
+{
+  "id" : "VXPAKOKS240785220",
+  "opertor" : "label10",
+  "krlgg_sntenc" : {
+    "koreanText" : "우리가 운동량이 많이 부족한 편이란 생각을 하거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.74,
+      "end" : 1.882,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.255,
+      "end" : 2.392,
+      "gloss_id" : "생각2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.742,
+      "end" : 3.121,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.375,
+      "end" : 3.616,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.125,
+      "end" : 4.504,
+      "gloss_id" : "부족1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.828,
+      "end" : 5.531,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.74,
+      "end" : 2.387,
+      "loc" : "5,6",
+      "word" : "생각을 하거든."
+    }, {
+      "start" : 2.742,
+      "end" : 3.121,
+      "loc" : "0",
+      "word" : "우리가"
+    }, {
+      "start" : 3.375,
+      "end" : 3.616,
+      "loc" : "1",
+      "word" : "운동량이"
+    }, {
+      "start" : 4.125,
+      "end" : 4.504,
+      "loc" : "2,3",
+      "word" : "많이 부족한"
+    }, {
+      "start" : 4.828,
+      "end" : 5.531,
+      "loc" : "4",
+      "word" : "편이란"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.375,
+      "end" : 3.616,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.828,
+      "end" : 5.531
+    }, {
+      "descriptor" : "",
+      "start" : 2.255,
+      "end" : 2.392
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.375,
+      "end" : 4.501
+    }, {
+      "descriptor" : "",
+      "start" : 1.74,
+      "end" : 2.393
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 5.048,
+      "end" : 5.531
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.742,
+      "end" : 3.121
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785220",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 01:35:29",
+    "sentence_ID" : "VXPAKOKS240785220",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

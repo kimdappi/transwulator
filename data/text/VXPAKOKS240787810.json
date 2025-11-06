@@ -1,0 +1,148 @@
+{
+  "id" : "VXPAKOKS240787810",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "요새 배달비가 너무 비싼 거 같아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.575,
+      "end" : 1.693,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.943,
+      "end" : 2.501,
+      "gloss_id" : "보내다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.658,
+      "end" : 3.168,
+      "gloss_id" : "돈1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.267,
+      "end" : 3.535,
+      "gloss_id" : "비싸다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.905,
+      "end" : 4.337,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.575,
+      "end" : 1.693,
+      "loc" : "0",
+      "word" : "요새"
+    }, {
+      "start" : 1.943,
+      "end" : 3.163,
+      "loc" : "1",
+      "word" : "배달비가"
+    }, {
+      "start" : 3.267,
+      "end" : 3.535,
+      "loc" : "2,3",
+      "word" : "너무 비싼"
+    }, {
+      "start" : 3.905,
+      "end" : 4.337,
+      "loc" : "4,5",
+      "word" : "거 같아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.575,
+      "end" : 1.693,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.943,
+      "end" : 2.501,
+      "gloss_id" : "보내다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.905,
+      "end" : 4.337
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.15,
+      "end" : 2.269
+    }, {
+      "descriptor" : "",
+      "start" : 2.368,
+      "end" : 2.491
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.905,
+      "end" : 4.337
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 3.267,
+      "end" : 3.546
+    } ],
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240787810",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:37:57",
+    "sentence_ID" : "VXPAKOKS240787810",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,146 @@
+{
+  "id" : "VXPAKOKS240782480",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "지금 날씨에 벌레가 너무 많아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.485,
+      "end" : 2.113,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.401,
+      "end" : 2.819,
+      "gloss_id" : "날1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.065,
+      "end" : 3.698,
+      "gloss_id" : "벌레1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.036,
+      "end" : 4.341,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.485,
+      "end" : 2.113,
+      "loc" : "0",
+      "word" : "지금"
+    }, {
+      "start" : 2.401,
+      "end" : 2.819,
+      "loc" : "1",
+      "word" : "날씨에"
+    }, {
+      "start" : 3.065,
+      "end" : 3.698,
+      "loc" : "2",
+      "word" : "벌레가"
+    }, {
+      "start" : 4.036,
+      "end" : 4.341,
+      "loc" : "3,4",
+      "word" : "너무 많아."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.485,
+      "end" : 2.113,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.401,
+      "end" : 2.819,
+      "gloss_id" : "날1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.036,
+      "end" : 4.341,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.401,
+      "end" : 2.819
+    }, {
+      "descriptor" : "",
+      "start" : 4.036,
+      "end" : 4.341
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.13,
+      "end" : 4.339
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.065,
+      "end" : 3.698
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.401,
+      "end" : 2.819
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782480",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:13:03",
+    "sentence_ID" : "VXPAKOKS240782480",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

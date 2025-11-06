@@ -1,0 +1,190 @@
+{
+  "id" : "VXPAKOKS240787650",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 요리를 해 먹기 때문에 냉장실이 큰 걸 좋아했거든.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.787,
+      "end" : 1.852,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.08,
+      "end" : 2.495,
+      "gloss_id" : "요리1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.684,
+      "end" : 3.431,
+      "gloss_id" : "직접1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.757,
+      "end" : 4.549,
+      "gloss_id" : "얼음2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.894,
+      "end" : 5.693,
+      "gloss_id" : "열다5",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.096,
+      "end" : 6.336,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.854,
+      "end" : 5.919,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.787,
+      "end" : 1.852,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.08,
+      "end" : 2.495,
+      "loc" : "1",
+      "word" : "요리를"
+    }, {
+      "start" : 2.684,
+      "end" : 3.431,
+      "loc" : "2,3,4",
+      "word" : "해 먹기 때문에"
+    }, {
+      "start" : 3.757,
+      "end" : 4.549,
+      "loc" : "5",
+      "word" : "냉장실이"
+    }, {
+      "start" : 4.894,
+      "end" : 5.693,
+      "loc" : "6,7",
+      "word" : "큰 걸"
+    }, {
+      "start" : 5.843,
+      "end" : 6.336,
+      "loc" : "8",
+      "word" : "좋아했거든."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.08,
+      "end" : 2.495,
+      "gloss_id" : "요리1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.684,
+      "end" : 3.431,
+      "gloss_id" : "직접1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.757,
+      "end" : 4.549,
+      "gloss_id" : "얼음2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.894,
+      "end" : 5.693,
+      "gloss_id" : "열다5",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 6.096,
+      "end" : 6.336
+    }, {
+      "descriptor" : "",
+      "start" : 2.684,
+      "end" : 3.431
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 6.096,
+      "end" : 6.336
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 1.787,
+      "end" : 3.379
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.894,
+      "end" : 5.693
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787650",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:36:28",
+    "sentence_ID" : "VXPAKOKS240787650",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

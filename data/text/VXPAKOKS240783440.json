@@ -1,0 +1,211 @@
+{
+  "id" : "VXPAKOKS240783440",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "너는 혹시 버스나 지하철 이런 대중교통 타는데 불편한 걸 느낀 거 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.729,
+      "end" : 2.027,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.247,
+      "end" : 2.563,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.835,
+      "end" : 3.174,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.495,
+      "end" : 3.716,
+      "gloss_id" : "안1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.893,
+      "end" : 4.108,
+      "gloss_id" : "앉다1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.268,
+      "end" : 4.887,
+      "gloss_id" : "귀찮다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.296,
+      "end" : 5.654,
+      "gloss_id" : "느끼다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.736,
+      "end" : 5.981,
+      "gloss_id" : "한적있다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.729,
+      "end" : 2.027,
+      "loc" : "0,1",
+      "word" : "너는 혹시"
+    }, {
+      "start" : 2.247,
+      "end" : 2.563,
+      "loc" : "2",
+      "word" : "버스나"
+    }, {
+      "start" : 2.835,
+      "end" : 3.702,
+      "loc" : "3,4,5",
+      "word" : "지하철 이런 대중교통"
+    }, {
+      "start" : 3.893,
+      "end" : 4.108,
+      "loc" : "6",
+      "word" : "타는데"
+    }, {
+      "start" : 4.268,
+      "end" : 4.887,
+      "loc" : "7,8",
+      "word" : "불편한 걸"
+    }, {
+      "start" : 5.296,
+      "end" : 5.654,
+      "loc" : "9",
+      "word" : "느낀"
+    }, {
+      "start" : 5.737,
+      "end" : 5.981,
+      "loc" : "10,11",
+      "word" : "거 있어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.247,
+      "end" : 2.563,
+      "gloss_id" : "버스1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.835,
+      "end" : 3.174,
+      "gloss_id" : "지하철1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.495,
+      "end" : 3.716,
+      "gloss_id" : "안1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.268,
+      "end" : 4.887,
+      "gloss_id" : "귀찮다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.893,
+      "end" : 4.108,
+      "gloss_id" : "앉다1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.247,
+      "end" : 2.563
+    }, {
+      "descriptor" : "",
+      "start" : 5.736,
+      "end" : 5.981
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.736,
+      "end" : 5.981
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.729,
+      "end" : 4.862
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.736,
+      "end" : 5.981
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783440",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:17:47",
+    "sentence_ID" : "VXPAKOKS240783440",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

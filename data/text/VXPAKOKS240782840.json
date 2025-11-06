@@ -1,0 +1,170 @@
+{
+  "id" : "VXPAKOKS240782840",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "개랑 고양이랑 키워 보니 나는 개가 마음에 들더라.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.516,
+      "end" : 1.796,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.967,
+      "end" : 2.324,
+      "gloss_id" : "고양이1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.569,
+      "end" : 3.295,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.471,
+      "end" : 3.833,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.212,
+      "end" : 4.426,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.715,
+      "end" : 5.253,
+      "gloss_id" : "마음에들다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.516,
+      "end" : 1.796,
+      "loc" : "0",
+      "word" : "개랑"
+    }, {
+      "start" : 1.967,
+      "end" : 2.324,
+      "loc" : "1",
+      "word" : "고양이랑"
+    }, {
+      "start" : 2.569,
+      "end" : 3.295,
+      "loc" : "2,3",
+      "word" : "키워 보니"
+    }, {
+      "start" : 3.471,
+      "end" : 3.833,
+      "loc" : "4",
+      "word" : "나는"
+    }, {
+      "start" : 4.212,
+      "end" : 4.426,
+      "loc" : "5",
+      "word" : "개가"
+    }, {
+      "start" : 4.715,
+      "end" : 5.253,
+      "loc" : "6,7",
+      "word" : "마음에 들더라."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.516,
+      "end" : 1.796,
+      "gloss_id" : "개1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.569,
+      "end" : 3.295,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.715,
+      "end" : 5.253,
+      "gloss_id" : "마음에들다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.516,
+      "end" : 1.796
+    }, {
+      "descriptor" : "",
+      "start" : 2.569,
+      "end" : 3.295
+    }, {
+      "descriptor" : "",
+      "start" : 4.715,
+      "end" : 5.253
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.119,
+      "end" : 5.257
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240782840",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:14:42",
+    "sentence_ID" : "VXPAKOKS240782840",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

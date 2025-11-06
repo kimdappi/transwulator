@@ -1,0 +1,138 @@
+{
+  "id" : "VXPAKOKS240788690",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "넌 옥수수 먹으면은 어떻게 먹어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.546,
+      "end" : 1.657,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.865,
+      "end" : 2.32,
+      "gloss_id" : "옥수수1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.45,
+      "end" : 2.76,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.884,
+      "end" : 3.094,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.265,
+      "end" : 3.919,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.546,
+      "end" : 1.657,
+      "loc" : "0",
+      "word" : "넌"
+    }, {
+      "start" : 1.865,
+      "end" : 2.32,
+      "loc" : "1",
+      "word" : "옥수수"
+    }, {
+      "start" : 2.45,
+      "end" : 2.76,
+      "loc" : "2",
+      "word" : "먹으면은"
+    }, {
+      "start" : 2.884,
+      "end" : 3.094,
+      "loc" : "4",
+      "word" : "먹어?"
+    }, {
+      "start" : 3.265,
+      "end" : 3.919,
+      "loc" : "3",
+      "word" : "어떻게"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.265,
+      "end" : 3.919,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.265,
+      "end" : 3.919
+    }, {
+      "descriptor" : "",
+      "start" : 2.45,
+      "end" : 2.76
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.446,
+      "end" : 3.919
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788690",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:48:31",
+    "sentence_ID" : "VXPAKOKS240788690",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

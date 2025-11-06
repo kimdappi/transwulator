@@ -1,0 +1,174 @@
+{
+  "id" : "VXPAKOKS240786870",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "안동 가서 찜닭 먹어 본 적 있어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.461,
+      "end" : 1.949,
+      "gloss_id" : "안동2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.207,
+      "end" : 2.573,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.992,
+      "end" : 3.985,
+      "gloss_id" : "찜",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.315,
+      "end" : 4.56,
+      "gloss_id" : "닭1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.725,
+      "end" : 4.836,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.019,
+      "end" : 5.554,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.461,
+      "end" : 1.949,
+      "loc" : "0",
+      "word" : "안동"
+    }, {
+      "start" : 2.207,
+      "end" : 2.573,
+      "loc" : "1",
+      "word" : "가서"
+    }, {
+      "start" : 2.992,
+      "end" : 4.554,
+      "loc" : "2",
+      "word" : "찜닭"
+    }, {
+      "start" : 4.725,
+      "end" : 4.836,
+      "loc" : "3",
+      "word" : "먹어"
+    }, {
+      "start" : 5.019,
+      "end" : 5.554,
+      "loc" : "4,5,6",
+      "word" : "본 적 있어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.461,
+      "end" : 1.949,
+      "gloss_id" : "안동2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.207,
+      "end" : 2.573,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "찜",
+      "start" : 2.992,
+      "end" : 3.985
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.207,
+      "end" : 2.573
+    }, {
+      "descriptor" : "",
+      "start" : 5.019,
+      "end" : 5.554
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 5.019,
+      "end" : 5.554
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.461,
+      "end" : 1.949
+    }, {
+      "descriptor" : "",
+      "start" : 4.315,
+      "end" : 4.56
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.461,
+      "end" : 1.949
+    }, {
+      "descriptor" : "",
+      "start" : 4.725,
+      "end" : 5.538
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786870",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:30:15",
+    "sentence_ID" : "VXPAKOKS240786870",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

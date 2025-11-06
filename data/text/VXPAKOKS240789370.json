@@ -1,0 +1,168 @@
+{
+  "id" : "VXPAKOKS240789370",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "너 요즘 다이어트하고 있다는데 효과가 좀 있는 거 같아?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.306,
+      "end" : 1.424,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.865,
+      "end" : 1.991,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.305,
+      "end" : 2.561,
+      "gloss_id" : "좁다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.679,
+      "end" : 2.817,
+      "gloss_id" : "중1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.057,
+      "end" : 3.258,
+      "gloss_id" : "말하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "2",
+        "target" : "1"
+      }
+    }, {
+      "start" : 3.639,
+      "end" : 4.387,
+      "gloss_id" : "이익1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.306,
+      "end" : 1.424,
+      "loc" : "0",
+      "word" : "너"
+    }, {
+      "start" : 1.865,
+      "end" : 1.991,
+      "loc" : "1",
+      "word" : "요즘"
+    }, {
+      "start" : 2.305,
+      "end" : 3.255,
+      "loc" : "2,3",
+      "word" : "다이어트하고 있다는데"
+    }, {
+      "start" : 3.639,
+      "end" : 4.387,
+      "loc" : "4,5,6,7,8",
+      "word" : "효과가 좀 있는 거 같아?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.865,
+      "end" : 1.991,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.679,
+      "end" : 2.817,
+      "gloss_id" : "중1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.305,
+      "end" : 2.561,
+      "gloss_id" : "좁다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.304,
+      "end" : 2.817
+    }, {
+      "descriptor" : "",
+      "start" : 3.057,
+      "end" : 3.258
+    }, {
+      "descriptor" : "",
+      "start" : 3.639,
+      "end" : 4.387
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.057,
+      "end" : 3.258
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.306,
+      "end" : 1.424
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.639,
+      "end" : 4.387
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789370",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:55:12",
+    "sentence_ID" : "VXPAKOKS240789370",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

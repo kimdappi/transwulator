@@ -1,0 +1,218 @@
+{
+  "id" : "VXPAKOKS240787140",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "더위도 물러나고 9월에 여행 가면 진짜 좋을 것 같긴 하다.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.285,
+      "end" : 2.667,
+      "gloss_id" : "덥다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.908,
+      "end" : 3.427,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.746,
+      "end" : 3.96,
+      "gloss_id" : "날짜:9월",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.112,
+      "end" : 4.612,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.792,
+      "end" : 4.919,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.136,
+      "end" : 5.561,
+      "gloss_id" : "정상1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.816,
+      "end" : 6.098,
+      "gloss_id" : "아마1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.285,
+      "end" : 2.667,
+      "loc" : "0",
+      "word" : "더위도"
+    }, {
+      "start" : 2.908,
+      "end" : 3.427,
+      "loc" : "1",
+      "word" : "물러나고"
+    }, {
+      "start" : 3.746,
+      "end" : 3.96,
+      "loc" : "2",
+      "word" : "9월에"
+    }, {
+      "start" : 4.112,
+      "end" : 4.612,
+      "loc" : "3,4",
+      "word" : "여행 가면"
+    }, {
+      "start" : 4.792,
+      "end" : 4.919,
+      "loc" : "5",
+      "word" : "진짜"
+    }, {
+      "start" : 5.136,
+      "end" : 5.561,
+      "loc" : "6,7",
+      "word" : "좋을 것"
+    }, {
+      "start" : 5.816,
+      "end" : 6.098,
+      "loc" : "8,9",
+      "word" : "같긴 하다."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.285,
+      "end" : 2.667,
+      "gloss_id" : "덥다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.908,
+      "end" : 3.427,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.746,
+      "end" : 3.96,
+      "gloss_id" : "날짜:9월",
+      "express" : "d",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.112,
+      "end" : 4.612,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.136,
+      "end" : 5.561,
+      "gloss_id" : "정상1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "구월",
+      "start" : 3.746,
+      "end" : 3.96
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.136,
+      "end" : 5.561
+    }, {
+      "descriptor" : "",
+      "start" : 5.816,
+      "end" : 6.098
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.045,
+      "end" : 3.427
+    }, {
+      "descriptor" : "",
+      "start" : 5.36,
+      "end" : 5.561
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.285,
+      "end" : 2.667
+    }, {
+      "descriptor" : "",
+      "start" : 4.792,
+      "end" : 5.56
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 5.816,
+      "end" : 6.098
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 2.908,
+      "end" : 3.427
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787140",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:32:13",
+    "sentence_ID" : "VXPAKOKS240787140",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

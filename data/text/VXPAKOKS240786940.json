@@ -1,0 +1,161 @@
+{
+  "id" : "VXPAKOKS240786940",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "너 혹시 그럼 가장 잘하는 요리가 뭐야?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.751,
+      "end" : 1.917,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.288,
+      "end" : 2.584,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.752,
+      "end" : 3.025,
+      "gloss_id" : "잘하다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.319,
+      "end" : 3.592,
+      "gloss_id" : "요리1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.786,
+      "end" : 4.073,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.751,
+      "end" : 1.917,
+      "loc" : "0",
+      "word" : "너"
+    }, {
+      "start" : 2.288,
+      "end" : 2.584,
+      "loc" : "1,2,3",
+      "word" : "혹시 그럼 가장"
+    }, {
+      "start" : 2.752,
+      "end" : 3.025,
+      "loc" : "4",
+      "word" : "잘하는"
+    }, {
+      "start" : 3.319,
+      "end" : 3.592,
+      "loc" : "5",
+      "word" : "요리가"
+    }, {
+      "start" : 3.786,
+      "end" : 4.073,
+      "loc" : "6",
+      "word" : "뭐야?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.752,
+      "end" : 3.025,
+      "gloss_id" : "잘하다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.319,
+      "end" : 3.592,
+      "gloss_id" : "요리1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.751,
+      "end" : 1.917
+    }, {
+      "descriptor" : "",
+      "start" : 2.752,
+      "end" : 3.025
+    }, {
+      "descriptor" : "",
+      "start" : 3.786,
+      "end" : 4.073
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.288,
+      "end" : 3.024
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.752,
+      "end" : 3.025
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.751,
+      "end" : 1.917
+    }, {
+      "descriptor" : "",
+      "start" : 3.319,
+      "end" : 4.069
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240786940",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:30:39",
+    "sentence_ID" : "VXPAKOKS240786940",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

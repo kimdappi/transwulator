@@ -1,0 +1,150 @@
+{
+  "id" : "VXPAKOKS240784430",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "머리 고기가 굉장히 깔끔하고 맛있었어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 3.961,
+      "end" : 4.113,
+      "gloss_id" : "머리2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.728,
+      "end" : 4.93,
+      "gloss_id" : "고기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.184,
+      "end" : 5.771,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.031,
+      "end" : 6.277,
+      "gloss_id" : "입1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.553,
+      "end" : 6.886,
+      "gloss_id" : "깨끗하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.019,
+      "end" : 7.345,
+      "gloss_id" : "맛있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.961,
+      "end" : 4.113,
+      "loc" : "0",
+      "word" : "머리"
+    }, {
+      "start" : 4.728,
+      "end" : 4.93,
+      "loc" : "1",
+      "word" : "고기가"
+    }, {
+      "start" : 6.031,
+      "end" : 6.864,
+      "loc" : "2,3",
+      "word" : "굉장히 깔끔하고"
+    }, {
+      "start" : 7.019,
+      "end" : 7.345,
+      "loc" : "4",
+      "word" : "맛있었어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.728,
+      "end" : 4.93,
+      "gloss_id" : "고기1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.184,
+      "end" : 5.771
+    }, {
+      "descriptor" : "",
+      "start" : 6.553,
+      "end" : 6.886
+    }, {
+      "descriptor" : "",
+      "start" : 7.019,
+      "end" : 7.345
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 7.019,
+      "end" : 7.345
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.961,
+      "end" : 5.751
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784430",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:23:14",
+    "sentence_ID" : "VXPAKOKS240784430",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

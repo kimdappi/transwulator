@@ -1,0 +1,179 @@
+{
+  "id" : "VXPAKOKS240788870",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "너는 무슨 종류의 회를 제일 좋아해?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.269,
+      "end" : 1.482,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.65,
+      "end" : 2.119,
+      "gloss_id" : "회1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.298,
+      "end" : 2.647,
+      "gloss_id" : "종류4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.861,
+      "end" : 3.126,
+      "gloss_id" : "등수:1등",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.312,
+      "end" : 3.697,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.893,
+      "end" : 4.325,
+      "gloss_id" : "무엇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.269,
+      "end" : 1.482,
+      "loc" : "0",
+      "word" : "너는"
+    }, {
+      "start" : 1.65,
+      "end" : 2.119,
+      "loc" : "3",
+      "word" : "회를"
+    }, {
+      "start" : 2.298,
+      "end" : 2.647,
+      "loc" : "2",
+      "word" : "종류의"
+    }, {
+      "start" : 2.861,
+      "end" : 3.126,
+      "loc" : "4",
+      "word" : "제일"
+    }, {
+      "start" : 3.312,
+      "end" : 3.697,
+      "loc" : "5",
+      "word" : "좋아해?"
+    }, {
+      "start" : 3.893,
+      "end" : 4.325,
+      "loc" : "1",
+      "word" : "무슨"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.65,
+      "end" : 2.119,
+      "gloss_id" : "회1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.298,
+      "end" : 2.647,
+      "gloss_id" : "종류4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.893,
+      "end" : 4.325
+    }, {
+      "descriptor" : "",
+      "start" : 1.65,
+      "end" : 2.119
+    }, {
+      "descriptor" : "",
+      "start" : 2.298,
+      "end" : 2.647
+    }, {
+      "descriptor" : "",
+      "start" : 3.312,
+      "end" : 3.697
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.65,
+      "end" : 2.119
+    }, {
+      "descriptor" : "",
+      "start" : 2.579,
+      "end" : 3.126
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 1.65,
+      "end" : 2.119
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.893,
+      "end" : 4.325
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788870",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:51:03",
+    "sentence_ID" : "VXPAKOKS240788870",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

@@ -1,0 +1,17 @@
+transformers
+torch
+torchaudio
+accelerate
+sentencepiece
+yt-dlp
+pydub
+webrtcvad
+noisereduce
+faster-whisper
+opencv-python
+ultralytics
+datasets
+peft
+deepface==0.0.93
+retina-face==0.0.15
+tensorflow==2.16.1

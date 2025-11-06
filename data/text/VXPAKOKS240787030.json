@@ -1,0 +1,205 @@
+{
+  "id" : "VXPAKOKS240787030",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "사과 모양으로 통통하게 크게 나온 대추가 있어요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.671,
+      "end" : 2.084,
+      "gloss_id" : "대추1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.45,
+      "end" : 2.695,
+      "gloss_id" : "모습1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.919,
+      "end" : 3.002,
+      "gloss_id" : "빨강1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.268,
+      "end" : 3.734,
+      "gloss_id" : "사과1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.98,
+      "end" : 4.231,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.338,
+      "end" : 4.549,
+      "gloss_id" : "닮다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.876,
+      "end" : 5.161,
+      "gloss_id" : "비슷하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.75,
+      "end" : 6.734,
+      "gloss_id" : "작다7",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.671,
+      "end" : 2.084,
+      "loc" : "5",
+      "word" : "대추가"
+    }, {
+      "start" : 2.45,
+      "end" : 2.695,
+      "loc" : "1",
+      "word" : "모양으로"
+    }, {
+      "start" : 2.919,
+      "end" : 3.728,
+      "loc" : "0",
+      "word" : "사과"
+    }, {
+      "start" : 3.98,
+      "end" : 5.159,
+      "loc" : "2",
+      "word" : "통통하게"
+    }, {
+      "start" : 5.75,
+      "end" : 6.734,
+      "loc" : "3,4,6",
+      "word" : "크게 나온 있어요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.45,
+      "end" : 2.695,
+      "gloss_id" : "모습1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.268,
+      "end" : 3.734,
+      "gloss_id" : "사과1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.98,
+      "end" : 4.547,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.876,
+      "end" : 5.161,
+      "gloss_id" : "비슷하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.75,
+      "end" : 6.734,
+      "gloss_id" : "작다7",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.45,
+      "end" : 2.695
+    }, {
+      "descriptor" : "",
+      "start" : 4.876,
+      "end" : 5.161
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.876,
+      "end" : 5.161
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 3.98,
+      "end" : 4.231
+    }, {
+      "descriptor" : "",
+      "start" : 5.75,
+      "end" : 6.734
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.671,
+      "end" : 3.724
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787030",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:31:12",
+    "sentence_ID" : "VXPAKOKS240787030",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

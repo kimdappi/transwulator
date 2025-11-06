@@ -1,0 +1,182 @@
+{
+  "id" : "VXPAKOKS240783110",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "친구들하고 만나면 당구장을 많이 가긴 했었잖아.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.57,
+      "end" : 1.905,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.042,
+      "end" : 2.411,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.625,
+      "end" : 2.955,
+      "gloss_id" : "만나다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.168,
+      "end" : 3.498,
+      "gloss_id" : "당구1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.702,
+      "end" : 3.953,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.258,
+      "end" : 4.741,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 5.005,
+      "end" : 5.357,
+      "gloss_id" : "여러번1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.57,
+      "end" : 2.398,
+      "loc" : "0",
+      "word" : "친구들하고"
+    }, {
+      "start" : 2.625,
+      "end" : 2.955,
+      "loc" : "1",
+      "word" : "만나면"
+    }, {
+      "start" : 3.168,
+      "end" : 3.946,
+      "loc" : "2",
+      "word" : "당구장을"
+    }, {
+      "start" : 4.258,
+      "end" : 4.741,
+      "loc" : "4,5",
+      "word" : "가긴 했었잖아."
+    }, {
+      "start" : 5.005,
+      "end" : 5.357,
+      "loc" : "3",
+      "word" : "많이"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.57,
+      "end" : 1.905,
+      "gloss_id" : "친구1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.625,
+      "end" : 2.955,
+      "gloss_id" : "만나다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.258,
+      "end" : 4.741,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.042,
+      "end" : 2.411
+    }, {
+      "descriptor" : "",
+      "start" : 2.625,
+      "end" : 2.955
+    }, {
+      "descriptor" : "",
+      "start" : 4.258,
+      "end" : 4.741
+    }, {
+      "descriptor" : "",
+      "start" : 5.005,
+      "end" : 5.357
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 2.748,
+      "end" : 2.953
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.57,
+      "end" : 2.942
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783110",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:15:50",
+    "sentence_ID" : "VXPAKOKS240783110",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

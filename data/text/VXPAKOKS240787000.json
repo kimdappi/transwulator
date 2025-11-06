@@ -1,0 +1,298 @@
+{
+  "id" : "VXPAKOKS240787000",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "저희 동네에는 오래된 쌀국수 맛집이 있는데 거기에서 부모님과 맛있게 외식했던 기억이 나네요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.583,
+      "end" : 1.685,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.854,
+      "end" : 2.583,
+      "gloss_id" : "동네1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.798,
+      "end" : 2.907,
+      "gloss_id" : "쌀1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.114,
+      "end" : 3.707,
+      "gloss_id" : "먹다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.815,
+      "end" : 3.968,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.259,
+      "end" : 4.81,
+      "gloss_id" : "오래2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.045,
+      "end" : 5.214,
+      "gloss_id" : "맛있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.462,
+      "end" : 5.741,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.041,
+      "end" : 6.126,
+      "gloss_id" : "부모1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.238,
+      "end" : 6.433,
+      "gloss_id" : "함께1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.615,
+      "end" : 6.733,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 6.897,
+      "end" : 7.058,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.272,
+      "end" : 7.45,
+      "gloss_id" : "끝2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.864,
+      "end" : 8.576,
+      "gloss_id" : "추억1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.583,
+      "end" : 1.685,
+      "loc" : "0",
+      "word" : "저희"
+    }, {
+      "start" : 1.854,
+      "end" : 2.583,
+      "loc" : "1",
+      "word" : "동네에는"
+    }, {
+      "start" : 2.798,
+      "end" : 3.704,
+      "loc" : "3",
+      "word" : "쌀국수"
+    }, {
+      "start" : 3.815,
+      "end" : 4.807,
+      "loc" : "2",
+      "word" : "오래된"
+    }, {
+      "start" : 5.045,
+      "end" : 5.739,
+      "loc" : "4,5",
+      "word" : "맛집이 있는데"
+    }, {
+      "start" : 6.041,
+      "end" : 6.43,
+      "loc" : "7",
+      "word" : "부모님과"
+    }, {
+      "start" : 6.615,
+      "end" : 6.733,
+      "loc" : "6",
+      "word" : "거기에서"
+    }, {
+      "start" : 6.897,
+      "end" : 7.465,
+      "loc" : "8,9",
+      "word" : "맛있게 외식했던"
+    }, {
+      "start" : 7.864,
+      "end" : 8.576,
+      "loc" : "10,11",
+      "word" : "기억이 나네요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.854,
+      "end" : 2.896,
+      "gloss_id" : "동네1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.114,
+      "end" : 3.707,
+      "gloss_id" : "먹다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.259,
+      "end" : 4.81,
+      "gloss_id" : "오래2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.238,
+      "end" : 6.433,
+      "gloss_id" : "함께1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.615,
+      "end" : 6.733,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.462,
+      "end" : 5.741,
+      "gloss_id" : "집1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.259,
+      "end" : 4.81
+    }, {
+      "descriptor" : "",
+      "start" : 5.462,
+      "end" : 5.741
+    }, {
+      "descriptor" : "",
+      "start" : 6.897,
+      "end" : 7.058
+    }, {
+      "descriptor" : "",
+      "start" : 7.864,
+      "end" : 8.576
+    }, {
+      "descriptor" : "",
+      "start" : 1.854,
+      "end" : 2.583
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.272,
+      "end" : 7.45
+    } ],
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.798,
+      "end" : 4.814
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.583,
+      "end" : 2.591
+    }, {
+      "descriptor" : "",
+      "start" : 7.864,
+      "end" : 8.212
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787000",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:31:00",
+    "sentence_ID" : "VXPAKOKS240787000",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

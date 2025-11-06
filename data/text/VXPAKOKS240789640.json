@@ -1,0 +1,168 @@
+{
+  "id" : "VXPAKOKS240789640",
+  "opertor" : "label21",
+  "krlgg_sntenc" : {
+    "koreanText" : "수필집을 읽어 본 적은 별로 없는 거 같아요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.698,
+      "end" : 2.672,
+      "gloss_id" : "수필",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.931,
+      "end" : 3.051,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.235,
+      "end" : 3.529,
+      "gloss_id" : "읽다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.734,
+      "end" : 3.993,
+      "gloss_id" : "한적있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.44,
+      "end" : 4.632,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.749,
+      "end" : 5.119,
+      "gloss_id" : "없다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.698,
+      "end" : 2.672,
+      "loc" : "0",
+      "word" : "수필집을"
+    }, {
+      "start" : 2.931,
+      "end" : 3.533,
+      "loc" : "1,2",
+      "word" : "읽어 본"
+    }, {
+      "start" : 3.734,
+      "end" : 3.993,
+      "loc" : "3",
+      "word" : "적은"
+    }, {
+      "start" : 4.44,
+      "end" : 5.114,
+      "loc" : "4,5,6,7",
+      "word" : "별로 없는 거 같아요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.931,
+      "end" : 3.051,
+      "gloss_id" : "책1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.235,
+      "end" : 3.993,
+      "gloss_id" : "읽다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.44,
+      "end" : 4.632,
+      "gloss_id" : "많다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "수필",
+      "start" : 1.698,
+      "end" : 2.672
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.734,
+      "end" : 4.004
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.782,
+      "end" : 3.996
+    } ],
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 4.162,
+      "end" : 4.628
+    } ],
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.235,
+      "end" : 5.116
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.698,
+      "end" : 3.051
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240789640",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:56:50",
+    "sentence_ID" : "VXPAKOKS240789640",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

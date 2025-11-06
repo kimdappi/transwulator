@@ -1,0 +1,158 @@
+{
+  "id" : "VXPAKOKS240784460",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "내가 너에게 밤바다를 가자고 얘기를 했어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.723,
+      "end" : 1.777,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.068,
+      "end" : 2.461,
+      "gloss_id" : "어둡다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.652,
+      "end" : 2.991,
+      "gloss_id" : "바다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.176,
+      "end" : 3.462,
+      "gloss_id" : "함께가다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.832,
+      "end" : 4.244,
+      "gloss_id" : "말하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.723,
+      "end" : 1.777,
+      "loc" : "0",
+      "word" : "내가"
+    }, {
+      "start" : 2.068,
+      "end" : 2.981,
+      "loc" : "2",
+      "word" : "밤바다를"
+    }, {
+      "start" : 3.176,
+      "end" : 3.462,
+      "loc" : "3",
+      "word" : "가자고"
+    }, {
+      "start" : 3.832,
+      "end" : 4.244,
+      "loc" : "1,4,5",
+      "word" : "너에게 얘기를 했어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.068,
+      "end" : 2.461,
+      "gloss_id" : "어둡다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.652,
+      "end" : 2.991,
+      "gloss_id" : "바다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.176,
+      "end" : 3.462,
+      "gloss_id" : "함께가다2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.832,
+      "end" : 4.244,
+      "gloss_id" : "남자1#",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.832,
+      "end" : 4.244
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.832,
+      "end" : 4.244
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.723,
+      "end" : 1.777
+    }, {
+      "descriptor" : "",
+      "start" : 2.652,
+      "end" : 2.991
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240784460",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:23:20",
+    "sentence_ID" : "VXPAKOKS240784460",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

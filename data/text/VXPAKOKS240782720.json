@@ -1,0 +1,109 @@
+{
+  "id" : "VXPAKOKS240782720",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "술을 참 좋아하긴 해.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.561,
+      "end" : 2.328,
+      "gloss_id" : "술1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.013,
+      "end" : 3.794,
+      "gloss_id" : "광분4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.962,
+      "end" : 4.38,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.561,
+      "end" : 2.328,
+      "loc" : "0",
+      "word" : "술을"
+    }, {
+      "start" : 3.013,
+      "end" : 4.377,
+      "loc" : "1,2,3",
+      "word" : "참 좋아하긴 해."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.013,
+      "end" : 3.794,
+      "gloss_id" : "광분4",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.013,
+      "end" : 3.794
+    }, {
+      "descriptor" : "",
+      "start" : 3.962,
+      "end" : 4.38
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.013,
+      "end" : 4.377
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.962,
+      "end" : 4.38
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240782720",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:14:13",
+    "sentence_ID" : "VXPAKOKS240782720",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

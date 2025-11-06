@@ -1,0 +1,180 @@
+{
+  "id" : "VXPAKOKS240787150",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "9월이면 이제 가을이 시작될 때 아닌가?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.735,
+      "end" : 1.811,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.108,
+      "end" : 2.419,
+      "gloss_id" : "바람1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.757,
+      "end" : 3.032,
+      "gloss_id" : "날짜:9월",
+      "express" : "d",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.527,
+      "end" : 3.653,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.788,
+      "end" : 3.93,
+      "gloss_id" : "맞다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.057,
+      "end" : 4.726,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.735,
+      "end" : 1.811,
+      "loc" : "1",
+      "word" : "이제"
+    }, {
+      "start" : 2.108,
+      "end" : 2.419,
+      "loc" : "2",
+      "word" : "가을이"
+    }, {
+      "start" : 2.757,
+      "end" : 3.032,
+      "loc" : "0",
+      "word" : "9월이면"
+    }, {
+      "start" : 3.527,
+      "end" : 3.653,
+      "loc" : "3,4",
+      "word" : "시작될 때"
+    }, {
+      "start" : 3.788,
+      "end" : 4.727,
+      "loc" : "5",
+      "word" : "아닌가?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.735,
+      "end" : 1.811,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.108,
+      "end" : 2.419,
+      "gloss_id" : "바람1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.757,
+      "end" : 3.032,
+      "gloss_id" : "날짜:9월",
+      "express" : "d",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.527,
+      "end" : 3.653,
+      "gloss_id" : "시작1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "구월",
+      "start" : 2.757,
+      "end" : 3.032
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.757,
+      "end" : 3.032
+    }, {
+      "descriptor" : "",
+      "start" : 4.057,
+      "end" : 4.726
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.481,
+      "end" : 3.653
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.788,
+      "end" : 4.722
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.735,
+      "end" : 4.719
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787150",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:32:17",
+    "sentence_ID" : "VXPAKOKS240787150",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

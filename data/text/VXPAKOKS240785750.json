@@ -1,0 +1,149 @@
+{
+  "id" : "VXPAKOKS240785750",
+  "opertor" : "label11",
+  "krlgg_sntenc" : {
+    "koreanText" : "닭강정 사 올 건가?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.597,
+      "end" : 2.085,
+      "gloss_id" : "닭1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.374,
+      "end" : 3.283,
+      "gloss_id" : "끓다3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.491,
+      "end" : 4.079,
+      "gloss_id" : "샐러드1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.279,
+      "end" : 4.496,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 4.686,
+      "end" : 5.512,
+      "gloss_id" : "가져오다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.597,
+      "end" : 4.075,
+      "loc" : "0",
+      "word" : "닭강정"
+    }, {
+      "start" : 4.279,
+      "end" : 4.496,
+      "loc" : "1",
+      "word" : "사"
+    }, {
+      "start" : 4.686,
+      "end" : 5.512,
+      "loc" : "2,3",
+      "word" : "올 건가?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 4.279,
+      "end" : 4.496,
+      "gloss_id" : "사다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.374,
+      "end" : 3.283,
+      "gloss_id" : "끓다3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.686,
+      "end" : 5.512,
+      "gloss_id" : "가져오다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.491,
+      "end" : 4.079,
+      "gloss_id" : "샐러드1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 4.686,
+      "end" : 5.512
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 3.491,
+      "end" : 4.079
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 4.279,
+      "end" : 5.507
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240785750",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:21:58",
+    "sentence_ID" : "VXPAKOKS240785750",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

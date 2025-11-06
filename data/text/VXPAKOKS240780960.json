@@ -1,0 +1,117 @@
+{
+  "id" : "VXPAKOKS240780960",
+  "opertor" : "label24",
+  "krlgg_sntenc" : {
+    "koreanText" : "혹시 가고 싶은 곳들 있나?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.644,
+      "end" : 1.79,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.141,
+      "end" : 2.299,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.566,
+      "end" : 2.962,
+      "gloss_id" : "곳1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.159,
+      "end" : 3.357,
+      "gloss_id" : "있다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.644,
+      "end" : 1.79,
+      "loc" : "1",
+      "word" : "가고"
+    }, {
+      "start" : 2.141,
+      "end" : 2.299,
+      "loc" : "2",
+      "word" : "싶은"
+    }, {
+      "start" : 2.566,
+      "end" : 2.962,
+      "loc" : "3",
+      "word" : "곳들"
+    }, {
+      "start" : 3.159,
+      "end" : 3.357,
+      "loc" : "0,4",
+      "word" : "혹시 있나?"
+    } ],
+    "sign_gestures_weak" : null
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 3.159,
+      "end" : 3.357
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.141,
+      "end" : 2.943
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 3.159,
+      "end" : 3.357
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240780960",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:06:17",
+    "sentence_ID" : "VXPAKOKS240780960",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

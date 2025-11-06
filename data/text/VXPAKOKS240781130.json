@@ -1,0 +1,168 @@
+{
+  "id" : "VXPAKOKS240781130",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "요즘 보면은 곰탕 한 그릇도 1만 5000원씩 이렇게 합니다.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.362,
+      "end" : 2.592,
+      "gloss_id" : "요즘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.869,
+      "end" : 3.409,
+      "gloss_id" : "보다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.73,
+      "end" : 4.985,
+      "gloss_id" : "곰탕",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.142,
+      "end" : 5.284,
+      "gloss_id" : "1",
+      "express" : "n",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.657,
+      "end" : 6.085,
+      "gloss_id" : "그릇1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.295,
+      "end" : 7.963,
+      "gloss_id" : "15000",
+      "express" : "n",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.362,
+      "end" : 2.592,
+      "loc" : "0",
+      "word" : "요즘"
+    }, {
+      "start" : 2.869,
+      "end" : 3.409,
+      "loc" : "1",
+      "word" : "보면은"
+    }, {
+      "start" : 3.73,
+      "end" : 4.985,
+      "loc" : "2",
+      "word" : "곰탕"
+    }, {
+      "start" : 5.142,
+      "end" : 5.284,
+      "loc" : "3",
+      "word" : "한"
+    }, {
+      "start" : 5.657,
+      "end" : 6.085,
+      "loc" : "4",
+      "word" : "그릇도"
+    }, {
+      "start" : 6.295,
+      "end" : 7.963,
+      "loc" : "5,6,7,8",
+      "word" : "1만 5000원씩 이렇게 합니다."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 5.657,
+      "end" : 7.96,
+      "gloss_id" : "그릇1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "곰탕",
+      "start" : 3.73,
+      "end" : 4.985
+    }, {
+      "descriptor" : "하나",
+      "start" : 5.142,
+      "end" : 5.276
+    }, {
+      "descriptor" : "만오",
+      "start" : 6.295,
+      "end" : 7.963
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.869,
+      "end" : 3.409
+    }, {
+      "descriptor" : "",
+      "start" : 5.657,
+      "end" : 6.085
+    }, {
+      "descriptor" : "",
+      "start" : 7.599,
+      "end" : 7.956
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 3.019,
+      "end" : 3.392
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240781130",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:06:58",
+    "sentence_ID" : "VXPAKOKS240781130",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

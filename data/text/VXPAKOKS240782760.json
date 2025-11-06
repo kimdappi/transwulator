@@ -1,0 +1,226 @@
+{
+  "id" : "VXPAKOKS240782760",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "지금 날씨가 너무 더워졌으니까 어디로 좀 여행을 가면 좋을지 고민이거든?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.258,
+      "end" : 1.566,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.726,
+      "end" : 2.041,
+      "gloss_id" : "날1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.372,
+      "end" : 3.223,
+      "gloss_id" : "덥다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.587,
+      "end" : 3.723,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.917,
+      "end" : 4.168,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.245,
+      "end" : 4.368,
+      "gloss_id" : "가다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.535,
+      "end" : 4.658,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.816,
+      "end" : 5.226,
+      "gloss_id" : "곳1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.574,
+      "end" : 6.202,
+      "gloss_id" : "고민1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.258,
+      "end" : 1.566,
+      "loc" : "0",
+      "word" : "지금"
+    }, {
+      "start" : 1.726,
+      "end" : 2.041,
+      "loc" : "1",
+      "word" : "날씨가"
+    }, {
+      "start" : 2.372,
+      "end" : 3.223,
+      "loc" : "2,3",
+      "word" : "너무 더워졌으니까"
+    }, {
+      "start" : 3.917,
+      "end" : 4.168,
+      "loc" : "6",
+      "word" : "여행을"
+    }, {
+      "start" : 4.245,
+      "end" : 4.368,
+      "loc" : "7",
+      "word" : "가면"
+    }, {
+      "start" : 4.535,
+      "end" : 4.658,
+      "loc" : "8",
+      "word" : "좋을지"
+    }, {
+      "start" : 5.574,
+      "end" : 6.202,
+      "loc" : "9",
+      "word" : "고민이거든?"
+    }, {
+      "start" : 4.816,
+      "end" : 5.226,
+      "loc" : "4",
+      "word" : "어디로"
+    }, {
+      "start" : 3.587,
+      "end" : 3.723,
+      "loc" : "5",
+      "word" : "좀"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.258,
+      "end" : 1.566,
+      "gloss_id" : "오늘1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.726,
+      "end" : 2.041,
+      "gloss_id" : "날1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.372,
+      "end" : 3.223,
+      "gloss_id" : "덥다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.917,
+      "end" : 4.168,
+      "gloss_id" : "여행1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.574,
+      "end" : 6.202,
+      "gloss_id" : "고민1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 5.574,
+      "end" : 6.202
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.372,
+      "end" : 3.223
+    }, {
+      "descriptor" : "",
+      "start" : 5.574,
+      "end" : 6.202
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.726,
+      "end" : 2.041
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782760",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:14:20",
+    "sentence_ID" : "VXPAKOKS240782760",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

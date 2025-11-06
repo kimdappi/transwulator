@@ -1,0 +1,321 @@
+{
+  "id" : "VXPAKOKS240787440",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "너 그럼 혹시 빙수라든지 베이커리류 디저트 이런 것도 배달되는 거 몰랐어?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.358,
+      "end" : 1.529,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.76,
+      "end" : 3.169,
+      "gloss_id" : "빙수1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.505,
+      "end" : 3.735,
+      "gloss_id" : "빵1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.014,
+      "end" : 4.421,
+      "gloss_id" : "종류2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.559,
+      "end" : 4.719,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.971,
+      "end" : 5.193,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.314,
+      "end" : 5.603,
+      "gloss_id" : "간단하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.004,
+      "end" : 6.294,
+      "gloss_id" : "육형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.631,
+      "end" : 6.752,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.945,
+      "end" : 7.063,
+      "gloss_id" : "여러가지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.288,
+      "end" : 7.443,
+      "gloss_id" : "보내다6",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 7.567,
+      "end" : 7.94,
+      "gloss_id" : "가능1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.156,
+      "end" : 8.69,
+      "gloss_id" : "모르다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.358,
+      "end" : 1.529,
+      "loc" : "0",
+      "word" : "너"
+    }, {
+      "start" : 1.76,
+      "end" : 3.169,
+      "loc" : "1,2,3",
+      "word" : "그럼 혹시 빙수라든지"
+    }, {
+      "start" : 3.505,
+      "end" : 4.729,
+      "loc" : "4",
+      "word" : "베이커리류"
+    }, {
+      "start" : 4.971,
+      "end" : 6.758,
+      "loc" : "5",
+      "word" : "디저트"
+    }, {
+      "start" : 6.945,
+      "end" : 7.063,
+      "loc" : "6,7",
+      "word" : "이런 것도"
+    }, {
+      "start" : 7.288,
+      "end" : 7.939,
+      "loc" : "8,9",
+      "word" : "배달되는 거"
+    }, {
+      "start" : 8.156,
+      "end" : 8.69,
+      "loc" : "10",
+      "word" : "몰랐어?"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 3.505,
+      "end" : 3.735,
+      "gloss_id" : "빵1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.014,
+      "end" : 4.724,
+      "gloss_id" : "종류2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 5.314,
+      "end" : 5.603,
+      "gloss_id" : "간단하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.945,
+      "end" : 7.063,
+      "gloss_id" : "여러가지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.288,
+      "end" : 7.443,
+      "gloss_id" : "보내다6",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.004,
+      "end" : 6.294,
+      "gloss_id" : "육형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.631,
+      "end" : 6.752,
+      "gloss_id" : "구형1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.76,
+      "end" : 3.169,
+      "gloss_id" : "빙수1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.358,
+      "end" : 1.529
+    }, {
+      "descriptor" : "",
+      "start" : 2.276,
+      "end" : 3.163
+    }, {
+      "descriptor" : "",
+      "start" : 4.559,
+      "end" : 4.719
+    }, {
+      "descriptor" : "",
+      "start" : 6.004,
+      "end" : 6.294
+    }, {
+      "descriptor" : "",
+      "start" : 6.631,
+      "end" : 6.752
+    }, {
+      "descriptor" : "",
+      "start" : 7.567,
+      "end" : 7.94
+    }, {
+      "descriptor" : "",
+      "start" : 8.156,
+      "end" : 8.69
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.567,
+      "end" : 7.94
+    } ],
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 8.156,
+      "end" : 8.69
+    } ],
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 1.76,
+      "end" : 2.117
+    }, {
+      "descriptor" : "",
+      "start" : 3.505,
+      "end" : 4.712
+    }, {
+      "descriptor" : "",
+      "start" : 6.004,
+      "end" : 7.076
+    } ],
+    "Mctr" : null,
+    "Ci" : [ {
+      "descriptor" : "",
+      "start" : 2.276,
+      "end" : 3.163
+    }, {
+      "descriptor" : "",
+      "start" : 8.156,
+      "end" : 8.69
+    } ],
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.358,
+      "end" : 1.529
+    }, {
+      "descriptor" : "",
+      "start" : 7.567,
+      "end" : 8.698
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787440",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:34:36",
+    "sentence_ID" : "VXPAKOKS240787440",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

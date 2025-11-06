@@ -1,0 +1,184 @@
+{
+  "id" : "VXPAKOKS240781180",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "초등학교 1학년 때부터 선생님이 참 좋으신 분이셨어요.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.488,
+      "end" : 1.961,
+      "gloss_id" : "초등일학년2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.129,
+      "end" : 2.226,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.4,
+      "end" : 2.661,
+      "gloss_id" : "부터3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.902,
+      "end" : 3.253,
+      "gloss_id" : "교사1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.44,
+      "end" : 3.829,
+      "gloss_id" : "만나다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.133,
+      "end" : 4.325,
+      "gloss_id" : "배2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.558,
+      "end" : 4.729,
+      "gloss_id" : "좋다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.488,
+      "end" : 1.961,
+      "loc" : "0,1",
+      "word" : "초등학교 1학년"
+    }, {
+      "start" : 2.129,
+      "end" : 2.65,
+      "loc" : "2",
+      "word" : "때부터"
+    }, {
+      "start" : 2.902,
+      "end" : 3.253,
+      "loc" : "3",
+      "word" : "선생님이"
+    }, {
+      "start" : 3.44,
+      "end" : 4.72,
+      "loc" : "4,5,6",
+      "word" : "참 좋으신 분이셨어요."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.488,
+      "end" : 1.961,
+      "gloss_id" : "초등일학년2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.129,
+      "end" : 2.226,
+      "gloss_id" : "때1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.902,
+      "end" : 3.253,
+      "gloss_id" : "교사1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.44,
+      "end" : 3.829,
+      "gloss_id" : "만나다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.4,
+      "end" : 2.661
+    }, {
+      "descriptor" : "",
+      "start" : 3.44,
+      "end" : 3.829
+    }, {
+      "descriptor" : "",
+      "start" : 4.14,
+      "end" : 4.729
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.133,
+      "end" : 4.325
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.133,
+      "end" : 4.723
+    }, {
+      "descriptor" : "",
+      "start" : 2.4,
+      "end" : 2.661
+    } ],
+    "Ci" : null,
+    "Ebu" : null
+  },
+  "vido_file_nm" : "VXPAKOKS240781180",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:07:13",
+    "sentence_ID" : "VXPAKOKS240781180",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

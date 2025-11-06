@@ -1,0 +1,215 @@
+{
+  "id" : "VXPAKOKS240783670",
+  "opertor" : "label3",
+  "krlgg_sntenc" : {
+    "koreanText" : "유산소는 좀 무리고 근력 운동을 좀 해야 되는 게 맞지.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 3.426,
+      "end" : 5.015,
+      "gloss_id" : "유산소",
+      "express" : "f",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.464,
+      "end" : 5.851,
+      "gloss_id" : "달리다5",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.065,
+      "end" : 6.161,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.806,
+      "end" : 6.959,
+      "gloss_id" : "힘들다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.267,
+      "end" : 7.56,
+      "gloss_id" : "근육2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.896,
+      "end" : 8.649,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.975,
+      "end" : 9.268,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.52,
+      "end" : 9.87,
+      "gloss_id" : "맞다4",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 3.426,
+      "end" : 6.123,
+      "loc" : "0",
+      "word" : "유산소는"
+    }, {
+      "start" : 6.806,
+      "end" : 6.959,
+      "loc" : "1,2",
+      "word" : "좀 무리고"
+    }, {
+      "start" : 7.267,
+      "end" : 7.56,
+      "loc" : "3",
+      "word" : "근력"
+    }, {
+      "start" : 7.896,
+      "end" : 8.649,
+      "loc" : "4",
+      "word" : "운동을"
+    }, {
+      "start" : 8.975,
+      "end" : 9.268,
+      "loc" : "5,6,7,8",
+      "word" : "좀 해야 되는 게"
+    }, {
+      "start" : 9.52,
+      "end" : 9.87,
+      "loc" : "9",
+      "word" : "맞지."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 5.464,
+      "end" : 5.851,
+      "gloss_id" : "달리다5",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.267,
+      "end" : 7.56,
+      "gloss_id" : "근육2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 7.896,
+      "end" : 8.649,
+      "gloss_id" : "운동1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.975,
+      "end" : 9.268,
+      "gloss_id" : "필요1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : [ {
+      "descriptor" : "유산소",
+      "start" : 3.426,
+      "end" : 5.015
+    } ],
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 7.267,
+      "end" : 7.56
+    }, {
+      "descriptor" : "",
+      "start" : 8.975,
+      "end" : 9.268
+    }, {
+      "descriptor" : "",
+      "start" : 9.52,
+      "end" : 9.869
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 6.065,
+      "end" : 6.931
+    }, {
+      "descriptor" : "",
+      "start" : 8.975,
+      "end" : 9.268
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.464,
+      "end" : 5.851
+    }, {
+      "descriptor" : "",
+      "start" : 7.267,
+      "end" : 8.226
+    }, {
+      "descriptor" : "",
+      "start" : 9.52,
+      "end" : 9.869
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783670",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:18:39",
+    "sentence_ID" : "VXPAKOKS240783670",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

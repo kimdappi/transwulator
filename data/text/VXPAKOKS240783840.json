@@ -1,0 +1,157 @@
+{
+  "id" : "VXPAKOKS240783840",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 공항에 취직을 하고 싶어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.604,
+      "end" : 1.678,
+      "gloss_id" : "지시1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.829,
+      "end" : 1.916,
+      "gloss_id" : "비행기3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.123,
+      "end" : 2.454,
+      "gloss_id" : "곳1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.623,
+      "end" : 2.714,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.854,
+      "end" : 3.118,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 3.304,
+      "end" : 3.533,
+      "gloss_id" : "원하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.604,
+      "end" : 1.678,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 1.829,
+      "end" : 2.44,
+      "loc" : "1",
+      "word" : "공항에"
+    }, {
+      "start" : 2.623,
+      "end" : 3.118,
+      "loc" : "2,3",
+      "word" : "취직을 하고"
+    }, {
+      "start" : 3.304,
+      "end" : 3.533,
+      "loc" : "4",
+      "word" : "싶어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.623,
+      "end" : 2.714,
+      "gloss_id" : "일하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.854,
+      "end" : 3.118,
+      "gloss_id" : "가입1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 2.123,
+      "end" : 2.454
+    }, {
+      "descriptor" : "",
+      "start" : 3.304,
+      "end" : 3.533
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 3.133,
+      "end" : 3.53
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 2.854,
+      "end" : 3.527
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.829,
+      "end" : 2.449
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240783840",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:19:29",
+    "sentence_ID" : "VXPAKOKS240783840",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

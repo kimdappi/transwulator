@@ -1,0 +1,189 @@
+{
+  "id" : "VXPAKOKS240788270",
+  "opertor" : "label8",
+  "krlgg_sntenc" : {
+    "koreanText" : "전라도엘 어떻게 갈까를 정하자.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.54,
+      "end" : 1.763,
+      "gloss_id" : "전주1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.939,
+      "end" : 2.293,
+      "gloss_id" : "지역1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.549,
+      "end" : 2.716,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 2.857,
+      "end" : 3.249,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.576,
+      "end" : 3.752,
+      "gloss_id" : "결정1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.882,
+      "end" : 4.542,
+      "gloss_id" : "지금1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.54,
+      "end" : 2.298,
+      "loc" : "0",
+      "word" : "전라도엘"
+    }, {
+      "start" : 2.549,
+      "end" : 2.716,
+      "loc" : "2",
+      "word" : "갈까를"
+    }, {
+      "start" : 2.857,
+      "end" : 3.249,
+      "loc" : "1",
+      "word" : "어떻게"
+    }, {
+      "start" : 3.576,
+      "end" : 4.545,
+      "loc" : "3",
+      "word" : "정하자."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.54,
+      "end" : 1.763,
+      "gloss_id" : "전주1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 1.939,
+      "end" : 2.293,
+      "gloss_id" : "지역1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.549,
+      "end" : 2.716,
+      "gloss_id" : "방문2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.857,
+      "end" : 3.249,
+      "gloss_id" : "방법1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.576,
+      "end" : 3.752,
+      "gloss_id" : "결정1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.882,
+      "end" : 4.542,
+      "gloss_id" : "지금1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.939,
+      "end" : 2.293
+    }, {
+      "descriptor" : "",
+      "start" : 3.576,
+      "end" : 3.752
+    }, {
+      "descriptor" : "",
+      "start" : 3.882,
+      "end" : 4.542
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.857,
+      "end" : 4.08
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 4.144,
+      "end" : 4.466
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.54,
+      "end" : 2.204
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788270",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:42:55",
+    "sentence_ID" : "VXPAKOKS240788270",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

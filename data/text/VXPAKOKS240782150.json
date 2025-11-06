@@ -1,0 +1,136 @@
+{
+  "id" : "VXPAKOKS240782150",
+  "opertor" : "label20",
+  "krlgg_sntenc" : {
+    "koreanText" : "아빠 수영 어디까지 배웠지?",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 2.279,
+      "end" : 2.584,
+      "gloss_id" : "아빠1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.885,
+      "end" : 3.865,
+      "gloss_id" : "수영1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.117,
+      "end" : 4.27,
+      "gloss_id" : "배우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.448,
+      "end" : 5.149,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.402,
+      "end" : 5.817,
+      "gloss_id" : "무엇2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 2.279,
+      "end" : 2.584,
+      "loc" : "0",
+      "word" : "아빠"
+    }, {
+      "start" : 2.885,
+      "end" : 3.865,
+      "loc" : "1",
+      "word" : "수영"
+    }, {
+      "start" : 4.117,
+      "end" : 4.27,
+      "loc" : "3",
+      "word" : "배웠지?"
+    }, {
+      "start" : 4.448,
+      "end" : 5.8,
+      "loc" : "2",
+      "word" : "어디까지"
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.885,
+      "end" : 3.865,
+      "gloss_id" : "수영1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.448,
+      "end" : 5.8,
+      "gloss_id" : "까지1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : null,
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 4.624,
+      "end" : 5.149
+    } ],
+    "Hs" : null,
+    "EBf" : null,
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 5.402,
+      "end" : 5.817
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240782150",
+  "potogrf" : {
+    "createdTime" : "2024-08-21 11:11:44",
+    "sentence_ID" : "VXPAKOKS240782150",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EJ",
+    "sl_speaker_age" : 40,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

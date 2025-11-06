@@ -1,0 +1,299 @@
+{
+  "id" : "VXPAKOKS240788730",
+  "opertor" : "label18",
+  "krlgg_sntenc" : {
+    "koreanText" : "나는 사실 과일을 잘 안 먹는 편인데 딸기하고 귤은 그냥 눈에 보이면 다 먹어.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.784,
+      "end" : 2.147,
+      "gloss_id" : "지시2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.202,
+      "end" : 2.293,
+      "gloss_id" : "맞다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.436,
+      "end" : 2.753,
+      "gloss_id" : "솔직하다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.032,
+      "end" : 3.212,
+      "gloss_id" : "사과1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.363,
+      "end" : 3.662,
+      "gloss_id" : "여러가지1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.811,
+      "end" : 3.945,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.322,
+      "end" : 4.465,
+      "gloss_id" : "취미1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.514,
+      "end" : 4.693,
+      "gloss_id" : "아니다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 5.247,
+      "end" : 5.893,
+      "gloss_id" : "딸기1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.478,
+      "end" : 6.996,
+      "gloss_id" : "귤1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 6.141,
+      "end" : 6.285,
+      "gloss_id" : "노랑1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 7.411,
+      "end" : 7.865,
+      "gloss_id" : "보다2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.096,
+      "end" : 8.34,
+      "gloss_id" : "바로2",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 8.49,
+      "end" : 9.227,
+      "gloss_id" : "쓸어담다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 9.394,
+      "end" : 9.601,
+      "gloss_id" : "먹다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.784,
+      "end" : 2.147,
+      "loc" : "0",
+      "word" : "나는"
+    }, {
+      "start" : 2.202,
+      "end" : 2.741,
+      "loc" : "1",
+      "word" : "사실"
+    }, {
+      "start" : 3.032,
+      "end" : 3.641,
+      "loc" : "2",
+      "word" : "과일을"
+    }, {
+      "start" : 3.811,
+      "end" : 4.694,
+      "loc" : "3,4,5,6",
+      "word" : "잘 안 먹는 편인데"
+    }, {
+      "start" : 5.247,
+      "end" : 5.893,
+      "loc" : "7",
+      "word" : "딸기하고"
+    }, {
+      "start" : 6.141,
+      "end" : 7.007,
+      "loc" : "8",
+      "word" : "귤은"
+    }, {
+      "start" : 7.411,
+      "end" : 7.865,
+      "loc" : "10,11",
+      "word" : "눈에 보이면"
+    }, {
+      "start" : 8.096,
+      "end" : 9.61,
+      "loc" : "12,13",
+      "word" : "다 먹어."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 2.436,
+      "end" : 2.753,
+      "gloss_id" : "솔직하다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.032,
+      "end" : 3.65,
+      "gloss_id" : "사과1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 6.478,
+      "end" : 6.996,
+      "gloss_id" : "귤1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.096,
+      "end" : 8.34,
+      "gloss_id" : "바로2",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 8.49,
+      "end" : 9.227,
+      "gloss_id" : "쓸어담다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 7.411,
+      "end" : 7.865
+    }, {
+      "descriptor" : "",
+      "start" : 5.247,
+      "end" : 5.893
+    }, {
+      "descriptor" : "",
+      "start" : 6.478,
+      "end" : 6.996
+    }, {
+      "descriptor" : "",
+      "start" : 9.394,
+      "end" : 9.601
+    } ],
+    "Mo1" : [ {
+      "descriptor" : "",
+      "start" : 7.411,
+      "end" : 7.865
+    } ],
+    "Hs" : [ {
+      "descriptor" : "",
+      "start" : 3.792,
+      "end" : 4.091
+    } ],
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 2.201,
+      "end" : 4.678
+    }, {
+      "descriptor" : "",
+      "start" : 5.247,
+      "end" : 6.99
+    }, {
+      "descriptor" : "",
+      "start" : 8.49,
+      "end" : 9.227
+    } ],
+    "Mctr" : null,
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 7.411,
+      "end" : 7.865
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240788730",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:48:46",
+    "sentence_ID" : "VXPAKOKS240788730",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}

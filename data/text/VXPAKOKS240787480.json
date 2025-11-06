@@ -1,0 +1,199 @@
+{
+  "id" : "VXPAKOKS240787480",
+  "opertor" : "label6",
+  "krlgg_sntenc" : {
+    "koreanText" : "반려동물를 키우는 게 나름 사람들에게는 도움이 될 수 있구나.",
+    "category" : "수어 > 무작위 구성",
+    "realm" : "일상생활",
+    "thema" : "일상생활 말뭉치",
+    "detailThema" : "일상생활 말뭉치"
+  },
+  "sign_script" : {
+    "sign_gestures_strong" : [ {
+      "start" : 1.432,
+      "end" : 1.545,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 1.771,
+      "end" : 2.504,
+      "gloss_id" : "지시1#",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 2.806,
+      "end" : 3.024,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 3.381,
+      "end" : 3.618,
+      "gloss_id" : "동행3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.169,
+      "end" : 4.601,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    }, {
+      "start" : 4.855,
+      "end" : 5.318,
+      "gloss_id" : "돕다1",
+      "express" : "s",
+      "direction" : {
+        "source" : "1",
+        "target" : "2"
+      }
+    }, {
+      "start" : 5.628,
+      "end" : 6.121,
+      "gloss_id" : "아하3",
+      "express" : "s",
+      "direction" : {
+        "source" : "",
+        "target" : ""
+      }
+    } ],
+    "sentence_loc" : [ {
+      "start" : 1.432,
+      "end" : 2.515,
+      "loc" : "4",
+      "word" : "사람들에게는"
+    }, {
+      "start" : 2.806,
+      "end" : 3.619,
+      "loc" : "0",
+      "word" : "반려동물를"
+    }, {
+      "start" : 4.169,
+      "end" : 4.601,
+      "loc" : "1,2",
+      "word" : "키우는 게"
+    }, {
+      "start" : 4.855,
+      "end" : 6.104,
+      "loc" : "3,5,6,7,8",
+      "word" : "나름 도움이 될 수 있구나."
+    } ],
+    "sign_gestures_weak" : [ {
+      "start" : 1.432,
+      "end" : 1.545,
+      "gloss_id" : "사람8",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 2.806,
+      "end" : 3.024,
+      "gloss_id" : "동물1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 3.381,
+      "end" : 3.618,
+      "gloss_id" : "동행3",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.169,
+      "end" : 4.601,
+      "gloss_id" : "키우다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    }, {
+      "start" : 4.855,
+      "end" : 5.318,
+      "gloss_id" : "돕다1",
+      "express" : "s",
+      "direction" : null,
+      "sentence_loc" : null
+    } ]
+  },
+  "nms_script" : {
+    "Mmo" : null,
+    "Hno" : [ {
+      "descriptor" : "",
+      "start" : 1.771,
+      "end" : 2.504
+    }, {
+      "descriptor" : "",
+      "start" : 4.169,
+      "end" : 4.601
+    }, {
+      "descriptor" : "",
+      "start" : 5.628,
+      "end" : 6.121
+    } ],
+    "Mo1" : null,
+    "Hs" : null,
+    "EBf" : [ {
+      "descriptor" : "",
+      "start" : 4.169,
+      "end" : 4.601
+    } ],
+    "Mctr" : [ {
+      "descriptor" : "",
+      "start" : 1.771,
+      "end" : 2.504
+    }, {
+      "descriptor" : "",
+      "start" : 4.169,
+      "end" : 4.601
+    } ],
+    "Ci" : null,
+    "Ebu" : [ {
+      "descriptor" : "",
+      "start" : 1.432,
+      "end" : 2.503
+    }, {
+      "descriptor" : "",
+      "start" : 4.855,
+      "end" : 5.318
+    } ]
+  },
+  "vido_file_nm" : "VXPAKOKS240787480",
+  "potogrf" : {
+    "createdTime" : "2024-08-30 02:34:59",
+    "sentence_ID" : "VXPAKOKS240787480",
+    "photographer" : "D",
+    "location" : "d",
+    "devide" : "Sony A6400",
+    "iris" : 4.0,
+    "gain" : "ISO 400",
+    "whiteBalance" : 6000,
+    "shutterSpeed" : "1/125",
+    "fps" : 30.0,
+    "width" : 1920,
+    "height" : 1080,
+    "format" : "MP4",
+    "codec" : "XAVC S HD",
+    "sl_speaker_id" : "EY",
+    "sl_speaker_age" : 49,
+    "sl_speaker_sex" : "female",
+    "sl_speaker_legion" : "Seoul",
+    "sl_speaker_hand" : "right_handed"
+  },
+  "license" : "국립국어원"
+}
