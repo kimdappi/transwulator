@@ -1,0 +1,259 @@
+/* 변수 설정 */
+:root {
+    --main-bg-color: #f4f4f4;
+    --text-color: #333;
+    --primary-color: #5e81f4;
+    --secondary-color: #4c6cc0;
+    --dark-bg-color: #333;
+    --light-text-color: #fff;
+    --border-color: #ccc;
+}
+
+/* 기본 스타일 */
+body {
+    font-family: 'Pretendard', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--main-bg-color);
+    color: var(--text-color);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0; /* 패딩 제거 */
+    width: 100%; /* 너비 100% 추가 */
+}
+
+.screen {
+    background-color: white;
+    border-radius: 0; /* 꽉 차게 하기 위해 둥근 모서리 제거 */
+    box-shadow: none; /* 그림자 제거 (선택 사항) */
+    width: 100%;
+    /* 푸터(약 86px)를 제외한 화면 높이를 계산하여 꽉 채움 */
+    min-height: calc(100vh - 86px); 
+    display: none; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 40px 0; /* 가로 패딩은 0으로 줄임 */
+    transition: opacity 0.5s ease-in-out;
+    box-sizing: border-box; /* 패딩이 전체 크기에 포함되도록 설정 */
+}
+
+.screen.active {
+    display: flex;
+}
+
+/* 1. 시작 화면 스타일 */
+#start-screen {
+    cursor: pointer;
+}
+
+#start-screen img {
+    width: 150px; /* 로고 크기 조정 */
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+#start-screen h1 {
+    font-size: 10em;
+    color: var(--secondary-color);
+    margin: 0 0 10px 0;
+}
+
+.blinking-text {
+    font-size: 2em;
+    color: #666;
+    margin-top: 150px; /* 텍스트 위치 아래로 내림 */
+    animation: blink 1.5s infinite alternate;
+}
+
+@keyframes blink {
+    from { opacity: 1; }
+    to { opacity: 0.4; }
+}
+
+/* 2. URL 입력 화면 스타일 */
+#input-screen p {
+    font-size: 3em;
+    margin-bottom: 150px; /* 텍스트 위치 위로 올림 */
+}
+
+#url-input-container {
+    width: 100%;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#url-input {
+    width: 100%;
+    padding: 12px 15px;
+    margin-bottom: 20px;
+    border: 2px solid var(--border-color);
+    border-radius: 25px;
+    font-size: 2em;
+    text-align: center;
+    box-sizing: border-box;
+    outline: none;
+    transition: border-color 0.3s;
+}
+
+#url-input:focus {
+    border-color: var(--primary-color);
+}
+
+.btn-load {
+    background-color: var(--primary-color);
+    color: var(--light-text-color);
+    border: none;
+    padding: 10px 30px;
+    border-radius: 25px;
+    font-size: 1.5em;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn-load:hover {
+    background-color: var(--secondary-color);
+}
+
+/* 유효성 검사 알람 스타일 */
+.alert-message {
+    position: fixed; /* 전체 화면 중앙에 띄우기 위해 fixed 사용 */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #f44336;
+    font-size: 2em;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out, visibility 0.5s;
+    z-index: 1000;
+    visibility: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.alert-message.show {
+    opacity: 1;
+    visibility: visible;
+}
+
+/* 3. 로딩/번역 중 화면 (Dark Overlay) */
+#loading-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7); /* 어둡게 처리 */
+    color: white;
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+}
+
+.spinner {
+    border: 6px solid rgba(255, 255, 255, 0.3);
+    border-top: 6px solid var(--primary-color);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+    margin-bottom: 20px;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+#loading-overlay p {
+    font-size: 3em;
+    font-weight: bold;
+}
+
+
+/* 4. 결과 화면 스타일 */
+#result-screen {
+    background-color: var(--dark-bg-color); 
+    color: var(--light-text-color);
+    padding: 0;
+    max-width: 100%; 
+    min-height: calc(100vh - 86px); 
+}
+
+#result-content {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    min-height: calc(100vh - 86px); /* 부모 높이를 상속받지 못할 경우를 대비하여 추가 */
+}
+
+.video-area, .avatar-area {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* font-size, font-weight는 플레이스 홀더 텍스트용. 실제 플레이어가 삽입되면 필요 없음. */
+    position: relative;
+    width: 100%;
+    height: 100%; /* 내부 div가 꽉 채우도록 설정 */
+}
+
+.video-area {
+    background-color: #222;
+}
+
+.avatar-area {
+    background-color: #444;
+    border-left: 1px solid white; /* 중앙 구분선 */
+}
+
+/* YouTube Player 및 VRM Viewer 스타일 */
+#player, #viewer {
+    width: 100%;
+    height: 100%;
+}
+#player iframe, #viewer canvas {
+    width: 100%;
+    height: 100%;
+    border: none;
+    display: block;
+}
+
+
+/* 푸터 스타일 */
+footer {
+    text-align: center;
+    padding: 25px;
+    font-family: 'Pretendard', sans-serif;
+    color: white; /* 텍스트 색상을 white로 변경 */
+    border-top: 1px solid #333; /* 어두운 배경에 맞게 border 색상 변경 (선택 사항) */
+    background-color: #4c6cc0; /* 배경 색상을 요청하신 #4c6cc0로 변경 */
+    width: 100%;
+    box-sizing: border-box;
+}
+footer p {
+    margin: 5px 0;
+    font-size: 0.9em;
+}
+footer span {
+    color: white; /* Seoul Women’s University 텍스트 색상을 white로 변경 */
+    font-weight: 600;
+}
+footer strong {
+    color: white; /* Team Transwulator 텍스트 색상을 white로 변경 */
+    font-weight: 700;
+}
