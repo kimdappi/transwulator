@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transwulator</title>
+    
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
+    
+    <style>
+        #result-screen.active {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            height: calc(100vh - 86px);
+            overflow: hidden;
+            padding: 0;
+        }
+
+        #result-content {
+            display: flex;
+            width: 100%;
+            height: 100%;
+        }
+
+        .video-area {
+            flex: 1;
+            width: 50%;
+            height: 100%;
+            background-color: #000;
+        }
+
+        .avatar-area {
+            flex: 1;
+            width: 50%;
+            height: 100%;
+            background-color: #222;
+            position: relative;
+        }
+
+        #viewer {
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+
+        #player, iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+
+    <script type="importmap">
+        {
+          "imports": {
+            "three": "https://cdn.jsdelivr.net/npm/three@0.177.0/build/three.module.js",
+            "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.177.0/examples/jsm/",
+            "@pixiv/three-vrm": "https://cdn.jsdelivr.net/npm/@pixiv/three-vrm@3/lib/three-vrm.module.min.js"
+          }
+        }
+    </script>
+</head>
+<body>
+
+    <main>
+        <div id="start-screen" class="screen active" onclick="showScreen('input-screen')">
+            <img src="swu.jpg" alt="서울여자대학교 로고">
+            <h1>Transwulator</h1>
+            <p class="blinking-text">-아무 곳이나 클릭하여 시작-</p>
+        </div>
+
+        <div id="input-screen" class="screen">
+            <p>번역하고 싶은 유튜브 url을 입력하세요.</p>
+            <div id="url-input-container">
+                <input type="text" id="url-input" placeholder="url 입력">
+                <button class="btn-load" onclick="handleUrlInput()">불러오기</button>
+            </div>
+        </div>
+
+        <div id="alert-message" class="alert-message">
+            유효한 유튜브 링크가 아닙니다.
+        </div>
+        
+        <div id="loading-overlay">
+            <div class="spinner"></div>
+            <p>번역 중...</p>
+        </div>
+
+        <div id="result-screen" class="screen">
+            <div id="result-content">
+                <div class="video-area">
+                    <div id="player"></div> 
+                </div>
+                <div class="avatar-area">
+                    <div id="viewer"></div> 
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <footer>
+        <p>© 2025 <span>Seoul Women’s University</span></p>
+        <p>Data Science Capstone Design II · <strong>Team Transwulator</strong></p>
+        <p>Members: Hyun-A Kang · Kyu-Eui Kim · Na-Yeon Kim</p>
+    </footer>
+
+    <script>
+        const screens = document.querySelectorAll('.screen');
+        const loadingOverlay = document.getElementById('loading-overlay');
+        const urlInput = document.getElementById('url-input');
+        const alertMessage = document.getElementById('alert-message');
+        const playerDiv = document.getElementById('player');
+
+        function showScreen(id) {
+            screens.forEach(screen => {
+                screen.classList.remove('active');
+            });
+            document.getElementById(id).classList.add('active');
+        }
+
+        function isValidYoutubeUrl(url) {
+            const youtubeRegex = /^(https?:\/\/)?(www\.|m\.)?(youtube\.com|youtu\.be)\/.+$/;
+            return youtubeRegex.test(url);
+        }
+
+        function showAlert(message) {
+            alertMessage.textContent = message;
+            alertMessage.classList.add('show');
+            setTimeout(() => {
+                alertMessage.classList.remove('show');
+            }, 2000);
+        }
+
+        function handleUrlInput() {
+            const url = urlInput.value.trim();
+
+            if (!isValidYoutubeUrl(url)) {
+                showAlert('유효한 유튜브 링크가 아닙니다.');
+                return;
+            }
+            
+            const videoIdMatch = url.match(/(?:v=|youtu\.be\/)([A-Za-z0-9_-]{11})/);
+            if (!videoIdMatch) {
+                 showAlert('유효한 유튜브 링크가 아닙니다.');
+                 return;
+            }
+            const videoId = videoIdMatch[1];
+
+            loadingOverlay.style.display = 'flex';
+            
+            setTimeout(() => {
+                loadingOverlay.style.display = 'none';
+                showScreen('result-screen');
+
+                playerDiv.innerHTML = `<iframe src="https://www.youtube.com/embed/${videoId}?autoplay=1" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>`;
+                
+                if (window.initVrmScene) {
+                    setTimeout(() => {
+                        window.initVrmScene();
+                    }, 100);
+                }
+
+            }, 5000); 
+        }
+    </script>
+    
+    <script type="module">
+        import * as THREE from 'three';
+        import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+        import { VRMLoaderPlugin, VRMUtils } from '@pixiv/three-vrm';
+
+        let mixer; 
+        let clock = new THREE.Clock();
+        let vrm;
+        let scene, camera, renderer;
+
+        window.initVrmScene = () => {
+            const viewer = document.getElementById('viewer');
+            
+            if (renderer) return;
+
+            scene = new THREE.Scene();
+            renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+            
+            const width = viewer.clientWidth;
+            const height = viewer.clientHeight;
+
+            renderer.setSize(width, height);
+            renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+            viewer.appendChild(renderer.domElement);
+
+            camera = new THREE.PerspectiveCamera(30, width / height, 0.1, 100);
+            
+            const directionalLight = new THREE.DirectionalLight(0xffffff, 1);
+            directionalLight.position.set(1, 1, 2);
+            scene.add(directionalLight);
+            scene.add(new THREE.AmbientLight(0xffffff, 0.4));
+
+            const loader = new GLTFLoader();
+            loader.register(parser => new VRMLoaderPlugin(parser));
+
+        loader.load(
+            'transwulator.vrm', 
+            (gltf) => {
+                vrm = gltf.userData.vrm;
+                
+                VRMUtils.removeUnnecessaryVertices(gltf.scene);
+                VRMUtils.combineSkeletons(gltf.scene);
+                
+                scene.add(vrm.scene);
+
+                // 등 돌리는 문제 방지
+                vrm.scene.rotation.y = 0;
+
+                // === 아바타 위치 & 카메라 위치 조정 구간 ===
+                const bbox = new THREE.Box3().setFromObject(vrm.scene);
+                const center = bbox.getCenter(new THREE.Vector3());
+                const size = bbox.getSize(new THREE.Vector3());
+                const distance = size.length();
+
+                // 1) 아바타를 원점으로 이동 (화면 중앙에 오도록)
+                vrm.scene.position.sub(center);
+
+                // 2) 카메라 위치 설정
+                //    - y 쪽으로 약간 위에서 내려다보는 느낌
+                //    - distance * 1.2: 멀어질수록 전신이 잘 보임
+                const lookY = size.y * 0.4;        // 카메라가 바라볼 높이(몸의 60% 지점)
+                camera.position.set(0, lookY, distance * 1.2);
+                camera.lookAt(new THREE.Vector3(0, lookY, 0));
+
+                console.log("VRM 로드 및 위치/카메라 설정 완료");
+
+                // 애니메이션 로드
+                loadAnimation('anima.glb', vrm);
+            },
+            (xhr) => console.log(`VRM: ${(xhr.loaded / xhr.total * 100).toFixed(1)}%`),
+            (err) => console.error('VRM Error:', err)
+        );
+
+            function animate() {
+                requestAnimationFrame(animate);
+                const delta = clock.getDelta();
+
+                if (vrm) vrm.update(delta);    
+                if (mixer) mixer.update(delta); 
+
+                renderer.render(scene, camera);
+            }
+            animate();
+
+            window.addEventListener('resize', () => {
+                if(!viewer) return;
+                const resizeWidth = viewer.clientWidth;
+                const resizeHeight = viewer.clientHeight;
+                camera.aspect = resizeWidth / resizeHeight;
+                camera.updateProjectionMatrix();
+                renderer.setSize(resizeWidth, resizeHeight);
+            });
+        };
+
+        // === [수정됨] 강력한 애니메이션 리타겟팅 함수 ===
+       function loadAnimation(url, vrmModel) {
+    const animLoader = new GLTFLoader();
+    animLoader.load(
+        url,
+        (gltf) => {
+            const animationClip = gltf.animations[0];
+            if (!animationClip) return;
+
+            const tracks = [];
+
+            // === 이 부분이 새 매핑 테이블 ===
+            // 모두 소문자로 비교하니까 key는 소문자로 적어야 함
+            const boneNameMap = {
+                // ───── 기준 Hips / Spine / Chest ─────
+                'hips': 'hips',
+                'pelvis': 'hips',
+                'root': 'hips',
+                'hips_jnt': 'hips',
+
+                'spine': 'spine',
+                'spine_jnt': 'spine',
+
+                'spine1': 'chest',
+                'spine1_jnt': 'chest',
+
+                'spine2': 'upperChest',
+                'spine2_jnt': 'upperChest',
+
+                'neck': 'neck',
+                'neck_jnt': 'neck',
+
+                'head': 'head',
+                'head_jnt': 'head',
+
+                // ───── 왼쪽 다리 (캡쳐: l_upleg_JNT → l_leg_JNT → l_foot_JNT → l_toebase_JNT) ─────
+                'l_upleg': 'leftUpperLeg',
+                'leftupleg': 'leftUpperLeg',
+                'l_upleg_jnt': 'leftUpperLeg',
+
+                'l_leg': 'leftLowerLeg',
+                'leftleg': 'leftLowerLeg',
+                'l_leg_jnt': 'leftLowerLeg',
+
+                'l_foot': 'leftFoot',
+                'leftfoot': 'leftFoot',
+                'l_foot_jnt': 'leftFoot',
+
+                'l_toebase': 'leftToes',
+                'l_toebase_jnt': 'leftToes',
+
+                // ───── 오른쪽 다리 (r_upleg_JNT …) ─────
+                'r_upleg': 'rightUpperLeg',
+                'rightupleg': 'rightUpperLeg',
+                'r_upleg_jnt': 'rightUpperLeg',
+
+                'r_leg': 'rightLowerLeg',
+                'rightleg': 'rightLowerLeg',
+                'r_leg_jnt': 'rightLowerLeg',
+
+                'r_foot': 'rightFoot',
+                'rightfoot': 'rightFoot',
+                'r_foot_jnt': 'rightFoot',
+
+                'r_toebase': 'rightToes',
+                'r_toebase_jnt': 'rightToes',
+
+                // ───── 왼쪽 팔 (l_shoulder_JNT → l_arm_JNT → l_forearm_JNT → l_hand_JNT) ─────
+                'l_shoulder': 'leftShoulder',
+                'leftshoulder': 'leftShoulder',
+                'l_shoulder_jnt': 'leftShoulder',
+
+                'l_arm': 'leftUpperArm',
+                'leftarm': 'leftUpperArm',
+                'l_arm_jnt': 'leftUpperArm',
+
+                'l_forearm': 'leftLowerArm',
+                'leftforearm': 'leftLowerArm',
+                'l_forearm_jnt': 'leftLowerArm',
+
+                'l_hand': 'leftHand',
+                'lefthand': 'leftHand',
+                'l_hand_jnt': 'leftHand',
+
+                // ───── 오른쪽 팔 (r_shoulder_JNT → r_arm_JNT → r_forearm_JNT → r_hand_JNT) ─────
+                'r_shoulder': 'rightShoulder',
+                'rightshoulder': 'rightShoulder',
+                'r_shoulder_jnt': 'rightShoulder',
+
+                'r_arm': 'rightUpperArm',
+                'rightarm': 'rightUpperArm',
+                'r_arm_jnt': 'rightUpperArm',
+
+                'r_forearm': 'rightLowerArm',
+                'rightforearm': 'rightLowerArm',
+                'r_forearm_jnt': 'rightLowerArm',
+
+                'r_hand': 'rightHand',
+                'righthand': 'rightHand',
+                'r_hand_jnt': 'rightHand',
+
+                // ───── 왼손 손가락 (캡쳐: l_handIndex1_JNT … l_handThumb3_JNT) ─────
+                'l_handindex1_jnt': 'leftIndexProximal',
+                'l_handindex2_jnt': 'leftIndexIntermediate',
+                'l_handindex3_jnt': 'leftIndexDistal',
+
+                'l_handmiddle1_jnt': 'leftMiddleProximal',
+                'l_handmiddle2_jnt': 'leftMiddleIntermediate',
+                'l_handmiddle3_jnt': 'leftMiddleDistal',
+
+                'l_handpinky1_jnt': 'leftLittleProximal',       // VRM에서는 Little로 표기
+                'l_handpinky2_jnt': 'leftLittleIntermediate',
+                'l_handpinky3_jnt': 'leftLittleDistal',
+
+                'l_handring1_jnt': 'leftRingProximal',
+                'l_handring2_jnt': 'leftRingIntermediate',
+                'l_handring3_jnt': 'leftRingDistal',
+
+                'l_handthumb1_jnt': 'leftThumbProximal',
+                'l_handthumb2_jnt': 'leftThumbIntermediate',
+                'l_handthumb3_jnt': 'leftThumbDistal',
+
+                // ───── 오른손 손가락 (r_handIndex1_JNT … r_handThumb3_JNT) ─────
+                'r_handindex1_jnt': 'rightIndexProximal',
+                'r_handindex2_jnt': 'rightIndexIntermediate',
+                'r_handindex3_jnt': 'rightIndexDistal',
+
+                'r_handmiddle1_jnt': 'rightMiddleProximal',
+                'r_handmiddle2_jnt': 'rightMiddleIntermediate',
+                'r_handmiddle3_jnt': 'rightMiddleDistal',
+
+                'r_handpinky1_jnt': 'rightLittleProximal',
+                'r_handpinky2_jnt': 'rightLittleIntermediate',
+                'r_handpinky3_jnt': 'rightLittleDistal',
+
+                'r_handring1_jnt': 'rightRingProximal',
+                'r_handring2_jnt': 'rightRingIntermediate',
+                'r_handring3_jnt': 'rightRingDistal',
+
+                'r_handthumb1_jnt': 'rightThumbProximal',
+                'r_handthumb2_jnt': 'rightThumbIntermediate',
+                'r_handthumb3_jnt': 'rightThumbDistal',
+            };
+
+            animationClip.tracks.forEach((track) => {
+                const trackSplits = track.name.split('.');
+                const propertyName = trackSplits.pop();  // position / quaternion / scale
+                const bonePath = trackSplits.join('.');
+
+                // ★ 1) 경로에서 실제 본 이름만 추출
+                //   예: "skeleton0/hips_JNT" → "hips_JNT"
+                let boneNameClean = bonePath.toLowerCase();
+                if (boneNameClean.includes('/')) {
+                    boneNameClean = boneNameClean.split('/').pop();
+                }
+                if (boneNameClean.includes(':')) {
+                    boneNameClean = boneNameClean.split(':').pop();
+                }
+
+                // ★ 2) Hips 이외의 position 트랙은 버려서 찢어짐 방지
+                const mappedBone = boneNameMap[boneNameClean];
+                if (propertyName === 'position' && mappedBone !== 'hips') {
+                    return;
+                }
+
+                // ★ 3) VRM 본 이름으로 매핑
+                const vrmBoneName = boneNameMap[boneNameClean];
+                if (!vrmBoneName) return;
+
+                const vrmNode = vrmModel.humanoid.getNormalizedBoneNode(vrmBoneName);
+                if (!vrmNode) return; // 해당 본이 VRM에 없으면 스킵
+
+                const newTrack = track.clone();
+                newTrack.name = `${vrmNode.name}.${propertyName}`;
+                tracks.push(newTrack);
+            });
+
+            if (tracks.length > 0) {
+                const newClip = new THREE.AnimationClip('vrmAnimation', animationClip.duration, tracks);
+                mixer = new THREE.AnimationMixer(vrmModel.scene);
+                const action = mixer.clipAction(newClip);
+                action.play();
+                console.log(`애니메이션 적용 성공: ${tracks.length}개 트랙 리타겟팅됨`);
+            } else {
+                console.warn("애니메이션 트랙을 매핑하지 못했습니다. GLB 뼈대 이름을 확인하세요.");
+            }
+        },
+        undefined,
+        (err) => console.error("애니메이션 로드 실패:", err)
+    );
+}
+
+    </script>
+</body>
+</html>
