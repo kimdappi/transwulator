@@ -525,12 +525,39 @@
                         tracks.push(newTrack);
                     });
 
-                    if (tracks.length > 0) {
-                        const newClip = new THREE.AnimationClip('vrmAnimation', animationClip.duration, tracks);
-                        mixer = new THREE.AnimationMixer(vrmModel.scene);
-                        const action = mixer.clipAction(newClip);
-                        action.play();
-                        console.log(`애니메이션 적용 성공: ${tracks.length}개 트랙 리타겟팅됨`);
+                    
+            if (tracks.length > 0) {
+                const newClip = new THREE.AnimationClip('vrmAnimation', animationClip.duration, tracks);
+
+                // 🔹 여기부터: 도입부 3초 스킵 + 나머지 루프
+                const startOffset = 3.0; // 도입부 3초 안 쓰기
+
+                mixer = new THREE.AnimationMixer(vrmModel.scene);
+                const action = mixer.clipAction(newClip);
+
+                // 무한 반복
+                action.setLoop(THREE.LoopRepeat, Infinity);
+                action.clampWhenFinished = false;
+
+                // 도입부 건너뛰고 3초 지점부터 재생 시작
+                action.play();
+                // duration보다 큰 값이면 에러이므로 체크
+                if (newClip.duration > startOffset) {
+                    action.time = startOffset;
+                } else {
+                    // 만약 전체 길이가 3초 이하라면 그냥 0부터 재생
+                    action.time = 0;
+                }
+
+                // 루프 끝날 때마다 다시 3초 지점으로 점프
+                mixer.addEventListener('loop', (e) => {
+                    if (e.action === action && newClip.duration > startOffset) {
+                        action.time = startOffset;
+                    }
+                });
+
+                console.log(`애니메이션 적용 성공: ${tracks.length}개 트랙 리타겟팅됨 (도입부 3초 스킵)`);
+                // 🔹 여기까지
                     } else {
                         console.warn("애니메이션 트랙을 매핑하지 못했습니다. GLB 뼈대 이름을 확인하세요.");
                     }
@@ -543,3 +570,4 @@
     </script>
 </body>
 </html>
+
