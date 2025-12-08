@@ -170,12 +170,95 @@
     <script type="module">
         import * as THREE from 'three';
         import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
-        import { VRMLoaderPlugin, VRMUtils } from '@pixiv/three-vrm';
+        import { VRMLoaderPlugin, VRMUtils, VRMExpressionPresetName } from '@pixiv/three-vrm';
 
         let mixer; 
         let clock = new THREE.Clock();
         let vrm;
         let scene, camera, renderer;
+
+        // 감정 타임라인용 시간 누적
+        let emotionTime = 0;
+
+        // ─────────────────────────────
+        // 감정 리셋 & 타임라인 업데이트
+        // ─────────────────────────────
+        function resetBaseEmotions() {
+            if (!vrm || !vrm.expressionManager) return;
+            const em = vrm.expressionManager;
+            em.setValue(VRMExpressionPresetName.Joy, 0);
+            em.setValue(VRMExpressionPresetName.Sorrow, 0);
+            em.setValue(VRMExpressionPresetName.Angry, 0);
+            em.setValue(VRMExpressionPresetName.Surprised, 0);
+            em.setValue(VRMExpressionPresetName.Relaxed, 0);
+        }
+
+        // 20초짜리 감정 타임라인
+        // 0~4s: 보통(리ラック스)
+        // 4~8s: 놀람
+        // 8~12s: 기쁨
+        // 12~16s: 짜증(Angry)
+        // 16~20s: 다시 보통
+        function updateEmotionTimeline(timeSec) {
+            if (!vrm || !vrm.expressionManager) return;
+            const em = vrm.expressionManager;
+
+            const cycle = 20.0;
+            const t = timeSec % cycle;
+
+            resetBaseEmotions();
+
+            let wRelax = 0;
+            let wSurprise = 0;
+            let wJoy = 0;
+            let wAngry = 0;
+
+            if (t < 4.0) {
+                // 보통
+                wRelax = 0.5;
+            } else if (t < 8.0) {
+                // 놀람
+                const local = (t - 4.0) / 4.0; // 0~1
+                wSurprise = 0.4 + 0.6 * Math.sin(local * Math.PI); // 살짝 켜졌다 줄어드는 느낌
+            } else if (t < 12.0) {
+                // 기쁨
+                const local = (t - 8.0) / 4.0;
+                wJoy = 0.6 + 0.3 * Math.sin(local * Math.PI);
+            } else if (t < 16.0) {
+                // 짜증(Angry)
+                const local = (t - 12.0) / 4.0;
+                wAngry = 0.6 + 0.3 * Math.sin(local * Math.PI);
+            } else {
+                // 다시 보통
+                wRelax = 0.3;
+            }
+
+            em.setValue(VRMExpressionPresetName.Relaxed, wRelax);
+            em.setValue(VRMExpressionPresetName.Surprised, wSurprise);
+            em.setValue(VRMExpressionPresetName.Joy, wJoy);
+            em.setValue(VRMExpressionPresetName.Angry, wAngry);
+        }
+
+        // 자연스러운 눈 깜빡임
+        function updateBlink(timeSec) {
+            if (!vrm || !vrm.expressionManager) return;
+            const em = vrm.expressionManager;
+
+            const blinkPhase = timeSec % 4.0; // 4초에 한 번 정도
+            let blinkWeight = 0.0;
+
+            if (blinkPhase < 0.1) {
+                // 감기
+                blinkWeight = blinkPhase / 0.1;
+            } else if (blinkPhase < 0.2) {
+                // 뜨기
+                blinkWeight = 1.0 - (blinkPhase - 0.1) / 0.1;
+            } else {
+                blinkWeight = 0.0;
+            }
+
+            em.setValue(VRMExpressionPresetName.Blink, blinkWeight);
+        }
 
         window.initVrmScene = () => {
             const viewer = document.getElementById('viewer');
@@ -202,50 +285,59 @@
             const loader = new GLTFLoader();
             loader.register(parser => new VRMLoaderPlugin(parser));
 
-        loader.load(
-            'transwulator.vrm', 
-            (gltf) => {
-                vrm = gltf.userData.vrm;
-                
-                VRMUtils.removeUnnecessaryVertices(gltf.scene);
-                VRMUtils.combineSkeletons(gltf.scene);
-                
-                scene.add(vrm.scene);
+            loader.load(
+                'transwulator.vrm', 
+                (gltf) => {
+                    vrm = gltf.userData.vrm;
+                    
+                    VRMUtils.removeUnnecessaryVertices(gltf.scene);
+                    VRMUtils.combineSkeletons(gltf.scene);
+                    
+                    scene.add(vrm.scene);
 
-                // 등 돌리는 문제 방지
-                vrm.scene.rotation.y = 0;
+                    // 등 돌리는 문제 방지
+                    vrm.scene.rotation.y = 0;
 
-                // === 아바타 위치 & 카메라 위치 조정 구간 ===
-                const bbox = new THREE.Box3().setFromObject(vrm.scene);
-                const center = bbox.getCenter(new THREE.Vector3());
-                const size = bbox.getSize(new THREE.Vector3());
-                const distance = size.length();
+                    // === 아바타 위치 & 카메라 위치 조정 구간 ===
+                    const bbox = new THREE.Box3().setFromObject(vrm.scene);
+                    const center = bbox.getCenter(new THREE.Vector3());
+                    const size = bbox.getSize(new THREE.Vector3());
+                    const distance = size.length();
 
-                // 1) 아바타를 원점으로 이동 (화면 중앙에 오도록)
-                vrm.scene.position.sub(center);
+                    // 1) 아바타를 원점으로 이동 (화면 중앙에 오도록)
+                    vrm.scene.position.sub(center);
 
-                // 2) 카메라 위치 설정
-                //    - y 쪽으로 약간 위에서 내려다보는 느낌
-                //    - distance * 1.2: 멀어질수록 전신이 잘 보임
-                const lookY = size.y * 0.4;        // 카메라가 바라볼 높이(몸의 60% 지점)
-                camera.position.set(0, lookY, distance * 1.2);
-                camera.lookAt(new THREE.Vector3(0, lookY, 0));
+                    // 2) 카메라 위치 설정
+                    const lookY = size.y * 0.4;
+                    camera.position.set(0, lookY, distance * 1.2);
+                    camera.lookAt(new THREE.Vector3(0, lookY, 0));
 
-                console.log("VRM 로드 및 위치/카메라 설정 완료");
+                    console.log("VRM 로드 및 위치/카메라 설정 완료");
 
-                // 애니메이션 로드
-                loadAnimation('anima.glb', vrm);
-            },
-            (xhr) => console.log(`VRM: ${(xhr.loaded / xhr.total * 100).toFixed(1)}%`),
-            (err) => console.error('VRM Error:', err)
-        );
+                    // 기본 감정은 보통 상태로 시작
+                    resetBaseEmotions();
+                    if (vrm && vrm.expressionManager) {
+                        vrm.expressionManager.setValue(VRMExpressionPresetName.Relaxed, 0.4);
+                    }
+
+                    // 애니메이션 로드
+                    loadAnimation('anima.glb', vrm);
+                },
+                (xhr) => console.log(`VRM: ${(xhr.loaded / xhr.total * 100).toFixed(1)}%`),
+                (err) => console.error('VRM Error:', err)
+            );
 
             function animate() {
                 requestAnimationFrame(animate);
                 const delta = clock.getDelta();
+                emotionTime += delta;
 
-                if (vrm) vrm.update(delta);    
+                // 감정 타임라인 & 깜빡임 업데이트
+                updateEmotionTimeline(emotionTime);
+                updateBlink(emotionTime);
+
                 if (mixer) mixer.update(delta); 
+                if (vrm) vrm.update(delta);    
 
                 renderer.render(scene, camera);
             }
@@ -261,197 +353,192 @@
             });
         };
 
-        // === [수정됨] 강력한 애니메이션 리타겟팅 함수 ===
-       function loadAnimation(url, vrmModel) {
-    const animLoader = new GLTFLoader();
-    animLoader.load(
-        url,
-        (gltf) => {
-            const animationClip = gltf.animations[0];
-            if (!animationClip) return;
+        // === 강력한 애니메이션 리타겟팅 함수 (기존 유지) ===
+        function loadAnimation(url, vrmModel) {
+            const animLoader = new GLTFLoader();
+            animLoader.load(
+                url,
+                (gltf) => {
+                    const animationClip = gltf.animations[0];
+                    if (!animationClip) return;
 
-            const tracks = [];
+                    const tracks = [];
 
-            // === 이 부분이 새 매핑 테이블 ===
-            // 모두 소문자로 비교하니까 key는 소문자로 적어야 함
-            const boneNameMap = {
-                // ───── 기준 Hips / Spine / Chest ─────
-                'hips': 'hips',
-                'pelvis': 'hips',
-                'root': 'hips',
-                'hips_jnt': 'hips',
+                    const boneNameMap = {
+                        'hips': 'hips',
+                        'pelvis': 'hips',
+                        'root': 'hips',
+                        'hips_jnt': 'hips',
 
-                'spine': 'spine',
-                'spine_jnt': 'spine',
+                        'spine': 'spine',
+                        'spine_jnt': 'spine',
 
-                'spine1': 'chest',
-                'spine1_jnt': 'chest',
+                        'spine1': 'chest',
+                        'spine1_jnt': 'chest',
 
-                'spine2': 'upperChest',
-                'spine2_jnt': 'upperChest',
+                        'spine2': 'upperChest',
+                        'spine2_jnt': 'upperChest',
 
-                'neck': 'neck',
-                'neck_jnt': 'neck',
+                        'neck': 'neck',
+                        'neck_jnt': 'neck',
 
-                'head': 'head',
-                'head_jnt': 'head',
+                        'head': 'head',
+                        'head_jnt': 'head',
 
-                // ───── 왼쪽 다리 (캡쳐: l_upleg_JNT → l_leg_JNT → l_foot_JNT → l_toebase_JNT) ─────
-                'l_upleg': 'leftUpperLeg',
-                'leftupleg': 'leftUpperLeg',
-                'l_upleg_jnt': 'leftUpperLeg',
+                        // 왼쪽 다리
+                        'l_upleg': 'leftUpperLeg',
+                        'leftupleg': 'leftUpperLeg',
+                        'l_upleg_jnt': 'leftUpperLeg',
 
-                'l_leg': 'leftLowerLeg',
-                'leftleg': 'leftLowerLeg',
-                'l_leg_jnt': 'leftLowerLeg',
+                        'l_leg': 'leftLowerLeg',
+                        'leftleg': 'leftLowerLeg',
+                        'l_leg_jnt': 'leftLowerLeg',
 
-                'l_foot': 'leftFoot',
-                'leftfoot': 'leftFoot',
-                'l_foot_jnt': 'leftFoot',
+                        'l_foot': 'leftFoot',
+                        'leftfoot': 'leftFoot',
+                        'l_foot_jnt': 'leftFoot',
 
-                'l_toebase': 'leftToes',
-                'l_toebase_jnt': 'leftToes',
+                        'l_toebase': 'leftToes',
+                        'l_toebase_jnt': 'leftToes',
 
-                // ───── 오른쪽 다리 (r_upleg_JNT …) ─────
-                'r_upleg': 'rightUpperLeg',
-                'rightupleg': 'rightUpperLeg',
-                'r_upleg_jnt': 'rightUpperLeg',
+                        // 오른쪽 다리
+                        'r_upleg': 'rightUpperLeg',
+                        'rightupleg': 'rightUpperLeg',
+                        'r_upleg_jnt': 'rightUpperLeg',
 
-                'r_leg': 'rightLowerLeg',
-                'rightleg': 'rightLowerLeg',
-                'r_leg_jnt': 'rightLowerLeg',
+                        'r_leg': 'rightLowerLeg',
+                        'rightleg': 'rightLowerLeg',
+                        'r_leg_jnt': 'rightLowerLeg',
 
-                'r_foot': 'rightFoot',
-                'rightfoot': 'rightFoot',
-                'r_foot_jnt': 'rightFoot',
+                        'r_foot': 'rightFoot',
+                        'rightfoot': 'rightFoot',
+                        'r_foot_jnt': 'rightFoot',
 
-                'r_toebase': 'rightToes',
-                'r_toebase_jnt': 'rightToes',
+                        'r_toebase': 'rightToes',
+                        'r_toebase_jnt': 'rightToes',
 
-                // ───── 왼쪽 팔 (l_shoulder_JNT → l_arm_JNT → l_forearm_JNT → l_hand_JNT) ─────
-                'l_shoulder': 'leftShoulder',
-                'leftshoulder': 'leftShoulder',
-                'l_shoulder_jnt': 'leftShoulder',
+                        // 왼쪽 팔
+                        'l_shoulder': 'leftShoulder',
+                        'leftshoulder': 'leftShoulder',
+                        'l_shoulder_jnt': 'leftShoulder',
 
-                'l_arm': 'leftUpperArm',
-                'leftarm': 'leftUpperArm',
-                'l_arm_jnt': 'leftUpperArm',
+                        'l_arm': 'leftUpperArm',
+                        'leftarm': 'leftUpperArm',
+                        'l_arm_jnt': 'leftUpperArm',
 
-                'l_forearm': 'leftLowerArm',
-                'leftforearm': 'leftLowerArm',
-                'l_forearm_jnt': 'leftLowerArm',
+                        'l_forearm': 'leftLowerArm',
+                        'leftforearm': 'leftLowerArm',
+                        'l_forearm_jnt': 'leftLowerArm',
 
-                'l_hand': 'leftHand',
-                'lefthand': 'leftHand',
-                'l_hand_jnt': 'leftHand',
+                        'l_hand': 'leftHand',
+                        'lefthand': 'leftHand',
+                        'l_hand_jnt': 'leftHand',
 
-                // ───── 오른쪽 팔 (r_shoulder_JNT → r_arm_JNT → r_forearm_JNT → r_hand_JNT) ─────
-                'r_shoulder': 'rightShoulder',
-                'rightshoulder': 'rightShoulder',
-                'r_shoulder_jnt': 'rightShoulder',
+                        // 오른쪽 팔
+                        'r_shoulder': 'rightShoulder',
+                        'rightshoulder': 'rightShoulder',
+                        'r_shoulder_jnt': 'rightShoulder',
 
-                'r_arm': 'rightUpperArm',
-                'rightarm': 'rightUpperArm',
-                'r_arm_jnt': 'rightUpperArm',
+                        'r_arm': 'rightUpperArm',
+                        'rightarm': 'rightUpperArm',
+                        'r_arm_jnt': 'rightUpperArm',
 
-                'r_forearm': 'rightLowerArm',
-                'rightforearm': 'rightLowerArm',
-                'r_forearm_jnt': 'rightLowerArm',
+                        'r_forearm': 'rightLowerArm',
+                        'rightforearm': 'rightLowerArm',
+                        'r_forearm_jnt': 'rightLowerArm',
 
-                'r_hand': 'rightHand',
-                'righthand': 'rightHand',
-                'r_hand_jnt': 'rightHand',
+                        'r_hand': 'rightHand',
+                        'righthand': 'rightHand',
+                        'r_hand_jnt': 'rightHand',
 
-                // ───── 왼손 손가락 (캡쳐: l_handIndex1_JNT … l_handThumb3_JNT) ─────
-                'l_handindex1_jnt': 'leftIndexProximal',
-                'l_handindex2_jnt': 'leftIndexIntermediate',
-                'l_handindex3_jnt': 'leftIndexDistal',
+                        // 왼손 손가락
+                        'l_handindex1_jnt': 'leftIndexProximal',
+                        'l_handindex2_jnt': 'leftIndexIntermediate',
+                        'l_handindex3_jnt': 'leftIndexDistal',
 
-                'l_handmiddle1_jnt': 'leftMiddleProximal',
-                'l_handmiddle2_jnt': 'leftMiddleIntermediate',
-                'l_handmiddle3_jnt': 'leftMiddleDistal',
+                        'l_handmiddle1_jnt': 'leftMiddleProximal',
+                        'l_handmiddle2_jnt': 'leftMiddleIntermediate',
+                        'l_handmiddle3_jnt': 'leftMiddleDistal',
 
-                'l_handpinky1_jnt': 'leftLittleProximal',       // VRM에서는 Little로 표기
-                'l_handpinky2_jnt': 'leftLittleIntermediate',
-                'l_handpinky3_jnt': 'leftLittleDistal',
+                        'l_handpinky1_jnt': 'leftLittleProximal',
+                        'l_handpinky2_jnt': 'leftLittleIntermediate',
+                        'l_handpinky3_jnt': 'leftLittleDistal',
 
-                'l_handring1_jnt': 'leftRingProximal',
-                'l_handring2_jnt': 'leftRingIntermediate',
-                'l_handring3_jnt': 'leftRingDistal',
+                        'l_handring1_jnt': 'leftRingProximal',
+                        'l_handring2_jnt': 'leftRingIntermediate',
+                        'l_handring3_jnt': 'leftRingDistal',
 
-                'l_handthumb1_jnt': 'leftThumbProximal',
-                'l_handthumb2_jnt': 'leftThumbIntermediate',
-                'l_handthumb3_jnt': 'leftThumbDistal',
+                        'l_handthumb1_jnt': 'leftThumbProximal',
+                        'l_handthumb2_jnt': 'leftThumbIntermediate',
+                        'l_handthumb3_jnt': 'leftThumbDistal',
 
-                // ───── 오른손 손가락 (r_handIndex1_JNT … r_handThumb3_JNT) ─────
-                'r_handindex1_jnt': 'rightIndexProximal',
-                'r_handindex2_jnt': 'rightIndexIntermediate',
-                'r_handindex3_jnt': 'rightIndexDistal',
+                        // 오른손 손가락
+                        'r_handindex1_jnt': 'rightIndexProximal',
+                        'r_handindex2_jnt': 'rightIndexIntermediate',
+                        'r_handindex3_jnt': 'rightIndexDistal',
 
-                'r_handmiddle1_jnt': 'rightMiddleProximal',
-                'r_handmiddle2_jnt': 'rightMiddleIntermediate',
-                'r_handmiddle3_jnt': 'rightMiddleDistal',
+                        'r_handmiddle1_jnt': 'rightMiddleProximal',
+                        'r_handmiddle2_jnt': 'rightMiddleIntermediate',
+                        'r_handmiddle3_jnt': 'rightMiddleDistal',
 
-                'r_handpinky1_jnt': 'rightLittleProximal',
-                'r_handpinky2_jnt': 'rightLittleIntermediate',
-                'r_handpinky3_jnt': 'rightLittleDistal',
+                        'r_handpinky1_jnt': 'rightLittleProximal',
+                        'r_handpinky2_jnt': 'rightLittleIntermediate',
+                        'r_handpinky3_jnt': 'rightLittleDistal',
 
-                'r_handring1_jnt': 'rightRingProximal',
-                'r_handring2_jnt': 'rightRingIntermediate',
-                'r_handring3_jnt': 'rightRingDistal',
+                        'r_handring1_jnt': 'rightRingProximal',
+                        'r_handring2_jnt': 'rightRingIntermediate',
+                        'r_handring3_jnt': 'rightRingDistal',
 
-                'r_handthumb1_jnt': 'rightThumbProximal',
-                'r_handthumb2_jnt': 'rightThumbIntermediate',
-                'r_handthumb3_jnt': 'rightThumbDistal',
-            };
+                        'r_handthumb1_jnt': 'rightThumbProximal',
+                        'r_handthumb2_jnt': 'rightThumbIntermediate',
+                        'r_handthumb3_jnt': 'rightThumbDistal',
+                    };
 
-            animationClip.tracks.forEach((track) => {
-                const trackSplits = track.name.split('.');
-                const propertyName = trackSplits.pop();  // position / quaternion / scale
-                const bonePath = trackSplits.join('.');
+                    animationClip.tracks.forEach((track) => {
+                        const trackSplits = track.name.split('.');
+                        const propertyName = trackSplits.pop();  // position / quaternion / scale
+                        const bonePath = trackSplits.join('.');
 
-                // ★ 1) 경로에서 실제 본 이름만 추출
-                //   예: "skeleton0/hips_JNT" → "hips_JNT"
-                let boneNameClean = bonePath.toLowerCase();
-                if (boneNameClean.includes('/')) {
-                    boneNameClean = boneNameClean.split('/').pop();
-                }
-                if (boneNameClean.includes(':')) {
-                    boneNameClean = boneNameClean.split(':').pop();
-                }
+                        let boneNameClean = bonePath.toLowerCase();
+                        if (boneNameClean.includes('/')) {
+                            boneNameClean = boneNameClean.split('/').pop();
+                        }
+                        if (boneNameClean.includes(':')) {
+                            boneNameClean = boneNameClean.split(':').pop();
+                        }
 
-                // ★ 2) Hips 이외의 position 트랙은 버려서 찢어짐 방지
-                const mappedBone = boneNameMap[boneNameClean];
-                if (propertyName === 'position' && mappedBone !== 'hips') {
-                    return;
-                }
+                        const mappedBone = boneNameMap[boneNameClean];
 
-                // ★ 3) VRM 본 이름으로 매핑
-                const vrmBoneName = boneNameMap[boneNameClean];
-                if (!vrmBoneName) return;
+                        // Hips 이외의 position 트랙은 제거
+                        if (propertyName === 'position' && mappedBone !== 'hips') {
+                            return;
+                        }
 
-                const vrmNode = vrmModel.humanoid.getNormalizedBoneNode(vrmBoneName);
-                if (!vrmNode) return; // 해당 본이 VRM에 없으면 스킵
+                        const vrmBoneName = mappedBone;
+                        if (!vrmBoneName) return;
 
-                const newTrack = track.clone();
-                newTrack.name = `${vrmNode.name}.${propertyName}`;
-                tracks.push(newTrack);
-            });
+                        const vrmNode = vrmModel.humanoid.getNormalizedBoneNode(vrmBoneName);
+                        if (!vrmNode) return;
 
-            if (tracks.length > 0) {
-                const newClip = new THREE.AnimationClip('vrmAnimation', animationClip.duration, tracks);
-                mixer = new THREE.AnimationMixer(vrmModel.scene);
-                const action = mixer.clipAction(newClip);
-                action.play();
-                console.log(`애니메이션 적용 성공: ${tracks.length}개 트랙 리타겟팅됨`);
-            } else {
-                console.warn("애니메이션 트랙을 매핑하지 못했습니다. GLB 뼈대 이름을 확인하세요.");
-            }
-        },
-        undefined,
-        (err) => console.error("애니메이션 로드 실패:", err)
-    );
-}
+                        const newTrack = track.clone();
+                        newTrack.name = `${vrmNode.name}.${propertyName}`;
+                        tracks.push(newTrack);
+                    });
+
+                    if (tracks.length > 0) {
+                        const newClip = new THREE.AnimationClip('vrmAnimation', animationClip.duration, tracks);
+                        mixer = new THREE.AnimationMixer(vrmModel.scene);
+                        const action = mixer.clipAction(newClip);
+                        action.play();
+                        console.log(`애니메이션 적용 성공: ${tracks.length}개 트랙 리타겟팅됨`);
+                    } else {
+                        console.warn("애니메이션 트랙을 매핑하지 못했습니다. GLB 뼈대 이름을 확인하세요.");
+                    }
+                },
+                undefined,
+                (err) => console.error("애니메이션 로드 실패:", err)
+            );
+        }
 
     </script>
 </body>
